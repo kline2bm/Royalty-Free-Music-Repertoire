@@ -95,7 +95,6 @@ class MusicInfo {
       if(MusicInfo.has(INST)) return MusicInfo.get(INST);
       throw new Error("Invalid instrument code " + INST);
     });
-    MusicInfo.add(this);
-  }
+  }/
 }
 // Title\sArtist\eINST
