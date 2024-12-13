@@ -95,6 +95,19 @@ class MusicInfo {
       if(MusicInfo.has(INST)) return MusicInfo.get(INST);
       throw new Error("Invalid instrument code " + INST);
     });
-  }/
+    Object.freeze(Object.freeze(this).instruments);
+  }
+
+  /**
+   * TODO: JSDoc
+   */
+  static makeNew(rawString, addToMap = true) {
+    let shortString = rawString.substring(0, rawString.indexOf("\\") + 2);
+    if(addToMap && MusicInfo.#ALL.has(shortString))
+      throw new Error("Map already has " + shortString);
+    let newObject = new MusicInfo(MusicInfo.#KEY, rawString);
+    if(addToMap) MusicInfo.#ALL.set(shortString, newObject);
+    return newObject;
+  }
 }
 // Title\sArtist\eINST
