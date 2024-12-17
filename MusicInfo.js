@@ -130,7 +130,7 @@ class MusicInfo {
 
   /**
    * Remove a MusicInfo object from the map
-   * @param shortString {string} Title\s
+   * @param shortString {string} Title\s (see the makeNew method)
    * @return {boolean} true if the MusicInfo object was in the map
    */
   static delete(shortString) {
