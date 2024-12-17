@@ -99,7 +99,7 @@ class MusicInfo {
   }
 
   /**
-   * Make a new MusicInfo object, optinally putting it in the internal map
+   * Make a new MusicInfo object, optionally putting it in the internal map
    * @param rawString {string} Title\sArtist\eINST
    * Title: the title of the piece
    * s: the src code of the piece (see the getSrc method)
