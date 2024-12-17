@@ -99,7 +99,15 @@ class MusicInfo {
   }
 
   /**
-   * TODO: JSDoc
+   * Make a new MusicInfo object, optinally putting it in the internal map
+   * @param rawString {string} Title\sArtist\eINST
+   * Title: the title of the piece
+   * s: the src code of the piece (see the getSrc method)
+   * Artist: the artist/composer of the piece
+   * e: the first letter of the emotion (angry, calm, fearful, happy, neutral, romantic, sad)
+   * INST: the space-separated list of instrument codes in the piece (see the ISNTS property)
+   * @param addToMap {boolean} if true: Title\s cannot already be in the map, and this object will be added
+   * @return {MusicInfo} the newly-created MusicInfo object
    */
   static makeNew(rawString, addToMap = true) {
     let shortString = rawString.substring(0, rawString.indexOf("\\") + 2);
@@ -109,5 +117,23 @@ class MusicInfo {
     if(addToMap) MusicInfo.#ALL.set(shortString, newObject);
     return newObject;
   }
+
+  /**
+   * Get a MusicInfo object already in the map
+   * @param shortString {string} Title\s (see the makeNew method)
+   * @return {MusicInfo} the MusicInfo object in the map
+   */
+  static retrieve(shortString) {
+    if(MusicInfo.#ALL.has(shortString)) return MusicInfo.#ALL.get(shortString);
+    throw new Error("Map does not have " + shortString);
+  }
+
+  /**
+   * Remove a MusicInfo object from the map
+   * @param shortString {string} Title\s
+   * @return {boolean} true if the MusicInfo object was in the map
+   */
+  static delete(shortString) {
+    return MusicInfo.#ALL.delete(shortString);
+  }
 }
-// Title\sArtist\eINST
