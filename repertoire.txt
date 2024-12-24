@@ -1,19 +1,19 @@
-Accralate\iKevin MacLeod\eINST
-Adding the Sun\iKevin MacLeod\eINST
-Artifact\iKevin MacLeod\eINST
-At The Shore\iKevin MacLeod\eINST
-Bumba Crossing\iKevin MacLeod\eINST
+Accralate\iKevin MacLeod\cAPRC MRBA
+Adding the Sun\iKevin MacLeod\rAPRC BASS EPRC VOCL
+Artifact\iKevin MacLeod\nAGTR APRC KLBA MRBA VOCL
+At The Shore\iKevin MacLeod\cAPRC BASS HORN VOCL
+Bumba Crossing\iKevin MacLeod\cAPRC BASS FLUT MRBA VOCL
 Creepy Churchyard\bBryce Kline & Pixabay\fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
-Digya\iKevin MacLeod\eINST
-Dubakupado\iKevin MacLeod\eINST
-Energizing\iKevin MacLeod\eINST
-Infados\iKevin MacLeod\eINST
-Kumasi Groove\iKevin MacLeod\eINST
-Kumasi Groove Flugelhorn\iKevin MacLeod\eINST
-Monkoto\iKevin MacLeod\eINST
-Night Cave\iKevin MacLeod\eINST
-Slow Heat\iKevin MacLeod\eINST
-Tafi Maradi\iKevin MacLeod\eINST
-Tafi Maradi no voice\iKevin MacLeod\eINST
-Trouble with Tribals\iKevin MacLeod\eINST
-Whimsy Groove\iKevin MacLeod\eINST
+Digya\iKevin MacLeod\nAPRC BASS ENST MRBA
+Dubakupado\iKevin MacLeod\nAPRC MRBA
+Energizing\iKevin MacLeod\cAPRC SYNZ
+Infados\iKevin MacLeod\fAPRC KLBA MRBA STRS
+Kumasi Groove\iKevin MacLeod\nAPRC MRBA
+Kumasi Groove Flugelhorn\iKevin MacLeod\nAPRC MRBA TRPT
+Monkoto\iKevin MacLeod\nAPRC CLNT MRBA
+Night Cave\iKevin MacLeod\cAPRC KLBA MRBA
+Slow Heat\iKevin MacLeod\cAPRC MRBA
+Tafi Maradi\iKevin MacLeod\hAPRC VOCL
+Tafi Maradi no voice\iKevin MacLeod\hAPRC
+Trouble with Tribals\iKevin MacLeod\aAPRC SYNZ VOCL
+Whimsy Groove\iKevin MacLeod\hAPRC MRBA
