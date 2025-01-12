@@ -27,7 +27,7 @@ class MusicInfo {
   static #KEY = Symbol();
 
   // {Map<string, string>} instrument abbreviation -> full name
-  static INSTS = new Object.freeze(new Map([
+  static INSTS = Object.freeze(new Map([
     ["ACDN", "Accordion/Harmonium"],    ["AGTR", "Acoustic Guitar"],
     ["APNO", "Acoustic Piano"],         ["APRC", "Acoustic Percussion"],
     ["BAGP", "Bagpipes/Uillean"],       ["BASN", "Bassoon"],
