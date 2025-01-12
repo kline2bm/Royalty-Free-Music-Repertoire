@@ -81,6 +81,7 @@ class MusicInfo {
    * This should only be called when a new piece of music needs info.
    */
   constructor(key, rawString) {
+    console.debug(rawString);
     if(key != MusicInfo.#KEY) throw new Error("MusicInfo objects must be constructed internally.");
     this.raw = rawString;
     const SPLIT = rawString.split("\\");
