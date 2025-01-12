@@ -120,7 +120,6 @@ class MusicInfo {
     if(addToMap && MusicInfo.#ALL.has(shortString))
       throw new Error("Map already has " + shortString);
     let newObject = new MusicInfo(MusicInfo.#KEY, rawString);
-    console.debug(MusicInfo.#ALL);
     if(addToMap) MusicInfo.#ALL.set(shortString, newObject);
     return newObject;
   }
