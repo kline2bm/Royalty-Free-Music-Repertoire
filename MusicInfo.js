@@ -98,7 +98,7 @@ class MusicInfo {
       default: throw new Error("Invalid emtion code in " + rawString);
     }
     this.instruments = SPLIT[2].substring(1).split(" ").map(INST => {
-      if(MusicInfo.has(INST)) return MusicInfo.get(INST);
+      if(INSTS.has(INST)) return INSTS.get(INST);
       throw new Error("Invalid instrument code " + INST);
     });
     Object.freeze(Object.freeze(this).instruments);
