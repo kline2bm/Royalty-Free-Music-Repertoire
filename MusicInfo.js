@@ -20,8 +20,8 @@ class MusicInfo {
   // {string[]} an array of instruments in a piece (e.g. ["Acoustic Percussion", "Marimba"])
   instruments;
 
-  // {Set<MusicInfo>} a set of all created MusicInfo objects
-  static #ALL = new Set();
+  // {Map<string, MusicInfo>} a set of all created MusicInfo objects
+  static #ALL = new Map();
 
   // {symbol} only permit private construction to prevent duplicates
   static #KEY = Symbol();
