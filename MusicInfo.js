@@ -57,8 +57,13 @@ class MusicInfo {
 
   /**
    * Given a title and a src code, this returns the URL of the music.
+   * b = Bryce Kline's CC: By music (not yet implemented)
+   * f = FreePD (not yet implemented)
    * i = Incompetech
-   * (more to come)
+   * s = Silverman Sound Studios (not yet implemented)
+   * u = URL for another website (not yet implemented)
+   * w = Wayback Machine for FreePD Page 2 (not yet implemented)
+   * y = Bryce Kline's CC: Zero music (not yet implemented)
    * @param title {string} the title (file name without extension)
    * @param s {"i"} the src code
    * @return {string} the URL of the music
