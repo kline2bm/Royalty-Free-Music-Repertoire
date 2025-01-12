@@ -2,7 +2,7 @@ console.group("Testing MusicInfo.makeNew");
 let ACCR = MusicInfo.makeNew("Accralate\\iKevin MacLeod\\cAPRC MRBA");
 try {
   MusicInfo.makeNew("Accralate\\iKevin MacLeod\\cAPRC");
-  console.error("duplicate MusicInfo in map")
+  console.error("duplicate MusicInfo in map");
 } catch(e) {
   console.assert(e.message.includes("Map already has"));
 }
@@ -11,7 +11,7 @@ console.log("ACCR", ACCR); console.log("ABC", ABC); console.log("XYZ", XYZ);
 console.groupEnd();
 
 console.group("Testing MusicInfo.retrieve");
-console.log("ACCR-retrieved", MusicInfo.retrieve("Accralate\\i");
+console.log("ACCR-retrieved", MusicInfo.retrieve("Accralate\\i"));
 try {
   console.error(MusicInfo.retrieve("Does not exist\\i"));
 } finally {
