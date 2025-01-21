@@ -1,30 +1,73 @@
 Accralate\iKevin MacLeod\cAPRC MRBA
 Adding the Sun\iKevin MacLeod\rAPRC BASS EPRC VOCL
+Agnus Dei X\iKevin MacLeod & Samuel Barber\sPORG VOCL
+Amazing Grace 2011\iKevin MacLeod & John Newton\cAPNO CLNT PORG
+Aquarium\iKevin MacLeod & Camille Saint-Saëns\rAPNO FLUT GLCK STRS
 Artifact\iKevin MacLeod\nAGTR APRC KLBA MRBA VOCL
 At The Shore\iKevin MacLeod\cAPRC BASS HORN VOCL
+Blue Feather\iKevin MacLeod\sAPNO
+Brandenburg No4-1 BWV1049\iKevin MacLeod & Johann S. Bach\rFLUT HPCH STRS
 Bumba Crossing\iKevin MacLeod\cAPRC BASS FLUT MRBA VOCL
+Canon In D For 8 Bit Synths\iKevin MacLeod & Johann Pachelbel\hSYNZ
+Canon In D Interstellar Mix\iKevin MacLeod & Johann Pachelbel\hEPRC SYNZ
+Canon in D Major\iKevin MacLeod & Johann Pachelbel\rHARP STRS
+Canon in D for Autoharp\iKevin MacLeod & Johann Pachelbel\rDULC
+Canon in D for Two Harps\iKevin MacLeod & Johann Pachelbel\rHARP
+Canon in D for Two Renaissance Harps\iKevin MacLeod & Johann Pachelbel\rHARP
+Cello Suite 1 in G - Prelude\iKevin MacLeod & Johann S. Bach\nDULC
+Consort for Brass\iKevin MacLeod\rHORN TRBN TRPT TUBA
 Creepy Churchyard\bBryce Kline & Pixabay\fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 DD Groove\iKevin MacLeod\sAGTR APRC BASS JORG
+Danse Macabre\iKevin MacLeod & Camille Saint-Saëns\fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
+Danse Macabre Isolated Harp\iKevin MacLeod & Camille Saint-Saëns\rHARP
+Danse Macabre No Violin\iKevin MacLeod & Camille Saint-Saëns\fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Digya\iKevin MacLeod\nAPRC BASS ENST MRBA
 Dirt Rhodes\iKevin MacLeod\cEPNO EPRC
+Divertimento K131\iKevin MacLeod & Wolfgang A. Mozart\hBELL CLST HARP
 Dubakupado\iKevin MacLeod\nAPRC MRBA
+Egmont Overture\iKevin MacLeod & MusOpen & Ludwig van Beethoven\nBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
+Egmont Overture Finale\iKevin MacLeod & MusOpen & Ludwig van Beethoven\hBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Energizing\iKevin MacLeod\cAPRC SYNZ
+Funeral March for Brass\iKevin MacLeod\sAPRC TRBN TRPT
+Fox Tale Waltz Part 1 Instrumental\iKevin MacLeod\hAPRC FLUT PIZZ STRS
+Ghost Dance\iKevin MacLeod\fAPNO APRC FLUT HORN STRS
+Gymnopedie No 1\iKevin MacLeod & Erik Satie\sAPNO
+Gymnopedie No 2\iKevin MacLeod & Erik Satie\sAPNO
+Gymnopedie No 3\iKevin MacLeod & Erik Satie\sAPNO
+Hall of the Mountain King\iKevin MacLeod & MusOpen & Edvard Grieg\aAPRC BASN CLNT FLUT HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 Happy Happy Game Show\iKevin MacLeod\hAPNO APRC BASS JORG TRPT
 Hustle\iKevin MacLeod\hAGTR APRC BASS JORG
 Infados\iKevin MacLeod\fAPRC KLBA MRBA STRS
 Joey's Formal Waltz - Unscented\iKevin MacLeod\rAPRC BASS EGTR EPNO
 Kumasi Groove\iKevin MacLeod\nAPRC MRBA
 Kumasi Groove Flugelhorn\iKevin MacLeod\nAPRC MRBA TRPT
+Lift Motif\iKevin MacLeod\rAPNO
 Matts Blues\iKevin MacLeod\hAPRC BASS EGTR HMCA JORG
+Minstrel Guild\iKevin MacLeod\hAPRC BAGP OBOE STRS WHSL
 Monkoto\iKevin MacLeod\nAPRC CLNT MRBA
+Mourning Song\iKevin MacLeod\sOBOE STRS
 Niles Blues\iKevin MacLeod\rAPRC BASS EGTR JORG
 Night Cave\iKevin MacLeod\cAPRC KLBA MRBA
 OctoBlues\iKevin MacLeod & Brett Van Donsel\rAPRC BASS EGTR JORG
+Prelude in C - BWV 846\iKevin MacLeod & Johann S. Bach\rAPNO
 Porch Blues\iKevin MacLeod\cAGTR APNO HMCA
+Ranz des Vaches\iKevin MacLeod & Gioachino Rossini\cBASN FLUT OBOE PIZZ
+Relent\iKevin MacLeod\sCLNT HARP
+Sheep May Safely Graze - BWV 208\iKevin MacLeod & Johann S. Bach\rCLST HARP MRBA VIBE
 Slow Burn\iKevin MacLeod\hAPRC BASS EGTR JORG
 Slow Heat\iKevin MacLeod\cAPRC MRBA
+Song of the Volga Boatmen\iKevin MacLeod & Traditional\sHORN TRBN TRPT TUBA
+String Impromptu Number 1\iKevin MacLeod\cSTRS
 Tafi Maradi\iKevin MacLeod\hAPRC VOCL
 Tafi Maradi no voice\iKevin MacLeod\hAPRC
+Thaxted\iKevin MacLeod & Gustav Holst\rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
+The Rule\iKevin MacLeod\hBELL HORN TIMP TRBN TRPT TUBA
+Tiny Fugue\iKevin MacLeod\nPORG
+Trio for Piano Violin and Viola\sAPNO STRS
 Trouble with Tribals\iKevin MacLeod\aAPRC SYNZ VOCL
+Valse Gymnopedie\iKevin MacLeod & Erik Satie\rAPNO APRC
+Virtutes Instrumenti\iKevin MacLeod\sSTRS
+Virtutes Vocis\iKevin MacLeod\sVOCL
+Waltz - Tschikovsky Op. 40\iKevin MacLeod & Pyotr I. Tchaikovsky\sAPNO
 Whimsy Groove\iKevin MacLeod\hAPRC MRBA
 Whiskey on the Mississippi\iKevin MacLeod\hAPRC BASS EGTR EPNO JORG
