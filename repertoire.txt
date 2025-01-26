@@ -2,13 +2,16 @@ Accralate\iKevin MacLeod\cAPRC MRBA
 Adding the Sun\iKevin MacLeod\rAPRC BASS EPRC VOCL
 Agnus Dei X\iKevin MacLeod & Samuel Barber\sPORG VOCL
 Amazing Grace 2011\iKevin MacLeod & John Newton\cAPNO CLNT PORG
+Anamalie\iKevin MacLeod\sAGTR APNO APRC BASS CLNT OBOE
 Aquarium\iKevin MacLeod & Camille Saint-Saëns\rAPNO FLUT GLCK STRS
+Aretes\iKevin MacLeod\rAPNO SYNZ VOCL
 Artifact\iKevin MacLeod\nAGTR APRC KLBA MRBA VOCL
 At The Shore\iKevin MacLeod\cAPRC BASS HORN VOCL
 Autumn Day\iKevin MacLeod\rAGTR APNO APRC BASS STRS VOCL
 Bathed in the Light\iKevin MacLeod\cSYNZ
 Bicycle\iKevin MacLeod\nBASS
 Blue Feather\iKevin MacLeod\sAPNO
+Blue Paint\iKevin MacLeod\cAPNO
 Brandenburg No4-1 BWV1049\iKevin MacLeod & Johann S. Bach\rFLUT HPCH STRS
 Brittle Rille\iKevin MacLeod\rBASS MUBX STRS
 Bumba Crossing\iKevin MacLeod\cAPRC BASS FLUT MRBA VOCL
@@ -22,6 +25,8 @@ Carpe Diem\iKevin MacLeod\hAGTR APRC BASS CLNT FLUT UKLE XYLO
 // TODO: I'tech says Xylophone, but is it really XYLO?
 Cattails\iKevin MacLeod\rACDN AGTR BNJO ENST STRS
 Cello Suite 1 in G - Prelude\iKevin MacLeod & Johann S. Bach\nDULC
+Clean Soul\iKevin MacLeod\cBASS EPNO
+Comfortable Mystery\iKevin MacLeod\sEPNO
 Comin Round the Mountain\iKevin MacLeod & Traditional\hAGTR APRC BASS SYNZ
 Consort for Brass\iKevin MacLeod\rHORN TRBN TRPT TUBA
 Creepy Churchyard\bBryce Kline & Pixabay\fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
@@ -29,17 +34,26 @@ DD Groove\iKevin MacLeod\sAGTR APRC BASS JORG
 Danse Macabre\iKevin MacLeod & Camille Saint-Saëns\fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Macabre Isolated Harp\iKevin MacLeod & Camille Saint-Saëns\rHARP
 Danse Macabre No Violin\iKevin MacLeod & Camille Saint-Saëns\fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
+Danse Morialta\iKevin MacLeod\rAPNO
+Daybreak\iKevin MacLeod\cEPNO
 Digya\iKevin MacLeod\nAPRC BASS ENST MRBA
 Dirt Rhodes\iKevin MacLeod\cEPNO EPRC
 Divertimento K131\iKevin MacLeod & Wolfgang A. Mozart\hBELL CLST HARP
+Dream Culture\iKevin MacLeod\rAPNO EPRC
+Dreamer\iKevin MacLeod\cAPNO APRC
+Drone in D\iKevin MacLeod\cAPNO SYNZ
 Dubakupado\iKevin MacLeod\nAPRC MRBA
+Eastminster\iKevin MacLeod\cEFFX ENST STRS
 Easy Lemon\iKevin MacLeod\cAGTR APRC BASS CLST MRBA
 Easy Lemon 30 second\iKevin MacLeod\cAGTR BASS MRBA
 Easy Lemon 60 second\iKevin MacLeod\cAGTR APRC BASS CLST MRBA
+Ebbs and Flows\iKevin MacLeod\cAPNO SYNZ
 Egmont Overture\iKevin MacLeod & MusOpen & Ludwig van Beethoven\nBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Egmont Overture Finale\iKevin MacLeod & MusOpen & Ludwig van Beethoven\hBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Enchanted Journey\iKevin MacLeod\rHARP
+Ether Vox\iKevin MacLeod\rAPRC EGTR EPNO SYNZ VOCL
 Evening\iKevin MacLeod\cAGTR OBOE STRS
+Evening Fall - Piano\iKevin MacLeod\sAPNO
 Energizing\iKevin MacLeod\cAPRC SYNZ
 Funeral March for Brass\iKevin MacLeod\sAPRC TRBN TRPT
 For Originz\iKevin MacLeod\rAPRC STRS VOCL
@@ -51,14 +65,17 @@ Gymnopedie No 2\iKevin MacLeod & Erik Satie\sAPNO
 Gymnopedie No 3\iKevin MacLeod & Erik Satie\sAPNO
 Hall of the Mountain King\iKevin MacLeod & MusOpen & Edvard Grieg\aAPRC BASN CLNT FLUT HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 Happy Happy Game Show\iKevin MacLeod\hAPNO APRC BASS JORG TRPT
+Healing\iKevin MacLeod\cAGTR APRC FLUT STRS
 Heartwarming\iKevin MacLeod\rAPNO
 Hustle\iKevin MacLeod\hAGTR APRC BASS JORG
 Infados\iKevin MacLeod\fAPRC KLBA MRBA STRS
 Infinite Perspective\iKevin MacLeod\cAPNO FLUT HARP HORN OBOE SYNZ VOCL
+Inner Light\iKevin MacLeod\rAPRC BASS DULC GLCK VOCL
 Joey's Formal Waltz - Unscented\iKevin MacLeod\rAPRC BASS EGTR EPNO
 Kings of Tara\iKevin MacLeod\hAGTR APRC BASS BNJO FLUT
 Kumasi Groove\iKevin MacLeod\nAPRC MRBA
 Kumasi Groove Flugelhorn\iKevin MacLeod\nAPRC MRBA TRPT
+Late Night Radio\iKevin MacLeod\cBASS EPNO EPRC SYNZ
 Light Awash\iKevin MacLeod\cSYNZ
 Light Thought var 1\iKevin MacLeod\cEPNO
 Light Thought var 2\iKevin MacLeod\cEPNO
@@ -69,32 +86,47 @@ Monkoto\iKevin MacLeod\nAPRC CLNT MRBA
 Montauk Point\iKevin MacLeod\hAGTR APRC BASS
 Moon Lounge Omicron Prime\iKevin MacLeod\hAPRC EGTR EPNO JORG SYNZ
 // TODO: MLOP's percussion is acoustic? MLOP has EPNO and JORG and SYNZ?
+Moonstone\iKevin MacLeod\cAPNO
 Morning\iKevin MacLeod\cAGTR FLUT HARP
 Mourning Song\iKevin MacLeod\sOBOE STRS
+Music for Manatees\iKevin MacLeod\cAPNO EPNO STRS SYNZ
 Neon Laser Horizon\iKevin MacLeod\hEPRC SYNZ
 Niles Blues\iKevin MacLeod\rAPRC BASS EGTR JORG
 Night Cave\iKevin MacLeod\cAPRC KLBA MRBA
 Numinous Shine\iKevin MacLeod\cSYNZ
 OctoBlues\iKevin MacLeod & Brett Van Donsel\rAPRC BASS EGTR JORG
+Over Under\iKevin MacLeod\cBASS
+Peace of Mind\iKevin MacLeod\cAPNO STRS SYNZ
+Perspectives\iKevin MacLeod\cAGTR APNO APRC FLUT GLCK STRS SYNZ
+Pleasant Porridge\iKevin MacLeod\cAPRC BASS EGTR EPNO
 Prelude in C - BWV 846\iKevin MacLeod & Johann S. Bach\rAPNO
 Porch Blues\iKevin MacLeod\cAGTR APNO HMCA
 Porch Swing Days - faster\iKevin MacLeod\rAGTR APRC BASS VOCL
 Porch Swing Days - slower\iKevin MacLeod\rAGTR APRC BASS VOCL
 Ranz des Vaches\iKevin MacLeod & Gioachino Rossini\cBASN FLUT OBOE PIZZ
+Relaxing Piano Music\iKevin MacLeod\cAPNO SYNZ
 Relent\iKevin MacLeod\sCLNT HARP
 Reunited\iKevin MacLeod\rAPNO APRC STRS
+Revival\iKevin MacLeod\cAPRC BASS EGTR EPNO VOCL
 Sheep May Safely Graze - BWV 208\iKevin MacLeod & Johann S. Bach\rCLST HARP MRBA VIBE
 Silver Blue Light\iKevin MacLeod\cAGTR SYNZ
 Slow Burn\iKevin MacLeod\hAPRC BASS EGTR JORG
 Slow Heat\iKevin MacLeod\cAPRC MRBA
+Smoother Move\iKevin MacLeod\sAPNO
+Snowdrop\iKevin MacLeod\sAPNO
+Soaring\iKevin MacLeod\cSYNZ
 Son Of A Rocket\iKevin MacLeod\hEPRC SYNZ
 // TODO: Son Of A Rocket's percussion is electronic?
 Song of the Volga Boatmen\iKevin MacLeod & Traditional\sHORN TRBN TRPT TUBA
 Space 1990\iKevin MacLeod\cAPRC BELL SYNZ
 Space 1990-B\iKevin MacLeod\cAPRC BELL SYNZ
+Starting Out Waltz Allegretto\iKevin MacLeod\rAPNO APRC BASS
+Starting Out Waltz Vivace\iKevin MacLeod\rAPNO APRC BASS
 String Impromptu Number 1\iKevin MacLeod\cSTRS
+Summer Day\iKevin MacLeod\cAGTR APRC BASS EPNO
 Super Power Cool Dude\iKevin MacLeod\hAPRC SYNZ
 // TODO: Super Power Cool Dude has BELL?
+Swimmey Texture\iKevin MacLeod\cAPNO SYNZ
 Tafi Maradi\iKevin MacLeod\hAPRC VOCL
 Tafi Maradi no voice\iKevin MacLeod\hAPRC
 Thaxted\iKevin MacLeod & Gustav Holst\rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
@@ -108,6 +140,10 @@ Virtutes Instrumenti\iKevin MacLeod\sSTRS
 Virtutes Vocis\iKevin MacLeod\sVOCL
 Wallpaper\iKevin MacLeod\hAGTR APRC SYNZ
 Waltz - Tschikovsky Op. 40\iKevin MacLeod & Pyotr I. Tchaikovsky\sAPNO
+Wet Riffs\iKevin MacLeod\cBASS
 Whimsy Groove\iKevin MacLeod\hAPRC MRBA
 Whiskey on the Mississippi\iKevin MacLeod\hAPRC BASS EGTR EPNO JORG
+White\iKevin MacLeod\rAPNO
+White Lotus\iKevin MacLeod\cAPNO DULC STDR SYNZ
+Windswept\iKevin MacLeod\rAGTR STRS
 Winter Chimes\iKevin MacLeod\rAPNO
