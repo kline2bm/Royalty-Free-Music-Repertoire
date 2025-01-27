@@ -36,7 +36,7 @@ class MusicInfo {
     ["CLST", "Celesta"],                ["DGOO", "Didgeridoo"],
     ["DULC", "Dulcimer/Zither"],        ["EFFX", "Sound Effects"],
     ["EGTR", "Electric Guitar"],        ["ENST", "Ethnic Strings"],
-    ["ENWD", "Ethnic Winds"],           ["EPNO", "Electric Piano"],
+    ["ENWD", "Ethnic Winds"],           ["EPNO", "Electric Piano/Mellotron"],
     ["EPRC", "Electric Percussion"],    ["FLUT", "Flute/Piccolo"],
     ["GLCK", "Glockenspiel"],           ["HARP", "Harp"],
     ["HMCA", "Harmonica"],              ["HORN", "French Horn/Misc. Horn"],
