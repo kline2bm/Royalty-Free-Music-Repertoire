@@ -8,6 +8,7 @@ Aretes\iKevin MacLeod\rAPNO SYNZ VOCL
 Artifact\iKevin MacLeod\nAGTR APRC KLBA MRBA VOCL
 At The Shore\iKevin MacLeod\cAPRC BASS HORN VOCL
 Autumn Day\iKevin MacLeod\rAGTR APNO APRC BASS STRS VOCL
+// TODO: hear Avec Soin to determine preference of inclusion
 Bathed in the Light\iKevin MacLeod\cSYNZ
 Bicycle\iKevin MacLeod\nBASS
 Blue Feather\iKevin MacLeod\sAPNO
@@ -35,6 +36,7 @@ Danse Macabre Isolated Harp\iKevin MacLeod & Camille Saint-Saëns\rHARP
 Danse Macabre No Violin\iKevin MacLeod & Camille Saint-Saëns\fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Morialta\iKevin MacLeod\rAPNO
 Daybreak\iKevin MacLeod\cEPNO
+Daytime TV Theme\iKevin MacLeod\cAPNO SAXO STRS
 Devastation and Revenge\iKevin MacLeod\fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
 Digya\iKevin MacLeod\nAPRC BASS ENST MRBA
 Dirt Rhodes\iKevin MacLeod\cEPNO EPRC
@@ -78,6 +80,7 @@ Kings of Tara\iKevin MacLeod\hAGTR APRC BASS BNJO FLUT
 Kumasi Groove\iKevin MacLeod\nAPRC MRBA
 Kumasi Groove Flugelhorn\iKevin MacLeod\nAPRC MRBA TRPT
 Late Night Radio\iKevin MacLeod\cBASS EPNO EPRC SYNZ
+Leopard Print Elevator\iKevin MacLeod\rAPRC BASS SYNZ
 Light Awash\iKevin MacLeod\cSYNZ
 Light Thought var 1\iKevin MacLeod\cEPNO
 Light Thought var 2\iKevin MacLeod\cEPNO
@@ -86,6 +89,7 @@ March of the Mind\iKevin MacLeod\sAPNO
 Matts Blues\iKevin MacLeod\hAPRC BASS EGTR HMCA JORG
 Midday Dance\iKevin MacLeod\hAPNO
 Minstrel Guild\iKevin MacLeod\hAPRC BAGP OBOE STRS WHSL
+Modern Vibes\iKevin MacLeod\nVIBE
 Monkoto\iKevin MacLeod\nAPRC CLNT MRBA
 Montauk Point\iKevin MacLeod\hAGTR APRC BASS
 Moon Lounge Omicron Prime\iKevin MacLeod\hEGTR EPNO EPRC SYNZ
@@ -98,6 +102,9 @@ Niles Blues\iKevin MacLeod\rAPRC BASS EGTR JORG
 Night Cave\iKevin MacLeod\cAPRC KLBA MRBA
 Numinous Shine\iKevin MacLeod\cSYNZ
 OctoBlues\iKevin MacLeod & Brett Van Donsel\rAPRC BASS EGTR JORG
+Organic Meditations One\iKevin MacLeod\cAPRC BELL STRS
+Organic Meditations Three\iKevin MacLeod\cAPNO STRS
+Organic Meditations Two\iKevin MacLeod\cHORN MRBA TUBA
 Over Under\iKevin MacLeod\cBASS
 Overture\iKevin MacLeod\sAPNO
 Peace of Mind\iKevin MacLeod\cAPNO STRS SYNZ
@@ -110,10 +117,13 @@ Porch Swing Days - slower\iKevin MacLeod\rAGTR APRC BASS VOCL
 Ranz des Vaches\iKevin MacLeod & Gioachino Rossini\cBASN FLUT OBOE PIZZ
 Relaxing Piano Music\iKevin MacLeod\cAPNO SYNZ
 Relent\iKevin MacLeod\sCLNT HARP
+// TODO: hear Resignation to determine preference of inclusion
 Reunited\iKevin MacLeod\rAPNO APRC STRS
 Revival\iKevin MacLeod\cAPRC BASS EGTR EPNO VOCL
+// TODO: hear Sapphile Isle to determine preference of inclusion
 Sheep May Safely Graze - BWV 208\iKevin MacLeod & Johann S. Bach\rCLST HARP MRBA VIBE
 Silver Blue Light\iKevin MacLeod\cAGTR SYNZ
+// TODO: hear Simple Duet to determine preference of inclusion
 Slow Burn\iKevin MacLeod\hAPRC BASS EGTR JORG
 Slow Heat\iKevin MacLeod\cAPRC MRBA
 Smoother Move\iKevin MacLeod\sAPNO
@@ -128,6 +138,8 @@ Space 1990-B\iKevin MacLeod\cAPRC BELL SYNZ
 Starting Out Waltz Allegretto\iKevin MacLeod\rAPNO APRC BASS
 Starting Out Waltz Vivace\iKevin MacLeod\rAPNO APRC BASS
 String Impromptu Number 1\iKevin MacLeod\cSTRS
+Suave Standpipe\iKevin MacLeod\rACDN AGTR APRC BASS EPNO JORG SAXO SYNZ VIBE
+// TODO: which horns are in Suave Standpipe? HORN? TRBN? TRPT?
 Summer Day\iKevin MacLeod\cAGTR APRC BASS EPNO
 Super Power Cool Dude\iKevin MacLeod\hAPRC SYNZ
 Swimmey Texture\iKevin MacLeod\cAPNO SYNZ
@@ -139,7 +151,10 @@ The Rule\iKevin MacLeod\hBELL HORN TIMP TRBN TRPT TUBA
 Tiny Fugue\iKevin MacLeod\nPORG
 Trio for Piano Violin and Viola\sAPNO STRS
 Trouble with Tribals\iKevin MacLeod\aAPRC SYNZ VOCL
+Universal\iKevin MacLeod\rAPNO BASS EPNO EPRC SYNZ
+// TODO: confirm Universal's percussion is electric
 Valse Gymnopedie\iKevin MacLeod & Erik Satie\rAPNO APRC
+Village Dawn\iKevin MacLeod\hAPNO
 Virtutes Instrumenti\iKevin MacLeod\sSTRS
 Virtutes Vocis\iKevin MacLeod\sVOCL
 Wallpaper\iKevin MacLeod\hAGTR APRC SYNZ
@@ -151,4 +166,5 @@ White\iKevin MacLeod\rAPNO
 White Lotus\iKevin MacLeod\cAPNO DULC STDR SYNZ
 Windswept\iKevin MacLeod\rAGTR STRS
 Winter Chimes\iKevin MacLeod\rAPNO
+// TODO: hear With the Sea to determine preference of inclusion
 space explorers\iKevin MacLeod\cFLUT SYNZ TRBN
