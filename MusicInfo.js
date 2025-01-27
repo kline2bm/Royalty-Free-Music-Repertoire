@@ -76,6 +76,71 @@ class MusicInfo {
   }
 
   /**
+   * Make like Houdini and get out of a seemingly impossible bondage situation
+   * Or replace an artist code of the form @XY with the artist name
+   * The artist codes reduce the size of the repertoire file by replacing common artists with fewer chars
+   * @AN Alexander Nakarada
+   * @BD Brett Van Donsel
+   * @BK Bryce M. Kline
+   * @BT Bryan Teoh
+   * @CS Charles-Camille Saint-Saëns
+   * @DS dogsounds
+   * @EG Edvard H. Grieg
+   * @ES Erik A. Satie
+   * @FC Frédéric F. Chopin
+   * @GR Gioachino A. Rossini
+   * @JB Johann S. Bach
+   * @JC John M. Cage
+   * @JN John Newton
+   * @JP Johann Pachelbel
+   * @KK Komiku
+   * @KM Kevin MacLeod
+   * @LB Ludwig van Beethoven
+   * @MO MuseOpen
+   * @PB Philip P. Bliss
+   * @PS Phase Shift
+   * @PT Pyotr I. Tchaikovsky
+   * @SB Samuel O. Barber
+   * @SI Shane Ivers
+   * @SJ Scott Joplin
+   * @TX Traditional
+   * @WM Wolfgang A. Mozart
+   * @@ @
+   * param string {string} a string that may contain an artist code
+   * return {string} a string with artist codes replaced with their corresponding names
+   */
+  static escapeArtists(string) {
+    return string
+      .replace("@AN", "Alexander Nakarada")
+      .replace("@BD", "Brett Van Donsel")
+      .replace("@BK", "Bryce M. Kline")
+      .replace("@BT", "Bryan Teoh")
+      .replace("@CS", "Charles-Camille Saint-Saëns")
+      .replace("@DS", "dogsounds")
+      .replace("@EG", "Edvard H. Grieg")
+      .replace("@ES", "Erik A. Satie")
+      .replace("@FC", "Frédéric F. Chopin")
+      .replace("@GR", "Gioachino A. Rossini")
+      .replace("@JB", "Johann S. Bach")
+      .replace("@JC", "John M. Cage")
+      .replace("@JN", "John Newton")
+      .replace("@JP", "Johann Pachelbel")
+      .replace("@KK", "Komiku")
+      .replace("@KM", "Kevin MacLeod")
+      .replace("@LB", "Ludwig van Beethoven")
+      .replace("@MO", "MusOpen")
+      .replace("@PB", "Philip P. Bliss")
+      .replace("@PS", "Phase Shift")
+      .replace("@PT", "Pyotr I. Tchaikovsky")
+      .replace("@SB", "Samuel O. Barber")
+      .replace("@SI", "Shane Ivers")
+      .replace("@SJ", "Scott Joplin")
+      .replace("@TX", "Traditional")
+      .replace("@WM", "Wolfgang A. Mozart")
+      .replace("@@", "@")
+  }
+
+  /**
    * This constructor can only be called internally.
    * If the private KEY field is not passed, this throws an error.
    * This should only be called when a new piece of music needs info.
@@ -83,7 +148,7 @@ class MusicInfo {
   constructor(key, rawString) {
     if(key != MusicInfo.#KEY) throw new Error("MusicInfo objects must be constructed internally.");
     this.raw = rawString;
-    const SPLIT = rawString.split("\\");
+    const SPLIT = MusicInfo.escapeArtists(rawString).split("\\");
     this.title = SPLIT[0];
     this.src = MusicInfo.getSrc(this.title, SPLIT[1][0]);
     this.artist = SPLIT[1].substring(1);
