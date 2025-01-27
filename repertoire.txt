@@ -8,7 +8,7 @@ Aretes\iKevin MacLeod\rAPNO SYNZ VOCL
 Artifact\iKevin MacLeod\nAGTR APRC KLBA MRBA VOCL
 At The Shore\iKevin MacLeod\cAPRC BASS HORN VOCL
 Autumn Day\iKevin MacLeod\rAGTR APNO APRC BASS STRS VOCL
-// TODO: hear Avec Soin to determine preference of inclusion
+Awaiting Return\iKevin MacLeod & Gustav T. Holst\sAPNO
 Bathed in the Light\iKevin MacLeod\cSYNZ
 Bicycle\iKevin MacLeod\nBASS
 Blue Feather\iKevin MacLeod\sAPNO
@@ -72,6 +72,8 @@ Healing\iKevin MacLeod\cAGTR APRC FLUT STRS
 Heartwarming\iKevin MacLeod\rAPNO
 Heavy Heart\iKevin MacLeod\sENST STRS WHSL
 Hustle\iKevin MacLeod\hAGTR APRC BASS JORG
+Immersed\iKevin MacLeod\cAPNO
+In The West\iKevin MacLeod\fAPRC CLNT FLUT STRS
 Infados\iKevin MacLeod\fAPRC KLBA MRBA STRS
 Infinite Perspective\iKevin MacLeod\cAPNO FLUT HARP HORN OBOE SYNZ VOCL
 Inner Light\iKevin MacLeod\rAPRC BASS DULC GLCK VOCL
@@ -117,13 +119,10 @@ Porch Swing Days - slower\iKevin MacLeod\rAGTR APRC BASS VOCL
 Ranz des Vaches\iKevin MacLeod & Gioachino Rossini\cBASN FLUT OBOE PIZZ
 Relaxing Piano Music\iKevin MacLeod\cAPNO SYNZ
 Relent\iKevin MacLeod\sCLNT HARP
-// TODO: hear Resignation to determine preference of inclusion
 Reunited\iKevin MacLeod\rAPNO APRC STRS
 Revival\iKevin MacLeod\cAPRC BASS EGTR EPNO VOCL
-// TODO: hear Sapphile Isle to determine preference of inclusion
 Sheep May Safely Graze - BWV 208\iKevin MacLeod & Johann S. Bach\rCLST HARP MRBA VIBE
 Silver Blue Light\iKevin MacLeod\cAGTR SYNZ
-// TODO: hear Simple Duet to determine preference of inclusion
 Slow Burn\iKevin MacLeod\hAPRC BASS EGTR JORG
 Slow Heat\iKevin MacLeod\cAPRC MRBA
 Smoother Move\iKevin MacLeod\sAPNO
@@ -138,21 +137,19 @@ Space 1990-B\iKevin MacLeod\cAPRC BELL SYNZ
 Starting Out Waltz Allegretto\iKevin MacLeod\rAPNO APRC BASS
 Starting Out Waltz Vivace\iKevin MacLeod\rAPNO APRC BASS
 String Impromptu Number 1\iKevin MacLeod\cSTRS
-Suave Standpipe\iKevin MacLeod\rACDN AGTR APRC BASS EPNO JORG SAXO SYNZ VIBE
-// TODO: which horns are in Suave Standpipe? HORN? TRBN? TRPT?
+Suave Standpipe\iKevin MacLeod\rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day\iKevin MacLeod\cAGTR APRC BASS EPNO
 Super Power Cool Dude\iKevin MacLeod\hAPRC SYNZ
 Swimmey Texture\iKevin MacLeod\cAPNO SYNZ
 Tafi Maradi\iKevin MacLeod\hAPRC VOCL
 Tafi Maradi no voice\iKevin MacLeod\hAPRC
-Thaxted\iKevin MacLeod & Gustav Holst\rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
+Thaxted\iKevin MacLeod & Gustav T. Holst\rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
 The Forest and the Trees\iKevin MacLeod\cCLNT FLUT GLCK TRBN
 The Rule\iKevin MacLeod\hBELL HORN TIMP TRBN TRPT TUBA
 Tiny Fugue\iKevin MacLeod\nPORG
 Trio for Piano Violin and Viola\sAPNO STRS
 Trouble with Tribals\iKevin MacLeod\aAPRC SYNZ VOCL
 Universal\iKevin MacLeod\rAPNO BASS EPNO EPRC SYNZ
-// TODO: confirm Universal's percussion is electric
 Valse Gymnopedie\iKevin MacLeod & Erik Satie\rAPNO APRC
 Village Dawn\iKevin MacLeod\hAPNO
 Virtutes Instrumenti\iKevin MacLeod\sSTRS
@@ -166,5 +163,4 @@ White\iKevin MacLeod\rAPNO
 White Lotus\iKevin MacLeod\cAPNO DULC STDR SYNZ
 Windswept\iKevin MacLeod\rAGTR STRS
 Winter Chimes\iKevin MacLeod\rAPNO
-// TODO: hear With the Sea to determine preference of inclusion
 space explorers\iKevin MacLeod\cFLUT SYNZ TRBN
