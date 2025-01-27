@@ -35,6 +35,7 @@ Danse Macabre Isolated Harp\iKevin MacLeod & Camille Saint-Saëns\rHARP
 Danse Macabre No Violin\iKevin MacLeod & Camille Saint-Saëns\fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Morialta\iKevin MacLeod\rAPNO
 Daybreak\iKevin MacLeod\cEPNO
+Devastation and Revenge\iKevin MacLeod\fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
 Digya\iKevin MacLeod\nAPRC BASS ENST MRBA
 Dirt Rhodes\iKevin MacLeod\cEPNO EPRC
 Divertimento K131\iKevin MacLeod & Wolfgang A. Mozart\hBELL CLST HARP
@@ -42,6 +43,7 @@ Dream Culture\iKevin MacLeod\rAPNO EPRC
 Dreamer\iKevin MacLeod\cAPNO APRC
 Drone in D\iKevin MacLeod\cAPNO SYNZ
 Dubakupado\iKevin MacLeod\nAPRC MRBA
+Earnest\iKevin MacLeod\sAPNO
 Eastminster\iKevin MacLeod\cEFFX ENST STRS
 Easy Lemon\iKevin MacLeod\cAGTR APRC BASS CLST MRBA
 Easy Lemon 30 second\iKevin MacLeod\cAGTR BASS MRBA
@@ -66,6 +68,7 @@ Hall of the Mountain King\iKevin MacLeod & MusOpen & Edvard Grieg\aAPRC BASN CLN
 Happy Happy Game Show\iKevin MacLeod\hAPNO APRC BASS JORG TRPT
 Healing\iKevin MacLeod\cAGTR APRC FLUT STRS
 Heartwarming\iKevin MacLeod\rAPNO
+Heavy Heart\iKevin MacLeod\sENST STRS WHSL
 Hustle\iKevin MacLeod\hAGTR APRC BASS JORG
 Infados\iKevin MacLeod\fAPRC KLBA MRBA STRS
 Infinite Perspective\iKevin MacLeod\cAPNO FLUT HARP HORN OBOE SYNZ VOCL
@@ -79,7 +82,9 @@ Light Awash\iKevin MacLeod\cSYNZ
 Light Thought var 1\iKevin MacLeod\cEPNO
 Light Thought var 2\iKevin MacLeod\cEPNO
 Lift Motif\iKevin MacLeod\rAPNO
+March of the Mind\iKevin MacLeod\sAPNO
 Matts Blues\iKevin MacLeod\hAPRC BASS EGTR HMCA JORG
+Midday Dance\iKevin MacLeod\hAPNO
 Minstrel Guild\iKevin MacLeod\hAPRC BAGP OBOE STRS WHSL
 Monkoto\iKevin MacLeod\nAPRC CLNT MRBA
 Montauk Point\iKevin MacLeod\hAGTR APRC BASS
@@ -94,6 +99,7 @@ Night Cave\iKevin MacLeod\cAPRC KLBA MRBA
 Numinous Shine\iKevin MacLeod\cSYNZ
 OctoBlues\iKevin MacLeod & Brett Van Donsel\rAPRC BASS EGTR JORG
 Over Under\iKevin MacLeod\cBASS
+Overture\iKevin MacLeod\sAPNO
 Peace of Mind\iKevin MacLeod\cAPNO STRS SYNZ
 Perspectives\iKevin MacLeod\cAGTR APNO APRC FLUT GLCK STRS SYNZ
 Pleasant Porridge\iKevin MacLeod\cAPRC BASS EGTR EPNO
@@ -115,6 +121,8 @@ Snowdrop\iKevin MacLeod\sAPNO
 Soaring\iKevin MacLeod\cSYNZ
 Son Of A Rocket\iKevin MacLeod\hAPRC SYNZ
 Song of the Volga Boatmen\iKevin MacLeod & Traditional\sHORN TRBN TRPT TUBA
+Soporific\iKevin MacLeod\sBELL EPNO EPRC
+Southern Gothic\iKevin MacLeod\fAGTR APRC BNJO HPRC VOCL
 Space 1990\iKevin MacLeod\cAPRC BELL SYNZ
 Space 1990-B\iKevin MacLeod\cAPRC BELL SYNZ
 Starting Out Waltz Allegretto\iKevin MacLeod\rAPNO APRC BASS
@@ -143,3 +151,4 @@ White\iKevin MacLeod\rAPNO
 White Lotus\iKevin MacLeod\cAPNO DULC STDR SYNZ
 Windswept\iKevin MacLeod\rAGTR STRS
 Winter Chimes\iKevin MacLeod\rAPNO
+space explorers\iKevin MacLeod\cFLUT SYNZ TRBN
