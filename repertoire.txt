@@ -22,7 +22,6 @@ Canon in D for Autoharp\iKevin MacLeod & Johann Pachelbel\rDULC
 Canon in D for Two Harps\iKevin MacLeod & Johann Pachelbel\rHARP
 Canon in D for Two Renaissance Harps\iKevin MacLeod & Johann Pachelbel\rHARP
 Carpe Diem\iKevin MacLeod\hAGTR APRC BASS CLNT FLUT UKLE XYLO
-// TODO: I'tech says Xylophone, but is it really XYLO?
 Cattails\iKevin MacLeod\rACDN AGTR BNJO ENST STRS
 Cello Suite 1 in G - Prelude\iKevin MacLeod & Johann S. Bach\nDULC
 Clean Soul\iKevin MacLeod\cBASS EPNO
@@ -84,8 +83,7 @@ Matts Blues\iKevin MacLeod\hAPRC BASS EGTR HMCA JORG
 Minstrel Guild\iKevin MacLeod\hAPRC BAGP OBOE STRS WHSL
 Monkoto\iKevin MacLeod\nAPRC CLNT MRBA
 Montauk Point\iKevin MacLeod\hAGTR APRC BASS
-Moon Lounge Omicron Prime\iKevin MacLeod\hAPRC EGTR EPNO JORG SYNZ
-// TODO: MLOP's percussion is acoustic? MLOP has EPNO and JORG and SYNZ?
+Moon Lounge Omicron Prime\iKevin MacLeod\hEGTR EPNO EPRC SYNZ
 Moonstone\iKevin MacLeod\cAPNO
 Morning\iKevin MacLeod\cAGTR FLUT HARP
 Mourning Song\iKevin MacLeod\sOBOE STRS
@@ -115,8 +113,7 @@ Slow Heat\iKevin MacLeod\cAPRC MRBA
 Smoother Move\iKevin MacLeod\sAPNO
 Snowdrop\iKevin MacLeod\sAPNO
 Soaring\iKevin MacLeod\cSYNZ
-Son Of A Rocket\iKevin MacLeod\hEPRC SYNZ
-// TODO: Son Of A Rocket's percussion is electronic?
+Son Of A Rocket\iKevin MacLeod\hAPRC SYNZ
 Song of the Volga Boatmen\iKevin MacLeod & Traditional\sHORN TRBN TRPT TUBA
 Space 1990\iKevin MacLeod\cAPRC BELL SYNZ
 Space 1990-B\iKevin MacLeod\cAPRC BELL SYNZ
@@ -125,7 +122,6 @@ Starting Out Waltz Vivace\iKevin MacLeod\rAPNO APRC BASS
 String Impromptu Number 1\iKevin MacLeod\cSTRS
 Summer Day\iKevin MacLeod\cAGTR APRC BASS EPNO
 Super Power Cool Dude\iKevin MacLeod\hAPRC SYNZ
-// TODO: Super Power Cool Dude has BELL?
 Swimmey Texture\iKevin MacLeod\cAPNO SYNZ
 Tafi Maradi\iKevin MacLeod\hAPRC VOCL
 Tafi Maradi no voice\iKevin MacLeod\hAPRC
