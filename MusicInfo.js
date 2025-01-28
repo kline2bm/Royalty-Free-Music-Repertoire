@@ -73,7 +73,7 @@ class MusicInfo {
    * s = Silverman Sound Studios
    * u = URL for another website (not yet implemented)
    * w = Wayback Machine for FreePD Page 2 (not yet implemented)
-   * y = Bryce Kline's CC: Zero music (not yet implemented)
+   * z = Bryce Kline's CC: Zero music (not yet implemented)
    * @param title {string} the title (file name without extension)
    * @param s {"i"} the src code
    * @return {string} the URL of the music
