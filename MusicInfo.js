@@ -70,7 +70,7 @@ class MusicInfo {
    * b = Bryce Kline's CC: By music (not yet implemented)
    * f = FreePD
    * i = Incompetech
-   * s = Silverman Sound Studios (not yet implemented)
+   * s = Silverman Sound Studios
    * u = URL for another website (not yet implemented)
    * w = Wayback Machine for FreePD Page 2 (not yet implemented)
    * y = Bryce Kline's CC: Zero music (not yet implemented)
@@ -82,7 +82,7 @@ class MusicInfo {
     switch(s) {
       case "f": return `https://freepd.com/music/${title}.mp3`;
       case "i": return `https://incompetech.com/music/royalty-free/mp3-royaltyfree/${title}.mp3`;
-      case "s": return `https://www.silvermansound.com/wp-content/uploads/${MusicInfo.silver()}`;
+      case "s": return `https://www.silvermansound.com/wp-content/uploads/${MusicInfo.shine(title)}.mp3`;
       default: throw new Error("Invalid src code " + s);
     }
   }
