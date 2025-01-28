@@ -36,6 +36,10 @@ Comfortable Mystery|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TX|hAGTR APRC BASS SYNZ
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
+Cut and Run|i@KM|nEPRC SYNZ
+// TODO: confirm Cut and Run string
+Cyborg Ninja|i@KM|aEPRC SYNZ
+// TODO: confirm Cyborg Ninja emotion
 DD Groove|i@KM|sAGTR APRC BASS JORG
 Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Macabre Isolated Harp|i@KM & @CS|rHARP
@@ -99,8 +103,12 @@ Light Awash|i@KM|cSYNZ
 Light Thought var 1|i@KM|cEPNO
 Light Thought var 2|i@KM|cEPNO
 Lift Motif|i@KM|rAPNO
+Long Time Coming|i@KM|aEPRC SYNZ
+// TODO: any more INST for Long Time Coming?
 March of the Mind|i@KM|sAPNO
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
+Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
+// TODO: confirm Mega Hyper Ultrastorm string
 Midday Dance|i@KM|hAPNO
 Minstrel Guild|i@KM|hAPRC BAGP OBOE STRS WHSL
 // Modern Baroque|z@BK|nEPRC PORG
@@ -128,6 +136,7 @@ Organic Meditations Three|i@KM|cAPNO STRS
 Organic Meditations Two|i@KM|cHORN MRBA TUBA
 Over Under|i@KM|cBASS
 Overcast|i@KM|rAPNO APRC BASS EGTR SYNZ
+Overriding Concern|i@KM|fAPNO BELL EPRC GLCK SYNZ VOCL
 Overture|i@KM|sAPNO
 // Pan Flute Serenity|z@BK|cPFLT
 Peace of Mind|i@KM|cAPNO STRS SYNZ
@@ -144,6 +153,9 @@ Relent|i@KM|sCLNT HARP
 Reunited|i@KM|rAPNO APRC STRS
 Revival|i@KM|cAPRC BASS EGTR EPNO VOCL
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
+Shiny Tech|i@KM|
+Shiny Tech2|i@KM|
+// TODO: finish Shiny Techs
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
@@ -157,6 +169,7 @@ Soporific|i@KM|sBELL EPNO EPRC
 Southern Gothic|i@KM|fAGTR APRC BNJO HPRC VOCL
 Space 1990|i@KM|cAPRC BELL SYNZ
 Space 1990-B|i@KM|cAPRC BELL SYNZ
+Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
 // Spooky Dance Party|b@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
@@ -172,6 +185,7 @@ Tafi Maradi no voice|i@KM|hAPRC
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
+The Way Out|i@KM|fAPRC SYNZ
 Tiny Fugue|i@KM|nPORG
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
@@ -181,6 +195,8 @@ Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
+Voltaic|i@KM|aEPRC SYNZ
+// TODO: confirm Voltaic's percussion is electric
 Wallpaper|i@KM|hAGTR APRC SYNZ
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Wet Riffs|i@KM|cBASS
