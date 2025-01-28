@@ -2,7 +2,7 @@
  * Information about a piece of music
  */
 class MusicInfo {
-  // {string} the unprocessed string (e.g. "Accralate\\iKevin MacLeod\\cAPRC MRBA")
+  // {string} the unprocessed string (e.g. "Accralate|i@KM|cAPRC MRBA")
   raw;
 
   // {string} the title of the piece (e.g. "Accralate")
@@ -56,9 +56,19 @@ class MusicInfo {
   ]));
 
   /**
+   * All of the music file names on Silverman Sound Studios follow a predictable pattern given a title.
+   * All letters are lowercased. All spaces are replaced with hyphens. Only hyphens and alphanumerics are kept.
+   * @param silvermanTitle {string} the title of a piece on Silverman Sound Studios
+   * @return {string} the formatted string as described above
+   */
+  static shine(silvermanTitle) {
+    return silvermanTitle.toLowerCase().replaceAll(" ", "-").replaceAll(/[^-0-9a-z]/g, "");
+  }
+  
+  /**
    * Given a title and a src code, this returns the URL of the music.
    * b = Bryce Kline's CC: By music (not yet implemented)
-   * f = FreePD (not yet implemented)
+   * f = FreePD
    * i = Incompetech
    * s = Silverman Sound Studios (not yet implemented)
    * u = URL for another website (not yet implemented)
@@ -70,7 +80,9 @@ class MusicInfo {
    */
   static getSrc(title, s) {
     switch(s) {
+      case "f": return `https://freepd.com/music/${title}.mp3`;
       case "i": return `https://incompetech.com/music/royalty-free/mp3-royaltyfree/${title}.mp3`;
+      case "s": return `https://www.silvermansound.com/wp-content/uploads/${MusicInfo.silver()}`;
       default: throw new Error("Invalid src code " + s);
     }
   }
@@ -79,65 +91,41 @@ class MusicInfo {
    * Make like Houdini and get out of a seemingly impossible bondage situation
    * Or replace an artist code of the form @XY with the artist name
    * The artist codes reduce the size of the repertoire file by replacing common artists with fewer chars
-   * @AN Alexander Nakarada
-   * @BD Brett Van Donsel
-   * @BK Bryce M. Kline
-   * @BT Bryan Teoh
-   * @CS Charles-Camille Saint-Saëns
-   * @DS dogsounds
-   * @EG Edvard H. Grieg
-   * @ES Erik A. Satie
-   * @FC Frédéric F. Chopin
-   * @GR Gioachino A. Rossini
-   * @JB Johann S. Bach
-   * @JC John M. Cage
-   * @JN John Newton
-   * @JP Johann Pachelbel
-   * @KK Komiku
-   * @KM Kevin MacLeod
-   * @LB Ludwig van Beethoven
-   * @MO MuseOpen
-   * @PB Philip P. Bliss
-   * @PS Phase Shift
-   * @PT Pyotr I. Tchaikovsky
-   * @SB Samuel O. Barber
-   * @SI Shane Ivers
-   * @SJ Scott Joplin
-   * @TX Traditional
-   * @WM Wolfgang A. Mozart
-   * @@ @
+   * @AN Alexander Nakarada   @BB Bix L. B. Beiderbecke
+   * @BD Brett Van Donsel     @BK Bryce M. Kline
+   * @BT Bryan Teoh           @CS Charles-Camille Saint-Saëns
+   * @DS dogsounds            @EG Edvard H. Grieg
+   * @ES Erik A. Satie        @FC Frédéric F. Chopin
+   * @GR Gioachino A. Rossini @JB Johann S. Bach
+   * @JC John M. Cage         @JN John Newton
+   * @JP Johann Pachelbel     @KK Komiku
+   * @KM Kevin MacLeod        @LB Ludwig van Beethoven
+   * @MO MusOpen              @PB Philip P. Bliss
+   * @PS Phase Shift          @PT Pyotr I. Tchaikovsky
+   * @PX Pixabay              @SB Samuel O. Barber
+   * @SI Shane Ivers          @SJ Scott Joplin
+   * @TX Traditional          @VO Various Others
+   * @WM Wolfgang A. Mozart   @@ @
    * param string {string} a string that may contain an artist code
    * return {string} a string with artist codes replaced with their corresponding names
    */
   static escapeArtists(string) {
     return string
-      .replace("@AN", "Alexander Nakarada")
-      .replace("@BD", "Brett Van Donsel")
-      .replace("@BK", "Bryce M. Kline")
-      .replace("@BT", "Bryan Teoh")
-      .replace("@CS", "Charles-Camille Saint-Saëns")
-      .replace("@DS", "dogsounds")
-      .replace("@EG", "Edvard H. Grieg")
-      .replace("@ES", "Erik A. Satie")
-      .replace("@FC", "Frédéric F. Chopin")
-      .replace("@GR", "Gioachino A. Rossini")
-      .replace("@JB", "Johann S. Bach")
-      .replace("@JC", "John M. Cage")
-      .replace("@JN", "John Newton")
-      .replace("@JP", "Johann Pachelbel")
-      .replace("@KK", "Komiku")
-      .replace("@KM", "Kevin MacLeod")
-      .replace("@LB", "Ludwig van Beethoven")
-      .replace("@MO", "MusOpen")
-      .replace("@PB", "Philip P. Bliss")
-      .replace("@PS", "Phase Shift")
-      .replace("@PT", "Pyotr I. Tchaikovsky")
-      .replace("@SB", "Samuel O. Barber")
-      .replace("@SI", "Shane Ivers")
-      .replace("@SJ", "Scott Joplin")
-      .replace("@TX", "Traditional")
-      .replace("@WM", "Wolfgang A. Mozart")
-      .replace("@@", "@")
+      .replaceAll("@AN", "Alexander Nakarada")   .replaceAll("@BB", "Bix L. B. Beiderbecke")
+      .replaceAll("@BD", "Brett Van Donsel")     .replaceAll("@BK", "Bryce M. Kline")
+      .replaceAll("@BT", "Bryan Teoh")           .replaceAll("@CS", "Charles-Camille Saint-Saëns")
+      .replaceAll("@DS", "dogsounds")            .replaceAll("@EG", "Edvard H. Grieg")
+      .replaceAll("@ES", "Erik A. Satie")        .replaceAll("@FC", "Frédéric F. Chopin")
+      .replaceAll("@GR", "Gioachino A. Rossini") .replaceAll("@JB", "Johann S. Bach")
+      .replaceAll("@JC", "John M. Cage")         .replaceAll("@JN", "John Newton")
+      .replaceAll("@JP", "Johann Pachelbel")     .replaceAll("@KK", "Komiku")
+      .replaceAll("@KM", "Kevin MacLeod")        .replaceAll("@LB", "Ludwig van Beethoven")
+      .replaceAll("@MO", "MusOpen")              .replaceAll("@PB", "Philip P. Bliss")
+      .replaceAll("@PS", "Phase Shift")          .replaceAll("@PT", "Pyotr I. Tchaikovsky")
+      .replaceAll("@PX", "Pixabay")              .replaceAll("@SB", "Samuel O. Barber")
+      .replaceAll("@SI", "Shane Ivers")          .replaceAll("@SJ", "Scott Joplin")
+      .replaceAll("@TX", "Traditional")          .replaceAll("@VO", "Various Others")
+      .replaceAll("@WM", "Wolfgang A. Mozart")   .replaceAll("@@", "@")
   }
 
   /**
@@ -148,7 +136,7 @@ class MusicInfo {
   constructor(key, rawString) {
     if(key != MusicInfo.#KEY) throw new Error("MusicInfo objects must be constructed internally.");
     this.raw = rawString;
-    const SPLIT = MusicInfo.escapeArtists(rawString).split("\\");
+    const SPLIT = MusicInfo.escapeArtists(rawString).split("|");
     this.title = SPLIT[0];
     this.src = MusicInfo.getSrc(this.title, SPLIT[1][0]);
     this.artist = SPLIT[1].substring(1);
@@ -171,17 +159,17 @@ class MusicInfo {
 
   /**
    * Make a new MusicInfo object, optionally putting it in the internal map
-   * @param rawString {string} Title\sArtist\eINST
+   * @param rawString {string} Title|sArtist|eINST
    * Title: the title of the piece
    * s: the src code of the piece (see the getSrc method)
    * Artist: the artist/composer of the piece
    * e: the first letter of the emotion (angry, calm, fearful, happy, neutral, romantic, sad)
    * INST: the space-separated list of instrument codes in the piece (see the ISNTS property)
-   * @param addToMap {boolean} if true: Title\s cannot already be in the map, and this object will be added
+   * @param addToMap {boolean} if true: Title|s cannot already be in the map, and this object will be added
    * @return {MusicInfo} the newly-created MusicInfo object
    */
   static makeNew(rawString, addToMap = true) {
-    let shortString = rawString.substring(0, rawString.indexOf("\\") + 2);
+    let shortString = rawString.substring(0, rawString.indexOf("|") + 2);
     if(addToMap && MusicInfo.#ALL.has(shortString))
       throw new Error("Map already has " + shortString);
     let newObject = new MusicInfo(MusicInfo.#KEY, rawString);
@@ -191,7 +179,7 @@ class MusicInfo {
 
   /**
    * Get a MusicInfo object already in the map
-   * @param shortString {string} Title\s (see the makeNew method)
+   * @param shortString {string} Title|s (see the makeNew method)
    * @return {MusicInfo} the MusicInfo object in the map
    */
   static retrieve(shortString) {
@@ -201,7 +189,7 @@ class MusicInfo {
 
   /**
    * Remove a MusicInfo object from the map
-   * @param shortString {string} Title\s (see the makeNew method)
+   * @param shortString {string} Title|s (see the makeNew method)
    * @return {boolean} true if the MusicInfo object was in the map
    */
   static delete(shortString) {
