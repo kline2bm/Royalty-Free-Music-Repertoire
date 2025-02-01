@@ -18,8 +18,7 @@ Balloon Game|i@KM|hAPRC SYNZ
 Bathed in the Light|i@KM|cSYNZ
 Bicycle|i@KM|nBASS
 Bit Shift|i@KM|hEPRC SYNZ
-Blippy Trance|i@KM|cSYNZ
-// TODO: ^^^ calm or happy? other instruments?
+Blippy Trance|i@KM|hSYNZ
 Blue Feather|i@KM|sAPNO
 Blue Paint|i@KM|cAPNO
 Blue Scorpion|i@KM|aAPRC DULC EGTR KLBA SYNZ
@@ -33,24 +32,21 @@ Canon in D Major|i@KM & @JP|rHARP STRS
 Canon in D for Autoharp|i@KM & @JP|rDULC
 Canon in D for Two Harps|i@KM & @JP|rHARP
 Canon in D for Two Renaissance Harps|i@KM & @JP|rHARP
-Captain Scurvy|i@KM|
-// TODO: ^^^ emotion and instruments
+Captain Scurvy|i@KM|nEPRC SYNZ
 Carpe Diem|i@KM|hAGTR APRC BASS CLNT FLUT UKLE XYLO
 Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 // Celebration Rock|z@BK|hAPRC EGTR SITR
 Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
 Clean Soul|i@KM|cBASS EPNO
-Cloud Dancer|i@KM|hSYNZ
-// TODO: ^^^ is it happy? other instruments?
+Cloud Dancer|i@KM|hEPRC SYNZ VOCL
 Club Diver|i@KM|aEPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Comfortable Mystery|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TX|hAGTR APRC BASS SYNZ
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
-Cruising for Goblins|i@KM|
-// TODO: ^^^ emotion and instruments
+Cruising for Goblins|i@KM|fEPRC SYNZ
 Cut and Dry|i@KM|hAPRC EPRC SYNZ
 Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
@@ -61,11 +57,9 @@ Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS
 Danse Morialta|i@KM|rAPNO
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
-Desert of Lost Souls|i@KM|
-// TODO: ^^^ emotion and instruments
+Desert of Lost Souls|i@KM|fEPRC SYNZ
 Devastation and Revenge|i@KM|fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
-Digital Lemonade|i@KM|hAPRC SYNZ
-// TODO: ^^^ APRC or EPRC?
+Digital Lemonade|i@KM|hEPRC SYNZ
 Digya|i@KM|nAPRC BASS ENST MRBA
 Dirt Rhodes|i@KM|cEPNO EPRC
 Disco Lounge|i@KM|rAPRC STRS SYNZ VIBE
@@ -115,8 +109,6 @@ In The West|i@KM|fAPRC CLNT FLUT STRS
 Infados|i@KM|fAPRC KLBA MRBA STRS
 Infinite Perspective|i@KM|cAPNO FLUT HARP HORN OBOE SYNZ VOCL
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
-Jaunty Gumption|i@KM|h
-// TODO: ^^^ instruments; maybe also add Ambler and Move Foward?
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Kawai Kitsune|i@KM|hEPRC SYNZ
 Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
@@ -177,14 +169,12 @@ Porch Swing Days - faster|i@KM|rAGTR APRC BASS VOCL
 Porch Swing Days - slower|i@KM|rAGTR APRC BASS VOCL
 // Questions of Time|z@BK|fEPNO HARP
 Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
-// TODO: ^^^ any more brass?
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
 Reunited|i@KM|rAPNO APRC STRS
 Revival|i@KM|cAPRC BASS EGTR EPNO VOCL
-Robobozo|i@KM|
-// TODO: ^^^ emotion and instruments
+Robobozo|i@KM|fAPRC EGTR JORG SYNZ
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Salty Ditty|i@KM|hEPRC SYNZ
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
@@ -204,8 +194,6 @@ Southern Gothic|i@KM|fAGTR APRC BNJO HPRC VOCL
 Space 1990|i@KM|cAPRC BELL SYNZ
 Space 1990-B|i@KM|cAPRC BELL SYNZ
 Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
-Special Spotlight|i@KM|nEPRC SYNZ
-// TODO: ^^^ APRC or EPRC?
 // Spooky Dance Party|b@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
@@ -213,8 +201,7 @@ String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
-Sunflower Dance Party|i@KM|hAPRC SYNZ
-// TODO: ^^^ also EPRC?
+Sunflower Dance Party|i@KM|hAPRC HPRC SYNZ
 Super Power Cool Dude|i@KM|hAPRC SYNZ
 Swimmey Texture|i@KM|cAPNO SYNZ
 Tafi Maradi|i@KM|hAPRC VOCL
@@ -234,8 +221,7 @@ Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
-Voice Over Under|i@KM|hAPRC SYNZ
-// TODO: ^^^ APRC or EPRC or HPRC?
+Voice Over Under|i@KM|hAPRC HPRC SYNZ
 Voltaic|i@KM|aEPRC SYNZ
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
