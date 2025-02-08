@@ -14,10 +14,12 @@ At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
 Balloon Game|i@KM|hAPRC SYNZ
-// TODO: ^^^ APRC or EPRC?
 Bathed in the Light|i@KM|cSYNZ
+Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
 Bit Shift|i@KM|hEPRC SYNZ
+Bleeping Demo|i@KM|cAPRC SYNZ
+Blipotron|i@KM|fBASS EPRC SYNZ
 Blippy Trance|i@KM|hSYNZ
 Blue Feather|i@KM|sAPNO
 Blue Paint|i@KM|cAPNO
@@ -38,6 +40,9 @@ Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 // Celebration Rock|z@BK|hAPRC EGTR SITR
 Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
+Chipper Doodle|i@KM|hAPNO EPRC SYNZ
+Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
+Cipher2|i@KM|hAPRC EPNO STRS SYNZ
 Clean Soul|i@KM|cBASS EPNO
 Cloud Dancer|i@KM|hEPRC SYNZ VOCL
 Club Diver|i@KM|aEPRC SYNZ
@@ -51,21 +56,25 @@ Cut and Dry|i@KM|hAPRC EPRC SYNZ
 Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
 DD Groove|i@KM|sAGTR APRC BASS JORG
+Dance Monster|i@KM|nAPNO EPRC SYNZ
 Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Macabre Isolated Harp|i@KM & @CS|rHARP
 Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Morialta|i@KM|rAPNO
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
+Delightful D|i@KM|hEPRC SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
 Devastation and Revenge|i@KM|fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
-Digital Lemonade|i@KM|hEPRC SYNZ
+Digital Lemonade|i@KM|hAPRC SYNZ
 Digya|i@KM|nAPRC BASS ENST MRBA
 Dirt Rhodes|i@KM|cEPNO EPRC
 Disco Lounge|i@KM|rAPRC STRS SYNZ VIBE
 Disco Medusae|i@KM|hBASS EGTR EPNO EPRC SYNZ
 Disco con Tutti|i@KM|hAPRC EGTR EPNO SYNZ TRBN TRPT
 Divertimento K131|i@KM & @WM|hBELL CLST HARP
+Doobly Doo|i@KM|hAPRC PIZZ SYNZ
+Double O|i@KM|aEPRC JORG SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
 Drone in D|i@KM|cAPNO SYNZ
@@ -81,14 +90,18 @@ Egmont Overture Finale|i@KM & @MO & @LB|hBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Electro Cabello|i@KM|hEPRC SAXO SYNZ TRBN TRPT UKLE
 Electrodoodle|i@KM|hEPRC SYNZ
 Enchanted Journey|i@KM|rHARP
+Equatorial Complex|i@KM|cEPNO SYNZ VOCL
 Ether Disco|i@KM|hAPRC BASS EGTR GLCK STRS
 Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
 Evening|i@KM|cAGTR OBOE STRS
 Evening Fall - Piano|i@KM|sAPNO
 Energizing|i@KM|cAPRC SYNZ
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
+Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 For Originz|i@KM|rAPRC STRS VOCL
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
+Furious Freak|i@KM|aAPRC EPNOSYNZ
+Getting it Done|i@KM|hAPRC SYNZ
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Go Cart|i@KM|aEPRC SYNZ
@@ -102,6 +115,7 @@ Happy Happy Game Show|i@KM|hAPNO APRC BASS JORG TRPT
 Healing|i@KM|cAGTR APRC FLUT STRS
 Heartwarming|i@KM|rAPNO
 Heavy Heart|i@KM|sENST STRS WHSL
+How it Begins|i@KM|hAPRC SYNZ
 Hustle|i@KM|hAGTR APRC BASS JORG
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
 Immersed|i@KM|cAPNO
@@ -109,11 +123,15 @@ In The West|i@KM|fAPRC CLNT FLUT STRS
 Infados|i@KM|fAPRC KLBA MRBA STRS
 Infinite Perspective|i@KM|cAPNO FLUT HARP HORN OBOE SYNZ VOCL
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
+Inspired|i@KM|cAPRC EGTR SYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Kawai Kitsune|i@KM|hEPRC SYNZ
+Killing Time|i@KM|fEPRC JORG SYNZ
 Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
+Klockworx|i@KM|nEPRC SYNZ
 Kumasi Groove|i@KM|nAPRC MRBA
 Kumasi Groove Flugelhorn|i@KM|nAPRC MRBA TRPT
+Laser Groove|i@KM|nEPRC SYNZ
 Laserpack|i@KM|aAPRC EPRC SYNZ
 Late Night Radio|i@KM|cBASS EPNO EPRC SYNZ
 Latin Industries|i@KM|aAPRC EPRC SYNZ VOCL
@@ -122,10 +140,12 @@ Light Awash|i@KM|cSYNZ
 Light Thought var 1|i@KM|cEPNO
 Light Thought var 2|i@KM|cEPNO
 Lift Motif|i@KM|rAPNO
+Limit 70|i@KM|cEPNO EPRC SYNZ
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 March of the Mind|i@KM|sAPNO
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
+Mellowtron|i@KM|cFLUT SYNZ
 Midday Dance|i@KM|hAPNO
 Mighty Like Us|i@KM|hAPRC SYNZ
 Minstrel Guild|i@KM|hAPRC BAGP OBOE STRS WHSL
@@ -145,8 +165,10 @@ Morning|i@KM|cAGTR FLUT HARP
 Mourning Song|i@KM|sOBOE STRS
 Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
+New Friendly|i@KM|hEPRC SYNZ VOCL
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Cave|i@KM|cAPRC KLBA MRBA
+Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 OctoBlues|i@KM & Brett Van Donsel|rAPRC BASS EGTR JORG
 Organic Meditations One|i@KM|cAPRC BELL STRS
@@ -161,15 +183,21 @@ Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
 Peace of Mind|i@KM|cAPNO STRS SYNZ
 Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
+Pinball Spring|i@KM|hEPRC SYNZ
+Pinball Spring 160|i@KM|hEPRC SYNZ
 Pixelland|i@KM|hEPRC SYNZ
 Pleasant Porridge|i@KM|cAPRC BASS EGTR EPNO
-Prelude in C - BWV 846|i@KM & @JB|rAPNO
 Porch Blues|i@KM|cAGTR APNO HMCA
 Porch Swing Days - faster|i@KM|rAGTR APRC BASS VOCL
 Porch Swing Days - slower|i@KM|rAGTR APRC BASS VOCL
+Prelude in C - BWV 846|i@KM & @JB|rAPNO
+Presenterator|i@KM|hAPRC SYNZ
+Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
 // Questions of Time|z@BK|fEPNO HARP
 Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
+Raving Energy|i@KM|aAPRC SYNZ
+Raving Energy|i@KM|aAPRC SYNZ
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
 Reunited|i@KM|rAPNO APRC STRS
@@ -180,6 +208,7 @@ Salty Ditty|i@KM|hEPRC SYNZ
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
 Shiny Tech|i@KM|hEPRC SYNZ
 Shiny Tech2|i@KM|nEPRC SYNZ
+Show Your Moves|i@KM|hEPRC SYNZ
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
@@ -202,6 +231,7 @@ Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
 Sunflower Dance Party|i@KM|hAPRC HPRC SYNZ
+Super Friendly|i@KM|hAPRC EPNO SYNZ VOCL
 Super Power Cool Dude|i@KM|hAPRC SYNZ
 Swimmey Texture|i@KM|cAPNO SYNZ
 Tafi Maradi|i@KM|hAPRC VOCL
@@ -214,6 +244,7 @@ The Way Out|i@KM|fAPRC SYNZ
 Tiny Fugue|i@KM|nPORG
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
+Tyrant|i@KM|aEPRC SYNZ
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
