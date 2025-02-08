@@ -4,6 +4,7 @@ Accralate|i@KM|cAPRC MRBA
 Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 // African Rag|z@BK|hAPNO APRC SYNZ
 Agnus Dei X|i@KM & @SB|sPORG VOCL
+// Air of Mystery and Suspense|b@BK|fAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
@@ -15,6 +16,7 @@ Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
 Balloon Game|i@KM|hAPRC SYNZ
 Bathed in the Light|i@KM|cSYNZ
+// Battle of the Desert Aliens|b@BK|fAPRC DULC EGTR MRBA PFLT SYNZ VOCL
 Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
 Bit Shift|i@KM|hEPRC SYNZ
@@ -28,12 +30,14 @@ Blue Scorpion|i@KM|aAPRC DULC EGTR KLBA SYNZ
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
+// C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
 Canon In D Interstellar Mix|i@KM & @JP|hEPRC SYNZ
 Canon in D Major|i@KM & @JP|rHARP STRS
 Canon in D for Autoharp|i@KM & @JP|rDULC
 Canon in D for Two Harps|i@KM & @JP|rHARP
 Canon in D for Two Renaissance Harps|i@KM & @JP|rHARP
+// Can you Hear me Now?|b@BK|nAPRC BASN BELL CLNT FLUT GLCK HARP HORN OBOE MRBA STRS TIMP TRBN TRPT TUBA
 Captain Scurvy|i@KM|nEPRC SYNZ
 Carpe Diem|i@KM|hAGTR APRC BASS CLNT FLUT UKLE XYLO
 Cattails|i@KM|rACDN AGTR BNJO ENST STRS
@@ -63,6 +67,7 @@ Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS
 Danse Morialta|i@KM|rAPNO
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
+// Decent Descent|b@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Delightful D|i@KM|hEPRC SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
 Devastation and Revenge|i@KM|fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
@@ -79,6 +84,7 @@ Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
 Drone in D|i@KM|cAPNO SYNZ
 Dubakupado|i@KM|nAPRC MRBA
+// E-OPS|b@BK|nEPRC JORG SYNZ VOCL
 Earnest|i@KM|sAPNO
 Eastminster|i@KM|cEFFX ENST STRS
 Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
@@ -96,10 +102,12 @@ Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
 Evening|i@KM|cAGTR OBOE STRS
 Evening Fall - Piano|i@KM|sAPNO
 Energizing|i@KM|cAPRC SYNZ
+// Far Out, Dude!|b@BK|cTODO
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 For Originz|i@KM|rAPRC STRS VOCL
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
+// Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Furious Freak|i@KM|aAPRC EPNOSYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Groundwork|i@KM|hAGTR APNO APRC BASS
@@ -124,13 +132,15 @@ Infados|i@KM|fAPRC KLBA MRBA STRS
 Infinite Perspective|i@KM|cAPNO FLUT HARP HORN OBOE SYNZ VOCL
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
 Inspired|i@KM|cAPRC EGTR SYNZ
+// Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
+// Interplanetary Mystery Electronic|b@BK|nSYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Kawai Kitsune|i@KM|hEPRC SYNZ
 Killing Time|i@KM|fEPRC JORG SYNZ
 Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
 Klockworx|i@KM|nEPRC SYNZ
-Kumasi Groove|i@KM|nAPRC MRBA
-Kumasi Groove Flugelhorn|i@KM|nAPRC MRBA TRPT
+Kumasi Groove|i@KM|cAPRC MRBA
+Kumasi Groove Flugelhorn|i@KM|cAPRC MRBA TRPT
 Laser Groove|i@KM|nEPRC SYNZ
 Laserpack|i@KM|aAPRC EPRC SYNZ
 Late Night Radio|i@KM|cBASS EPNO EPRC SYNZ
@@ -171,6 +181,7 @@ Night Cave|i@KM|cAPRC KLBA MRBA
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 OctoBlues|i@KM & Brett Van Donsel|rAPRC BASS EGTR JORG
+// Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Organic Meditations One|i@KM|cAPRC BELL STRS
 Organic Meditations Three|i@KM|cAPNO STRS
 Organic Meditations Two|i@KM|cHORN MRBA TUBA
@@ -190,6 +201,7 @@ Pleasant Porridge|i@KM|cAPRC BASS EGTR EPNO
 Porch Blues|i@KM|cAGTR APNO HMCA
 Porch Swing Days - faster|i@KM|rAGTR APRC BASS VOCL
 Porch Swing Days - slower|i@KM|rAGTR APRC BASS VOCL
+// Primer Post Braces|b@BK|nHPRC VOCL
 Prelude in C - BWV 846|i@KM & @JB|rAPNO
 Presenterator|i@KM|hAPRC SYNZ
 Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
@@ -197,7 +209,7 @@ Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
 Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aAPRC SYNZ
-Raving Energy|i@KM|aAPRC SYNZ
+Raving Energy (faster)|i@KM|aAPRC SYNZ
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
 Reunited|i@KM|rAPNO APRC STRS
@@ -265,4 +277,5 @@ White Lotus|i@KM|cAPNO DULC STDR SYNZ
 Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
 Windswept|i@KM|rAGTR STRS
 Winter Chimes|i@KM|rAPNO
+// celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|i@KM|cFLUT SYNZ TRBN
