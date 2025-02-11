@@ -91,6 +91,7 @@ Dreamer|i@KM|cAPNO APRC
 Drone in D|i@KM|cAPNO SYNZ
 Dubakupado|i@KM|nAPRC MRBA
 // E-OPS|b@BK|nEPRC JORG SYNZ VOCL
+EDM Detection Mode|i@KM|aEPRC SYNZ
 Earnest|i@KM|sAPNO
 Eastminster|i@KM|cEFFX ENST STRS
 Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
@@ -106,16 +107,18 @@ Enchanted Journey|i@KM|rHARP
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
 Ether Disco|i@KM|hAPRC BASS EGTR GLCK STRS
 Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
+Ethernight Club|i@KM|nBELL EPRC MRBA SYNZ
 Evening|i@KM|cAGTR OBOE STRS
 Evening Fall - Piano|i@KM|sAPNO
 Energizing|i@KM|cAPRC SYNZ
+Exit the Premises|i@KM|aAPRC SYNZ
 // Far Out, Dude!|b@BK|cTODO
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 For Originz|i@KM|rAPRC STRS VOCL
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
-Furious Freak|i@KM|aAPRC EPNOSYNZ
+Furious Freak|i@KM|aAPRC EPNO SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
@@ -125,6 +128,7 @@ Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Gymnopedie No 1|i@KM & @ES|sAPNO
 Gymnopedie No 2|i@KM & @ES|sAPNO
 Gymnopedie No 3|i@KM & @ES|sAPNO
+Half Mystery|i@KM|cEPRC SYNZ
 Hall of the Mountain King|i@KM & @MO & @EG|aAPRC BASN CLNT FLUT HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 Happy Happy Game Show|i@KM|hAPNO APRC BASS JORG TRPT
 Healing|i@KM|cAGTR APRC FLUT STRS
@@ -142,8 +146,10 @@ Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
 Inspired|i@KM|cAPRC EGTR SYNZ
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
+Jerry Five|i@KM|hEPRC HPRC SYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Kawai Kitsune|i@KM|hEPRC SYNZ
+Kick Shock|i@KM|aAPRC EPRC SYNZ
 Killing Time|i@KM|fEPRC JORG SYNZ
 Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
 Klockworx|i@KM|nEPRC SYNZ
@@ -200,6 +206,7 @@ Over Under|i@KM|cBASS
 Overcast|i@KM|rAPNO APRC BASS EGTR SYNZ
 Overriding Concern|i@KM|fAPNO BELL EPRC GLCK SYNZ VOCL
 Overture|i@KM|sAPNO
+Overworld|i@KM|fEPRC SYNZ
 Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
 Peace of Mind|i@KM|cAPNO STRS SYNZ
@@ -218,12 +225,14 @@ Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
 // Questions of Time|z@BK|fEPNO HARP
 Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
-Raving Energy|i@KM|aAPRC SYNZ
-Raving Energy (faster)|i@KM|aAPRC SYNZ
+Raving Energy|i@KM|aEPRC SYNZ
+Raving Energy (faster)|i@KM|aEPRC SYNZ
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
 Reunited|i@KM|rAPNO APRC STRS
 Revival|i@KM|cAPRC BASS EGTR EPNO VOCL
+Rising Tide|i@KM|cEPRC SYNZ
+Rising Tide (faster)|i@KM|cEPRC SYNZ
 Robobozo|i@KM|fAPRC EGTR JORG SYNZ
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Salty Ditty|i@KM|hEPRC SYNZ
@@ -264,12 +273,14 @@ Tafi Maradi no voice|i@KM|hAPRC
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
+The Lift|i@KM|nEPRC SYNZ
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Way Out|i@KM|fAPRC SYNZ
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
 Tiny Fugue|i@KM|nPORG
 Tranquility|i@KM|cSYNZ
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
+Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
 Tyrant|i@KM|aEPRC SYNZ
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
