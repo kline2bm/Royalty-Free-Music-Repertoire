@@ -5,6 +5,7 @@ Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 // African Rag|z@BK|hAPNO APRC SYNZ
 Agnus Dei X|i@KM & @SB|sPORG VOCL
 // Air of Mystery and Suspense|b@BK|fAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
+Airship Serenity|i@KM|rSYNZ
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
@@ -14,7 +15,9 @@ Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
+Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
 Balloon Game|i@KM|hAPRC SYNZ
+Basement Floor|i@KM|fEPRC SYNZ VOCL
 Bathed in the Light|i@KM|cSYNZ
 // Battle of the Desert Aliens|b@BK|fAPRC DULC EGTR MRBA PFLT SYNZ VOCL
 Beauty Flow|i@KM|cAPRC BASS SYNZ
@@ -25,7 +28,7 @@ Blipotron|i@KM|fBASS EPRC SYNZ
 Blippy Trance|i@KM|hSYNZ
 Blue Feather|i@KM|sAPNO
 Blue Paint|i@KM|cAPNO
-Blue Scorpion|i@KM|aAPRC DULC EGTR KLBA SYNZ
+Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
 // Blues 'n' Noise|z@BK|nAGTR APRC TUBA 
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Brittle Rille|i@KM|rBASS MUBX STRS
@@ -53,6 +56,7 @@ Club Diver|i@KM|aEPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Comfortable Mystery|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TX|hAGTR APRC BASS SYNZ
+Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Cruising for Goblins|i@KM|fEPRC SYNZ
@@ -61,6 +65,7 @@ Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
 DD Groove|i@KM|sAGTR APRC BASS JORG
 Dance Monster|i@KM|nAPNO EPRC SYNZ
+Danger Storm|i@KM|aAGTR APRC SYNZ
 Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Macabre Isolated Harp|i@KM & @CS|rHARP
 Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
@@ -68,6 +73,7 @@ Danse Morialta|i@KM|rAPNO
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
 // Decent Descent|b@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
+Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
 Devastation and Revenge|i@KM|fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
@@ -94,6 +100,7 @@ Ebbs and Flows|i@KM|cAPNO SYNZ
 Egmont Overture|i@KM & @MO & @LB|nBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Egmont Overture Finale|i@KM & @MO & @LB|hBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Electro Cabello|i@KM|hEPRC SAXO SYNZ TRBN TRPT UKLE
+Electro Sketch|i@KM|aEPRC SYNZ
 Electrodoodle|i@KM|hEPRC SYNZ
 Enchanted Journey|i@KM|rHARP
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
@@ -125,6 +132,7 @@ Heartwarming|i@KM|rAPNO
 Heavy Heart|i@KM|sENST STRS WHSL
 How it Begins|i@KM|hAPRC SYNZ
 Hustle|i@KM|hAGTR APRC BASS JORG
+Hypnothis|i@KM|cEPRC SYNZ VOCL
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
 Immersed|i@KM|cAPNO
 In The West|i@KM|fAPRC CLNT FLUT STRS
@@ -149,6 +157,7 @@ Leopard Print Elevator|i@KM|rAPRC BASS SYNZ
 Light Awash|i@KM|cSYNZ
 Light Thought var 1|i@KM|cEPNO
 Light Thought var 2|i@KM|cEPNO
+Lightless Dawn|i@KM|sAPRC BELL STRS SYNZ
 Lift Motif|i@KM|rAPNO
 Limit 70|i@KM|cEPNO EPRC SYNZ
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
@@ -159,6 +168,7 @@ Mellowtron|i@KM|cFLUT SYNZ
 Midday Dance|i@KM|hAPNO
 Mighty Like Us|i@KM|hAPRC SYNZ
 Minstrel Guild|i@KM|hAPRC BAGP OBOE STRS WHSL
+Misuse|i@KM|fAPRC EPRC SYNZ VOCL
 // Modern Baroque|z@BK|nEPRC PORG
 Modern Vibes|i@KM|nVIBE
 // Modulus|b@BK|hBASS EPRC STRS  SYNZ VOCL
@@ -217,6 +227,7 @@ Revival|i@KM|cAPRC BASS EGTR EPNO VOCL
 Robobozo|i@KM|fAPRC EGTR JORG SYNZ
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Salty Ditty|i@KM|hEPRC SYNZ
+Secrets of the Schoolyard|i@KM|fEPRC SYNZ
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
 Shiny Tech|i@KM|hEPRC SYNZ
 Shiny Tech2|i@KM|nEPRC SYNZ
@@ -235,6 +246,8 @@ Southern Gothic|i@KM|fAGTR APRC BNJO HPRC VOCL
 Space 1990|i@KM|cAPRC BELL SYNZ
 Space 1990-B|i@KM|cAPRC BELL SYNZ
 Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
+Spacial Harvest|i@KM|fSYNZ
+Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 // Spooky Dance Party|b@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
@@ -253,7 +266,9 @@ Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Way Out|i@KM|fAPRC SYNZ
+Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
 Tiny Fugue|i@KM|nPORG
+Tranquility|i@KM|cSYNZ
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
 Tyrant|i@KM|aEPRC SYNZ
@@ -270,6 +285,7 @@ Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Wet Riffs|i@KM|cBASS
+What Is Love|i@KM|rEPRC STRS SYNZ
 Whimsy Groove|i@KM|hAPRC MRBA
 Whiskey on the Mississippi|i@KM|hAPRC BASS EGTR EPNO JORG
 White|i@KM|rAPNO
@@ -277,5 +293,6 @@ White Lotus|i@KM|cAPNO DULC STDR SYNZ
 Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
 Windswept|i@KM|rAGTR STRS
 Winter Chimes|i@KM|rAPNO
+Winter Reflections|i@KM|cSYNZ
 // celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|i@KM|cFLUT SYNZ TRBN
