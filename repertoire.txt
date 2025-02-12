@@ -86,6 +86,7 @@ Disco con Tutti|i@KM|hAPRC EGTR EPNO SYNZ TRBN TRPT
 Divertimento K131|i@KM & @WM|hBELL CLST HARP
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
 Double O|i@KM|aEPRC JORG SYNZ VOCL
+Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
 Drone in D|i@KM|cAPNO SYNZ
@@ -105,6 +106,7 @@ Electro Sketch|i@KM|aEPRC SYNZ
 Electrodoodle|i@KM|hEPRC SYNZ
 Enchanted Journey|i@KM|rHARP
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
+Eternity|i@KM|rAPRC BASS EGTR EPNO SYNZ
 Ether Disco|i@KM|hAPRC BASS EGTR GLCK STRS
 Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
 Ethernight Club|i@KM|nBELL EPRC MRBA SYNZ
@@ -119,6 +121,7 @@ For Originz|i@KM|rAPRC STRS VOCL
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Furious Freak|i@KM|aAPRC EPNO SYNZ
+Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
@@ -138,6 +141,7 @@ How it Begins|i@KM|hAPRC SYNZ
 Hustle|i@KM|hAGTR APRC BASS JORG
 Hypnothis|i@KM|cEPRC SYNZ VOCL
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
+Ice Flow|i@KM|aAPRC SYNZ
 Immersed|i@KM|cAPNO
 In The West|i@KM|fAPRC CLNT FLUT STRS
 Infados|i@KM|fAPRC KLBA MRBA STRS
@@ -146,6 +150,7 @@ Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
 Inspired|i@KM|cAPRC EGTR SYNZ
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
+Intuit256|i@KM|fAPRC FLUT SYNZ
 Jerry Five|i@KM|hEPRC HPRC SYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Kawai Kitsune|i@KM|hEPRC SYNZ
@@ -171,6 +176,7 @@ March of the Mind|i@KM|sAPNO
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
+Mesmerizing Galaxy Loop|i@KM|fSYNZ
 Midday Dance|i@KM|hAPNO
 Mighty Like Us|i@KM|hAPRC SYNZ
 Minstrel Guild|i@KM|hAPRC BAGP OBOE STRS WHSL
@@ -197,6 +203,7 @@ Night Cave|i@KM|cAPRC KLBA MRBA
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 OctoBlues|i@KM & Brett Van Donsel|rAPRC BASS EGTR JORG
+One Sly Move|i@KM|sEGTR EPRC EPNO SYNZ
 // Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Organic Meditations One|i@KM|cAPRC BELL STRS
 Organic Meditations Three|i@KM|cAPNO STRS
@@ -211,6 +218,7 @@ Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
 Peace of Mind|i@KM|cAPNO STRS SYNZ
 Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
+Phat Sketch|i@KM|nEPRC SYNZ
 Pinball Spring|i@KM|hEPRC SYNZ
 Pinball Spring 160|i@KM|hEPRC SYNZ
 Pixelland|i@KM|hEPRC SYNZ
@@ -241,6 +249,7 @@ Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
 Shiny Tech|i@KM|hEPRC SYNZ
 Shiny Tech2|i@KM|nEPRC SYNZ
 Show Your Moves|i@KM|hEPRC SYNZ
+Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
@@ -284,6 +293,7 @@ Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
 Tyrant|i@KM|aEPRC SYNZ
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
+Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
