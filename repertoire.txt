@@ -47,6 +47,7 @@ Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 // Celebration Rock|z@BK|hAPRC EGTR SITR
 Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
+Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
 Cipher2|i@KM|hAPRC EPNO STRS SYNZ
@@ -83,6 +84,7 @@ Dirt Rhodes|i@KM|cEPNO EPRC
 Disco Lounge|i@KM|rAPRC STRS SYNZ VIBE
 Disco Medusae|i@KM|hBASS EGTR EPNO EPRC SYNZ
 Disco con Tutti|i@KM|hAPRC EGTR EPNO SYNZ TRBN TRPT
+District Four|i@KM|aBASS EGTR EPRC JORG
 Divertimento K131|i@KM & @WM|hBELL CLST HARP
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
 Double O|i@KM|aEPRC JORG SYNZ VOCL
@@ -120,6 +122,7 @@ Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 For Originz|i@KM|rAPRC STRS VOCL
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
+Funky Boxstep|i@KM|hAPRC BASS EGTR JORG
 Furious Freak|i@KM|aAPRC EPNO SYNZ
 Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
@@ -141,6 +144,8 @@ Heavy Heart|i@KM|sENST STRS WHSL
 How it Begins|i@KM|hAPRC SYNZ
 Hustle|i@KM|hAGTR APRC BASS JORG
 Hypnothis|i@KM|cEPRC SYNZ VOCL
+I Got a Stick Arr Bryan Teoh|i@KM & @BT|hAPRC BASS EGTR SAXO TRBN TRPT
+I Got a Stick Feat James Gavins|i@KM & @BT & James Gavins|hAPRC BASS EGTR SAXO TRBN TRPT VOCL
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
 Ice Flow|i@KM|aAPRC SYNZ
 Immersed|i@KM|cAPNO
@@ -173,11 +178,13 @@ Lightless Dawn|i@KM|sAPRC BELL STRS SYNZ
 Lift Motif|i@KM|rAPNO
 Limit 70|i@KM|cEPNO EPRC SYNZ
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
+Loopster|i@KM|nAPRC BASS EPNO
 March of the Mind|i@KM|sAPNO
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
 Mesmerizing Galaxy Loop|i@KM|fSYNZ
+Miami Viceroy|i@KM|cAPRC BASS EGTR SYNZ
 Midday Dance|i@KM|hAPNO
 Mighty Like Us|i@KM|hAPRC SYNZ
 Minstrel Guild|i@KM|hAPRC BAGP OBOE STRS WHSL
@@ -246,6 +253,7 @@ Robobozo|i@KM|fAPRC EGTR JORG SYNZ
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Salty Ditty|i@KM|hEPRC SYNZ
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
+Shaving Mirror|i@KM|hAPRC BASS EGTR JORG TRPT
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
 Shiny Tech|i@KM|hEPRC SYNZ
 Shiny Tech2|i@KM|nEPRC SYNZ
@@ -316,5 +324,6 @@ Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
 Windswept|i@KM|rAGTR STRS
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
+ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
 // celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|i@KM|cFLUT SYNZ TRBN
