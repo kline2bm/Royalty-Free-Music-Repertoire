@@ -16,6 +16,7 @@ Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
+Awkward Meeting|i@KM|fAPNO SYNZ
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
 Balloon Game|i@KM|hAPRC SYNZ
 Basement Floor|i@KM|fEPRC SYNZ VOCL
@@ -49,6 +50,8 @@ Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 // Celebration Rock|z@BK|hAPRC EGTR SITR
 Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
+Chase Pulse|i@KM|fAPRC SYNZ
+Chase Pulse Faster|i@KM|fAPRC SYNZ
 Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
@@ -58,7 +61,7 @@ Cloud Dancer|i@KM|hEPRC SYNZ VOCL
 Club Diver|i@KM|aEPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Comfortable Mystery|i@KM|sEPNO
-Comin Round the Mountain|i@KM & @TX|hAGTR APRC BASS SYNZ
+Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
@@ -68,6 +71,7 @@ Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
 DD Groove|i@KM|sAGTR APRC BASS JORG
 Dance Monster|i@KM|nAPNO EPRC SYNZ
+Dance of Deception|i@KM|fAPRC PORG
 Danger Storm|i@KM|aAGTR APRC SYNZ
 Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Macabre Isolated Harp|i@KM & @CS|rHARP
@@ -103,6 +107,8 @@ Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
 Easy Lemon 30 second|i@KM|cAGTR BASS MRBA
 Easy Lemon 60 second|i@KM|cAGTR APRC BASS CLST MRBA
 Ebbs and Flows|i@KM|cAPNO SYNZ
+Echoes of Time|i@KM|fBELL SYNZ
+Echoes of Time v2|i@KM|fSYNZ
 Egmont Overture|i@KM & @MO & @LB|nBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Egmont Overture Finale|i@KM & @MO & @LB|hBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Electro Cabello|i@KM|hEPRC SAXO SYNZ TRBN TRPT UKLE
@@ -120,6 +126,7 @@ Evening Fall - Piano|i@KM|sAPNO
 Energizing|i@KM|cAPRC SYNZ
 Exit the Premises|i@KM|aAPRC SYNZ
 // Far Out, Dude!|b@BK|cTODO
+Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
@@ -134,6 +141,8 @@ Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
+Ghost Story|i@KM|fAPNO APRC VIBE
+Gloom Horizon|i@KM|sAPRC STRS
 Go Cart|i@KM|aEPRC SYNZ
 Go Cart - Drop Mix|i@KM|aEPRC SYNZ
 Go Cart - Loop Mix|i@KM|aEPRC SYNZ
@@ -153,7 +162,7 @@ How it Begins|i@KM|hAPRC SYNZ
 Hustle|i@KM|hAGTR APRC BASS JORG
 Hypnothis|i@KM|cEPRC SYNZ VOCL
 I Got a Stick Arr Bryan Teoh|i@KM & @BT|hAPRC BASS EGTR SAXO TRBN TRPT
-I Got a Stick Feat James Gavins|i@KM & @BT & James Gavins|hAPRC BASS EGTR SAXO TRBN TRPT VOCL
+I Got a Stick Feat James Gavins|i@KM & @BT & @JG|hAPRC BASS EGTR SAXO TRBN TRPT VOCL
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
 Ice Flow|i@KM|aAPRC SYNZ
 Immersed|i@KM|cAPNO
@@ -189,10 +198,12 @@ Limit 70|i@KM|cEPNO EPRC SYNZ
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
 March of the Mind|i@KM|sAPNO
+Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
 Mesmerizing Galaxy Loop|i@KM|fSYNZ
+Metaphysik|i@KM|sAPNO STRS SYNZ
 Miami Viceroy|i@KM|cAPRC BASS EGTR SYNZ
 Midday Dance|i@KM|hAPNO
 Mighty Like Us|i@KM|hAPRC SYNZ
@@ -219,7 +230,7 @@ Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Cave|i@KM|cAPRC KLBA MRBA
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
-OctoBlues|i@KM & Brett Van Donsel|rAPRC BASS EGTR JORG
+OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
 One Sly Move|i@KM|sEGTR EPRC EPNO SYNZ
 // Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Organic Grunge|i@KM|aAPRC EGTR JORG
@@ -250,6 +261,9 @@ Presenterator|i@KM|hAPRC SYNZ
 Private Eye|i@KM|fAPRC BASS HORN TRBN TRPT
 Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
 // Questions of Time|z@BK|fEPNO HARP
+Quinns Song-A New Man|i@KM & @FC|sAPNO TIMP STRS VOCL
+Quinns Song-First Night|i@KM & @FC|fAPNO SYNZ
+Quinns Song-The Dance Begins|i@KM & @FC|sAPNO STRS
 Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
@@ -279,7 +293,7 @@ Smoother Move|i@KM|sAPNO
 Snowdrop|i@KM|sAPNO
 Soaring|i@KM|cSYNZ
 Son Of A Rocket|i@KM|hAPRC SYNZ
-Song of the Volga Boatmen|i@KM & @TX|sHORN TRBN TRPT TUBA
+Song of the Volga Boatmen|i@KM & @TR|sHORN TRBN TRPT TUBA
 Soporific|i@KM|sBELL EPNO EPRC
 Southern Gothic|i@KM|fAGTR APRC BNJO HPRC VOCL
 Space 1990|i@KM|cAPRC BELL SYNZ
@@ -303,12 +317,14 @@ Tafi Maradi no voice|i@KM|hAPRC
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
+The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Lift|i@KM|nEPRC SYNZ
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Way Out|i@KM|fAPRC SYNZ
 There It Is|i@KM|nBASS EGTR EPRC TRBN TRPT
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
+Thunder Dreams|i@KM|sSYNZ
 Tiny Fugue|i@KM|nPORG
 Tranquility|i@KM|cSYNZ
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
@@ -316,6 +332,7 @@ Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
 Tyrant|i@KM|aEPRC SYNZ
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
+Unnatural Situation|i@KM|fAPNO SYNZ
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
@@ -340,5 +357,6 @@ Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
 ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
+Zombie Chase|i@KM|fAPNO APRC SYNZ
 // celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|i@KM|cFLUT SYNZ TRBN
