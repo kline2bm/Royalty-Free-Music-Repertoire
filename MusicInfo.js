@@ -91,41 +91,35 @@ class MusicInfo {
    * Make like Houdini and get out of a seemingly impossible bondage situation
    * Or replace an artist code of the form @XY with the artist name
    * The artist codes reduce the size of the repertoire file by replacing common artists with fewer chars
-   * @AN Alexander Nakarada   @BB Bix L. B. Beiderbecke
-   * @BD Brett Van Donsel     @BK Bryce M. Kline
-   * @BT Bryan Teoh           @CS Charles-Camille Saint-Saëns
-   * @DS dogsounds            @EG Edvard H. Grieg
-   * @ES Erik A. Satie        @FC Frédéric F. Chopin
-   * @GR Gioachino A. Rossini @JB Johann S. Bach
-   * @JC John M. Cage         @JN John Newton
-   * @JP Johann Pachelbel     @KK Komiku
-   * @KM Kevin MacLeod        @LB Ludwig van Beethoven
-   * @MO MusOpen              @PB Philip P. Bliss
-   * @PS Phase Shift          @PT Pyotr I. Tchaikovsky
-   * @PX Pixabay              @SB Samuel O. Barber
-   * @SI Shane Ivers          @SJ Scott Joplin
-   * @TX Traditional          @VO Various Others
-   * @WM Wolfgang A. Mozart   @@ @
+   * @AN Alexander Nakarada           @BB Brian Boyko                  @BX Bix L. B. Beiderbecke
+   * @BD Brett Van Donsel             @BK Bryce M. Kline               @BT Bryan Teoh
+   * @CL Calixa Lavallée              @CS Charles-Camille Saint-Saëns  @DS dogsounds
+   * @EG Edvard H. Grieg              @ES Erik A. Satie                @FC Frédéric F. Chopin
+   * @GG George Gershwin              @GR Gioachino A. Rossini         @JB Johann S. Bach
+   * @JC John M. Cage                 @JG John Gavins                  @JN John Newton
+   * @JP Johann Pachelbel             @JS James Scott                  @KK Komiku
+   * @KM Kevin MacLeod                @LB Ludwig van Beethoven         @MM Modest P. Mussorgsky
+   * @MO MusOpen                      @PB Philip P. Bliss              @PS Phase Shift
+   * @PT Pyotr I. Tchaikovsky         @PX Pixabay                      @RK Rafael Krux
+   * @SB Samuel O. Barber             @SI Shane Ivers                  @SJ Scott Joplin
+   * @TR Traditional                  @VO Various Others               @WM Wolfgang A. Mozart
    * param string {string} a string that may contain an artist code
    * return {string} a string with artist codes replaced with their corresponding names
    */
   static escapeArtists(string) {
     return string
-      .replaceAll("@AN", "Alexander Nakarada")   .replaceAll("@BB", "Bix L. B. Beiderbecke")
-      .replaceAll("@BD", "Brett Van Donsel")     .replaceAll("@BK", "Bryce M. Kline")
-      .replaceAll("@BT", "Bryan Teoh")           .replaceAll("@CS", "Charles-Camille Saint-Saëns")
-      .replaceAll("@DS", "dogsounds")            .replaceAll("@EG", "Edvard H. Grieg")
-      .replaceAll("@ES", "Erik A. Satie")        .replaceAll("@FC", "Frédéric F. Chopin")
-      .replaceAll("@GR", "Gioachino A. Rossini") .replaceAll("@JB", "Johann S. Bach")
-      .replaceAll("@JC", "John M. Cage")         .replaceAll("@JN", "John Newton")
-      .replaceAll("@JP", "Johann Pachelbel")     .replaceAll("@KK", "Komiku")
-      .replaceAll("@KM", "Kevin MacLeod")        .replaceAll("@LB", "Ludwig van Beethoven")
-      .replaceAll("@MO", "MusOpen")              .replaceAll("@PB", "Philip P. Bliss")
-      .replaceAll("@PS", "Phase Shift")          .replaceAll("@PT", "Pyotr I. Tchaikovsky")
-      .replaceAll("@PX", "Pixabay")              .replaceAll("@SB", "Samuel O. Barber")
-      .replaceAll("@SI", "Shane Ivers")          .replaceAll("@SJ", "Scott Joplin")
-      .replaceAll("@TX", "Traditional")          .replaceAll("@VO", "Various Others")
-      .replaceAll("@WM", "Wolfgang A. Mozart")   .replaceAll("@@", "@")
+      .replaceAll("@AN", "Alexander Nakarada")   .replaceAll("@BB", "Brian Boyko")                 .replaceAll("@BX", "Bix L. B. Beiderbecke")
+      .replaceAll("@BD", "Brett Van Donsel")     .replaceAll("@BK", "Bryce M. Kline")              .replaceAll("@BT", "Bryan Teoh")
+      .replaceAll("@CL", "Calixa Lavallée")      .replaceAll("@CS", "Charles-Camille Saint-Saëns") .replaceAll("@DS", "dogsounds")
+      .replaceAll("@EG", "Edvard H. Grieg")      .replaceAll("@ES", "Erik A. Satie")               .replaceAll("@FC", "Frédéric F. Chopin")
+      .replaceAll("@GG", "George Gershwin")      .replaceAll("@GR", "Gioachino A. Rossini")        .replaceAll("@JB", "Johann S. Bach")
+      .replaceAll("@JC", "John M. Cage")         .replaceAll("@JG", "John Gavins")                 .replaceAll("@JN", "John Newton")
+      .replaceAll("@JP", "Johann Pachelbel")     .replaceAll("@JS", "James Scott")                 .replaceAll("@KK", "Komiku")
+      .replaceAll("@KM", "Kevin MacLeod")        .replaceAll("@LB", "Ludwig van Beethoven")        .replaceAll("@MM", "Modest P. Mussorgsky")
+      .replaceAll("@MO", "MusOpen")              .replaceAll("@PB", "Philip P. Bliss")             .replaceAll("@PS", "Phase Shift")
+      .replaceAll("@PT", "Pyotr I. Tchaikovsky") .replaceAll("@PX", "Pixabay")                     .replaceAll("@RK", "Rafael Krux")
+      .replaceAll("@SB", "Samuel O. Barber")     .replaceAll("@SI", "Shane Ivers")                 .replaceAll("@SJ", "Scott Joplin")
+      .replaceAll("@TR", "Traditional")          .replaceAll("@VO", "Various Others")              .replaceAll("@WM", "Wolfgang A. Mozart")
   }
 
   /**
