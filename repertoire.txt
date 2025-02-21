@@ -114,6 +114,7 @@ Egmont Overture Finale|i@KM & @MO & @LB|hBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Electro Cabello|i@KM|hEPRC SAXO SYNZ TRBN TRPT UKLE
 Electro Sketch|i@KM|aEPRC SYNZ
 Electrodoodle|i@KM|hEPRC SYNZ
+Energizing|i@KM|cAPRC SYNZ
 Enchanted Journey|i@KM|rHARP
 Enter the Party|i@KM|nEPRC JORG SYNZ
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
@@ -123,7 +124,6 @@ Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
 Ethernight Club|i@KM|nBELL EPRC MRBA SYNZ
 Evening|i@KM|cAGTR OBOE STRS
 Evening Fall - Piano|i@KM|sAPNO
-Energizing|i@KM|cAPRC SYNZ
 Exit the Premises|i@KM|aAPRC SYNZ
 // Far Out, Dude!|b@BK|cTODO
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
@@ -158,6 +158,7 @@ Healing|i@KM|cAGTR APRC FLUT STRS
 Heartwarming|i@KM|rAPNO
 Heavy Heart|i@KM|sENST STRS WHSL
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
+Horror_Spacial Winds|i@KM|cSYNZ
 How it Begins|i@KM|hAPRC SYNZ
 Hustle|i@KM|hAGTR APRC BASS JORG
 Hypnothis|i@KM|cEPRC SYNZ VOCL
@@ -174,6 +175,7 @@ Inspired|i@KM|cAPRC EGTR SYNZ
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
 Intuit256|i@KM|fAPRC FLUT SYNZ
+It is Lost|i@KM|sSYNZ
 Jerry Five|i@KM|hEPRC HPRC SYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Just Nasty|i@KM|aAPRC EPNO JORG SAXO TRBN TRPT
@@ -184,6 +186,7 @@ Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
 Klockworx|i@KM|nEPRC SYNZ
 Kumasi Groove|i@KM|cAPRC MRBA
 Kumasi Groove Flugelhorn|i@KM|cAPRC MRBA TRPT
+Land of Phantoms|i@KM|fAPRC
 Laser Groove|i@KM|nEPRC SYNZ
 Laserpack|i@KM|aAPRC EPRC SYNZ
 Late Night Radio|i@KM|cBASS EPNO EPRC SYNZ
@@ -206,12 +209,13 @@ Mesmerizing Galaxy Loop|i@KM|fSYNZ
 Metaphysik|i@KM|sAPNO STRS SYNZ
 Miami Viceroy|i@KM|cAPRC BASS EGTR SYNZ
 Midday Dance|i@KM|hAPNO
+Midnight Meeting|i@KM|sPORG
 Mighty Like Us|i@KM|hAPRC SYNZ
-Minstrel Guild|i@KM|hAPRC BAGP OBOE STRS WHSL
+Minstrel Guild|i@KM|hAPRC BAGP ENWD STRS WHSL
 Misuse|i@KM|fAPRC EPRC SYNZ VOCL
 // Modern Baroque|z@BK|nEPRC PORG
 Modern Vibes|i@KM|nVIBE
-// Modulus|b@BK|hBASS EPRC STRS  SYNZ VOCL
+// Modulus|b@BK|hBASS EPRC STRS SYNZ VOCL
 // Modulus (Ambient Mix)|b@BK|cSTRS SYNZ VOCL
 // Modulus 2|b@BK|hBASS EPRC STRS SYNZ VOCL
 // Modulus 2 (Ambient Mix)|b@BK|cSTRS SYNZ VOCL
@@ -227,6 +231,7 @@ Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
 New Friendly|i@KM|hEPRC SYNZ VOCL
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
+Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
@@ -278,6 +283,7 @@ Robobozo|i@KM|fAPRC EGTR JORG SYNZ
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Salty Ditty|i@KM|hEPRC SYNZ
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
+Seven March|i@KM|fAPRC SYNZ
 Shaving Mirror|i@KM|hAPRC BASS EGTR JORG TRPT
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
 Shiny Tech|i@KM|hEPRC SYNZ
@@ -312,6 +318,7 @@ Sunflower Dance Party|i@KM|hAPRC HPRC SYNZ
 Super Friendly|i@KM|hAPRC EPNO SYNZ VOCL
 Super Power Cool Dude|i@KM|hAPRC SYNZ
 Swimmey Texture|i@KM|cAPNO SYNZ
+Symmetry|i@KM|fEPRC SYNZ
 Tafi Maradi|i@KM|hAPRC VOCL
 Tafi Maradi no voice|i@KM|hAPRC
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
@@ -337,6 +344,7 @@ Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
+// TODO: move to APR Very Low Note|i@KM|fSYNZ
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
