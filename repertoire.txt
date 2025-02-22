@@ -6,6 +6,7 @@ Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 // African Rag|z@BK|hAPNO APRC SYNZ
 Agnus Dei X|i@KM & @SB|sPORG VOCL
 // Air of Mystery and Suspense|b@BK|fAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
+Airport Lounge|i@KM|hAPRC BASS EPNO VIBE
 Airship Serenity|i@KM|rSYNZ
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
@@ -16,6 +17,7 @@ Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
+Awesome Call|i@KM|hAPNO APRC BASS EPNO
 Awkward Meeting|i@KM|fAPNO SYNZ
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
 Balloon Game|i@KM|hAPRC SYNZ
@@ -64,6 +66,8 @@ Comfortable Mystery|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
+Corncob|i@KM|hAPRC BASS BNJO
+Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Cruising for Goblins|i@KM|fEPRC SYNZ
 Cut and Dry|i@KM|hAPRC EPRC SYNZ
@@ -138,11 +142,13 @@ Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 Funky Boxstep|i@KM|hAPRC BASS EGTR JORG
 Funky Chunk|i@KM|hAPRC BASS EGTR EPNO SYNZ TRPT
 Furious Freak|i@KM|aAPRC EPNO SYNZ
+Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghost Story|i@KM|fAPNO APRC VIBE
+George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
 Gloom Horizon|i@KM|sAPRC STRS
 Go Cart|i@KM|aEPRC SYNZ
 Go Cart - Drop Mix|i@KM|aEPRC SYNZ
@@ -175,6 +181,7 @@ Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
 Inspired|i@KM|cAPRC EGTR SYNZ
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
+Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
 Intuit256|i@KM|fAPRC FLUT SYNZ
 It is Lost|i@KM|sSYNZ
 Jerry Five|i@KM|hEPRC HPRC SYNZ
@@ -199,6 +206,8 @@ Light Thought var 2|i@KM|cEPNO
 Lightless Dawn|i@KM|sAPRC BELL STRS SYNZ
 Lift Motif|i@KM|rAPNO
 Limit 70|i@KM|cEPNO EPRC SYNZ
+Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
+Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
 March of the Mind|i@KM|sAPNO
@@ -234,6 +243,7 @@ New Friendly|i@KM|hEPRC SYNZ VOCL
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
+NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
@@ -282,14 +292,20 @@ Rising Tide|i@KM|cEPRC SYNZ
 Rising Tide (faster)|i@KM|cEPRC SYNZ
 Robobozo|i@KM|fAPRC EGTR JORG SYNZ
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
+Rocket Power|i@KM|aBASS EGTR EPRC JORG
+Rollin at 5|i@KM|nAPNO APRC BASS TRBN TRPT
+Rollin at 5 - electronic|i@KM|nEPRC SYNZ
 Salty Ditty|i@KM|hEPRC SYNZ
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
 Seven March|i@KM|fAPRC SYNZ
+Shades of Spring|i@KM|sAPNO APRC BASS
 Shaving Mirror|i@KM|hAPRC BASS EGTR JORG TRPT
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
 Shiny Tech|i@KM|hEPRC SYNZ
 Shiny Tech2|i@KM|nEPRC SYNZ
 Show Your Moves|i@KM|hEPRC SYNZ
+Sidewalk Shade|i@KM|cAPNO APRC BASS VIBE
+Sidewalk Shade - slower|i@KM|cAPNO APRC BASS VIBE
 Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
@@ -345,7 +361,9 @@ Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
+Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
 // TODO: move to APR Very Low Note|i@KM|fSYNZ
+Vibe Ace|i@KM|hAPRC BASS SYNZ VIBE
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
@@ -365,6 +383,7 @@ Windswept|i@KM|rAGTR STRS
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
+Zazie|i@KM|hAPRC BASS EPNO TRPT VOCL
 ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
 Zombie Chase|i@KM|fAPNO APRC SYNZ
 // celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
