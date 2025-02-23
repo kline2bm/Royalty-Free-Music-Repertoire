@@ -11,17 +11,24 @@ Airship Serenity|i@KM|rSYNZ
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
+Apero Hour|i@KM|hAGTR APRC BASS JORG
 Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
 Aretes|i@KM|rAPNO SYNZ VOCL
 Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
+As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
 Awesome Call|i@KM|hAPNO APRC BASS EPNO
 Awkward Meeting|i@KM|fAPNO SYNZ
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
+Backbay Lounge|i@KM|cAGTR APNO APRC BASS
+Backed Vibes|i@KM|nBASS EFFX VIBE
+Backed Vibes Clean|i@KM|nBASS VIBE
 Balloon Game|i@KM|hAPRC SYNZ
 Basement Floor|i@KM|fEPRC SYNZ VOCL
+Bass Vibes|i@KM|nAPRC BASS EPNO
+Bass Walker|i@KM|nBASS
 Bathed in the Light|i@KM|cSYNZ
 // Battle of the Desert Aliens|b@BK|fAPRC DULC EGTR MRBA PFLT SYNZ VOCL
 Beauty Flow|i@KM|cAPRC BASS SYNZ
@@ -33,7 +40,8 @@ Blippy Trance|i@KM|hSYNZ
 Blue Feather|i@KM|sAPNO
 Blue Paint|i@KM|cAPNO
 Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
-// Blues 'n' Noise|z@BK|nAGTR APRC TUBA 
+// Blues 'n' Noise|z@BK|nAGTR APRC TUBA
+Bossa Antigua|i@KM|cAGTR APRC BASS
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
@@ -66,9 +74,11 @@ Comfortable Mystery|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
+Cool Blast|i@KM|hBASS EPNO EPRC TRPT STRS
 Corncob|i@KM|hAPRC BASS BNJO
 Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
+Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Cruising for Goblins|i@KM|fEPRC SYNZ
 Cut and Dry|i@KM|hAPRC EPRC SYNZ
 Cut and Run|i@KM|nEPRC HPRC SYNZ
@@ -76,6 +86,7 @@ Cyborg Ninja|i@KM|aEPRC SYNZ
 DD Groove|i@KM|sAGTR APRC BASS JORG
 Dance Monster|i@KM|nAPNO EPRC SYNZ
 Dance of Deception|i@KM|fAPRC PORG
+Dances and Dames|i@KM|fAPRC BASS EPNO VOCL
 Danger Storm|i@KM|aAGTR APRC SYNZ
 Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Macabre Isolated Harp|i@KM & @CS|rHARP
@@ -83,10 +94,12 @@ Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS
 Danse Morialta|i@KM|rAPNO
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
+Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
 // Decent Descent|b@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
+Deuces|i@KM|rAPNO APRC BASS JORG
 Devastation and Revenge|i@KM|fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
 Digital Lemonade|i@KM|hAPRC SYNZ
 Digya|i@KM|nAPRC BASS ENST MRBA
@@ -94,6 +107,7 @@ Dirt Rhodes|i@KM|cEPNO EPRC
 Disco Lounge|i@KM|rAPRC STRS SYNZ VIBE
 Disco Medusae|i@KM|hBASS EGTR EPNO EPRC SYNZ
 Disco con Tutti|i@KM|hAPRC EGTR EPNO SYNZ TRBN TRPT
+Dispersion Relation|i@KM|nAPNO APRC BASS FLUT TRPT VIBE
 District Four|i@KM|aBASS EGTR EPRC JORG
 Divertimento K131|i@KM & @WM|hBELL CLST HARP
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
@@ -131,6 +145,8 @@ Evening|i@KM|cAGTR OBOE STRS
 Evening Fall - Piano|i@KM|sAPNO
 Exit the Premises|i@KM|aAPRC SYNZ
 // Far Out, Dude!|b@BK|cTODO
+Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
+Faster Does It|i@KM|aAPRC BASS
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
@@ -154,16 +170,19 @@ Go Cart|i@KM|aEPRC SYNZ
 Go Cart - Drop Mix|i@KM|aEPRC SYNZ
 Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
+Groove Grove|i@KM|fAPRC EPNO SYNZ
 Gymnopedie No 1|i@KM & @ES|sAPNO
 Gymnopedie No 2|i@KM & @ES|sAPNO
 Gymnopedie No 3|i@KM & @ES|sAPNO
 Half Mystery|i@KM|cEPRC SYNZ
 Hall of the Mountain King|i@KM & @MO & @EG|aAPRC BASN CLNT FLUT HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 Happy Happy Game Show|i@KM|hAPNO APRC BASS JORG TRPT
+Hard Boiled|i@KM|cAPNO APRC BASS
 Harmful or Fatal|i@KM|aEGTR EPRC SYNZ
 Healing|i@KM|cAGTR APRC FLUT STRS
 Heartwarming|i@KM|rAPNO
 Heavy Heart|i@KM|sENST STRS WHSL
+Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
 Horror_Spacial Winds|i@KM|cSYNZ
 How it Begins|i@KM|hAPRC SYNZ
@@ -171,10 +190,12 @@ Hustle|i@KM|hAGTR APRC BASS JORG
 Hypnothis|i@KM|cEPRC SYNZ VOCL
 I Got a Stick Arr Bryan Teoh|i@KM & @BT|hAPRC BASS EGTR SAXO TRBN TRPT
 I Got a Stick Feat James Gavins|i@KM & @BT & @JG|hAPRC BASS EGTR SAXO TRBN TRPT VOCL
+I Knew a Guy|i@KM|cAPRC BASS VIBE
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
 Ice Flow|i@KM|aAPRC SYNZ
 Immersed|i@KM|cAPNO
 In The West|i@KM|fAPRC CLNT FLUT STRS
+In Your Arms|i@KM|rAPRC BASS MUTE SAXO TRBN
 Infados|i@KM|fAPRC KLBA MRBA STRS
 Infinite Perspective|i@KM|cAPNO FLUT HARP HORN OBOE SYNZ VOCL
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
@@ -184,8 +205,10 @@ Inspired|i@KM|cAPRC EGTR SYNZ
 Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
 Intuit256|i@KM|fAPRC FLUT SYNZ
 It is Lost|i@KM|sSYNZ
+Jazz Brunch|i@KM|rAGTR APRC BASS EPNO JORG
 Jerry Five|i@KM|hEPRC HPRC SYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
+Just As Soon|i@KM|sAGTR APRC BASS EPNO SAXO
 Just Nasty|i@KM|aAPRC EPNO JORG SAXO TRBN TRPT
 Kawai Kitsune|i@KM|hEPRC SYNZ
 Kick Shock|i@KM|aAPRC EPRC SYNZ
@@ -206,6 +229,8 @@ Light Thought var 2|i@KM|cEPNO
 Lightless Dawn|i@KM|sAPRC BELL STRS SYNZ
 Lift Motif|i@KM|rAPNO
 Limit 70|i@KM|cEPNO EPRC SYNZ
+Lobby Time|i@KM|hAPNO APRC BASS VIBE
+Local Forecase|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
@@ -243,12 +268,18 @@ New Friendly|i@KM|hEPRC SYNZ VOCL
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
+Night on the Docks|i@KM|sEPNO
+Night on the Docks - Sax|i@KM|sEPNO SAXO
+Night on the Docks - Trumpet|i@KM|sEPNO MUTE
 NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
+On the Cool Side|i@KM|sAPRC BASS EPNO SAXO TRPT
+On the Ground|i@KM|fAPRC BASS EPNO
 One Sly Move|i@KM|sEGTR EPRC EPNO SYNZ
 // Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
+Opportunity Walks|i@KM|sAPNO APRC BASS
 Organic Grunge|i@KM|aAPRC EGTR JORG
 Organic Meditations One|i@KM|cAPRC BELL STRS
 Organic Meditations Three|i@KM|cAPNO STRS
@@ -296,6 +327,8 @@ Rocket Power|i@KM|aBASS EGTR EPRC JORG
 Rollin at 5|i@KM|nAPNO APRC BASS TRBN TRPT
 Rollin at 5 - electronic|i@KM|nEPRC SYNZ
 Salty Ditty|i@KM|hEPRC SYNZ
+Samba Isobel|i@KM|rAPNO APRC BASS
+Secret of Tiki Island|i@KM & @BT|fAGTR APNO APRC BASS JORG VIBE VOCL
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
 Seven March|i@KM|fAPRC SYNZ
 Shades of Spring|i@KM|sAPNO APRC BASS
@@ -311,6 +344,7 @@ Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
 Slow Heat|i@KM|cAPRC MRBA
+Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
 Smooth Move|i@KM|nEPRC SYNZ
 Smoother Move|i@KM|sAPNO
 Snowdrop|i@KM|sAPNO
@@ -322,9 +356,11 @@ Southern Gothic|i@KM|fAGTR APRC BNJO HPRC VOCL
 Space 1990|i@KM|cAPRC BELL SYNZ
 Space 1990-B|i@KM|cAPRC BELL SYNZ
 Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
+Space Jazz|i@KM|hAPRC JORG SYNZ
 Spacial Harvest|i@KM|fSYNZ
 Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 // Spooky Dance Party|b@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
+Spy Glass|i@KM|fAPNO APRC FLUT HPRC MUTE SAXO VIBE
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
 String Impromptu Number 1|i@KM|cSTRS
@@ -355,6 +391,7 @@ Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
 Tyrant|i@KM|aEPRC SYNZ
+Ultralounge|i@KM|rAPNO APRC BASS SYNZ
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
@@ -364,6 +401,7 @@ Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
 Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
 // TODO: move to APR Very Low Note|i@KM|fSYNZ
 Vibe Ace|i@KM|hAPRC BASS SYNZ VIBE
+Vibing Over Venus|i@KM & Alice Goodworth & Radio Kilimanjaro Automaton Ensemble|cAPNO APRC BASS STRS VIBE
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
@@ -371,6 +409,7 @@ Voice Over Under|i@KM|hAPRC HPRC SYNZ
 Voltaic|i@KM|aEPRC SYNZ
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
+Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Wet Riffs|i@KM|cBASS
 What Is Love|i@KM|rEPRC STRS SYNZ
