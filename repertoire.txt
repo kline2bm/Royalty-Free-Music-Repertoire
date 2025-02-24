@@ -22,15 +22,18 @@ Awaiting Return|i@KM & @GH|sAPNO
 Awesome Call|i@KM|hAPNO APRC BASS EPNO
 Awkward Meeting|i@KM|fAPNO SYNZ
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
+Back on Track|i@KM|nAPRC BASS
 Backbay Lounge|i@KM|cAGTR APNO APRC BASS
 Backed Vibes|i@KM|nBASS EFFX VIBE
 Backed Vibes Clean|i@KM|nBASS VIBE
 Balloon Game|i@KM|hAPRC SYNZ
 Basement Floor|i@KM|fEPRC SYNZ VOCL
+Bass Soli|i@KM|cBASS
 Bass Vibes|i@KM|nAPRC BASS EPNO
 Bass Walker|i@KM|nBASS
 Bathed in the Light|i@KM|cSYNZ
 // Battle of the Desert Aliens|b@BK|fAPRC DULC EGTR MRBA PFLT SYNZ VOCL
+Beachfront Celebration|i@KM|hAPNO APRC BASS HORN STDR TRBN TRPT
 Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
 Bit Shift|i@KM|hEPRC SYNZ
@@ -42,6 +45,7 @@ Blue Paint|i@KM|cAPNO
 Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
 // Blues 'n' Noise|z@BK|nAGTR APRC TUBA
 Bossa Antigua|i@KM|cAGTR APRC BASS
+BossaBossa|i@KM|cAGTR APNO APRC BASS
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
@@ -62,6 +66,11 @@ Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
 Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
+Chee Zee Beach|i@KM|hAPRC BASS EGTR MRBA STDR
+Chee Zee Cave|i@KM|
+Chee Zee Caves v2|i@KM|
+Chee Zee Jungle|i@KM|
+Chee Zee Lab|i@KM|
 Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
@@ -72,6 +81,7 @@ Club Diver|i@KM|aEPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Comfortable Mystery|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
+Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 Cool Blast|i@KM|hBASS EPNO EPRC TRPT STRS
@@ -80,6 +90,9 @@ Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Cruising for Goblins|i@KM|fEPRC SYNZ
+Cuban Sandwich|i@KM|cAPNO APRC BASS
+CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
+CumbiaNoFrillsFaster|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 Cut and Dry|i@KM|hAPRC EPRC SYNZ
 Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
@@ -96,6 +109,8 @@ Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
 Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
 // Decent Descent|b@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
+Decisions|i@KM|fAPRC EPRC STRS SYNZ VOCL
+Del Rio Bravo|i@KM|hACDN APRC BASS MRBA
 Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
@@ -147,6 +162,7 @@ Exit the Premises|i@KM|aAPRC SYNZ
 // Far Out, Dude!|b@BK|cTODO
 Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
+Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
@@ -174,6 +190,7 @@ Groove Grove|i@KM|fAPRC EPNO SYNZ
 Gymnopedie No 1|i@KM & @ES|sAPNO
 Gymnopedie No 2|i@KM & @ES|sAPNO
 Gymnopedie No 3|i@KM & @ES|sAPNO
+Hackbeat|i@KM|hAGTR APRC BASS
 Half Mystery|i@KM|cEPRC SYNZ
 Hall of the Mountain King|i@KM & @MO & @EG|aAPRC BASN CLNT FLUT HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 Happy Happy Game Show|i@KM|hAPNO APRC BASS JORG TRPT
@@ -196,6 +213,7 @@ Ice Flow|i@KM|aAPRC SYNZ
 Immersed|i@KM|cAPNO
 In The West|i@KM|fAPRC CLNT FLUT STRS
 In Your Arms|i@KM|rAPRC BASS MUTE SAXO TRBN
+Inexorable|i@KM|fAPNO EFFX
 Infados|i@KM|fAPRC KLBA MRBA STRS
 Infinite Perspective|i@KM|cAPNO FLUT HARP HORN OBOE SYNZ VOCL
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
@@ -208,6 +226,7 @@ It is Lost|i@KM|sSYNZ
 Jazz Brunch|i@KM|rAGTR APRC BASS EPNO JORG
 Jerry Five|i@KM|hEPRC HPRC SYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
+Junkyard Tribe|i@KM|aEPRC
 Just As Soon|i@KM|sAGTR APRC BASS EPNO SAXO
 Just Nasty|i@KM|aAPRC EPNO JORG SAXO TRBN TRPT
 Kawai Kitsune|i@KM|hEPRC SYNZ
@@ -217,6 +236,7 @@ Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
 Klockworx|i@KM|nEPRC SYNZ
 Kumasi Groove|i@KM|cAPRC MRBA
 Kumasi Groove Flugelhorn|i@KM|cAPRC MRBA TRPT
+Laid Back Guitars|i@KM|sAGTR APRC
 Land of Phantoms|i@KM|fAPRC
 Laser Groove|i@KM|nEPRC SYNZ
 Laserpack|i@KM|aAPRC EPRC SYNZ
@@ -237,6 +257,7 @@ Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
 March of the Mind|i@KM|sAPNO
 Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
+Master of the Feast|i@KM|fDULC EPRC SYNZ
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
@@ -249,6 +270,8 @@ Mighty Like Us|i@KM|hAPRC SYNZ
 Minstrel Guild|i@KM|hAPRC BAGP ENWD STRS WHSL
 Misuse|i@KM|fAPRC EPRC SYNZ VOCL
 // Modern Baroque|z@BK|nEPRC PORG
+Modern Jazz Samba|i@KM|nAGTR APNO APRC BASS FLUT
+Modern Piano Zeta - Improbable|i@KM|hAPNO
 Modern Vibes|i@KM|nVIBE
 // Modulus|b@BK|hBASS EPRC STRS SYNZ VOCL
 // Modulus (Ambient Mix)|b@BK|cSTRS SYNZ VOCL
@@ -271,7 +294,10 @@ Night Cave|i@KM|cAPRC KLBA MRBA
 Night on the Docks|i@KM|sEPNO
 Night on the Docks - Sax|i@KM|sEPNO SAXO
 Night on the Docks - Trumpet|i@KM|sEPNO MUTE
+No Frills Salsa|i@KM|hAPNO APRC BASS TRBN TRPT
+No Frills Salsa - Alternate|i@KM|hAPRC BASS TRBN TRPT
 NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
+Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
@@ -293,6 +319,7 @@ Overworld|i@KM|fEPRC SYNZ
 Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
 Peace of Mind|i@KM|cAPNO STRS SYNZ
+Peppy Pepe|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
 Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
 Phat Sketch|i@KM|nEPRC SYNZ
 Pinball Spring|i@KM|hEPRC SYNZ
@@ -319,6 +346,7 @@ Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
 Reunited|i@KM|rAPNO APRC STRS
 Revival|i@KM|cAPRC BASS EGTR EPNO VOCL
+Rising|i@KM|fAPRC EPRC STRS SYNZ VOCL
 Rising Tide|i@KM|cEPRC SYNZ
 Rising Tide (faster)|i@KM|cEPRC SYNZ
 Robobozo|i@KM|fAPRC EGTR JORG SYNZ
@@ -374,6 +402,7 @@ Swimmey Texture|i@KM|cAPNO SYNZ
 Symmetry|i@KM|fEPRC SYNZ
 Tafi Maradi|i@KM|hAPRC VOCL
 Tafi Maradi no voice|i@KM|hAPRC
+Tango de Manzana|i@KM|rACDN APNO APRC BASS FLUT STRS
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
@@ -397,6 +426,7 @@ Unnatural Situation|i@KM|fAPNO SYNZ
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
+Vanes|i@KM|sEPNO EPRC HARP SYNZ
 Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
 Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
 // TODO: move to APR Very Low Note|i@KM|fSYNZ
@@ -405,12 +435,14 @@ Vibing Over Venus|i@KM & Alice Goodworth & Radio Kilimanjaro Automaton Ensemble|
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
+Vivacity|i@KM|hAPRC BASS JORG VIBE
 Voice Over Under|i@KM|hAPRC HPRC SYNZ
 Voltaic|i@KM|aEPRC SYNZ
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
 Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
+Wepa|i@KM|nBASS EPRC STRS
 Wet Riffs|i@KM|cBASS
 What Is Love|i@KM|rEPRC STRS SYNZ
 Whimsy Groove|i@KM|hAPRC MRBA
