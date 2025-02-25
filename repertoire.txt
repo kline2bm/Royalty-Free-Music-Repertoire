@@ -71,6 +71,7 @@ Chee Zee Cave|i@KM|
 Chee Zee Caves v2|i@KM|
 Chee Zee Jungle|i@KM|
 Chee Zee Lab|i@KM|
+// Chill Science|b@BK & @SI|cAPNO SAXO STRS
 Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
