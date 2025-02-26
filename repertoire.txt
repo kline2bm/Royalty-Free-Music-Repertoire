@@ -28,6 +28,7 @@ Backed Vibes|i@KM|nBASS EFFX VIBE
 Backed Vibes Clean|i@KM|nBASS VIBE
 Balloon Game|i@KM|hAPRC SYNZ
 Basement Floor|i@KM|fEPRC SYNZ VOCL
+Basic Implosion|i@KM|aEPRC HPRC SYNZ
 Bass Soli|i@KM|cBASS
 Bass Vibes|i@KM|nAPRC BASS EPNO
 Bass Walker|i@KM|nBASS
@@ -40,6 +41,8 @@ Bit Shift|i@KM|hEPRC SYNZ
 Bleeping Demo|i@KM|cAPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
 Blippy Trance|i@KM|hSYNZ
+Blown Away|i@KM|aAPRC SYNZ
+Blown Away - No Percussion|i@KM|aSYNZ
 Blue Feather|i@KM|sAPNO
 Blue Paint|i@KM|cAPNO
 Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
@@ -49,6 +52,7 @@ BossaBossa|i@KM|cAGTR APNO APRC BASS
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
+Bummin on Tremelo|i@KM|rAPRC BASS EGTR JORG VOCL
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 C-Funk|i@KM|nAPRC BASS EGTR MUTE SAXO
 Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
@@ -77,6 +81,7 @@ Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
 Cipher2|i@KM|hAPRC EPNO STRS SYNZ
 Clean Soul|i@KM|cBASS EPNO
+Clear Air|i@KM|rAGTR APNO
 Cloud Dancer|i@KM|hEPRC SYNZ VOCL
 Club Diver|i@KM|aEPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
@@ -129,11 +134,13 @@ Divertimento K131|i@KM & @WM|hBELL CLST HARP
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
 Dopplerette|i@KM|fBELL SYNZ
 Double O|i@KM|aEPRC JORG SYNZ VOCL
+Double Polka|i@KM|hACDN APRC TUBA
 Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
 Drone in D|i@KM|cAPNO SYNZ
 Dubakupado|i@KM|nAPRC MRBA
+Dvorak Polka|i@KM|hACDN APRC TUBA
 // E-OPS|b@BK|nEPRC JORG SYNZ VOCL
 EDM Detection Mode|i@KM|aEPRC SYNZ
 Earnest|i@KM|sAPNO
@@ -166,10 +173,12 @@ Faster Does It|i@KM|aAPRC BASS
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Flutey Funk|i@KM|nAPRC BASS FLUT
+Flying Kerfuffle|i@KM|hEPRC SYNZ
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 For Originz|i@KM|rAPRC STRS VOCL
 Fork and Spoon|i@KM|hAPRC BASS EGTR JORG
+Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Funky Boxstep|i@KM|hAPRC BASS EGTR JORG
@@ -182,12 +191,14 @@ Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghost Story|i@KM|fAPNO APRC VIBE
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
+Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR TRPT SAXO
 Gloom Horizon|i@KM|sAPRC STRS
 Go Cart|i@KM|aEPRC SYNZ
 Go Cart - Drop Mix|i@KM|aEPRC SYNZ
 Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
 Groove Grove|i@KM|fAPRC EPNO SYNZ
+Guts and Bourbon|i@KM|hAPRC BASS EGTR MDLN
 Gymnopedie No 1|i@KM & @ES|sAPNO
 Gymnopedie No 2|i@KM & @ES|sAPNO
 Gymnopedie No 3|i@KM & @ES|sAPNO
@@ -256,6 +267,7 @@ Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
+Manic Polka|i@KM|hACDN APRC TUBA
 March of the Mind|i@KM|sAPNO
 Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
 Master of the Feast|i@KM|fDULC EPRC SYNZ
@@ -297,6 +309,7 @@ Night on the Docks - Sax|i@KM|sEPNO SAXO
 Night on the Docks - Trumpet|i@KM|sEPNO MUTE
 No Frills Salsa|i@KM|hAPNO APRC BASS TRBN TRPT
 No Frills Salsa - Alternate|i@KM|hAPRC BASS TRBN TRPT
+No Spam Polka|i@KM|hACDN APRC TUBA
 NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
 Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
 Nowhere Land|i@KM|hAPRC SYNZ
@@ -327,6 +340,7 @@ Pinball Spring|i@KM|hEPRC SYNZ
 Pinball Spring 160|i@KM|hEPRC SYNZ
 Pixelland|i@KM|hEPRC SYNZ
 Pleasant Porridge|i@KM|cAPRC BASS EGTR EPNO
+Poofy Reel|i@KM|nAGTR APRC BASS EPNO
 Porch Blues|i@KM|cAGTR APNO HMCA
 Porch Swing Days - faster|i@KM|rAGTR APRC BASS VOCL
 Porch Swing Days - slower|i@KM|rAGTR APRC BASS VOCL
@@ -335,6 +349,7 @@ Prelude in C - BWV 846|i@KM & @JB|rAPNO
 Presenterator|i@KM|hAPRC SYNZ
 Private Eye|i@KM|fAPRC BASS HORN TRBN TRPT
 Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
+Pyro Flow|i@KM|aAPNO APRC BASS SYNZ
 // Questions of Time|z@BK|fEPNO HARP
 Quinns Song-A New Man|i@KM & @FC|sAPNO TIMP STRS VOCL
 Quinns Song-First Night|i@KM & @FC|fAPNO SYNZ
@@ -376,8 +391,11 @@ Slow Heat|i@KM|cAPRC MRBA
 Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
 Smooth Move|i@KM|nEPRC SYNZ
 Smoother Move|i@KM|sAPNO
+Snare Bounce Polka|i@KM|hACDN APRC TUBA
 Snowdrop|i@KM|sAPNO
 Soaring|i@KM|cSYNZ
+Somewhere Sunny|i@KM|rAGTR
+Somewhere Sunny (ver 2)|i@KM|rAGTR
 Son Of A Rocket|i@KM|hAPRC SYNZ
 Song of the Volga Boatmen|i@KM & @TR|sHORN TRBN TRPT TUBA
 Soporific|i@KM|sBELL EPNO EPRC
@@ -397,7 +415,10 @@ Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
 Sunflower Dance Party|i@KM|hAPRC HPRC SYNZ
+Sunshine A|i@KM|hAGTR APNO APRC BASS
+Sunshine ver 2|i@KM|hAGTR APNO APRC BASS
 Super Friendly|i@KM|hAPRC EPNO SYNZ VOCL
+Super Polka|i@KM|hAPRC BASS CLNT EGTR TRPT
 Super Power Cool Dude|i@KM|hAPRC SYNZ
 Swimmey Texture|i@KM|cAPNO SYNZ
 Symmetry|i@KM|fEPRC SYNZ
@@ -421,6 +442,7 @@ Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
 Tyrant|i@KM|aEPRC SYNZ
+Ultra Polka|i@KM|hEPRC SYNZ
 Ultralounge|i@KM|rAPNO APRC BASS SYNZ
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
@@ -444,6 +466,7 @@ Wallpaper|i@KM|hAGTR APRC SYNZ
 Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Wepa|i@KM|nBASS EPRC STRS
+Werq|i@KM|hEPRC SYNZ
 Wet Riffs|i@KM|cBASS
 What Is Love|i@KM|rEPRC STRS SYNZ
 Whimsy Groove|i@KM|hAPRC MRBA
