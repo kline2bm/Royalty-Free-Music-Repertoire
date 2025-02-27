@@ -34,6 +34,7 @@ Bass Vibes|i@KM|nAPRC BASS EPNO
 Bass Walker|i@KM|nBASS
 Bathed in the Light|i@KM|cSYNZ
 // Battle of the Desert Aliens|b@BK|fAPRC DULC EGTR MRBA PFLT SYNZ VOCL
+Beach Party|i@KM|hAPRC BASS EGTR JORG STDR
 Beachfront Celebration|i@KM|hAPNO APRC BASS HORN STDR TRBN TRPT
 Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
@@ -139,12 +140,15 @@ Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
 Drone in D|i@KM|cAPNO SYNZ
+Dub Eastern|i@KM|fAPRC BASS EGTR EPNO SYNZ
+Dub Feral|i@KM|fAPRC BASS EGTR EPNO SYNZ
 Dubakupado|i@KM|nAPRC MRBA
 Dvorak Polka|i@KM|hACDN APRC TUBA
 // E-OPS|b@BK|nEPRC JORG SYNZ VOCL
 EDM Detection Mode|i@KM|aEPRC SYNZ
 Earnest|i@KM|sAPNO
 Eastminster|i@KM|cEFFX ENST STRS
+Easy Jam|i@KM|sAPRC BASS EGTR FLUT TRBN TRPT
 Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
 Easy Lemon 30 second|i@KM|cAGTR BASS MRBA
 Easy Lemon 60 second|i@KM|cAGTR APRC BASS CLST MRBA
@@ -172,6 +176,7 @@ Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
+Firmament|i@KM|nAPRC BASS EGTR JORG
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Flying Kerfuffle|i@KM|hEPRC SYNZ
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
@@ -196,6 +201,8 @@ Gloom Horizon|i@KM|sAPRC STRS
 Go Cart|i@KM|aEPRC SYNZ
 Go Cart - Drop Mix|i@KM|aEPRC SYNZ
 Go Cart - Loop Mix|i@KM|aEPRC SYNZ
+Gonna Start|i@KM|hAPNO APRC BASS EGTR JORG
+Gonna Start v2|i@KM|hAPNO APRC BASS EGTR JORG
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
 Groove Grove|i@KM|fAPRC EPNO SYNZ
 Guts and Bourbon|i@KM|hAPRC BASS EGTR MDLN
@@ -267,6 +274,7 @@ Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
+Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Manic Polka|i@KM|hACDN APRC TUBA
 March of the Mind|i@KM|sAPNO
 Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
@@ -388,6 +396,7 @@ Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
 Slow Heat|i@KM|cAPRC MRBA
+Smash Sketch|i@KM|aBASS EPRC EPNO JORG
 Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
 Smooth Move|i@KM|nEPRC SYNZ
 Smoother Move|i@KM|sAPNO
@@ -410,6 +419,7 @@ Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 Spy Glass|i@KM|fAPNO APRC FLUT HPRC MUTE SAXO VIBE
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
+Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
 String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
@@ -425,6 +435,7 @@ Symmetry|i@KM|fEPRC SYNZ
 Tafi Maradi|i@KM|hAPRC VOCL
 Tafi Maradi no voice|i@KM|hAPRC
 Tango de Manzana|i@KM|rACDN APNO APRC BASS FLUT STRS
+Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
@@ -434,6 +445,7 @@ The Lift|i@KM|nEPRC SYNZ
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Way Out|i@KM|fAPRC SYNZ
 There It Is|i@KM|nBASS EGTR EPRC TRBN TRPT
+Thief in the Night|i@KM|cAPRC BASS EGTR JORG
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
 Thunder Dreams|i@KM|sSYNZ
 Tiny Fugue|i@KM|nPORG
