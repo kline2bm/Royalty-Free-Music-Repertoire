@@ -48,12 +48,15 @@ Blue Feather|i@KM|sAPNO
 Blue Paint|i@KM|cAPNO
 Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
 // Blues 'n' Noise|z@BK|nAGTR APRC TUBA
+Boogie Party|i@KM|hAPNO APRC BASS JORG
 Bossa Antigua|i@KM|cAGTR APRC BASS
 BossaBossa|i@KM|cAGTR APNO APRC BASS
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
+Breakdown|i@KM|nAPRC BASS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
 Bummin on Tremelo|i@KM|rAPRC BASS EGTR JORG VOCL
+Burn The World Waltz |i@KM & @AN|aAPRC BASS EGTR
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 C-Funk|i@KM|nAPRC BASS EGTR MUTE SAXO
 Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
@@ -73,7 +76,7 @@ Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
 Chee Zee Beach|i@KM|hAPRC BASS EGTR MRBA STDR
 Chee Zee Cave|i@KM|
-Chee Zee Caves v2|i@KM|
+Chee Zee Caves V2|i@KM|
 Chee Zee Jungle|i@KM|
 Chee Zee Lab|i@KM|
 // Chill Science|b@BK & @SI|cAPNO SAXO STRS
@@ -92,6 +95,7 @@ Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 Cool Blast|i@KM|hBASS EPNO EPRC TRPT STRS
+Cool Rock|i@KM|hAPRC BASS EGTR
 Corncob|i@KM|hAPRC BASS BNJO
 Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
@@ -157,6 +161,8 @@ Echoes of Time|i@KM|fBELL SYNZ
 Echoes of Time v2|i@KM|fSYNZ
 Egmont Overture|i@KM & @MO & @LB|nBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Egmont Overture Finale|i@KM & @MO & @LB|hBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
+Eighties Action|i@KM|nAPRC SYNZ
+El Magicia|i@KM|aAGTR APRC EGTR
 Electro Cabello|i@KM|hEPRC SAXO SYNZ TRBN TRPT UKLE
 Electro Sketch|i@KM|aEPRC SYNZ
 Electrodoodle|i@KM|hEPRC SYNZ
@@ -174,12 +180,14 @@ Exit the Premises|i@KM|aAPRC SYNZ
 // Far Out, Dude!|b@BK|cTODO
 Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
+Feelin Good|i@KM|hAPRC BASS EGTR JORG
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Firmament|i@KM|nAPRC BASS EGTR JORG
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Flying Kerfuffle|i@KM|hEPRC SYNZ
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
+Funin and Sunin|i@KM|hAPRC BASS EGTR JORG
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 For Originz|i@KM|rAPRC STRS VOCL
 Fork and Spoon|i@KM|hAPRC BASS EGTR JORG
@@ -212,6 +220,8 @@ Gymnopedie No 3|i@KM & @ES|sAPNO
 Hackbeat|i@KM|hAGTR APRC BASS
 Half Mystery|i@KM|cEPRC SYNZ
 Hall of the Mountain King|i@KM & @MO & @EG|aAPRC BASN CLNT FLUT HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA
+Happy Bee|i@KM|hBASS EPRC JORG
+Happy Bee - Surf|i@KM|hAPRC BASS EGTR JORG
 Happy Happy Game Show|i@KM|hAPNO APRC BASS JORG TRPT
 Hard Boiled|i@KM|cAPNO APRC BASS
 Harmful or Fatal|i@KM|aEGTR EPRC SYNZ
@@ -221,6 +231,7 @@ Heavy Heart|i@KM|sENST STRS WHSL
 Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
 Horror_Spacial Winds|i@KM|cSYNZ
+Hotrock|i@KM|aAPRC BASS EGTR SAXO TRPT
 How it Begins|i@KM|hAPRC SYNZ
 Hustle|i@KM|hAGTR APRC BASS JORG
 Hypnothis|i@KM|cEPRC SYNZ VOCL
@@ -275,6 +286,7 @@ Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
+Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
 Manic Polka|i@KM|hACDN APRC TUBA
 March of the Mind|i@KM|sAPNO
 Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
@@ -283,6 +295,7 @@ Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
 Mesmerizing Galaxy Loop|i@KM|fSYNZ
+Metalmania|i@KM|aAPRC BASS EGTR
 Metaphysik|i@KM|sAPNO STRS SYNZ
 Miami Viceroy|i@KM|cAPRC BASS EGTR SYNZ
 Midday Dance|i@KM|hAPNO
@@ -305,6 +318,7 @@ Montauk Point|i@KM|hAGTR APRC BASS
 Moon Lounge Omicron Prime|i@KM|hEGTR EPNO EPRC SYNZ
 Moonstone|i@KM|cAPNO
 Morning|i@KM|cAGTR FLUT HARP
+Motivator|i@KM|hAPRC BASS SYNZ
 Mourning Song|i@KM|sOBOE STRS
 Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
@@ -366,8 +380,10 @@ Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
 Raving Energy (faster)|i@KM|aEPRC SYNZ
+Raw|i@KM|nAPRC BASS
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
+RetroFuture Clean|i@KM|aAPRC BASS EGTR JORG
 Reunited|i@KM|rAPNO APRC STRS
 Revival|i@KM|cAPRC BASS EGTR EPNO VOCL
 Rising|i@KM|fAPRC EPRC STRS SYNZ VOCL
@@ -403,6 +419,7 @@ Smoother Move|i@KM|sAPNO
 Snare Bounce Polka|i@KM|hACDN APRC TUBA
 Snowdrop|i@KM|sAPNO
 Soaring|i@KM|cSYNZ
+Sock Hop|i@KM|rAPRC BASS EGTR VIBE
 Somewhere Sunny|i@KM|rAGTR
 Somewhere Sunny (ver 2)|i@KM|rAGTR
 Son Of A Rocket|i@KM|hAPRC SYNZ
@@ -430,6 +447,8 @@ Sunshine ver 2|i@KM|hAGTR APNO APRC BASS
 Super Friendly|i@KM|hAPRC EPNO SYNZ VOCL
 Super Polka|i@KM|hAPRC BASS CLNT EGTR TRPT
 Super Power Cool Dude|i@KM|hAPRC SYNZ
+Surf Inspector|i@KM|nAPRC BASS EGTR EPNO JORG
+Surf Shimmey|i@KM|nAPRC BASS EGTR JORG
 Swimmey Texture|i@KM|cAPNO SYNZ
 Symmetry|i@KM|fEPRC SYNZ
 Tafi Maradi|i@KM|hAPRC VOCL
@@ -477,6 +496,7 @@ Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
 Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
+Welcome to the Show|i@KM|hAPRC BASS EGTR SYNZ TRPT
 Wepa|i@KM|nBASS EPRC STRS
 Werq|i@KM|hEPRC SYNZ
 Wet Riffs|i@KM|cBASS
@@ -490,6 +510,7 @@ Windswept|i@KM|rAGTR STRS
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
+Zap Beat|i@KM|aAPRC BASS EGTR JORG SYNZ
 Zazie|i@KM|hAPRC BASS EPNO TRPT VOCL
 ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
 Zombie Chase|i@KM|fAPNO APRC SYNZ
