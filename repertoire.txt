@@ -50,6 +50,7 @@ Blown Away|i@KM|aAPRC SYNZ
 Blown Away - No Percussion|i@KM|aSYNZ
 Blue Feather|i@KM|sAPNO
 Blue Paint|i@KM|cAPNO
+Blue Ska|i@KM|hAPRC BASS EGTR JORG SAXO TRBN TRPT
 Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
 // Blues 'n' Noise|z@BK|nAGTR APRC TUBA
 Boogie Party|i@KM|hAPNO APRC BASS JORG
@@ -144,6 +145,7 @@ Disco con Tutti|i@KM|hAPRC EGTR EPNO SYNZ TRBN TRPT
 Dispersion Relation|i@KM|nAPNO APRC BASS FLUT TRPT VIBE
 District Four|i@KM|aBASS EGTR EPRC JORG
 Divertimento K131|i@KM & @WM|hBELL CLST HARP
+Do De Oh|i@KM|hAPNO
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
 Dopplerette|i@KM|fBELL SYNZ
 Double O|i@KM|aEPRC JORG SYNZ VOCL
@@ -165,6 +167,7 @@ Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
 Easy Lemon 30 second|i@KM|cAGTR BASS MRBA
 Easy Lemon 60 second|i@KM|cAGTR APRC BASS CLST MRBA
 Ebbs and Flows|i@KM|cAPNO SYNZ
+// Echinoderm|i@BK & @KM|fAPRC CLST EFFX SYNZ TRBN
 Echoes of Time|i@KM|fBELL SYNZ
 Echoes of Time v2|i@KM|fSYNZ
 Egmont Overture|i@KM & @MO & @LB|nBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
@@ -479,6 +482,7 @@ String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
+Sunday Dub|i@KM|nAPRC BASS EGTR JORG
 Sunflower Dance Party|i@KM|hAPRC HPRC SYNZ
 Sunshine A|i@KM|hAGTR APNO APRC BASS
 Sunshine ver 2|i@KM|hAGTR APNO APRC BASS
@@ -518,6 +522,7 @@ Ultralounge|i@KM|rAPNO APRC BASS SYNZ
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
+Upbeat Forever|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Vanes|i@KM|sEPNO EPRC HARP SYNZ
