@@ -495,6 +495,7 @@ String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
+// Summer Raingtone|b@BK & @SI|nAPNO EFFX
 Sunday Dub|i@KM|nAPRC BASS EGTR JORG
 Sunflower Dance Party|i@KM|hAPRC HPRC SYNZ
 Sunshine A|i@KM|hAGTR APNO APRC BASS
