@@ -5,7 +5,6 @@ Aces High|i@KM|hAPRC BASS EPNO JORG
 Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 Adventures in Adventureland|i@KM|hAPRC BASN CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
 // African Rag|z@BK|hAPNO APRC SYNZ
-// TODO: do I want this? Aggressor|i@KM|aAPRC HORN STRS TRBN TRPT TUBA XYLO
 Agnus Dei X|i@KM & @SB|sPORG VOCL
 // Air of Mystery and Suspense|b@BK|fAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Airport Lounge|i@KM|hAPRC BASS EPNO VIBE
@@ -67,6 +66,7 @@ Bummin on Tremelo|i@KM|rAPRC BASS EGTR JORG VOCL
 Burn The World Waltz |i@KM & @AN|aAPRC BASS EGTR
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 C-Funk|i@KM|nAPRC BASS EGTR MUTE SAXO
+Call to Adventure|i@KM|hAPRC BASN CLNT CLST FLUT HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA XYLO
 Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
 Canon In D Interstellar Mix|i@KM & @JP|hEPRC SYNZ
 Canon in D Major|i@KM & @JP|rHARP STRS
@@ -110,6 +110,7 @@ Corncob|i@KM|hAPRC BASS BNJO
 Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
+Crossing the Chasm|i@KM|aAPRC STRS VOCL
 Cruising for Goblins|i@KM|fEPRC SYNZ
 Cuban Sandwich|i@KM|cAPNO APRC BASS
 CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
@@ -220,7 +221,7 @@ Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
-Grim Idol|i@KM|a
+Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
 // TODO: INST for Grim Idol
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
@@ -291,6 +292,7 @@ Just As Soon|i@KM|sAGTR APRC BASS EPNO SAXO
 Just Nasty|i@KM|aAPRC EPNO JORG SAXO TRBN TRPT
 Kawai Kitsune|i@KM|hEPRC SYNZ
 Kick Shock|i@KM|aAPRC EPRC SYNZ
+Killers|i@KM|aAPRC EGTR STRS VOCL
 Killing Time|i@KM|fEPRC JORG SYNZ
 Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
 Klockworx|i@KM|nEPRC SYNZ
@@ -381,7 +383,7 @@ Noise Attack|i@KM|aBASS EGTR EPRC JORG
 Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
-Obliteration|i@KM|a
+Obliteration|i@KM|aAPRC HORN JORG STRS
 // TODO: INST for Obliteration
 OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
 Olde Timey|i@KM|hAPNO
@@ -510,10 +512,12 @@ Symmetry|i@KM|fEPRC SYNZ
 Tafi Maradi|i@KM|hAPRC VOCL
 Tafi Maradi no voice|i@KM|hAPRC
 Tango de Manzana|i@KM|rACDN APNO APRC BASS FLUT STRS
+Take a Chance|i@KM|hAPRC CLNT FLUT HORN STRS TIMP XYLO
 Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
+The Complex|i@KM|aAPNO EPRC SYNZ
 The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
@@ -533,6 +537,8 @@ Twisted|i@KM|nAPRC BASS EGTR EPNO
 Tyrant|i@KM|aEPRC SYNZ
 Ultra Polka|i@KM|hEPRC SYNZ
 Ultralounge|i@KM|rAPNO APRC BASS SYNZ
+Undaunted|i@KM|aAPNO EPRC SYNZ
+Unity|i@KM|aAPNO EPRC STDR
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
@@ -550,6 +556,7 @@ Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
 Vivacity|i@KM|hAPRC BASS JORG VIBE
 Voice Over Under|i@KM|hAPRC HPRC SYNZ
+Volatile Reaction|i@KM|aAPRC BASN CLNT FLUT HORN STRS TRBN TUBA
 Voltaic|i@KM|aEPRC SYNZ
 Wagon Wheel|i@KM|hAPRC
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
