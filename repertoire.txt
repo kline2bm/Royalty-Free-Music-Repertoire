@@ -2,8 +2,9 @@
 // Abrasive Accordion|z@BK|aACDN APRC
 Accralate|i@KM|cAPRC MRBA
 Aces High|i@KM|hAPRC BASS EPNO JORG
+Achilles|i@KM|nAPRC HORN STRS TRBN TRPT
 Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
-Adventures in Adventureland|i@KM|hAPRC BASN CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
+Adventures in Adventureland|i@KM|hAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
 // African Rag|z@BK|hAPNO APRC SYNZ
 Agnus Dei X|i@KM & @SB|sPORG VOCL
 // Air of Mystery and Suspense|b@BK|fAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
@@ -99,11 +100,13 @@ Cloud Dancer|i@KM|hEPRC SYNZ VOCL
 Club Diver|i@KM|aEPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Cold Funk|i@KM|nAGTR APRC BASS EPNO
+Colossus|i@KM|nAPRC BASN BELL CLNT FLUT GLCK HORN MRBA OBOE TRBN TRPT TUBA
 Comfortable Mystery|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
+Constance|i@KM|fAPRC MRBA STRS SYNZ XYLO
 Cool Blast|i@KM|hBASS EPNO EPRC TRPT STRS
 Cool Rock|i@KM|hAPRC BASS EGTR
 Corncob|i@KM|hAPRC BASS BNJO
@@ -131,6 +134,7 @@ Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
 Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
 // Decent Descent|b@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
+Deep Haze|i@KM|nAPRC EGTR SYNZ
 Decisions|i@KM|fAPRC EPRC STRS SYNZ VOCL
 Del Rio Bravo|i@KM|hACDN APRC BASS MRBA
 Delay Rock|i@KM|hAPRC BASS EGTR
@@ -182,6 +186,7 @@ Electro Sketch|i@KM|aEPRC SYNZ
 Electrodoodle|i@KM|hEPRC SYNZ
 Energizing|i@KM|cAPRC SYNZ
 Enchanted Journey|i@KM|rHARP
+Enigma|i@KM|fAPRC BASS EPNO SAXO STRS TRBN TRPT
 Enter the Party|i@KM|nEPRC JORG SYNZ
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
 Eternity|i@KM|rAPRC BASS EGTR EPNO SYNZ
@@ -190,7 +195,9 @@ Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
 Ethernight Club|i@KM|nBELL EPRC MRBA SYNZ
 Evening|i@KM|cAGTR OBOE STRS
 Evening Fall - Piano|i@KM|sAPNO
+Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Exit the Premises|i@KM|aAPRC SYNZ
+Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
 // Far Out, Dude!|b@BK|cTODO
 Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
@@ -203,6 +210,7 @@ Fig Leaf Times Two|i@KM & @SJ|hAPNO
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Firmament|i@KM|nAPRC BASS EGTR JORG
+Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
 Five Card Shuffle|i@KM|hAPNO
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Flying Kerfuffle|i@KM|hEPRC SYNZ
@@ -225,6 +233,7 @@ Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
 // TODO: INST for Grim Idol
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
+Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghost Story|i@KM|fAPNO APRC VIBE
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
 Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR TRPT SAXO
@@ -343,6 +352,7 @@ Midday Dance|i@KM|hAPNO
 Midnight Meeting|i@KM|sPORG
 Mighty Like Us|i@KM|hAPRC SYNZ
 Minstrel Guild|i@KM|hAPRC BAGP ENWD STRS WHSL
+Mistake the Getaway|i@KM|aAPRC EPRC HORN STRS TRBN TRPT
 Mister Exposition|i@KM|hAPNO TUBA
 Misuse|i@KM|fAPRC EPRC SYNZ VOCL
 // Modern Baroque|z@BK|nEPRC PORG
@@ -363,10 +373,12 @@ Morning|i@KM|cAGTR FLUT HARP
 Motherlode|i@KM|nAPRC BASS EGTR HORN TRPT
 Motivator|i@KM|hAPRC BASS SYNZ
 Mourning Song|i@KM|sOBOE STRS
+Movement Proposition|i@KM|aAPRC HORN STRS SYNZ TRBN
 Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
 Mystery Sax|i@KM|fAPRC SAXO SYNZ
 Neo Western|i@KM|nAPRC EGTR SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
+Nerves|i@KM|fAPRC HORN STRS SYNZ TIMP TRBN TRPT
 New Friendly|i@KM|hEPRC SYNZ VOCL
 New Hero in Town|i@KM|nAPRC ENST
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
@@ -379,6 +391,7 @@ No Frills Salsa|i@KM|hAPNO APRC BASS TRBN TRPT
 No Frills Salsa - Alternate|i@KM|hAPRC BASS TRBN TRPT
 No Spam Polka|i@KM|hACDN APRC TUBA
 NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
+Noble Race|i@KM|nAPNO BASN BELL CLNT FLUT HORN OBOE STRS TIMP TRBN TRPT
 Noise Attack|i@KM|aBASS EGTR EPRC JORG
 Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
 Nowhere Land|i@KM|hAPRC SYNZ
@@ -418,6 +431,7 @@ Poofy Reel|i@KM|nAGTR APRC BASS EPNO
 Porch Blues|i@KM|cAGTR APNO HMCA
 Porch Swing Days - faster|i@KM|rAGTR APRC BASS VOCL
 Porch Swing Days - slower|i@KM|rAGTR APRC BASS VOCL
+Power Restored|i@KM|fAPRC CLNT FLUT GLCK STRS TIMP TRBN TUBA
 // Primer Post Braces|b@BK|nHPRC VOCL
 Prelude in C - BWV 846|i@KM & @JB|rAPNO
 Presenterator|i@KM|hAPRC SYNZ
@@ -443,6 +457,7 @@ Riptide|i@KM|hAPRC BASS EGTR
 Rising|i@KM|fAPRC EPRC STRS SYNZ VOCL
 Rising Tide|i@KM|cEPRC SYNZ
 Rising Tide (faster)|i@KM|cEPRC SYNZ
+Robo-Western|i@KM|aBASS EGTR EPRC STRS SYNZ
 Robobozo|i@KM|fAPRC EGTR JORG SYNZ
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Rocket Power|i@KM|aBASS EGTR EPRC JORG
@@ -495,6 +510,7 @@ Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
 Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
 String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
+Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
 // Summer Raingtone|b@BK & @SI|nAPNO EFFX
@@ -524,6 +540,8 @@ The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Lift|i@KM|nEPRC SYNZ
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Way Out|i@KM|fAPRC SYNZ
+The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
+The Whip Theme (Extended Version)|i@KM|aAPRC BASS EGTR EPRC
 There It Is|i@KM|nBASS EGTR EPRC TRBN TRPT
 Thief in the Night|i@KM|cAPRC BASS EGTR JORG
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
@@ -533,6 +551,7 @@ Tranquility|i@KM|cSYNZ
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
+Truth of the Legend|i@KM|fAPRC SYNZ TRBN VOCL
 Twisted|i@KM|nAPRC BASS EGTR EPNO
 Tyrant|i@KM|aEPRC SYNZ
 Ultra Polka|i@KM|hEPRC SYNZ
@@ -565,7 +584,8 @@ Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Waltz Primordial |i@KM & @AN|sAPRC BASS EGTR
 Water Droplets on the River|i@KM|rAPNO
-Welcome to the Show|i@KM|hAPRC BASS EGTR SYNZ TRPT
+We Got Trouble|i@KM|fAPRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
+Welcome to the Show|i@KM|hAPRC BASS EGTR SYNZ TRPT XYLO
 Wepa|i@KM|nBASS EPRC STRS
 Werq|i@KM|hEPRC SYNZ
 Wet Riffs|i@KM|cBASS
