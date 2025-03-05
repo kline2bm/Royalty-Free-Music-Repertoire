@@ -94,6 +94,8 @@ Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
 Cipher2|i@KM|hAPRC EPNO STRS SYNZ
 Circus Waltz FX|i@KM|hAPNO
+Circus of Freaks|i@KM|aAPRC CLNT FLUT TRBN TRPT TUBA XYLO
+Clash Defiant|i@KM|aAPRC HORN STRS TRBN VOCL
 Clean Soul|i@KM|cBASS EPNO
 Clear Air|i@KM|rAGTR APNO
 Cloud Dancer|i@KM|hEPRC SYNZ VOCL
@@ -160,6 +162,7 @@ Double Polka|i@KM|hACDN APRC TUBA
 Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
+Dreamy Flashback|i@KM|rBELL HARP PIZZ
 Drone in D|i@KM|cAPNO SYNZ
 Dub Eastern|i@KM|fAPRC BASS EGTR EPNO SYNZ
 Dub Feral|i@KM|fAPRC BASS EGTR EPNO SYNZ
@@ -195,6 +198,7 @@ Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
 Ethernight Club|i@KM|nBELL EPRC MRBA SYNZ
 Evening|i@KM|cAGTR OBOE STRS
 Evening Fall - Piano|i@KM|sAPNO
+Evening Melodrama|i@KM|hAPRC CLNT FLUT HORN STRS TIMP TRBN TRPT
 Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Exit the Premises|i@KM|aAPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
@@ -219,6 +223,7 @@ Fork and Spoon|i@KM|hAPRC BASS EGTR JORG
 Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 Frogs Legs Rag|i@KM & @JS|hAPNO
+Frost Waltz (Alternate)|i@KM|fBELL CLST FLUT STRS
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Funin and Sunin|i@KM|hAPRC BASS EGTR JORG
@@ -260,6 +265,7 @@ Harmful or Fatal|i@KM|aEGTR EPRC SYNZ
 Healing|i@KM|cAGTR APRC FLUT STRS
 Heartwarming|i@KM|rAPNO
 Heavy Heart|i@KM|sENST STRS WHSL
+Heavy Interlude|i@KM|aAPRC DULC MDLN STRS
 Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|i@KM|nBASS EGTR EPRC HPRC SAXO TRPT
@@ -280,6 +286,7 @@ Ice Flow|i@KM|aAPRC SYNZ
 Immersed|i@KM|cAPNO
 In The West|i@KM|fAPRC CLNT FLUT STRS
 In Your Arms|i@KM|rAPRC BASS MUTE SAXO TRBN
+Industrious Ferret|i@KM|hAPRC ENST OBOE PIZZ
 Inexorable|i@KM|fAPNO EFFX
 Infados|i@KM|fAPRC KLBA MRBA STRS
 Infinite Perspective|i@KM|cAPNO FLUT HARP HORN OBOE SYNZ VOCL
@@ -307,6 +314,7 @@ Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
 Klockworx|i@KM|nEPRC SYNZ
 Kumasi Groove|i@KM|cAPRC MRBA
 Kumasi Groove Flugelhorn|i@KM|cAPRC MRBA TRPT
+Laconic Granny|i@KM|sAPRC CLNT TUBA
 Laid Back Guitars|i@KM|sAGTR APRC
 Land of Phantoms|i@KM|fAPRC
 Laser Groove|i@KM|nEPRC SYNZ
@@ -329,11 +337,13 @@ Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
+Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
 Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
 Manic Polka|i@KM|hACDN APRC TUBA
 Maple Leaf Rag|i@KM & @SJ|hAPNO
 March of the Mind|i@KM|sAPNO
+March of the Spoons|i@KM|nAPRC CLNT FLUT OBOE PIZZ
 Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
 Master of the Feast|i@KM|fDULC EPRC SYNZ
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
@@ -352,6 +362,7 @@ Midday Dance|i@KM|hAPNO
 Midnight Meeting|i@KM|sPORG
 Mighty Like Us|i@KM|hAPRC SYNZ
 Minstrel Guild|i@KM|hAPRC BAGP ENWD STRS WHSL
+Mischief Maker|i@KM|nAPRC BASS DULC HPCH XYLO
 Mistake the Getaway|i@KM|aAPRC EPRC HORN STRS TRBN TRPT
 Mister Exposition|i@KM|hAPNO TUBA
 Misuse|i@KM|fAPRC EPRC SYNZ VOCL
@@ -467,8 +478,10 @@ Run Amok|i@KM|hAPRC BASN CLNT MRBA OBOE PIZZ TRBN TRPT TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
 Samba Isobel|i@KM|rAPNO APRC BASS
 Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
+Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
 Secret of Tiki Island|i@KM & @BT|fAGTR APNO APRC BASS JORG VIBE VOCL
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
+Sergio's Magic Dustbin|i@KM|aAPRC BASN CLNT FLUT GLCK HORN MRBA TRBN TRPT TUBA WHSL XYLO
 Seven March|i@KM|fAPRC SYNZ
 Shades of Spring|i@KM|sAPNO APRC BASS
 Shaving Mirror|i@KM|hAPRC BASS EGTR JORG TRPT
@@ -511,6 +524,7 @@ Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
 String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
+Street Party|i@KM|hAPRC BASS JORG SAXO STDR TRBN TRPT WHSL
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
 // Summer Raingtone|b@BK & @SI|nAPNO EFFX
@@ -530,9 +544,12 @@ Tafi Maradi no voice|i@KM|hAPRC
 Tango de Manzana|i@KM|rACDN APNO APRC BASS FLUT STRS
 Take a Chance|i@KM|hAPRC CLNT FLUT HORN STRS TIMP XYLO
 Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
+Tech Live|i@KM|hAPRC KLBA SYNZ
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
+Thatched Villagers|i@KM|hAGTR APRC DULC WHSL
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
+The Builder|i@KM|fAPRC BASN MRBA OBOE PIZZ TRBN TRPT TUBA
 The Complex|i@KM|aAPNO EPRC SYNZ
 The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
