@@ -11,8 +11,12 @@ Agnus Dei X|i@KM & @SB|sPORG VOCL
 Airport Lounge|i@KM|hAPRC BASS EPNO VIBE
 Airship Serenity|i@KM|rSYNZ
 Aitech|i@KM|hAPRC BASS EGTR EPRC SYNZ
+Almost New|i@KM|rAPNO STRS
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
+Ancient Rite|i@KM|sAPRC STRS
+Ancient Winds|i@KM|cHARP STRS SYNZ
+Andreas Theme|i@KM|rAPRC BASS EPNO PFLT SYNZ
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
 Apero Hour|i@KM|hAGTR APRC BASS JORG
 Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
@@ -137,6 +141,7 @@ Daytime TV Theme|i@KM|cAPNO SAXO STRS
 Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
 // Decent Descent|b@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Deep Haze|i@KM|nAPRC EGTR SYNZ
+Deep Relaxation|i@KM|cAPNO EPNO HARP SYNZ
 Decisions|i@KM|fAPRC EPRC STRS SYNZ VOCL
 Del Rio Bravo|i@KM|hACDN APRC BASS MRBA
 Delay Rock|i@KM|hAPRC BASS EGTR
@@ -145,6 +150,9 @@ Delightful D|i@KM|hEPRC SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
 Deuces|i@KM|rAPNO APRC BASS JORG
 Devastation and Revenge|i@KM|fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
+Devonshire Waltz Allegretto|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
+Devonshire Waltz Andante|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
+Devonshire Waltz Moderato|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
 Digital Lemonade|i@KM|hAPRC SYNZ
 Digya|i@KM|nAPRC BASS ENST MRBA
 Dirt Rhodes|i@KM|cEPNO EPRC
@@ -191,6 +199,7 @@ Energizing|i@KM|cAPRC SYNZ
 Enchanted Journey|i@KM|rHARP
 Enigma|i@KM|fAPRC BASS EPNO SAXO STRS TRBN TRPT
 Enter the Party|i@KM|nEPRC JORG SYNZ
+Envision|i@KM|fEGTR SYNZ
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
 Eternity|i@KM|rAPRC BASS EGTR EPNO SYNZ
 Ether Disco|i@KM|hAPRC BASS EGTR GLCK STRS
@@ -199,6 +208,7 @@ Ethernight Club|i@KM|nBELL EPRC MRBA SYNZ
 Evening|i@KM|cAGTR OBOE STRS
 Evening Fall - Piano|i@KM|sAPNO
 Evening Melodrama|i@KM|hAPRC CLNT FLUT HORN STRS TIMP TRBN TRPT
+Ever Mindful|i@KM|cCLNT FLUT STRS VOCL
 Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Exit the Premises|i@KM|aAPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
@@ -213,6 +223,7 @@ Fig Leaf Rag - distressed|i@KM & @SJ|hAPNO
 Fig Leaf Times Two|i@KM & @SJ|hAPNO
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
+Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
 Firmament|i@KM|nAPRC BASS EGTR JORG
 Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
 Five Card Shuffle|i@KM|hAPNO
@@ -392,6 +403,7 @@ Neon Laser Horizon|i@KM|hEPRC SYNZ
 Nerves|i@KM|fAPRC HORN STRS SYNZ TIMP TRBN TRPT
 New Friendly|i@KM|hEPRC SYNZ VOCL
 New Hero in Town|i@KM|nAPRC ENST
+News Theme|i@KM|hAPRC HORN TIMP TRBN TRPT TUBA
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
@@ -410,6 +422,7 @@ Numinous Shine|i@KM|cSYNZ
 Obliteration|i@KM|aAPRC HORN JORG STRS
 // TODO: INST for Obliteration
 OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
+Odyssey|i@KM|hSYNZ
 Olde Timey|i@KM|hAPNO
 On the Cool Side|i@KM|sAPRC BASS EPNO SAXO TRPT
 On the Ground|i@KM|fAPRC BASS EPNO
@@ -455,6 +468,7 @@ Quinns Song-A New Man|i@KM & @FC|sAPNO TIMP STRS VOCL
 Quinns Song-First Night|i@KM & @FC|fAPNO SYNZ
 Quinns Song-The Dance Begins|i@KM & @FC|sAPNO STRS
 Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
+Rainbows|i@KM|hAPRC BASS MRBA UKLE
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
 Raving Energy (faster)|i@KM|aEPRC SYNZ
@@ -474,17 +488,20 @@ Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Rocket Power|i@KM|aBASS EGTR EPRC JORG
 Rollin at 5|i@KM|nAPNO APRC BASS TRBN TRPT
 Rollin at 5 - electronic|i@KM|nEPRC SYNZ
+Royal Coupling|i@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Run Amok|i@KM|hAPRC BASN CLNT MRBA OBOE PIZZ TRBN TRPT TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
 Samba Isobel|i@KM|rAPNO APRC BASS
 Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
 Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
+Screen Saver|i@KM|cSYNZ VOCL
 Secret of Tiki Island|i@KM & @BT|fAGTR APNO APRC BASS JORG VIBE VOCL
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
 Sergio's Magic Dustbin|i@KM|aAPRC BASN CLNT FLUT GLCK HORN MRBA TRBN TRPT TUBA WHSL XYLO
 Seven March|i@KM|fAPRC SYNZ
 Shades of Spring|i@KM|sAPNO APRC BASS
 Shaving Mirror|i@KM|hAPRC BASS EGTR JORG TRPT
+Shenyang|i@KM|hAPRC ENST
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
 Shiny Tech|i@KM|hEPRC SYNZ
 Shiny Tech2|i@KM|nEPRC SYNZ
@@ -520,6 +537,7 @@ Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 Spy Glass|i@KM|fAPNO APRC FLUT HPRC MUTE SAXO VIBE
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
+Stay the Course|i@KM|fAPRC SYNZ
 Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
 String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
@@ -564,6 +582,7 @@ Thief in the Night|i@KM|cAPRC BASS EGTR JORG
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
 Thunder Dreams|i@KM|sSYNZ
 Tiny Fugue|i@KM|nPORG
+To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
 Tranquility|i@KM|cSYNZ
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
@@ -614,6 +633,7 @@ Whiskey on the Mississippi|i@KM|hAPRC BASS EGTR EPNO JORG
 White|i@KM|rAPNO
 White Lotus|i@KM|cAPNO DULC STDR SYNZ
 Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
+Wind of the Rainforest|i@KM|cEPNO SYNZ
 Windswept|i@KM|rAGTR STRS
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
