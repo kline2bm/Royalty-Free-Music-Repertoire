@@ -23,6 +23,7 @@ Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
 Aretes|i@KM|rAPNO SYNZ VOCL
 Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
+Ascending the Vale|i@KM|cAPRC FLUT HARP HORN VOCL
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
@@ -108,8 +109,12 @@ Cognitive Dissonance|i@KM|aEPRC SYNZ
 Cold Funk|i@KM|nAGTR APRC BASS EPNO
 Colossus|i@KM|nAPRC BASN BELL CLNT FLUT GLCK HORN MRBA OBOE TRBN TRPT TUBA
 Comfortable Mystery|i@KM|sEPNO
+Comfortable Mystery 2|i@KM|sEPNO
+Comfortable Mystery 3|i@KM|sEPNO
+Comfortable Mystery 4|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
+Concentration|i@KM|cEPNO SYNZ
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 Constance|i@KM|fAPRC MRBA STRS SYNZ XYLO
@@ -227,6 +232,7 @@ Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
 Firmament|i@KM|nAPRC BASS EGTR JORG
 Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
 Five Card Shuffle|i@KM|hAPNO
+Floating Cities|i@KM|sAPRC SYNZ
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Flying Kerfuffle|i@KM|hEPRC SYNZ
 For Originz|i@KM|rAPRC STRS VOCL
@@ -234,7 +240,8 @@ Fork and Spoon|i@KM|hAPRC BASS EGTR JORG
 Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 Frogs Legs Rag|i@KM & @JS|hAPNO
-Frost Waltz (Alternate)|i@KM|fBELL CLST FLUT STRS
+Frost Waltz|i@KM|fCLST GLCK HORN STRS
+Frost Waltz (Alternate)|i@KM|fBELL CLST FLUT GLCK STRS
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Funin and Sunin|i@KM|hAPRC BASS EGTR JORG
@@ -249,6 +256,7 @@ Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
 // TODO: INST for Grim Idol
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
+Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghost Story|i@KM|fAPNO APRC VIBE
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
@@ -274,6 +282,7 @@ Happy Happy Game Show|i@KM|hAPNO APRC BASS JORG TRPT
 Hard Boiled|i@KM|cAPNO APRC BASS
 Harmful or Fatal|i@KM|aEGTR EPRC SYNZ
 Healing|i@KM|cAGTR APRC FLUT STRS
+Heart of Nowhere|i@KM|rSTRS VOCL
 Heartwarming|i@KM|rAPNO
 Heavy Heart|i@KM|sENST STRS WHSL
 Heavy Interlude|i@KM|aAPRC DULC MDLN STRS
@@ -426,6 +435,7 @@ Odyssey|i@KM|hSYNZ
 Olde Timey|i@KM|hAPNO
 On the Cool Side|i@KM|sAPRC BASS EPNO SAXO TRPT
 On the Ground|i@KM|fAPRC BASS EPNO
+On the Shore|i@KM|sFLUT GLCK STRS TIMP
 One Sly Move|i@KM|sEGTR EPRC EPNO SYNZ
 // Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Opportunity Walks|i@KM|sAPNO APRC BASS
@@ -505,6 +515,7 @@ Shenyang|i@KM|hAPRC ENST
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
 Shiny Tech|i@KM|hEPRC SYNZ
 Shiny Tech2|i@KM|nEPRC SYNZ
+Shores of Avalon|i@KM|sAPNO SYNZ VOCL
 Show Your Moves|i@KM|hEPRC SYNZ
 Sidewalk Shade|i@KM|cAPNO APRC BASS VIBE
 Sidewalk Shade - slower|i@KM|cAPNO APRC BASS VIBE
@@ -637,6 +648,7 @@ Wind of the Rainforest|i@KM|cEPNO SYNZ
 Windswept|i@KM|rAGTR STRS
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
+With Regards|i@KM|rAGTR TRBN TUBA
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
 Zap Beat|i@KM|aAPRC BASS EGTR JORG SYNZ
 Zazie|i@KM|hAPRC BASS EPNO TRPT VOCL
