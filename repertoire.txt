@@ -93,6 +93,7 @@ Chee Zee Cave|i@KM|
 Chee Zee Caves V2|i@KM|
 Chee Zee Jungle|i@KM|
 Chee Zee Lab|i@KM|
+Cherry Blossom|i@KM|hAPRC MRBA
 // Chill Science|b@BK & @SI|cAPNO SAXO STRS
 Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
@@ -112,6 +113,7 @@ Comfortable Mystery|i@KM|sEPNO
 Comfortable Mystery 2|i@KM|sEPNO
 Comfortable Mystery 3|i@KM|sEPNO
 Comfortable Mystery 4|i@KM|sEPNO
+// TODO: confirm emotion of the Comfortable Mysteries
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Concentration|i@KM|cEPNO SYNZ
@@ -242,6 +244,8 @@ Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 Frogs Legs Rag|i@KM & @JS|hAPNO
 Frost Waltz|i@KM|fCLST GLCK HORN STRS
 Frost Waltz (Alternate)|i@KM|fBELL CLST FLUT GLCK STRS
+Frozen Star|i@KM|cFLUT HARP TUBA VOCL
+// TODO: confirm INST of the Frost Waltzes
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Funin and Sunin|i@KM|hAPRC BASS EGTR JORG
@@ -354,6 +358,7 @@ Lobby Time|i@KM|hAPNO APRC BASS VIBE
 Local Forecast|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
+Lone Harvest|i@KM|sAPNO CLNT FLUT HARP STRS
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
@@ -522,6 +527,7 @@ Sidewalk Shade - slower|i@KM|cAPNO APRC BASS VIBE
 Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
+Sleep_and_Then|i@KM|cBELL CLNT CLST FLUT GLCK HARP STRS
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
 Slow Heat|i@KM|cAPRC MRBA
 Smash Sketch|i@KM|aBASS EPRC EPNO JORG
