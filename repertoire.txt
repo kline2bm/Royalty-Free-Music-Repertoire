@@ -369,6 +369,7 @@ Loopster|i@KM|nAPRC BASS EPNO
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
+Magic Forest|i@KM|cSTRS SYNZ
 Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
 Man Down|i@KM|sEPNO STRS
 Manic Polka|i@KM|hACDN APRC TUBA
@@ -626,6 +627,8 @@ Upbeat Forever|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Vanes|i@KM|sEPNO EPRC HARP SYNZ
+Vanishing|i@KM|fAPNO BASN CLNT FLUT HORN OBOE STRS SYNZ TRBN TUBA
+// TODO: can you hear the synth anywhere in Vanishing?
 Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
 Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
 // TODO: move to APR Very Low Note|i@KM|fSYNZ
