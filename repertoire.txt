@@ -169,6 +169,7 @@ Disco con Tutti|i@KM|hAPRC EGTR EPNO SYNZ TRBN TRPT
 Dispersion Relation|i@KM|nAPNO APRC BASS FLUT TRPT VIBE
 District Four|i@KM|aBASS EGTR EPRC JORG
 Divertimento K131|i@KM & @WM|hBELL CLST HARP
+Division|i@KM|fAPNO APRC CLNT FLUT HORN OBOE STRS
 Do De Oh|i@KM|hAPNO
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
 Dopplerette|i@KM|fBELL SYNZ
@@ -186,6 +187,7 @@ Dvorak Polka|i@KM|hACDN APRC TUBA
 // E-OPS|b@BK|nEPRC JORG SYNZ VOCL
 EDM Detection Mode|i@KM|aEPRC SYNZ
 Earnest|i@KM|sAPNO
+Earth Prelude|i@KM|cAPNO BASN CLNT FLUT MRBA OBOE STRS SYNZ XYLO
 Eastminster|i@KM|cEFFX ENST STRS
 Easy Jam|i@KM|sAPRC BASS EGTR FLUT TRBN TRPT
 Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
@@ -213,12 +215,14 @@ Ether Disco|i@KM|hAPRC BASS EGTR GLCK STRS
 Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
 Ethernight Club|i@KM|nBELL EPRC MRBA SYNZ
 Evening|i@KM|cAGTR OBOE STRS
+Evening Fall - Harp|i@KM|sHARP
 Evening Fall - Piano|i@KM|sAPNO
 Evening Melodrama|i@KM|hAPRC CLNT FLUT HORN STRS TIMP TRBN TRPT
 Ever Mindful|i@KM|cCLNT FLUT STRS VOCL
 Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Exit the Premises|i@KM|aAPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
+Fairytale Waltz|i@KM|sCLST OBOE STRS
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
 // Far Out, Dude!|b@BK|cTODO
 Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
@@ -256,9 +260,6 @@ Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
-Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
-// TODO: INST for Grim Idol
-Groundwork|i@KM|hAGTR APNO APRC BASS
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
@@ -272,7 +273,10 @@ Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Gonna Start|i@KM|hAPNO APRC BASS EGTR JORG
 Gonna Start v2|i@KM|hAPNO APRC BASS EGTR JORG
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
+Graveyard Shift|i@KM|fAPRC JORG STRS SYNZ TIMP VOCL
+Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
 Groove Grove|i@KM|fAPRC EPNO SYNZ
+Groundwork|i@KM|hAGTR APNO APRC BASS
 Guts and Bourbon|i@KM|hAPRC BASS EGTR MDLN
 Gymnopedie No 1|i@KM & @ES|sAPNO
 Gymnopedie No 2|i@KM & @ES|sAPNO
@@ -347,6 +351,7 @@ Last Kiss Goodnight|i@KM|rAPNO APRC BASS EGTR STRS
 Late Night Radio|i@KM|cBASS EPNO EPRC SYNZ
 Latin Industries|i@KM|aAPRC EPRC SYNZ VOCL
 Le Grand Chase|i@KM|aAPNO APRC EFFX SAXO TRPT TUBA XYLO
+Leaving Home|i@KM|sAPNO CLNT DULC EGTR FLUT SYNZ
 Leopard Print Elevator|i@KM|rAPRC BASS SYNZ
 Light Awash|i@KM|cSYNZ
 Light Thought var 1|i@KM|cEPNO
@@ -365,6 +370,7 @@ Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
 Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
+Man Down|i@KM|sEPNO STRS
 Manic Polka|i@KM|hACDN APRC TUBA
 Maple Leaf Rag|i@KM & @SJ|hAPNO
 March of the Mind|i@KM|sAPNO
@@ -434,7 +440,6 @@ Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 Obliteration|i@KM|aAPRC HORN JORG STRS
-// TODO: INST for Obliteration
 OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
 Odyssey|i@KM|hSYNZ
 Olde Timey|i@KM|hAPNO
@@ -491,6 +496,7 @@ Raw|i@KM|nAPRC BASS
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
 RetroFuture Clean|i@KM|aAPRC BASS EGTR JORG
+Return of the Mummy|i@KM|fAPRC ENST STRS VOCL
 Reunited|i@KM|rAPNO APRC STRS
 Revival|i@KM|cAPRC BASS EGTR EPNO VOCL
 Riptide|i@KM|hAPRC BASS EGTR
@@ -527,7 +533,7 @@ Sidewalk Shade - slower|i@KM|cAPNO APRC BASS VIBE
 Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
-Sleep_and_Then|i@KM|cBELL CLNT CLST FLUT GLCK HARP STRS
+Sleep_and_Then|i@KM|cCLNT FLUT GLCK HARP STRS
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
 Slow Heat|i@KM|cAPRC MRBA
 Smash Sketch|i@KM|aBASS EPRC EPNO JORG
@@ -598,9 +604,11 @@ There It Is|i@KM|nBASS EGTR EPRC TRBN TRPT
 Thief in the Night|i@KM|cAPRC BASS EGTR JORG
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
 Thunder Dreams|i@KM|sSYNZ
+Time Passes|i@KM|sFLUT HARP STRS
 Tiny Fugue|i@KM|nPORG
 To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
 Tranquility|i@KM|cSYNZ
+Transition One|i@KM|cCLNT FLUT GLCK HARP STRS
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
@@ -637,6 +645,7 @@ Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Waltz Primordial |i@KM & @AN|sAPRC BASS EGTR
 Water Droplets on the River|i@KM|rAPNO
+Water Prelude|i@KM|rBASN BELL CLST FLUT HARP STRS
 We Got Trouble|i@KM|fAPRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
 Welcome to the Show|i@KM|hAPRC BASS EGTR SYNZ TRPT XYLO
 Wepa|i@KM|nBASS EPRC STRS
