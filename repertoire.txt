@@ -127,10 +127,14 @@ Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 // Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
+Crowd Hammer|i@KM|fAGTR APRC ENST FLUT OBOE
 Cruising for Goblins|i@KM|fEPRC SYNZ
+Crypto|i@KM|fAPRC FLUT SYNZ
 Cuban Sandwich|i@KM|cAPNO APRC BASS
 CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 CumbiaNoFrillsFaster|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
+Curse of the Scarab|i@KM|aAPRC FLUT HORN OBOE STRS XYLO
+// TODO: filter all STRS and check for PIZZ
 Cut and Dry|i@KM|hAPRC EPRC SYNZ
 Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
@@ -233,6 +237,8 @@ Fig Leaf Rag|i@KM & @SJ|hAPNO
 Fig Leaf Rag - distressed|i@KM & @SJ|hAPNO
 Fig Leaf Times Two|i@KM & @SJ|hAPNO
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
+Final Battle of the Dark Wizards|i@KM|fEPRC HORN STRS SYNZ TRPT VOCL
+// TODO: check for APRC in ^^^FBotDW^^^
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
 Firmament|i@KM|nAPRC BASS EGTR JORG
@@ -323,6 +329,8 @@ Inspired|i@KM|cAPRC EGTR SYNZ
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
 Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
+Intrepid|i@KM|sAPNO APRC STRS TRBN TUBA VOCL
+// TODO: Intrepid is fearful or sad?
 Intuit256|i@KM|fAPRC FLUT SYNZ
 Iron Horse|i@KM|fAPNO
 Iron Horse - Destressed|i@KM|fAPNO
@@ -418,6 +426,7 @@ Motivator|i@KM|hAPRC BASS SYNZ
 Mourning Song|i@KM|sOBOE STRS
 Movement Proposition|i@KM|aAPRC HORN STRS SYNZ TRBN
 Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
+Myst on the Moor|i@KM|fAPRC FLUT MRBA SYNZ
 Mystery Sax|i@KM|fAPRC SAXO SYNZ
 Neo Western|i@KM|nAPRC EGTR SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
