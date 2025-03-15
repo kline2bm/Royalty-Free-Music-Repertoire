@@ -25,6 +25,7 @@ Aretes|i@KM|rAPNO SYNZ VOCL
 Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
 Ascending the Vale|i@KM|cAPRC FLUT HARP HORN VOCL
+Asian Drums|i@KM|fAPRC BELL
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
@@ -90,7 +91,7 @@ Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
 Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
 Chee Zee Beach|i@KM|hAPRC BASS EGTR MRBA STDR
-Chee Zee Cave|i@KM|
+Chee Zee Cave|i@KM|aAPRC HORN STRS TRPT
 Chee Zee Caves V2|i@KM|
 Chee Zee Jungle|i@KM|
 Chee Zee Lab|i@KM|
@@ -130,6 +131,7 @@ Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
 Crowd Hammer|i@KM|fAGTR APRC ENST FLUT OBOE
 Cruising for Goblins|i@KM|fEPRC SYNZ
+Crusade|i@KM|sAPRC HORN STRS TRBN TRPT
 Crypto|i@KM|fAPRC FLUT SYNZ
 Cuban Sandwich|i@KM|cAPNO APRC BASS
 CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
@@ -148,6 +150,7 @@ Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN
 Danse Macabre Isolated Harp|i@KM & @CS|rHARP
 Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Morialta|i@KM|rAPNO
+Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
 Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
@@ -183,6 +186,7 @@ Double Polka|i@KM|hACDN APRC TUBA
 Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
+Dreamlike|i@KM|fAPNO BELL OBOE STRS SYNZ
 Dreamy Flashback|i@KM|rBELL HARP PIZZ
 Drone in D|i@KM|cAPNO SYNZ
 Dub Eastern|i@KM|fAPRC BASS EGTR EPNO SYNZ
@@ -269,6 +273,7 @@ Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
+Ghostpocalypse - 4 Temptress|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghost Story|i@KM|fAPNO APRC VIBE
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
@@ -280,6 +285,7 @@ Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Gonna Start|i@KM|hAPNO APRC BASS EGTR JORG
 Gonna Start v2|i@KM|hAPNO APRC BASS EGTR JORG
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
+Grave Blow|i@KM|fAPRC STRS TRBN TUBA
 Graveyard Shift|i@KM|fAPRC JORG STRS SYNZ TIMP VOCL
 Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
 Groove Grove|i@KM|fAPRC EPNO SYNZ
@@ -318,9 +324,11 @@ I Got a Stick Feat James Gavins|i@KM & @BT & @JG|hAPRC BASS EGTR SAXO TRBN TRPT 
 I Knew a Guy|i@KM|cAPRC BASS VIBE
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
 Ice Flow|i@KM|aAPRC SYNZ
+Ignosi|i@KM|fAPRC CLNT FLUT HORN MRBA STRS TRBN
 Immersed|i@KM|cAPNO
 In The West|i@KM|fAPRC CLNT FLUT STRS
 In Your Arms|i@KM|rAPRC BASS MUTE SAXO TRBN
+Industrial Revolution|i@KM|sAPRC HORN PORG STRS TRBN TRPT TUBA
 Industrious Ferret|i@KM|hAPRC ENST OBOE PIZZ
 Inexorable|i@KM|fAPNO EFFX
 Infados|i@KM|fAPRC KLBA MRBA STRS
@@ -333,6 +341,7 @@ Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
 Intrepid|i@KM|sAPNO APRC STRS TRBN TUBA VOCL
 // TODO: Intrepid is fearful or sad?
 Intuit256|i@KM|fAPRC FLUT SYNZ
+Invariance|i@KM|fAPRC BASS MRBA XYLO
 Iron Horse|i@KM|fAPNO
 Iron Horse - Destressed|i@KM|fAPNO
 It is Lost|i@KM|sSYNZ
@@ -379,6 +388,7 @@ Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
 Magic Forest|i@KM|cSTRS SYNZ
+Majestic Hills|i@KM|sAPRC BELL CLNT FLUT GLCK HORN STRS TIMP TRBN TUBA
 Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
 Man Down|i@KM|sEPNO STRS
 Manic Polka|i@KM|hACDN APRC TUBA
@@ -428,6 +438,7 @@ Motivator|i@KM|hAPRC BASS SYNZ
 Mourning Song|i@KM|sOBOE STRS
 Movement Proposition|i@KM|aAPRC HORN STRS SYNZ TRBN
 Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
+Myst|i@KM|sAPRC CLNT FLUT OBOE STRS TRBN VOCL
 Myst on the Moor|i@KM|fAPRC FLUT MRBA SYNZ
 Mystery Sax|i@KM|fAPRC SAXO SYNZ
 Neo Western|i@KM|nAPRC EGTR SYNZ
@@ -513,14 +524,17 @@ Reunited|i@KM|rAPNO APRC STRS
 Revival|i@KM|cAPRC BASS EGTR EPNO VOCL
 Riptide|i@KM|hAPRC BASS EGTR
 Rising|i@KM|fAPRC EPRC STRS SYNZ VOCL
+Rising Game|i@KM|fAPRC BASS EGTR HORN PORG STRS VOCL
 Rising Tide|i@KM|cEPRC SYNZ
 Rising Tide (faster)|i@KM|cEPRC SYNZ
+Rites|i@KM|cHARP VOCL
 Robo-Western|i@KM|aBASS EGTR EPRC STRS SYNZ
 Robobozo|i@KM|fAPRC EGTR JORG SYNZ
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Rocket Power|i@KM|aBASS EGTR EPRC JORG
 Rollin at 5|i@KM|nAPNO APRC BASS TRBN TRPT
 Rollin at 5 - electronic|i@KM|nEPRC SYNZ
+Round Drums|i@KM|nAPRC
 Royal Coupling|i@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Run Amok|i@KM|hAPRC BASN CLNT MRBA OBOE PIZZ TRBN TRPT TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
@@ -548,6 +562,7 @@ Sidewalk Shade - slower|i@KM|cAPNO APRC BASS VIBE
 Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
+Simplex|i@KM|fAGTR APRC SYNZ
 Sleep_and_Then|i@KM|cCLNT FLUT GLCK HARP STRS
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
 Slow Heat|i@KM|cAPRC MRBA
@@ -571,6 +586,7 @@ Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
 Space Jazz|i@KM|hAPRC JORG SYNZ
 Spacial Harvest|i@KM|fSYNZ
 Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
+Spider Eyes|i@KM|fAPNO BELL STRS
 // Spooky Dance Party|b@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
 Spy Glass|i@KM|fAPNO APRC FLUT HPRC MUTE SAXO VIBE
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
@@ -613,6 +629,7 @@ The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Lift|i@KM|nEPRC SYNZ
+The Path of the Goblin King v2|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Way Out|i@KM|fAPRC SYNZ
 The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
@@ -657,6 +674,7 @@ Vivacity|i@KM|hAPRC BASS JORG VIBE
 Voice Over Under|i@KM|hAPRC HPRC SYNZ
 Volatile Reaction|i@KM|aAPRC BASN CLNT FLUT HORN STRS TRBN TUBA
 Voltaic|i@KM|aEPRC SYNZ
+Vulcan|i@KM|fAPRC BELL FLUT
 Wagon Wheel|i@KM|hAPRC
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
