@@ -14,6 +14,7 @@ Aitech|i@KM|hAPRC BASS EGTR EPRC SYNZ
 Almost New|i@KM|rAPNO STRS
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
+Anguish|i@KM|sAGTR APRC HARP
 Ancient Rite|i@KM|sAPRC STRS
 Ancient Winds|i@KM|cHARP STRS SYNZ
 Andreas Theme|i@KM|rAPRC BASS EPNO PFLT SYNZ
@@ -419,6 +420,7 @@ Modern Vibes|i@KM|nVIBE
 Monkoto|i@KM|nAPRC CLNT MRBA
 Montauk Point|i@KM|hAGTR APRC BASS
 Moon Lounge Omicron Prime|i@KM|hEGTR EPNO EPRC SYNZ
+Moonlight Hall|i@KM|fAPRC BASN CLST FLUT OBOE PIZZ STRS TIMP TUBA VOCL
 Moonstone|i@KM|cAPNO
 Morning|i@KM|cAGTR FLUT HARP
 Motherlode|i@KM|nAPRC BASS EGTR HORN TRPT
@@ -523,6 +525,9 @@ Royal Coupling|i@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Run Amok|i@KM|hAPRC BASN CLNT MRBA OBOE PIZZ TRBN TRPT TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
 Samba Isobel|i@KM|rAPNO APRC BASS
+Satiate|i@KM|fEPRC STRS
+Satiate Percussion|i@KM|fEPRC
+Satiate Strings|i@KM|fSTRS
 Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
 Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
 Screen Saver|i@KM|cSYNZ VOCL
@@ -575,6 +580,7 @@ Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
 String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
+Stormfront|i@KM|fAPRC SYNZ
 Street Party|i@KM|hAPRC BASS JORG SAXO STDR TRBN TRPT WHSL
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
@@ -597,6 +603,7 @@ Take a Chance|i@KM|hAPRC CLNT FLUT HORN STRS TIMP XYLO
 Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
 Tech Live|i@KM|hAPRC KLBA SYNZ
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
+Tempting Secrets|i@KM|cFLUT STRS VOCL
 Thatched Villagers|i@KM|hAGTR APRC DULC WHSL
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
