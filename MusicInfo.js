@@ -98,11 +98,12 @@ class MusicInfo {
    * @GG George Gershwin              @GR Gioachino A. Rossini         @JB Johann S. Bach
    * @JC John M. Cage                 @JG John Gavins                  @JN John Newton
    * @JP Johann Pachelbel             @JS James Scott                  @KK Komiku
-   * @KM Kevin MacLeod                @LB Ludwig van Beethoven         @MM Modest P. Mussorgsky
-   * @MO MusOpen                      @PB Philip P. Bliss              @PS Phase Shift
-   * @PT Pyotr I. Tchaikovsky         @PX Pixabay                      @RK Rafael Krux
+   * @KM Kevin MacLeod                @LB Ludwig van Beethoven         @LV LibriVox
+   * @MM Modest P. Mussorgsky         @MO MusOpen                      @PB Pixabay
+   * @PS Phase Shift                  @PT Pyotr I. Tchaikovsky         @RK Rafael Krux
    * @SB Samuel O. Barber             @SI Shane Ivers                  @SJ Scott Joplin
    * @TR Traditional                  @VO Various Others               @WM Wolfgang A. Mozart
+   * @WY William B. Yeats
    * param string {string} a string that may contain an artist code
    * return {string} a string with artist codes replaced with their corresponding names
    */
@@ -115,11 +116,12 @@ class MusicInfo {
       .replaceAll("@GG", "George Gershwin")      .replaceAll("@GR", "Gioachino A. Rossini")        .replaceAll("@JB", "Johann S. Bach")
       .replaceAll("@JC", "John M. Cage")         .replaceAll("@JG", "John Gavins")                 .replaceAll("@JN", "John Newton")
       .replaceAll("@JP", "Johann Pachelbel")     .replaceAll("@JS", "James Scott")                 .replaceAll("@KK", "Komiku")
-      .replaceAll("@KM", "Kevin MacLeod")        .replaceAll("@LB", "Ludwig van Beethoven")        .replaceAll("@MM", "Modest P. Mussorgsky")
-      .replaceAll("@MO", "MusOpen")              .replaceAll("@PB", "Philip P. Bliss")             .replaceAll("@PS", "Phase Shift")
-      .replaceAll("@PT", "Pyotr I. Tchaikovsky") .replaceAll("@PX", "Pixabay")                     .replaceAll("@RK", "Rafael Krux")
+      .replaceAll("@KM", "Kevin MacLeod")        .replaceAll("@LB", "Ludwig van Beethoven")        .replaceAll("@LV", "LibriVox")
+      .replaceAll("@MM", "Modest P. Mussorgsky") .replaceAll("@MO", "MusOpen")                     .replaceAll("@PB", "Pixabay")
+      .replaceAll("@PS", "Phase Shift")          .replaceAll("@PT", "Pyotr I. Tchaikovsky")        .replaceAll("@RK", "Rafael Krux")
       .replaceAll("@SB", "Samuel O. Barber")     .replaceAll("@SI", "Shane Ivers")                 .replaceAll("@SJ", "Scott Joplin")
       .replaceAll("@TR", "Traditional")          .replaceAll("@VO", "Various Others")              .replaceAll("@WM", "Wolfgang A. Mozart")
+      .replaceAll("@WY", "William B. Yeats")
   }
 
   /**
