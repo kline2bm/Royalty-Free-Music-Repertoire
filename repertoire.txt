@@ -128,7 +128,7 @@ Cool Blast|i@KM|hBASS EPNO EPRC TRPT STRS
 Cool Rock|i@KM|hAPRC BASS EGTR
 Corncob|i@KM|hAPRC BASS BNJO
 Covert Affair|i@KM|fAPRC BASS EPNO TRPT
-// Creepy Churchyard|b@BK & @PX|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
+// Creepy Churchyard|b@BK & @PB|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
 Crowd Hammer|i@KM|fAGTR APRC ENST FLUT OBOE
@@ -282,9 +282,13 @@ Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
+Ghostpocalypse - 1 Departure|i@KM|fSYNZ
+Ghostpocalypse - 2 The Call|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
 Ghostpocalypse - 4 Temptress|i@KM|fAPNO APRC SYNZ
+Ghostpocalypse - 6 Crossing the Threshold|sAPNO BASS GLCK
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
+Ghostpocalypse - 8 Epilog|i@KM|sAPNO
 Ghost Story|i@KM|fAPNO APRC VIBE
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
 Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR TRPT SAXO
@@ -353,7 +357,6 @@ Inspired|i@KM|cAPRC EGTR SYNZ
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
 Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
 Intrepid|i@KM|sAPNO APRC STRS TRBN TUBA VOCL
-// TODO: Intrepid is fearful or sad?
 Intuit256|i@KM|fAPRC FLUT SYNZ
 Invariance|i@KM|fAPRC BASS MRBA XYLO
 Iron Horse|i@KM|fAPNO
@@ -399,6 +402,7 @@ Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Lone Harvest|i@KM|sAPNO CLNT FLUT HARP STRS
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
+Lost Frontier|i@KM|cAPRC HORN STRS VOCL
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
@@ -478,6 +482,7 @@ No Spam Polka|i@KM|hACDN APRC TUBA
 NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
 Noble Race|i@KM|nAPNO BASN BELL CLNT FLUT HORN OBOE STRS TIMP TRBN TRPT
 Noise Attack|i@KM|aBASS EGTR EPRC JORG
+Not As It Seems|i@KM|fAPRC HARP GLCK HORN OBOE STRS TRBN TRPT TUBA
 Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
@@ -660,7 +665,10 @@ The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Lift|i@KM|nEPRC SYNZ
 The Other Side of the Door|i@KM|nFLUT HARP OBOE PIZZ STRS
 The Path of the Goblin King v2|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
+The Pyre|i@KM|nAPRC MDLN STRS
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
+The Second Coming|i@KM & @LV & @WY|fAPRC HORN TRBN STRS VOCL
+The Second Coming Instrumental|i@KM|fAPRC HORN TRBN STRS
 The Way Out|i@KM|fAPRC SYNZ
 The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
 The Whip Theme (Extended Version)|i@KM|aAPRC BASS EGTR EPRC
@@ -686,6 +694,8 @@ Undaunted|i@KM|aAPNO EPRC SYNZ
 Unity|i@KM|aAPNO EPRC STDR
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
+Unpromised|i@KM|sAPRC FLUT HARP VOCL
+// TODO: confirm INST of Unpromised
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 Upbeat Forever|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
