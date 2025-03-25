@@ -254,6 +254,7 @@ Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Battle of the Dark Wizards|i@KM|fEPRC HORN STRS SYNZ TRPT VOCL
 // TODO: check for APRC in ^^^FBotDW^^^
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
+Fire Prelude|i@KM|fAPRC MRBA STRS SYNZ TIMP
 Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
 Firmament|i@KM|nAPRC BASS EGTR JORG
 Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
@@ -282,6 +283,8 @@ Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Rap|i@KM|cEPRC SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
+Ghost Processional|i@KM|sBELL CLST PIZZ STRS
+Ghost Processional - Alternate|i@KM|sAPRC BELL CLST EFFX PIZZ STRS
 Ghostpocalypse - 1 Departure|i@KM|fSYNZ
 Ghostpocalypse - 2 The Call|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
@@ -403,6 +406,8 @@ Lone Harvest|i@KM|sAPNO CLNT FLUT HARP STRS
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
 Lost Frontier|i@KM|cAPRC HORN STRS VOCL
+Love Song|i@KM|sAPNO FLUT HARP HORN
+// TODO: compare INST with Time Passes
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
@@ -658,6 +663,7 @@ Thatched Villagers|i@KM|hAGTR APRC DULC WHSL
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
 The Builder|i@KM|fAPRC BASN MRBA OBOE PIZZ TRBN TRPT TUBA
+The Chamber|i@KM|fAPRC CLNT HARP HORN STRS TRBN TIMP VOCL
 The Complex|i@KM|aAPNO EPRC SYNZ
 The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
@@ -692,12 +698,14 @@ Ultra Polka|i@KM|hEPRC SYNZ
 Ultralounge|i@KM|rAPNO APRC BASS SYNZ
 Undaunted|i@KM|aAPNO EPRC SYNZ
 Unity|i@KM|aAPNO EPRC STDR
+// TODO: Unity has STDR or KLBA?
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
 Unpromised|i@KM|sAPRC FLUT HARP VOCL
 // TODO: confirm INST of Unpromised
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 Upbeat Forever|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
+Urban Gauntlet|i@KM|nAGTR APRC KLBA SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Vanes|i@KM|sEPNO EPRC HARP SYNZ
