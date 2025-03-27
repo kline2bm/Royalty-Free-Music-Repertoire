@@ -15,6 +15,7 @@ Airship Serenity|i@KM|rSYNZ
 Aitech|i@KM|hAPRC BASS EGTR EPRC SYNZ
 Almost New|i@KM|rAPNO STRS
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
+Americana|i@KM|rAPRC CLNT CLST FLUT GLCK HORN OBOE STRS TIMP TRBN TUBA
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 Anguish|i@KM|sAGTR APRC HARP
 Ancient Rite|i@KM|sAPRC STRS
@@ -579,6 +580,7 @@ Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
 Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
 Scheming Weasel slower|i@KM|sAPRC BASN BASS CLNT CLST GLCK OBOE
 Screen Saver|i@KM|cSYNZ VOCL
+Second Coming - no percussion|i@KM|rHORN STRS TRBN
 Secret of Tiki Island|i@KM & @BT|fAGTR APNO APRC BASS JORG VIBE VOCL
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
 Sergio's Magic Dustbin|i@KM|aAPRC BASN CLNT FLUT GLCK HORN MRBA TRBN TRPT TUBA WHSL XYLO
@@ -673,8 +675,8 @@ The Other Side of the Door|i@KM|nFLUT HARP OBOE PIZZ STRS
 The Path of the Goblin King v2|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
 The Pyre|i@KM|nAPRC MDLN STRS
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
-The Second Coming|i@KM & @LV & @WY|fAPRC HORN TRBN STRS VOCL
-The Second Coming Instrumental|i@KM|fAPRC HORN TRBN STRS
+The Second Coming|i@KM & @LV & @WY|fAPRC HORN STRS TRBN VOCL
+The Second Coming Instrumental|i@KM|fAPRC HORN STRS TRBN
 The Way Out|i@KM|fAPRC SYNZ
 The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
 The Whip Theme (Extended Version)|i@KM|aAPRC BASS EGTR EPRC
