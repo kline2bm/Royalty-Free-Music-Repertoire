@@ -29,6 +29,7 @@ Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
 Ascending the Vale|i@KM|cAPRC FLUT HARP HORN VOCL
 Asian Drums|i@KM|fAPRC BELL
+At Launch|i@KM|nAPRC CLNT FLUT HORN MUTE STRS TIMP TRBN TUBA
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Awaiting Return|i@KM & @GH|sAPNO
@@ -156,6 +157,7 @@ Danse Macabre Isolated Harp|i@KM & @CS|rHARP
 Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Morialta|i@KM|rAPNO
 Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
+Dark Star|i@KM|hAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Darkening Developments|i@KM|fAPRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
@@ -304,6 +306,7 @@ Gonna Start|i@KM|hAPNO APRC BASS EGTR JORG
 Gonna Start v2|i@KM|hAPNO APRC BASS EGTR JORG
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
 Grave Blow|i@KM|fAPRC STRS TRBN TUBA
+// TODO: Grave Blow has TIMP?
 Graveyard Shift|i@KM|fAPRC JORG STRS SYNZ TIMP VOCL
 Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
 Groove Grove|i@KM|fAPRC EPNO SYNZ
@@ -370,6 +373,7 @@ Jazz Brunch|i@KM|rAGTR APRC BASS EPNO JORG
 Jerry Five|i@KM|hEPRC HPRC SYNZ
 Jet Fueled Vixen|i@KM|aAPRC EGTR SYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
+Juniper|i@KM|cCLNT HARP HORN OBOE STRS TRBN TRPT TUBA
 Junkyard Tribe|i@KM|aEPRC
 Just As Soon|i@KM|sAGTR APRC BASS EPNO SAXO
 Just Nasty|i@KM|aAPRC EPNO JORG SAXO TRBN TRPT
@@ -404,6 +408,8 @@ Local Forecast|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Lone Harvest|i@KM|sAPNO CLNT FLUT HARP STRS
+Long Road Ahead|i@KM|rAPRC HORN STRS TIMP TUBA VOCL
+Long Road Ahead B|i@KM|rSTRS VOCL
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
 Lost Frontier|i@KM|cAPRC HORN STRS VOCL
@@ -518,6 +524,8 @@ Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
 Passing Action|i@KM|fAPRC BASS EPRC STRS
 Peace of Mind|i@KM|cAPNO STRS SYNZ
+Pennsylvania Rose|i@KM|hAGTR BELL FLUT STRS
+// TODO: more INST for PA Rose
 Peppy Pepe|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
 Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
 Phat Sketch|i@KM|nEPRC SYNZ
