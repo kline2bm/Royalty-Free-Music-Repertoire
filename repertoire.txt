@@ -32,6 +32,7 @@ Asian Drums|i@KM|fAPRC BELL
 At Launch|i@KM|nAPRC CLNT FLUT HORN MUTE STRS TIMP TRBN TUBA
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
+Avant Jazz|i@KM|fBASS EPRC MUTE SAXO VIBE
 Awaiting Return|i@KM & @GH|sAPNO
 Awesome Call|i@KM|hAPNO APRC BASS EPNO
 Awkward Meeting|i@KM|fAPNO SYNZ
@@ -224,6 +225,7 @@ Electro Sketch|i@KM|aEPRC SYNZ
 Electrodoodle|i@KM|hEPRC SYNZ
 Energizing|i@KM|cAPRC SYNZ
 Enchanted Journey|i@KM|rHARP
+Enchanted Valley|i@KM|hCLNT CLST FLUT STRS
 Enigma|i@KM|fAPRC BASS EPNO SAXO STRS TRBN TRPT
 Enter the Party|i@KM|nEPRC JORG SYNZ
 Envision|i@KM|fEGTR SYNZ
@@ -324,6 +326,7 @@ Happy Bee|i@KM|hBASS EPRC JORG
 Happy Bee - Surf|i@KM|hAPRC BASS EGTR JORG
 Happy Happy Game Show|i@KM|hAPNO APRC BASS JORG TRPT
 Hard Boiled|i@KM|cAPNO APRC BASS
+Harlequin|i@KM|nAPNO CLNT
 Harmful or Fatal|i@KM|aEGTR EPRC SYNZ
 Healing|i@KM|cAGTR APRC FLUT STRS
 Heart of Nowhere|i@KM|rSTRS VOCL
@@ -333,6 +336,8 @@ Heavy Interlude|i@KM|aAPRC DULC MDLN STRS
 Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|i@KM|nBASS EGTR EPRC HPRC SAXO TRPT
+Hit the Streets|i@KM|aAPRC
+Hit the Streets v2|i@KM|aAPRC
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
 Horror_Spacial Winds|i@KM|cSYNZ
 Hot Pursuit|i@KM|aAPRC EGTR STRS
@@ -617,6 +622,7 @@ Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
 Smooth Move|i@KM|nEPRC SYNZ
 Smoother Move|i@KM|sAPNO
 Snare Bounce Polka|i@KM|hACDN APRC TUBA
+Sneaky Adventure|i@KM|cAPRC BASN PIZZ
 Snowdrop|i@KM|sAPNO
 Soaring|i@KM|cSYNZ
 Sock Hop|i@KM|rAPRC BASS EGTR VIBE
@@ -641,11 +647,11 @@ Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
 Stay the Course|i@KM|fAPRC SYNZ
 Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
-String Impromptu Number 1|i@KM|cSTRS
-Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
 Stormfront|i@KM|fAPRC SYNZ
 Street Party|i@KM|hAPRC BASS JORG SAXO STDR TRBN TRPT WHSL
+String Impromptu Number 1|i@KM|cSTRS
+Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Summer Day|i@KM|cAGTR APRC BASS EPNO
 // Summer Raingtone|b@BK & @SI|nAPNO EFFX
@@ -706,6 +712,8 @@ Twisting|i@KM|fAPRC BASS EGTR EPRC SYNZ
 Tyrant|i@KM|aEPRC SYNZ
 Ultra Polka|i@KM|hEPRC SYNZ
 Ultralounge|i@KM|rAPNO APRC BASS SYNZ
+Umbrella Pants|i@KM|fAPRC GLCK PIZZ
+Unanswered Questions|i@KM|fENST
 Undaunted|i@KM|aAPNO EPRC SYNZ
 Unity|i@KM|aAPNO EPRC STDR
 // TODO: Unity has STDR or KLBA?
