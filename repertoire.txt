@@ -97,7 +97,7 @@ Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
 Chee Zee Beach|i@KM|hAPRC BASS EGTR MRBA STDR
 Chee Zee Cave|i@KM|aAPRC HORN STRS TRPT
-Chee Zee Caves V2|i@KM|
+Chee Zee Caves V2|i@KM|aAPRC STRS
 Chee Zee Jungle|i@KM|
 Chee Zee Lab|i@KM|
 Cherry Blossom|i@KM|hAPRC MRBA
@@ -584,6 +584,7 @@ Rollin at 5 - electronic|i@KM|nEPRC SYNZ
 Round Drums|i@KM|nAPRC
 Royal Coupling|i@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Run Amok|i@KM|hAPRC BASN CLNT MRBA OBOE PIZZ TRBN TRPT TUBA
+Rynos Theme|i@KM|fAPNO APRC FLUT HORN STRS TRBN TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
 Samba Isobel|i@KM|rAPNO APRC BASS
 Satiate|i@KM|fEPRC STRS
