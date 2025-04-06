@@ -17,10 +17,10 @@ Almost New|i@KM|rAPNO STRS
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Americana|i@KM|rAPRC CLNT CLST FLUT GLCK HORN OBOE STRS TIMP TRBN TUBA
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
-Anguish|i@KM|sAGTR APRC HARP
 Ancient Rite|i@KM|sAPRC STRS
 Ancient Winds|i@KM|cHARP STRS SYNZ
 Andreas Theme|i@KM|rAPRC BASS EPNO PFLT SYNZ
+Anguish|i@KM|sAGTR APRC HARP
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
 Apero Hour|i@KM|hAGTR APRC BASS JORG
 Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
@@ -275,8 +275,8 @@ Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 Frogs Legs Rag|i@KM & @JS|hAPNO
 Frost Waltz|i@KM|fCLST GLCK HORN STRS
 Frost Waltz (Alternate)|i@KM|fBELL CLST FLUT GLCK STRS
-Frozen Star|i@KM|cFLUT HARP TUBA VOCL
 // TODO: confirm INST of the Frost Waltzes
+Frozen Star|i@KM|cFLUT HARP TUBA VOCL
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Funin and Sunin|i@KM|hAPRC BASS EGTR JORG
@@ -623,7 +623,7 @@ Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
 Smooth Move|i@KM|nEPRC SYNZ
 Smoother Move|i@KM|sAPNO
 Snare Bounce Polka|i@KM|hACDN APRC TUBA
-Sneaky Adventure|i@KM|cAPRC BASN PIZZ
+Sneaky Adventure|i@KM|cAPRC BASN BASS PIZZ
 Snowdrop|i@KM|sAPNO
 Soaring|i@KM|cSYNZ
 Sock Hop|i@KM|rAPRC BASS EGTR VIBE
@@ -687,11 +687,13 @@ The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Lift|i@KM|nEPRC SYNZ
 The Other Side of the Door|i@KM|nFLUT HARP OBOE PIZZ STRS
+The Path of the Goblin King|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
 The Path of the Goblin King v2|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
 The Pyre|i@KM|nAPRC MDLN STRS
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Second Coming|i@KM & @LV & @WY|fAPRC HORN STRS TRBN VOCL
 The Second Coming Instrumental|i@KM|fAPRC HORN STRS TRBN
+The Snow Queen|i@KM|fBASN CLNT CLST FLUT PIZZ STRS TIMP
 The Way Out|i@KM|fAPRC SYNZ
 The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
 The Whip Theme (Extended Version)|i@KM|aAPRC BASS EGTR EPRC
@@ -728,8 +730,7 @@ Urban Gauntlet|i@KM|nAGTR APRC KLBA SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Vanes|i@KM|sEPNO EPRC HARP SYNZ
-Vanishing|i@KM|fAPNO BASN CLNT FLUT HORN OBOE STRS SYNZ TRBN TUBA
-// TODO: can you hear the synth anywhere in Vanishing?
+Vanishing|i@KM|fAPNO CLNT FLUT HORN OBOE STRS SYNZ TRBN TUBA
 Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
 Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
 // TODO: move to APR Very Low Note|i@KM|fSYNZ
@@ -765,6 +766,7 @@ Whiskey on the Mississippi|i@KM|hAPRC BASS EGTR EPNO JORG
 White|i@KM|rAPNO
 White Lotus|i@KM|cAPNO DULC STDR SYNZ
 Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
+Willow and the Light|i@KM|sAPRC HARP FLUT VOCL
 Wind of the Rainforest|i@KM|cEPNO SYNZ
 Windswept|i@KM|rAGTR STRS
 Winter Chimes|i@KM|rAPNO
