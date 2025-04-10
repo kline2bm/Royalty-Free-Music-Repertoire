@@ -290,6 +290,7 @@ Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghost Processional|i@KM|sBELL CLST PIZZ STRS
 Ghost Processional - Alternate|i@KM|sAPRC BELL CLST EFFX PIZZ STRS
+Ghost Story|i@KM|fAPNO APRC VIBE
 Ghostpocalypse - 1 Departure|i@KM|fSYNZ
 Ghostpocalypse - 2 The Call|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
@@ -297,7 +298,6 @@ Ghostpocalypse - 4 Temptress|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 6 Crossing the Threshold|sAPNO BASS GLCK
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghostpocalypse - 8 Epilog|i@KM|sAPNO
-Ghost Story|i@KM|fAPNO APRC VIBE
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
 Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR TRPT SAXO
 Gloom Horizon|i@KM|sAPRC STRS
