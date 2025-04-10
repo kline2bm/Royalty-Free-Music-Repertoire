@@ -434,7 +434,7 @@ March of the Mind|i@KM|sAPNO
 March of the Spoons|i@KM|nAPRC CLNT FLUT OBOE PIZZ
 Martian Cowboy|i@KM|fBASS GLCK SYNZ
 Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
-Master of the Feast|i@KM|fDULC EPRC SYNZ
+Master Disorder|i@KM|fDULC EPRC SYNZ
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
