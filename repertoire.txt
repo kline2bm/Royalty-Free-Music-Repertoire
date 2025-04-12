@@ -491,6 +491,7 @@ News Theme|i@KM|hAPRC HORN TIMP TRBN TRPT TUBA
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
+Night Vigil|i@KM|sAPRC FLUT STRS VOCL
 Night on the Docks|i@KM|sEPNO
 Night on the Docks - Sax|i@KM|sEPNO SAXO
 Night on the Docks - Trumpet|i@KM|sEPNO MUTE
