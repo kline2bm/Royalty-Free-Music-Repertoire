@@ -225,7 +225,7 @@ Electro Sketch|i@KM|aEPRC SYNZ
 Electrodoodle|i@KM|hEPRC SYNZ
 Energizing|i@KM|cAPRC SYNZ
 Enchanted Journey|i@KM|rHARP
-Enchanted Valley|i@KM|hCLNT CLST FLUT STRS
+Enchanted Valley|i@KM|rCLNT CLST FLUT STRS
 Enigma|i@KM|fAPRC BASS EPNO SAXO STRS TRBN TRPT
 Enter the Party|i@KM|nEPRC JORG SYNZ
 Envision|i@KM|fEGTR SYNZ
@@ -616,7 +616,7 @@ Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Simplex|i@KM|fAGTR APRC SYNZ
-Sleep_and_Then|i@KM|cCLNT FLUT GLCK HARP STRS
+Sleep_and_Then|i@KM|cBELL CLNT FLUT GLCK HARP STRS
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
 Slow Heat|i@KM|cAPRC MRBA
 Smash Sketch|i@KM|aBASS EPRC EPNO JORG
@@ -707,7 +707,7 @@ Time Passes|i@KM|sFLUT HARP STRS
 Tiny Fugue|i@KM|nPORG
 To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
 Tranquility|i@KM|cSYNZ
-Transition One|i@KM|cCLNT FLUT GLCK HARP STRS
+Transition One|i@KM|cBELL CLNT FLUT GLCK HARP STRS
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
