@@ -84,6 +84,23 @@ Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
 Canon In D Interstellar Mix|i@KM & @JP|hEPRC SYNZ
 Canon in D Major|i@KM & @JP|rHARP STRS
 Canon in D for Autoharp|i@KM & @JP|rDULC
+//Canon in D for General MIDI Bass|z@BK & @JP|eBASS SYNZ
+//Canon in D for General MIDI Brass|z@BK & JP|eHORN MUTE TRBN TRPT TUBA
+//Canon in D for General MIDI Chromatic Percussion|z@BK & JP|eBELL CLST DULC GLCK MRBA MUBX VIBE XYLO
+//Canon in D for General MIDI Drums|z@BK & @JP|eAPRC BELL EPRC TIMP
+//Canon in D for General MIDI Ensemble|z@BK & @JP|eSTRS SYNZ VOCL
+//Canon in D for General MIDI Ethnic|z@BK & @JP|eBGPS ENST ENWD BNJO KLBA SITR STRS
+//Canon in D for General MIDI Guitars|z@BK & @JP|eAGTR EGTR
+//Canon in D for General MIDI Orchestral|z@BK & @JP|eHARP PIZZ STRS TIMP
+//Canon in D for General MIDI Organs|z@BK & @JP|eACDN HMCA JORG PORG
+//Canon in D for General MIDI Percussive|z@BK & @JP|eAPRC BELL EPRC STDR
+//Canon in D for General MIDI Pianos|z@BK & @JP|eAPNO EPNO HPCH
+//Canon in D for General MIDI Pipes|z@BK & @JP|eENWD FLUT PFLT WHSL
+//Canon in D for General MIDI Reeds|z@BK & @JP|eBASN CLNT OBOE SAXO
+//Canon in D for General MIDI Sound Effects|z@BK & @JP|eAGTR EFFX HPRC
+//Canon in D for General MIDI Synth Effects|z@BK & @JP|eEFFX SYNZ
+//Canon in D for General MIDI Synth Leads|z@BK & @JP|eSYNZ VOCL
+//Canon in D for General MIDI Synth Pads|z@BK & @JP|eSYNZ VOCL
 Canon in D for Two Harps|i@KM & @JP|rHARP
 Canon in D for Two Renaissance Harps|i@KM & @JP|rHARP
 // Can you Hear me Now?|b@BK|nAPRC BASN BELL CLNT FLUT GLCK HARP HORN OBOE MRBA STRS TIMP TRBN TRPT TUBA
