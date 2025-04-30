@@ -20,7 +20,7 @@ Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 Ancient Rite|i@KM|sAPRC STRS
 Ancient Winds|i@KM|cHARP STRS SYNZ
 Andreas Theme|i@KM|rAPRC BASS EPNO PFLT SYNZ
-Anguish|i@KM|sAGTR APRC HARP
+Anguish|i@KM|sAGTR APRC HARP SYNZ
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
 Apero Hour|i@KM|hAGTR APRC BASS JORG
 Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
@@ -425,6 +425,7 @@ Light Thought var 2|i@KM|cEPNO
 Lightless Dawn|i@KM|sAPRC BELL STRS SYNZ
 Lift Motif|i@KM|rAPNO
 Limit 70|i@KM|cEPNO EPRC SYNZ
+Lithium|i@KM|sAPNO PORG STRS
 Lobby Time|i@KM|hAPNO APRC BASS VIBE
 Local Forecast|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
