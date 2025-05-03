@@ -177,6 +177,8 @@ Danse Morialta|i@KM|rAPNO
 Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
 Dark Star|i@KM|hAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Darkening Developments|i@KM|fAPRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
+Darkest Child|i@KM|fCLST HARP STRS
+Darkest Child A|i@KM|fCLST HARP STRS
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
 Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
