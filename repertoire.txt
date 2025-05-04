@@ -28,6 +28,7 @@ Aretes|i@KM|rAPNO SYNZ VOCL
 Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
 Ascending the Vale|i@KM|cAPRC FLUT HARP HORN VOCL
+Ashton Manor|i@KM|rCLNT FLUT HARP STRS
 Asian Drums|i@KM|fAPRC BELL
 At Launch|i@KM|nAPRC CLNT FLUT HORN MUTE STRS TIMP TRBN TUBA
 At The Shore|i@KM|cAPRC BASS HORN VOCL
@@ -148,6 +149,7 @@ Cool Blast|i@KM|hBASS EPNO EPRC TRPT STRS
 Cool Rock|i@KM|hAPRC BASS EGTR
 Corncob|i@KM|hAPRC BASS BNJO
 Covert Affair|i@KM|fAPRC BASS EPNO TRPT
+Cowboy Sting|i@KM|nAGTR APRC BASS ENST STRS
 // Creepy Churchyard|b@BK & @PB|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
@@ -160,6 +162,7 @@ Crypto|i@KM|fAPRC FLUT SYNZ
 Cuban Sandwich|i@KM|cAPNO APRC BASS
 CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 CumbiaNoFrillsFaster|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
+Cupids Revenge|i@KM|nEPRC STRS VOCL
 Curse of the Scarab|i@KM|aAPRC FLUT HORN OBOE STRS XYLO
 // TODO: filter all STRS and check for PIZZ
 Cut and Dry|i@KM|hAPRC EPRC SYNZ
@@ -201,6 +204,7 @@ Digya|i@KM|nAPRC BASS ENST MRBA
 Dirt Rhodes|i@KM|cEPNO EPRC
 Disco Lounge|i@KM|rAPRC STRS SYNZ VIBE
 Disco Medusae|i@KM|hBASS EGTR EPNO EPRC SYNZ
+Disco Sting|i@KM|hEPRC SYNZ
 Disco con Tutti|i@KM|hAPRC EGTR EPNO SYNZ TRBN TRPT
 Dispersion Relation|i@KM|nAPNO APRC BASS FLUT TRPT VIBE
 District Four|i@KM|aBASS EGTR EPRC JORG
@@ -262,6 +266,7 @@ Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Exit the Premises|i@KM|aAPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Fairytale Waltz|i@KM|sCLST OBOE STRS
+Fanfare for Space|i@KM|hAPRC HORN STRS TIMP TRBN TRPT
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
 Fantastic Dim Bar|i@KM|sAPNO BELL STRS
 // Far Out, Dude!|b@BK|cTODO
@@ -271,6 +276,7 @@ Fearless First|i@KM|nAPRC BASS EGTR FLUT
 // TODO: F. 1st's percussion sounds similar to Ch. Wv's; compare; APRC or EPRC
 Feelin Good|i@KM|hAPRC BASS EGTR JORG
 Feral Angel Waltz |i@KM & @AN|sAPRC BASS EGTR
+Fife and Drum|i@KM|hAPRC FLUT
 Fig Leaf Rag|i@KM & @SJ|hAPNO
 Fig Leaf Rag - distressed|i@KM & @SJ|hAPNO
 Fig Leaf Times Two|i@KM & @SJ|hAPNO
@@ -332,6 +338,7 @@ Graveyard Shift|i@KM|fAPRC JORG STRS SYNZ TIMP VOCL
 Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
 Groove Grove|i@KM|fAPRC EPNO SYNZ
 Groundwork|i@KM|hAGTR APNO APRC BASS
+Gustav Sting|i@KM|aAPRC STRS XYLO
 Guts and Bourbon|i@KM|hAPRC BASS EGTR MDLN
 Gymnopedie No 1|i@KM & @ES|sAPNO
 Gymnopedie No 2|i@KM & @ES|sAPNO
@@ -374,6 +381,7 @@ I Knew a Guy|i@KM|cAPRC BASS VIBE
 Ice Flow|i@KM|aAPRC SYNZ
 Ignosi|i@KM|fAPRC CLNT FLUT HORN MRBA STRS TRBN
 Immersed|i@KM|cAPNO
+Impact Allegretto|i@KM|hAGTR APRC EGTR SYNZ
 In The West|i@KM|fAPRC CLNT FLUT STRS
 In Your Arms|i@KM|rAPRC BASS MUTE SAXO TRBN
 Industrial Cinematic|i@KM|fAPRC SYNZ
@@ -440,6 +448,7 @@ Loopster|i@KM|nAPRC BASS EPNO
 Lost Frontier|i@KM|cAPRC HORN STRS VOCL
 Love Song|i@KM|sAPNO FLUT HARP HORN STRS
 // TODO: compare INST with Time Passes
+MJS Stings|i@KM|nAGTR APNO APRC BASS
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
@@ -470,6 +479,7 @@ Miami Viceroy|i@KM|cAPRC BASS EGTR SYNZ
 Midday Dance|i@KM|hAPNO
 Midnight Meeting|i@KM|sPORG
 Mighty Like Us|i@KM|hAPRC SYNZ
+Militaire Electronic|i@KM|aAPRC EPRC
 Minima|i@KM|fAPRC BASN CLNT CLST FLUT HORN OBOE STRS TIMP TRBN TRPT VOCL
 Minstrel Guild|i@KM|hAPRC BAGP ENWD STRS WHSL
 Mischief Maker|i@KM|nAPRC BASS DULC HPCH XYLO
@@ -493,6 +503,7 @@ Moonlight Hall|i@KM|fAPRC BASN CLST FLUT OBOE PIZZ STRS TIMP TUBA VOCL
 Moonstone|i@KM|cAPNO
 Morgana Rides|i@KM|fAPRC DULC STRS SYNZ
 Morning|i@KM|cAGTR FLUT HARP
+Morocco Sting|i@KM|nAPRC BASN FLUT KLBA
 Motherlode|i@KM|nAPRC BASS EGTR HORN TRPT
 Motivator|i@KM|hAPRC BASS SYNZ
 Mourning Song|i@KM|sOBOE STRS
@@ -502,12 +513,14 @@ Myst|i@KM|sAPRC CLNT FLUT OBOE STRS TRBN VOCL
 Myst on the Moor|i@KM|fAPRC FLUT MRBA SYNZ
 Mysterioso March|i@KM|fAPRC CLNT CLST HORN MUTE PIZZ
 Mystery Sax|i@KM|fAPRC SAXO SYNZ
+Mystery Sting|i@KM|nAPRC CLNT MRBA OBOE
 Neo Western|i@KM|nAPRC EGTR SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
 Nerves|i@KM|fAPRC HORN STRS SYNZ TIMP TRBN TRPT
 New Friendly|i@KM|hEPRC SYNZ VOCL
 New Hero in Town|i@KM|nAPRC ENST
 News Theme|i@KM|hAPRC HORN TIMP TRBN TRPT TUBA
+NewsSting|i@KM|hAPRC HORN SYNZ TRBN TRPT
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
@@ -540,6 +553,7 @@ Organic Grunge|i@KM|aAPRC EGTR JORG
 Organic Meditations One|i@KM|cAPRC BELL STRS
 Organic Meditations Three|i@KM|cAPNO STRS
 Organic Meditations Two|i@KM|cHORN MRBA TUBA
+Ossuary 4 - Animate|i@KM|fAPRC EPRC SYNZ
 Ouroboros|i@KM|aEPRC SYNZ
 Outfoxing the Fox|i@KM|nAPRC BASS STRS SYNZ
 Over Under|i@KM|cBASS
@@ -613,6 +627,7 @@ Satiate|i@KM|fEPRC STRS
 Satiate Percussion|i@KM|fEPRC
 Satiate Strings|i@KM|fSTRS
 Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
+Scattershot|i@KM|aAPRC SYNZ
 Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
 Scheming Weasel slower|i@KM|sAPRC BASN BASS CLNT CLST GLCK OBOE
 Screen Saver|i@KM|cSYNZ VOCL
@@ -704,6 +719,7 @@ Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
 The Builder|i@KM|fAPRC BASN MRBA OBOE PIZZ TRBN TRPT TUBA
 The Chamber|i@KM|fAPRC CLNT HARP HORN STRS TRBN TIMP VOCL
 The Complex|i@KM|aAPNO EPRC SYNZ
+The Curtain Rises|i@KM|hAPRC HORN STRS TIMP TRBN TUBA
 The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
