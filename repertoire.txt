@@ -45,6 +45,7 @@ Backed Vibes Clean|i@KM|nBASS VIBE
 Bad Ideas _clean_|i@KM|fAPNO
 Bad Ideas _distressed_|i@KM|fAPNO
 Balloon Game|i@KM|hAPRC SYNZ
+Bama Country|i@KM|hACDN AGTR APRC BASS BNJO HMCA STRS
 Basement Floor|i@KM|fEPRC SYNZ VOCL
 Basic Implosion|i@KM|aEPRC HPRC SYNZ
 Bass Soli|i@KM|cBASS
@@ -61,6 +62,7 @@ Bit Shift|i@KM|hEPRC SYNZ
 Bleeping Demo|i@KM|cAPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
 Blippy Trance|i@KM|hSYNZ
+Blobby Samba|i@KM|hBASS EFFX EPRC SYNZ
 Blown Away|i@KM|aAPRC SYNZ
 Blown Away - No Percussion|i@KM|aSYNZ
 Blue Feather|i@KM|sAPNO
@@ -73,6 +75,7 @@ Bossa Antigua|i@KM|cAGTR APRC BASS
 BossaBossa|i@KM|cAGTR APNO APRC BASS
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Breakdown|i@KM|nAPRC BASS
+Brightly Fancy|i@KM|hAGTR APRC BASS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Broken Reality|i@KM|aAPRC BASS EPRC SYNZ
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
@@ -155,6 +158,7 @@ Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
 Crowd Hammer|i@KM|fAGTR APRC ENST FLUT OBOE
 Cruising for Goblins|i@KM|fEPRC SYNZ
+Crunk Knight|i@KM|aENWD EPRC SYNZ VOCL
 Crusade|i@KM|sAPRC HORN STRS TRBN TRPT
 Crusade - Heavy Industry|i@KM|sAPRC HORN STRS TRBN TRPT TUBA
 // TODO: Does "Crusade" (not H. I.) have TUBA?
@@ -169,6 +173,7 @@ Cut and Dry|i@KM|hAPRC EPRC SYNZ
 Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
 DD Groove|i@KM|sAGTR APRC BASS JORG
+Daily Beetle|i@KM|hAGTR APNO APRC HPRC MRBA MUBX UKLE
 Dance Monster|i@KM|nAPNO EPRC SYNZ
 Dance of Deception|i@KM|fAPRC PORG
 Dances and Dames|i@KM|fAPRC BASS EPNO VOCL
@@ -177,6 +182,7 @@ Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN
 Danse Macabre Isolated Harp|i@KM & @CS|rHARP
 Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Morialta|i@KM|rAPNO
+Danse of Questionable Tuning|i@KM|sAPNO STRS
 Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
 Dark Star|i@KM|hAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Darkening Developments|i@KM|fAPRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
@@ -265,6 +271,7 @@ Ever Mindful|i@KM|cCLNT FLUT STRS VOCL
 Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Exit the Premises|i@KM|aAPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
+Exotics|i@KM|aAPNO APRC EPRC SYNZ
 Fairytale Waltz|i@KM|sCLST OBOE STRS
 Fanfare for Space|i@KM|hAPRC HORN STRS TIMP TRBN TRPT
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
@@ -290,6 +297,7 @@ Firmament|i@KM|nAPRC BASS EGTR JORG
 Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
 Five Card Shuffle|i@KM|hAPNO
 Floating Cities|i@KM|sAPRC SYNZ
+Fluffing a Duck|i@KM|hAPRC CLNT FLUT MRBA TIMP TRBN TUBA
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Flying Kerfuffle|i@KM|hEPRC SYNZ
 Folk Round|i@KM|nACDN AGTR APRC FLUT STRS WHSL
@@ -309,8 +317,10 @@ Funky Boxstep|i@KM|hAPRC BASS EGTR JORG
 Funky Chunk|i@KM|hAPRC BASS EGTR EPNO SYNZ TRPT
 Furious Freak|i@KM|aAPRC EPNO SYNZ
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
+Future Gladiator|i@KM|aAPRC BASS HPRC SYNZ
 Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Rap|i@KM|cEPRC SYNZ
+Gaslamp Funworks|i@KM|aAPRC EFFX GLCK HORN STRS TRBN TRPT TUBA XYLO
 Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghost Processional|i@KM|sBELL CLST PIZZ STRS
@@ -336,6 +346,7 @@ Grave Blow|i@KM|fAPRC STRS TRBN TUBA
 // TODO: Grave Blow has TIMP?
 Graveyard Shift|i@KM|fAPRC JORG STRS SYNZ TIMP VOCL
 Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
+Griphop|i@KM|aEPRC STRS SYNZ VIBE
 Groove Grove|i@KM|fAPRC EPNO SYNZ
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Gustav Sting|i@KM|aAPRC STRS XYLO
@@ -429,6 +440,7 @@ Latin Industries|i@KM|aAPRC EPRC SYNZ VOCL
 Le Grand Chase|i@KM|aAPNO APRC EFFX SAXO TRPT TUBA XYLO
 Leaving Home|i@KM|sAPNO CLNT DULC EGTR FLUT SYNZ
 Leopard Print Elevator|i@KM|rAPRC BASS SYNZ
+Lewis and Dekalb|i@KM|aEPRC SYNZ
 Light Awash|i@KM|cSYNZ
 Light Thought var 1|i@KM|cEPNO
 Light Thought var 2|i@KM|cEPNO
@@ -497,6 +509,7 @@ Modern Vibes|i@KM|nVIBE
 // Modulus 3: Septembers|b@BK & Sepezz|sBELL EPNO EPRC STRS SYNZ VOCL
 // Modulus 3: Septembers (Ambient Mix)|b@BK & Sepezz|sSTRS SYNZ VOCL
 Monkoto|i@KM|nAPRC CLNT MRBA
+Monster Promenade|i@KM|hAGTR APRC JORG
 Montauk Point|i@KM|hAGTR APRC BASS
 Moon Lounge Omicron Prime|i@KM|hEGTR EPNO EPRC SYNZ
 Moonlight Hall|i@KM|fAPRC BASN CLST FLUT OBOE PIZZ STRS TIMP TUBA VOCL
@@ -536,6 +549,7 @@ Noble Race|i@KM|nAPNO BASN BELL CLNT FLUT GLCK HORN OBOE STRS TIMP TRBN TRPT
 Noise Attack|i@KM|aBASS EGTR EPRC JORG
 Not As It Seems|i@KM|fAPRC HARP GLCK HORN OBOE STRS TRBN TRPT TUBA
 Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
+Nothing Broken|i@KM|hAGTR APRC CLNT FLUT HPCH JORG
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 Obliteration|i@KM|aAPRC HORN JORG STRS
@@ -547,6 +561,7 @@ On the Cool Side|i@KM|sAPRC BASS EPNO SAXO TRPT
 On the Ground|i@KM|fAPRC BASS EPNO
 On the Shore|i@KM|sFLUT GLCK STRS TIMP
 One Sly Move|i@KM|sEGTR EPRC EPNO SYNZ
+One-eyed Maestro|i@KM|fACDN APRC FLUT HORN STRS TRPT
 // Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Opportunity Walks|i@KM|sAPNO APRC BASS
 Organic Grunge|i@KM|aAPRC EGTR JORG
@@ -569,11 +584,13 @@ Pennsylvania Rose|i@KM|hAGTR BELL FLUT STRS
 // TODO: more INST for PA Rose
 Peppy Pepe|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
 Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
+Petulant March|i@KM|nEPRC SYNZ
 Phat Sketch|i@KM|nEPRC SYNZ
 Pilot Error|i@KM|nAPNO APRC EGTR
 Pinball Spring|i@KM|hEPRC SYNZ
 Pinball Spring 160|i@KM|hEPRC SYNZ
 Pixelland|i@KM|hEPRC SYNZ
+Plain Loafer|i@KM|hAPRC BASS EPRC
 Pleasant Porridge|i@KM|cAPRC BASS EGTR EPNO
 Poofy Reel|i@KM|nAGTR APRC BASS EPNO
 Porch Blues|i@KM|cAGTR APNO HMCA
@@ -585,6 +602,7 @@ Prelude in C - BWV 846|i@KM & @JB|rAPNO
 Presenterator|i@KM|hAPRC SYNZ
 Private Eye|i@KM|fAPRC BASS HORN TRBN TRPT
 Professor and the Plant|i@KM|fBASN GLCK HARP MUTE
+Psychadelic Crater|i@KM|aEPRC SITR SYNZ
 Pulse Rock|i@KM|nAPRC BASS EGTR
 Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|i@KM|aAPNO APRC BASS SYNZ
@@ -593,6 +611,7 @@ Quinns Song-A New Man|i@KM & @FC|sAPNO TIMP STRS VOCL
 Quinns Song-First Night|i@KM & @FC|fAPNO SYNZ
 Quinns Song-The Dance Begins|i@KM & @FC|sAPNO STRS
 Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
+Radio Martini|i@KM|hAGTR APRC BASS CLNT FLUT PIZZ
 Rainbows|i@KM|hAPRC BASS MRBA UKLE
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
@@ -610,6 +629,7 @@ Rising Game|i@KM|fAPRC BASS EGTR HORN PORG STRS VOCL
 Rising Tide|i@KM|cEPRC SYNZ
 Rising Tide (faster)|i@KM|cEPRC SYNZ
 Rites|i@KM|cHARP VOCL
+River Valley Breakdown|i@KM|hAPRC BASS BNJO MDLN STRS
 River of Io|i@KM|fAPRC CLNT FLUT STRS SYNZ
 Robo-Western|i@KM|aBASS EGTR EPRC STRS SYNZ
 Robobozo|i@KM|fAPRC EGTR JORG SYNZ
@@ -713,10 +733,12 @@ Tech Live|i@KM|hAPRC KLBA SYNZ
 Tectonic|i@KM|aAPNO APRC HORN STRS TIMP TRBN TRPT
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
 Tempting Secrets|i@KM|cFLUT STRS VOCL
+Tenebrous Brothers Carnival - Intermission|i@KM|fAPRC SYNZ
 Thatched Villagers|i@KM|hAGTR APRC DULC WHSL
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
 The Builder|i@KM|fAPRC BASN MRBA OBOE PIZZ TRBN TRPT TUBA
+The Cannery|i@KM|hAPNO APRC EFFX MUBX TRPT
 The Chamber|i@KM|fAPRC CLNT HARP HORN STRS TRBN TIMP VOCL
 The Complex|i@KM|aAPNO EPRC SYNZ
 The Curtain Rises|i@KM|hAPRC HORN STRS TIMP TRBN TUBA
@@ -774,6 +796,8 @@ Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
 // TODO: move to APR Very Low Note|i@KM|fSYNZ
 Vibe Ace|i@KM|hAPRC BASS SYNZ VIBE
 Vibing Over Venus|i@KM & Alice Goodworth & Radio Kilimanjaro Automaton Ensemble|cAPNO APRC BASS STRS VIBE
+Vicious|i@KM|hEPRC SYNZ
+Village Consort|i@KM|hAGTR APRC PFLT WHSL
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
@@ -790,6 +814,7 @@ Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Waltz Primordial |i@KM & @AN|sAPRC BASS EGTR
 Water Droplets on the River|i@KM|rAPNO
 Water Prelude|i@KM|rBASN BELL CLST FLUT HARP STRS
+Waunobe March|i@KM|hAPRC CLNT FLUT SAXO TRBN TRPT TUBA
 We Got Trouble|i@KM|fAPRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
 Welcome to the Show|i@KM|hAPRC BASS EGTR SYNZ TRPT XYLO
 Wepa|i@KM|nBASS EPRC STRS
