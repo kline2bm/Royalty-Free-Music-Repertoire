@@ -136,6 +136,7 @@ Cloud Dancer|i@KM|hEPRC SYNZ VOCL
 Club Diver|i@KM|aEPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Cold Funk|i@KM|nAGTR APRC BASS EPNO
+Cold Sober|i@KM|nAGTR APRC BASS BGPS EPNO
 Colossus|i@KM|nAPRC BASN BELL CLNT FLUT GLCK HORN MRBA OBOE TRBN TRPT TUBA
 Comfortable Mystery|i@KM|sEPNO
 Comfortable Mystery 2|i@KM|sEPNO
@@ -151,6 +152,7 @@ Constance|i@KM|fAPRC MRBA STRS SYNZ XYLO
 Cool Blast|i@KM|hBASS EPNO EPRC TRPT STRS
 Cool Rock|i@KM|hAPRC BASS EGTR
 Corncob|i@KM|hAPRC BASS BNJO
+Court of the Queen|i@KM|rCLST HARP HORN PIZZ STRS TRBN TRPT TUBA
 Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 Cowboy Sting|i@KM|nAGTR APRC BASS ENST STRS
 // Creepy Churchyard|b@BK & @PB|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
@@ -200,11 +202,13 @@ Delay Rock|i@KM|hAPRC BASS EGTR
 Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
+Destiny Day|i@KM|hAPRC SYNZ
 Deuces|i@KM|rAPNO APRC BASS JORG
 Devastation and Revenge|i@KM|fAGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
 Devonshire Waltz Allegretto|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
 Devonshire Waltz Andante|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
 Devonshire Waltz Moderato|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
+Dewdrop Fantasy|i@KM|cEFFX SYNZ
 Digital Lemonade|i@KM|hAPRC SYNZ
 Digya|i@KM|nAPRC BASS ENST MRBA
 Dirt Rhodes|i@KM|cEPNO EPRC
@@ -320,7 +324,7 @@ Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 Future Gladiator|i@KM|aAPRC BASS HPRC SYNZ
 Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Rap|i@KM|cEPRC SYNZ
-Gaslamp Funworks|i@KM|aAPRC EFFX GLCK HORN STRS TRBN TRPT TUBA XYLO
+Gaslamp Funworks|i@KM|hAPRC EFFX GLCK HORN STRS TRBN TRPT TUBA XYLO
 Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghost Processional|i@KM|sBELL CLST PIZZ STRS
@@ -342,6 +346,11 @@ Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Gonna Start|i@KM|hAPNO APRC BASS EGTR JORG
 Gonna Start v2|i@KM|hAPNO APRC BASS EGTR JORG
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
+Grand Dark Walt Allegretto|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
+Grand Dark Waltz Allegro|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
+Grand Dark Waltz Moderato|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
+Grand Dark Waltz Trio Allegro|i@KM|sAPNO APRC BASS
+Grand Dark Waltz Trio Vivace|i@KM|sAPNO APRC BASS
 Grave Blow|i@KM|fAPRC STRS TRBN TUBA
 // TODO: Grave Blow has TIMP?
 Graveyard Shift|i@KM|fAPRC JORG STRS SYNZ TIMP VOCL
@@ -396,6 +405,7 @@ Impact Allegretto|i@KM|hAGTR APRC EGTR SYNZ
 In The West|i@KM|fAPRC CLNT FLUT STRS
 In Your Arms|i@KM|rAPRC BASS MUTE SAXO TRBN
 Industrial Cinematic|i@KM|fAPRC SYNZ
+Industrial Music Box|i@KM|sMUBX
 Industrial Revolution|i@KM|sAPRC HORN PORG STRS TRBN TRPT TUBA
 Industrious Ferret|i@KM|hAPRC ENST OBOE PIZZ
 Inexorable|i@KM|fAPNO EFFX
@@ -733,6 +743,7 @@ Tech Live|i@KM|hAPRC KLBA SYNZ
 Tectonic|i@KM|aAPNO APRC HORN STRS TIMP TRBN TRPT
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
 Tempting Secrets|i@KM|cFLUT STRS VOCL
+Tenebrous Brothers Carnival - Act Two|i@KM|fAGTR APRC PORG
 Tenebrous Brothers Carnival - Intermission|i@KM|fAPRC SYNZ
 Thatched Villagers|i@KM|hAGTR APRC DULC WHSL
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
@@ -772,6 +783,7 @@ Trouble with Tribals|i@KM|aAPRC SYNZ VOCL
 Truth of the Legend|i@KM|fAPRC SYNZ TRBN VOCL
 Twisted|i@KM|nAPRC BASS EGTR EPNO
 Twisting|i@KM|fAPRC BASS EGTR EPRC SYNZ
+Two Finger Johnny|i@KM|hBASS EPRC JORG
 Tyrant|i@KM|aEPRC SYNZ
 Ultra Polka|i@KM|hEPRC SYNZ
 Ultralounge|i@KM|rAPNO APRC BASS SYNZ
@@ -814,7 +826,7 @@ Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Waltz Primordial |i@KM & @AN|sAPRC BASS EGTR
 Water Droplets on the River|i@KM|rAPNO
 Water Prelude|i@KM|rBASN BELL CLST FLUT HARP STRS
-Waunobe March|i@KM|hAPRC CLNT FLUT SAXO TRBN TRPT TUBA
+Waunobe March|i@KM|hAPRC CLNT FLUT GLCK SAXO TRBN TRPT TUBA
 We Got Trouble|i@KM|fAPRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
 Welcome to the Show|i@KM|hAPRC BASS EGTR SYNZ TRPT XYLO
 Wepa|i@KM|nBASS EPRC STRS
