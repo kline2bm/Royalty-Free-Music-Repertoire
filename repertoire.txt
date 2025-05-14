@@ -15,6 +15,7 @@ Airport Lounge|i@KM|hAPRC BASS EPNO VIBE
 Airship Serenity|i@KM|rSYNZ
 Aitech|i@KM|hAPRC BASS EGTR EPRC SYNZ
 Alien Restaurant|i@KM|cAPRC BASS HARP OBOE SITR TRPT
+Allada|i@KM|nAPRC MRBA
 Almost New|i@KM|rAPNO STRS
 Almost in F|i@KM|cAPNO STRS
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
@@ -64,6 +65,7 @@ Beach Party|i@KM|hAPRC BASS EGTR JORG STDR
 Beachfront Celebration|i@KM|hAPNO APRC BASS HORN STDR TRBN TRPT
 Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
+Big Mojo|i@KM|fAPRC ENST FLUT STRS SYNZ TIMP TRPT
 Bit Shift|i@KM|hEPRC SYNZ
 Bleeping Demo|i@KM|cAPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
@@ -87,6 +89,8 @@ Broken Reality|i@KM|aAPRC BASS EPRC SYNZ
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
 Bummin on Tremelo|i@KM|rAPRC BASS EGTR JORG VOCL
 Burn The World Waltz |i@KM & @AN|aAPRC BASS EGTR
+Bushwick Tarantella|i@KM|hACDN AGTR APRC BASS CLNT
+Bushwick Tarantella Loop|i@KM|hACDN AGTR APRC BASS CLNT
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 C-Funk|i@KM|nAPRC BASS EGTR MUTE SAXO
 Call to Adventure|i@KM|hAPRC BASN CLNT CLST FLUT HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA XYLO
@@ -117,6 +121,7 @@ Canon in D for Two Renaissance Harps|i@KM & @JP|rHARP
 Cantina Blues|i@KM|nAPRC BASS ENST VOCL
 Captain Scurvy|i@KM|nEPRC SYNZ
 Carpe Diem|i@KM|hAGTR APRC BASS CLNT FLUT UKLE XYLO
+Cartoon Battle|i@KM|aAPRC MUTE SAXO TRBN TUBA
 Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 // Celebration Rock|z@BK|hAPRC EGTR SITR
 Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
@@ -143,6 +148,7 @@ Clean Soul|i@KM|cBASS EPNO
 Clear Air|i@KM|rAGTR APNO
 Cloud Dancer|i@KM|hEPRC SYNZ VOCL
 Club Diver|i@KM|aEPRC SYNZ
+Club Seamus|i@KM|hBGPS EPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Cold Funk|i@KM|nAGTR APRC BASS EPNO
 Cold Sober|i@KM|nAGTR APRC BASS BGPS EPNO
@@ -213,6 +219,7 @@ Del Rio Bravo|i@KM|hACDN APRC BASS MRBA
 Delay Rock|i@KM|hAPRC BASS EGTR
 Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
+Derp Nugget|i@KM|hAPRC BASS ENST SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
 Destiny Day|i@KM|hAPRC SYNZ
 Deuces|i@KM|rAPNO APRC BASS JORG
@@ -238,6 +245,7 @@ Dopplerette|i@KM|fBELL SYNZ
 Double O|i@KM|aEPRC JORG SYNZ VOCL
 Double Polka|i@KM|hACDN APRC TUBA
 Dragon and Toast|i@KM|fAPRC BASN CLST DGOO HARP OBOE STRS
+Drankin Song|i@KM|cAGTR APRC BASS BNJO ENST STRS
 Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
@@ -276,6 +284,7 @@ Enter the Maze|i@KM|fAPRC HORN SYNZ
 Enter the Party|i@KM|nEPRC JORG SYNZ
 Envision|i@KM|fEGTR SYNZ
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
+Errigal|i@KM|hDULC
 Eternity|i@KM|rAPRC BASS EGTR EPNO SYNZ
 Ether Disco|i@KM|hAPRC BASS EGTR GLCK STRS
 Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
@@ -300,6 +309,7 @@ Fearless First|i@KM|nAPRC BASS EGTR FLUT
 // TODO: F. 1st's percussion sounds similar to Ch. Wv's; compare; APRC or EPRC
 Feelin Good|i@KM|hAPRC BASS EGTR JORG
 Feral Angel Waltz |i@KM & @AN|sAPRC BASS EGTR
+Fiddles McGinty|i@KM|hAGTR APRC BASS BGPS WHSL
 Fife and Drum|i@KM|hAPRC FLUT
 Fig Leaf Rag|i@KM & @SJ|hAPNO
 Fig Leaf Rag - distressed|i@KM & @SJ|hAPNO
@@ -309,6 +319,7 @@ Final Battle of the Dark Wizards|i@KM|fEPRC HORN STRS SYNZ TRPT VOCL
 // TODO: check for APRC in ^^^FBotDW^^^
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Fire Prelude|i@KM|fAPRC MRBA STRS SYNZ TIMP
+Firebrand|i@KM|aAPRC
 Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
 Firmament|i@KM|nAPRC BASS EGTR JORG
 Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
@@ -323,6 +334,7 @@ For Originz|i@KM|rAPRC STRS VOCL
 Fork and Spoon|i@KM|hAPRC BASS EGTR JORG
 Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
+Freddys Menagerie|i@KM|aAGTR APRC MRBA
 Frogs Legs Rag|i@KM & @JS|hAPNO
 Frost Waltz|i@KM|fCLST GLCK HORN STRS
 Frost Waltz (Alternate)|i@KM|fBELL CLST FLUT GLCK STRS
@@ -338,6 +350,7 @@ Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 Future Gladiator|i@KM|aAPRC BASS HPRC SYNZ
 Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Rap|i@KM|cEPRC SYNZ
+Galway|i@KM|hAGTR APRC BASS FLUT STRS
 Garden Music|i@KM|cAPNO SYNZ
 Gaslamp Funworks|i@KM|hAPRC EFFX GLCK HORN STRS TRBN TRPT TUBA XYLO
 Getting it Done|i@KM|hAPRC SYNZ
@@ -400,6 +413,7 @@ Heavy Interlude|i@KM|aAPRC DULC MDLN STRS
 Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|i@KM|nBASS EGTR EPRC HPRC SAXO TRPT
+Hillbilly Swing|i@KM|hAGTR BASS BNJO HPRC MDLN STRS
 Hit the Streets|i@KM|aAPRC
 Hit the Streets v2|i@KM|aAPRC
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
@@ -416,6 +430,7 @@ I Got a Stick Arr Bryan Teoh|i@KM & @BT|hAPRC BASS EGTR SAXO TRBN TRPT
 I Got a Stick Feat James Gavins|i@KM & @BT & @JG|hAPRC BASS EGTR SAXO TRBN TRPT VOCL
 I Knew a Guy|i@KM|cAPRC BASS VIBE
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
+Ibn Al-Noor|i@KM|fAPRC ENST
 Ice Flow|i@KM|aAPRC SYNZ
 Ignosi|i@KM|fAPRC CLNT FLUT HORN MRBA STRS TRBN
 Immersed|i@KM|cAPNO
@@ -463,6 +478,7 @@ Klockworx|i@KM|nEPRC SYNZ
 Kumasi Groove|i@KM|cAPRC MRBA
 Kumasi Groove Flugelhorn|i@KM|cAPRC MRBA TRPT
 Laconic Granny|i@KM|sAPRC CLNT TUBA
+Lachaim|i@KM|hAGTR APRC BASS CLNT SAXO STRS TRBN
 Laid Back Guitars|i@KM|sAGTR APRC
 Land of Phantoms|i@KM|fAPRC
 Laser Groove|i@KM|nEPRC SYNZ
@@ -511,6 +527,7 @@ March of the Spoons|i@KM|nAPRC CLNT FLUT OBOE PIZZ
 Martian Cowboy|i@KM|fBASS GLCK SYNZ
 Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
 Master Disorder|i@KM|fDULC EPRC SYNZ
+Master of the Feast|i@KM|hAGTR APRC DULC ENST ENWD FLUT
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
@@ -556,6 +573,7 @@ Morning|i@KM|cAGTR FLUT HARP
 Morocco Sting|i@KM|nAPRC BASN FLUT KLBA
 Motherlode|i@KM|nAPRC BASS EGTR HORN TRPT
 Motivator|i@KM|hAPRC BASS SYNZ
+Mountain Emperor|i@KM|nAPRC BELL
 Mourning Song|i@KM|sOBOE STRS
 Movement Proposition|i@KM|aAPRC HORN STRS SYNZ TRBN
 Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
@@ -623,9 +641,11 @@ Overriding Concern|i@KM|fAPNO BELL EPRC GLCK SYNZ VOCL
 Overture|i@KM|sAPNO
 Overworld|i@KM|fEPRC SYNZ
 Rains Will Fall|i@KM|sAPNO APRC STRS
+Padanaya Blokov|i@KM|nAPRC BASS ENST EPRC SYNZ
 Pale Rider|i@KM|rHARP
 Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
+Paradise Found|i@KM|hEPRC STDR SYNZ VOCL
 Passing Action|i@KM|fAPRC BASS EPRC STRS
 Peace of Mind|i@KM|cAPNO STRS SYNZ
 Pennsylvania Rose|i@KM|hAGTR BELL FLUT STRS
@@ -759,6 +779,7 @@ Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
 Stay the Course|i@KM|fAPRC SYNZ
 Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
+Still Pickin|i@KM|hACDN APRC BASS BNJO HMCA
 Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
 Stormfront|i@KM|fAPRC SYNZ
 Street Party|i@KM|hAPRC BASS JORG SAXO STDR TRBN TRPT WHSL
@@ -900,9 +921,12 @@ Windswept|i@KM|rAGTR STRS
 Winner Winner|i@KM|hAPRC GLCK PIZZ STRS VOCL XYLO
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
+Witch Hunt|i@KM|aAPRC CLNT FLUT HORN KLBA OBOE STRS TRBN TUBA
 With Regards|i@KM|rAGTR TRBN TUBA
 With a Creation|i@KM|fEPNO EPRC
+World Vice|i@KM|aAGTR APRC MRBA VOCL
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
+Zanzibar|i@KM|hAPRC MRBA VOCL
 Zap Beat|i@KM|aAPRC BASS EGTR JORG SYNZ
 Zazie|i@KM|hAPRC BASS EPNO TRPT VOCL
 ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
