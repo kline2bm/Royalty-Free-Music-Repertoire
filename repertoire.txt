@@ -8,11 +8,13 @@ Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 Adventures in Adventureland|i@KM|hAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
 // African Rag|z@BK|hAPNO APRC SYNZ
 Agnus Dei X|i@KM & @SB|sPORG VOCL
+AhDah|i@KM|cEPNO EPRC JORG SYNZ VOCL
 Air Prelude|i@KM|sFLUT SYNZ
 // Air of Mystery and Suspense|b@BK|fAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Airport Lounge|i@KM|hAPRC BASS EPNO VIBE
 Airship Serenity|i@KM|rSYNZ
 Aitech|i@KM|hAPRC BASS EGTR EPRC SYNZ
+Alien Restaurant|i@KM|cAPRC BASS HARP OBOE SITR TRPT
 Almost New|i@KM|rAPNO STRS
 Almost in F|i@KM|cAPNO STRS
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
@@ -88,6 +90,7 @@ Burn The World Waltz |i@KM & @AN|aAPRC BASS EGTR
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 C-Funk|i@KM|nAPRC BASS EGTR MUTE SAXO
 Call to Adventure|i@KM|hAPRC BASN CLNT CLST FLUT HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA XYLO
+// Can you Hear me Now?|b@BK|nAPRC BASN BELL CLNT FLUT GLCK HARP HORN OBOE MRBA STRS TIMP TRBN TRPT TUBA
 Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
 Canon In D Interstellar Mix|i@KM & @JP|hEPRC SYNZ
 Canon in D Major|i@KM & @JP|rHARP STRS
@@ -111,7 +114,7 @@ Canon in D for Autoharp|i@KM & @JP|rDULC
 //Canon in D for General MIDI Synth Pads|z@BK & @JP|eSYNZ VOCL
 Canon in D for Two Harps|i@KM & @JP|rHARP
 Canon in D for Two Renaissance Harps|i@KM & @JP|rHARP
-// Can you Hear me Now?|b@BK|nAPRC BASN BELL CLNT FLUT GLCK HARP HORN OBOE MRBA STRS TIMP TRBN TRPT TUBA
+Cantina Blues|i@KM|nAPRC BASS ENST VOCL
 Captain Scurvy|i@KM|nEPRC SYNZ
 Carpe Diem|i@KM|hAGTR APRC BASS CLNT FLUT UKLE XYLO
 Cattails|i@KM|rACDN AGTR BNJO ENST STRS
@@ -129,6 +132,7 @@ Cherry Blossom|i@KM|hAPRC MRBA
 Chill|i@KM|cBASS EPRC SYNZ
 // Chill Science|b@BK & @SI|cAPNO SAXO STRS
 Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
+Chillin Hard|i@KM|cAPRC SYNZ VOCL
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
 Cipher2|i@KM|hAPRC EPNO STRS SYNZ
@@ -181,6 +185,7 @@ Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
 DD Groove|i@KM|sAGTR APRC BASS JORG
 Daily Beetle|i@KM|hAGTR APNO APRC HPRC MRBA MUBX UKLE
+Dama-May|i@KM|fAPRC DULC STRS
 Dance Monster|i@KM|nAPNO EPRC SYNZ
 Dance of Deception|i@KM|fAPRC PORG
 Dances and Dames|i@KM|fAPRC BASS EPNO VOCL
@@ -267,6 +272,7 @@ Energizing|i@KM|cAPRC SYNZ
 Enchanted Journey|i@KM|rHARP
 Enchanted Valley|i@KM|rCLNT CLST FLUT STRS
 Enigma|i@KM|fAPRC BASS EPNO SAXO STRS TRBN TRPT
+Enter the Maze|i@KM|fAPRC HORN SYNZ
 Enter the Party|i@KM|nEPRC JORG SYNZ
 Envision|i@KM|fEGTR SYNZ
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
@@ -416,6 +422,7 @@ Immersed|i@KM|cAPNO
 Impact Allegretto|i@KM|hAGTR APRC EGTR SYNZ
 Impact Andante|i@KM|rAPRC EGTR SYNZ VOCL
 Impact Intermezzo|i@KM|aAPRC
+Impact Lento|i@KM|cSYNZ VOCL
 Impact Moderato|i@KM|hAPRC EGTR SYNZ
 Impact Prelude|i@KM|fAPRC EGTR SYNZ
 In The West|i@KM|fAPRC CLNT FLUT STRS
@@ -466,6 +473,7 @@ Late Night Radio|i@KM|cBASS EPNO EPRC SYNZ
 Latin Industries|i@KM|aAPRC EPRC SYNZ VOCL
 Le Grand Chase|i@KM|aAPNO APRC EFFX SAXO TRPT TUBA XYLO
 Leaving Home|i@KM|sAPNO CLNT DULC EGTR FLUT SYNZ
+Legend of One|i@KM|fAPNO EPRC SYNZ
 Leopard Print Elevator|i@KM|rAPRC BASS SYNZ
 Lewis and Dekalb|i@KM|aEPRC SYNZ
 Light Awash|i@KM|cSYNZ
@@ -606,6 +614,7 @@ Ossuary 3 - Words|i@KM|fAPRC SYNZ
 Ossuary 4 - Animate|i@KM|fAPRC EPRC SYNZ
 Ossuary 5 - Rest|i@KM|cSYNZ
 Ossuary 6 - Air|i@KM|fSYNZ
+Ossuary 7 - Resolve|i@KM|cAPRC SYNZ
 Ouroboros|i@KM|aEPRC SYNZ
 Outfoxing the Fox|i@KM|nAPRC BASS STRS SYNZ
 Over Under|i@KM|cBASS
@@ -614,6 +623,7 @@ Overriding Concern|i@KM|fAPNO BELL EPRC GLCK SYNZ VOCL
 Overture|i@KM|sAPNO
 Overworld|i@KM|fEPRC SYNZ
 Rains Will Fall|i@KM|sAPNO APRC STRS
+Pale Rider|i@KM|rHARP
 Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
 Passing Action|i@KM|fAPRC BASS EPRC STRS
@@ -643,7 +653,7 @@ Presenterator|i@KM|hAPRC SYNZ
 Private Eye|i@KM|fAPRC BASS HORN TRBN TRPT
 Professor Umlaut|i@KM|aEPRC STRS XYLO
 Professor and the Plant|i@KM|fBASN GLCK HARP MUTE
-Psychadelic Crater|i@KM|aEPRC SITR SYNZ
+Psychedelic Crater|i@KM|aEPRC SITR SYNZ
 Pulse Rock|i@KM|nAPRC BASS EGTR
 Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|i@KM|aAPNO APRC BASS SYNZ
@@ -691,6 +701,7 @@ Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
 Scattershot|i@KM|aAPRC SYNZ
 Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
 Scheming Weasel slower|i@KM|sAPRC BASN BASS CLNT CLST GLCK OBOE
+Scissors|i@KM|fAPRC SYNZ
 Screen Saver|i@KM|cSYNZ VOCL
 Second Coming - no percussion|i@KM|rHORN STRS TRBN
 Secret of Tiki Island|i@KM & @BT|fAGTR APNO APRC BASS JORG VIBE VOCL
@@ -712,9 +723,11 @@ Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Simplex|i@KM|fAGTR APRC SYNZ
+Sinfonia 3|i@KM|hBASS EPRC PORG
 Sleep_and_Then|i@KM|cBELL CLNT FLUT GLCK HARP STRS
 Slow Burn|i@KM|hAPRC BASS EGTR JORG
 Slow Heat|i@KM|cAPRC MRBA
+Slow Jam|i@KM|cAPNO EPNO EPRC SYNZ
 Smash Sketch|i@KM|aBASS EPRC EPNO JORG
 Smoking Gun|i@KM|fAPRC BASS BELL EGTR FLUT STRS VOCL
 Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
@@ -780,6 +793,9 @@ Tenebrous Brothers Carnival - Act One|i@KM|fAPRC CLNT GLCK JORG STRS TUBA VOCL
 Tenebrous Brothers Carnival - Act Three|i@KM|fAPRC STRS
 Tenebrous Brothers Carnival - Act Two|i@KM|fAGTR APRC PORG
 Tenebrous Brothers Carnival - Intermission|i@KM|fAPRC SYNZ
+Tenebrous Brothers Carnival - Mermaid|i@KM|fAPRC BELL CLST HARP VOCL
+Tenebrous Brothers Carnival - Prelude|i@KM|fAPRC EPRC JORG SYNZ
+Tenebrous Brothers Carnival - Snake Lady|i@KM|cAPRC ENWD
 Thatched Villagers|i@KM|hAGTR APRC DULC WHSL
 Thats a Wrap|i@KM|cAPRC BASS SYNZ
 Thaxted|i@KM & @GH|rBASN CLNT FLUT HORN OBOE STRS TRBN TRPT TUBA
@@ -881,6 +897,7 @@ Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
 Willow and the Light|i@KM|sAPRC HARP FLUT VOCL
 Wind of the Rainforest|i@KM|cEPNO SYNZ
 Windswept|i@KM|rAGTR STRS
+Winner Winner|i@KM|hAPRC GLCK PIZZ STRS VOCL XYLO
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
 With Regards|i@KM|rAGTR TRBN TUBA
