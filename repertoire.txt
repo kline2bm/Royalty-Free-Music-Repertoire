@@ -3,6 +3,7 @@ A Mission|i@KM|nCLNT FLUT STRS TRBN TUBA
 // Abrasive Accordion|z@BK|aACDN APRC
 Accralate|i@KM|cAPRC MRBA
 Aces High|i@KM|hAPRC BASS EPNO JORG
+Achaidh Cheide|i@KM|nAPRC DULC HARP MDLN STRS WHSL
 Achilles|i@KM|nAPRC HORN STRS TRBN TRPT
 Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 Adventures in Adventureland|i@KM|hAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
@@ -26,12 +27,14 @@ Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 Ancient Rite|i@KM|sAPRC STRS
 Ancient Winds|i@KM|cHARP STRS SYNZ
 Andreas Theme|i@KM|rAPRC BASS EPNO PFLT SYNZ
-Angevin|i@KM|sAPRC ENWD FLUT VOCL
+Angevin|i@KM|sAPRC ENST FLUT VOCL
+Angevin B|i@KM|nAPRC ENST FLUT VOCL
 Anguish|i@KM|sAGTR APRC HARP SYNZ
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
 Apero Hour|i@KM|hAGTR APRC BASS JORG
 Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
 Aretes|i@KM|rAPNO SYNZ VOCL
+Arid Foothills|i@KM|fAPRC MRBA HORN STRS TRBN TUBA
 Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
 Ascending the Vale|i@KM|cAPRC FLUT HARP HORN VOCL
@@ -67,7 +70,9 @@ Beachfront Celebration|i@KM|hAPNO APRC BASS HORN STDR TRBN TRPT
 Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
 Big Mojo|i@KM|fAPRC ENST FLUT STRS SYNZ TIMP TRPT
+Birch Run|i@KM|nAPRC
 Bit Shift|i@KM|hEPRC SYNZ
+Black Bird|i@KM|nAPRC HPRC
 Bleeping Demo|i@KM|cAPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
 Blippy Trance|i@KM|hSYNZ
@@ -95,6 +100,7 @@ Bushwick Tarantella Loop|i@KM|hACDN AGTR APRC BASS CLNT
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 C-Funk|i@KM|nAPRC BASS EGTR MUTE SAXO
 Call to Adventure|i@KM|hAPRC BASN CLNT CLST FLUT HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA XYLO
+Cambodian Odyssey|i@KM|cAPRC FLUT OBOE SYNZ
 // Can you Hear me Now?|b@BK|nAPRC BASN BELL CLNT FLUT GLCK HARP HORN OBOE MRBA STRS TIMP TRBN TRPT TUBA
 Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
 Canon In D Interstellar Mix|i@KM & @JP|hEPRC SYNZ
@@ -126,7 +132,9 @@ Cartoon Battle|i@KM|aAPRC MUTE SAXO TRBN TUBA
 Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 // Celebration Rock|z@BK|hAPRC EGTR SITR
 Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
+Celtic Impulse|i@KM|nAPRC DULC HARP MDLN WHSL
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
+Chanter|i@KM|aAPRC ENST SYNZ VOCL
 Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
 Chee Zee Beach|i@KM|hAPRC BASS EGTR MRBA STDR
@@ -162,6 +170,7 @@ Comfortable Mystery 4|i@KM|sEPNO
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Concentration|i@KM|cEPNO SYNZ
+Confused State|i@KM|fAPRC BASN CLNT KLBA MRBA OBOE
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 Constance|i@KM|fAPRC MRBA STRS SYNZ XYLO
@@ -243,6 +252,7 @@ Division|i@KM|fAPNO APRC CLNT FLUT HORN OBOE STRS
 Do De Oh|i@KM|hAPNO
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
 Dopplerette|i@KM|fBELL SYNZ
+Double Drift|i@KM|fAGTR APRC BASS SYNZ
 Double O|i@KM|aEPRC JORG SYNZ VOCL
 Double Polka|i@KM|hACDN APRC TUBA
 Dragon and Toast|i@KM|fAPRC BASN CLST DGOO HARP OBOE STRS
@@ -253,6 +263,7 @@ Dreamer|i@KM|cAPNO APRC
 Dreamlike|i@KM|fAPNO BELL OBOE STRS SYNZ
 Dreamy Flashback|i@KM|rBELL HARP PIZZ
 Drone in D|i@KM|cAPNO SYNZ
+Drums of the Deep|i@KM|fAPRC STRS
 Dub Eastern|i@KM|fAPRC BASS EGTR EPNO SYNZ
 Dub Feral|i@KM|fAPRC BASS EGTR EPNO SYNZ
 Dubakupado|i@KM|nAPRC MRBA
@@ -325,6 +336,7 @@ Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Fire Prelude|i@KM|fAPRC MRBA STRS SYNZ TIMP
 Firebrand|i@KM|aAPRC
 Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
+Firesong|i@KM|nAPRC
 Firmament|i@KM|nAPRC BASS EGTR JORG
 Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
 Five Card Shuffle|i@KM|hAPNO
@@ -420,6 +432,7 @@ Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|i@KM|nBASS EGTR EPRC HPRC SAXO TRPT
 Hillbilly Swing|i@KM|hAGTR BASS BNJO HPRC MDLN STRS
+Himalayan Atmosphere|i@KM|fAPRC BELL
 Hit the Streets|i@KM|aAPRC
 Hit the Streets v2|i@KM|aAPRC
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
@@ -557,6 +570,7 @@ Mind Scrape|i@KM|fAPRC BELL SYNZ
 Minima|i@KM|fAPRC BASN CLNT CLST FLUT HORN OBOE STRS TIMP TRBN TRPT VOCL
 Minstrel Guild|i@KM|hAPRC BAGP ENWD STRS WHSL
 Mirage|i@KM|cSYNZ
+Miris Magic Dance|i@KM|fACDN APRC MDLN
 Mischief Maker|i@KM|nAPRC BASS DULC HPCH XYLO
 Mistake the Getaway|i@KM|aAPRC EPRC HORN STRS TRBN TRPT
 Mister Exposition|i@KM|hAPNO TUBA
@@ -577,6 +591,7 @@ Montauk Point|i@KM|hAGTR APRC BASS
 Moon Lounge Omicron Prime|i@KM|hEGTR EPNO EPRC SYNZ
 Moonlight Hall|i@KM|fAPRC BASN CLST FLUT OBOE PIZZ STRS TIMP TUBA VOCL
 Moonstone|i@KM|cAPNO
+Moorland|i@KM|sAPRC BGPS
 Morgana Rides|i@KM|fAPRC DULC STRS SYNZ
 Morning|i@KM|cAGTR FLUT HARP
 Morocco Sting|i@KM|nAPRC BASN FLUT KLBA
@@ -604,6 +619,7 @@ Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
 Night Vigil|i@KM|sAPRC FLUT STRS VOCL
+Night of the Owl|i@KM|fAPRC FLUT
 Night on the Docks|i@KM|sEPNO
 Night on the Docks - Sax|i@KM|sEPNO SAXO
 Night on the Docks - Trumpet|i@KM|sEPNO MUTE
@@ -713,6 +729,7 @@ Rising Game|i@KM|fAPRC BASS EGTR HORN PORG STRS VOCL
 Rising Tide|i@KM|cEPRC SYNZ
 Rising Tide (faster)|i@KM|cEPRC SYNZ
 Rites|i@KM|cHARP VOCL
+Ritual|i@KM|sAPRC FLUT SYNZ
 River Flute|i@KM|cEFFX FLUT SYNZ
 River Valley Breakdown|i@KM|hAPRC BASS BNJO MDLN STRS
 River of Io|i@KM|fAPRC CLNT FLUT STRS SYNZ
@@ -827,6 +844,7 @@ Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
 Tech Live|i@KM|hAPRC KLBA SYNZ
 Tectonic|i@KM|aAPNO APRC HORN STRS TIMP TRBN TRPT
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
+Temple of the Manes|i@KM|sAPRC FLUT HARP OBOE
 Tempting Secrets|i@KM|cFLUT STRS VOCL
 Tenebrous Brothers Carnival - Act One|i@KM|fAPRC CLNT GLCK JORG STRS TUBA VOCL
 Tenebrous Brothers Carnival - Act Three|i@KM|fAPRC STRS
@@ -865,6 +883,8 @@ Thief in the Night|i@KM|cAPRC BASS EGTR JORG
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
 Thunder Dreams|i@KM|sSYNZ
 Thunderbird|i@KM|cAPRC FLUT SYNZ
+Thunderhead|i@KM|nAPRC
+Tikopia|i@KM|nAPRC
 Time Passes|i@KM|sFLUT HARP STRS
 Tiny Fugue|i@KM|nPORG
 To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
