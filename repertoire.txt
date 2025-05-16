@@ -24,11 +24,15 @@ Ambiment|i@KM|cAPNO SYNZ
 Americana|i@KM|rAPRC CLNT CLST FLUT GLCK HORN OBOE STRS TIMP TRBN TUBA
 Anachronist|i@KM|aEGTR EPRC HPCH
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
+Ancient Mystery Waltz Allegro|i@KM|fAPRC MRBA VOCL
+Ancient Mystery Waltz Presto|i@KM|aAPRC MRBA VOCL
+Ancient Mystery Waltz Vivace|i@KM|fAPRC MRBA VOCL
 Ancient Rite|i@KM|sAPRC STRS
 Ancient Winds|i@KM|cHARP STRS SYNZ
 Andreas Theme|i@KM|rAPRC BASS EPNO PFLT SYNZ
 Angevin|i@KM|sAPRC ENST FLUT VOCL
 Angevin B|i@KM|nAPRC ENST FLUT VOCL
+AngloZulu|i@KM|hAPRC FLUT HORN KLBA OBOE STRS TRBN TUBA VOCL
 Anguish|i@KM|sAGTR APRC HARP SYNZ
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
 Apero Hour|i@KM|hAGTR APRC BASS JORG
@@ -47,7 +51,7 @@ Avant Jazz|i@KM|fBASS EPRC MUTE SAXO VIBE
 Awaiting Return|i@KM & @GH|sAPNO
 Awesome Call|i@KM|hAPNO APRC BASS EPNO
 Awkward Meeting|i@KM|fAPNO SYNZ
-Baba Yaga|i@KM|fAPNO APRC EPNO SYNZ VOCL
+Baba Yaga|i@KM|fAPNO APRC SYNZ VOCL
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
 Back on Track|i@KM|nAPRC BASS
 Backbay Lounge|i@KM|cAGTR APNO APRC BASS
@@ -56,6 +60,7 @@ Backed Vibes Clean|i@KM|nBASS VIBE
 Bad Ideas _clean_|i@KM|fAPNO
 Bad Ideas _distressed_|i@KM|fAPNO
 Balloon Game|i@KM|hAPRC SYNZ
+Balzan Groove|i@KM|aAPRC EPRC STRS SYNZ
 Bama Country|i@KM|hACDN AGTR APRC BASS BNJO HMCA STRS
 Basement Floor|i@KM|fEPRC SYNZ VOCL
 Basic Implosion|i@KM|aEPRC HPRC SYNZ
@@ -69,6 +74,7 @@ Beach Party|i@KM|hAPRC BASS EGTR JORG STDR
 Beachfront Celebration|i@KM|hAPNO APRC BASS HORN STDR TRBN TRPT
 Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
+Big Drumming|i@KM|nAPRC
 Big Mojo|i@KM|fAPRC ENST FLUT STRS SYNZ TIMP TRPT
 Birch Run|i@KM|nAPRC
 Bit Shift|i@KM|hEPRC SYNZ
@@ -140,7 +146,7 @@ Chase Pulse Faster|i@KM|fAPRC SYNZ
 Chee Zee Beach|i@KM|hAPRC BASS EGTR MRBA STDR
 Chee Zee Cave|i@KM|aAPRC HORN STRS TRPT
 Chee Zee Caves V2|i@KM|aAPRC STRS
-Chee Zee Jungle|i@KM|
+Chee Zee Jungle|i@KM|fAPRC DGOO FLUT KLBA MRBA VOCL
 Chee Zee Lab|i@KM|nAPRC EFFX EPRC SYNZ
 Cherry Blossom|i@KM|hAPRC MRBA
 Chill|i@KM|cBASS EPRC SYNZ
@@ -166,7 +172,6 @@ Comfortable Mystery|i@KM|sEPNO
 Comfortable Mystery 2|i@KM|sEPNO
 Comfortable Mystery 3|i@KM|sEPNO
 Comfortable Mystery 4|i@KM|sEPNO
-// TODO: confirm emotion of the Comfortable Mysteries
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Concentration|i@KM|cEPNO SYNZ
@@ -188,14 +193,12 @@ Cruising for Goblins|i@KM|fEPRC SYNZ
 Crunk Knight|i@KM|aENWD EPRC SYNZ VOCL
 Crusade|i@KM|sAPRC HORN STRS TRBN TRPT
 Crusade - Heavy Industry|i@KM|sAPRC HORN STRS TRBN TRPT TUBA
-// TODO: Does "Crusade" (not H. I.) have TUBA?
 Crypto|i@KM|fAPRC FLUT SYNZ
 Cuban Sandwich|i@KM|cAPNO APRC BASS
 CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 CumbiaNoFrillsFaster|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 Cupids Revenge|i@KM|nEPRC STRS VOCL
 Curse of the Scarab|i@KM|aAPRC FLUT HORN OBOE STRS XYLO
-// TODO: filter all STRS and check for PIZZ
 Cut and Dry|i@KM|hAPRC EPRC SYNZ
 Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
@@ -230,6 +233,7 @@ Delay Rock|i@KM|hAPRC BASS EGTR
 Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
 Derp Nugget|i@KM|hAPRC BASS ENST SYNZ
+Desert City|i@KM|cAPRC DULC
 Desert of Lost Souls|i@KM|fEPRC SYNZ
 Destiny Day|i@KM|hAPRC SYNZ
 Deuces|i@KM|rAPNO APRC BASS JORG
@@ -272,6 +276,7 @@ Dvorak Polka|i@KM|hACDN APRC TUBA
 EDM Detection Mode|i@KM|aEPRC SYNZ
 Earnest|i@KM|sAPNO
 Earth Prelude|i@KM|cAPNO BASN CLNT FLUT MRBA OBOE STRS SYNZ XYLO
+Eastern Thought|i@KM|fAPRC ENST STDR STRS
 Eastminster|i@KM|cEFFX ENST STRS
 Easy Jam|i@KM|sAPRC BASS EGTR FLUT TRBN TRPT
 Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
@@ -312,6 +317,7 @@ Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Exit the Premises|i@KM|aAPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Exotics|i@KM|aAPNO APRC EPRC SYNZ
+Expeditionary|i@KM|fAPRC FLUT KLBA STRS
 Fairytale Waltz|i@KM|sCLST OBOE STRS
 Fanfare for Space|i@KM|hAPRC HORN STRS TIMP TRBN TRPT
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
@@ -319,8 +325,7 @@ Fantastic Dim Bar|i@KM|sAPNO BELL STRS
 // Far Out, Dude!|b@BK|cTODO
 Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
-Fearless First|i@KM|nAPRC BASS EGTR FLUT
-// TODO: F. 1st's percussion sounds similar to Ch. Wv's; compare; APRC or EPRC
+Fearless First|i@KM|nBASS EGTR EPRC FLUT
 Feelin Good|i@KM|hAPRC BASS EGTR JORG
 Feral Angel Waltz |i@KM & @AN|sAPRC BASS EGTR
 Fiddles McGinty|i@KM|hAGTR APRC BASS BGPS WHSL
@@ -330,8 +335,7 @@ Fig Leaf Rag - distressed|i@KM & @SJ|hAPNO
 Fig Leaf Times Two|i@KM & @SJ|hAPNO
 Finding Movement|i@KM|cENST STRS
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
-Final Battle of the Dark Wizards|i@KM|fEPRC HORN STRS SYNZ TRPT VOCL
-// TODO: check for APRC in ^^^FBotDW^^^
+Final Battle of the Dark Wizards|i@KM|fAPRC EPRC HORN STRS SYNZ TRPT VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Fire Prelude|i@KM|fAPRC MRBA STRS SYNZ TIMP
 Firebrand|i@KM|aAPRC
@@ -352,9 +356,8 @@ Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 Freddys Menagerie|i@KM|aAGTR APRC MRBA
 Frogs Legs Rag|i@KM & @JS|hAPNO
-Frost Waltz|i@KM|fCLST GLCK HORN STRS
-Frost Waltz (Alternate)|i@KM|fBELL CLST FLUT GLCK STRS
-// TODO: confirm INST of the Frost Waltzes
+Frost Waltz|i@KM|fCLST FLUT GLCK HORN STRS
+Frost Waltz (Alternate)|i@KM|fCLST FLUT GLCK STRS
 Frozen Star|i@KM|cFLUT HARP TUBA VOCL
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
@@ -395,8 +398,7 @@ Grand Dark Waltz Allegro|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
 Grand Dark Waltz Moderato|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
 Grand Dark Waltz Trio Allegro|i@KM|sAPNO APRC BASS
 Grand Dark Waltz Trio Vivace|i@KM|sAPNO APRC BASS
-Grave Blow|i@KM|fAPRC STRS TRBN TUBA
-// TODO: Grave Blow has TIMP?
+Grave Blow|i@KM|fSTRS TIMP TRBN TUBA
 Graveyard Shift|i@KM|fAPRC JORG STRS SYNZ TIMP VOCL
 Greko Sketch|i@KM|aAPRC EPRC MDLN SYNZ VOCL
 Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
@@ -429,6 +431,7 @@ Heartwarming|i@KM|rAPNO
 Heavy Heart|i@KM|sENST STRS WHSL
 Heavy Interlude|i@KM|aAPRC DULC MDLN STRS
 Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
+Hidden Past|i@KM|sAPRC BGPS SYNZ
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|i@KM|nBASS EGTR EPRC HPRC SAXO TRPT
 Hillbilly Swing|i@KM|hAGTR BASS BNJO HPRC MDLN STRS
@@ -479,11 +482,13 @@ Invariance|i@KM|fAPRC BASS MRBA XYLO
 Iron Horse|i@KM|fAPNO
 Iron Horse - Destressed|i@KM|fAPNO
 It is Lost|i@KM|sSYNZ
+Jalandhar|i@KM|aAPRC BASS HPRC SITR SYNZ
 Jazz Brunch|i@KM|rAGTR APRC BASS EPNO JORG
 Jellyfish in Space|i@KM|cAGTR APRC BASS EPNO PFLT SYNZ
 Jerry Five|i@KM|hEPRC HPRC SYNZ
 Jet Fueled Vixen|i@KM|aAPRC EGTR SYNZ
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
+Journey To Ascend|i@KM|cAPRC STDR
 Juniper|i@KM|cCLNT HARP HORN OBOE STRS TRBN TRPT TUBA
 Junkyard Tribe|i@KM|aEPRC
 Just As Soon|i@KM|sAGTR APRC BASS EPNO SAXO
@@ -529,10 +534,10 @@ Long Road Ahead|i@KM|rAPRC HORN STRS TIMP TUBA VOCL
 Long Road Ahead B|i@KM|rSTRS VOCL
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
+Lord of the Rangs|i@KM|hAPRC DGOO FLUT MRBA
 Lost Frontier|i@KM|cAPRC HORN STRS VOCL
 Lotus|i@KM|nAPRC
 Love Song|i@KM|sAPNO FLUT HARP HORN STRS
-// TODO: compare INST with Time Passes
 MJS Stings|i@KM|nAGTR APNO APRC BASS
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
@@ -588,7 +593,7 @@ Modern Vibes|i@KM|nVIBE
 Monkoto|i@KM|nAPRC CLNT MRBA
 Monster Promenade|i@KM|hAGTR APRC JORG
 Montauk Point|i@KM|hAGTR APRC BASS
-Moon Lounge Omicron Prime|i@KM|hEGTR EPNO EPRC SYNZ
+Moon Lounge Omicron Prime|i@KM|hEGTR EPRC SYNZ
 Moonlight Hall|i@KM|fAPRC BASN CLST FLUT OBOE PIZZ STRS TIMP TUBA VOCL
 Moonstone|i@KM|cAPNO
 Moorland|i@KM|sAPRC BGPS
@@ -607,6 +612,8 @@ Mysterioso March|i@KM|fAPRC CLNT CLST HORN MUTE PIZZ
 Mystery Sax|i@KM|fAPRC SAXO SYNZ
 Mystery Sting|i@KM|nAPRC CLNT MRBA OBOE
 Mystic Force|i@KM|nAPRC BELL TUBA
+// TODO: mellotron better considered SYNZ than EPNO? iterate EPNO and change to SYNZ as needed; update MusicInfo.js accordingly
+Naraina|i@KM|aAPRC BASS ENST EPRC TRPT
 Neo Western|i@KM|nAPRC EGTR SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
 Nerves|i@KM|fAPRC HORN STRS SYNZ TIMP TRBN TRPT
@@ -676,9 +683,9 @@ Pamgaea|i@KM|hSYNZ
 Paradise_Found|i@KM|hEPRC STDR SYNZ VOCL
 Passing Action|i@KM|fAPRC BASS EPRC STRS
 Peace of Mind|i@KM|cAPNO STRS SYNZ
-Pennsylvania Rose|i@KM|hAGTR BELL FLUT STRS
-// TODO: more INST for PA Rose
+Pennsylvania Rose|i@KM|hAGTR BELL FLUT HORN OBOE STRS TRBN
 Peppy Pepe|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
+Perigrine Grandeur|i@KM|aAPRC BASS DULC
 Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
 Petulant March|i@KM|nEPRC SYNZ
 Phat Sketch|i@KM|nEPRC SYNZ
@@ -746,9 +753,11 @@ Rynos Theme|i@KM|fAPNO APRC FLUT HORN STRS TRBN TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
 Samba Isobel|i@KM|rAPNO APRC BASS
 Sancho Panza gets a Latte|i@KM|sACDN AGTR APRC BASS FLUT TRPT
+Sardana|i@KM|sAGTR
 Satiate|i@KM|fEPRC STRS
 Satiate Percussion|i@KM|fEPRC
 Satiate Strings|i@KM|fSTRS
+Savannah Sketch|i@KM|hAPRC MRBA VOCL
 Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
 Scattershot|i@KM|aAPRC SYNZ
 Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
@@ -885,10 +894,11 @@ Thunder Dreams|i@KM|sSYNZ
 Thunderbird|i@KM|cAPRC FLUT SYNZ
 Thunderhead|i@KM|nAPRC
 Tikopia|i@KM|nAPRC
-Time Passes|i@KM|sFLUT HARP STRS
+Time Passes|i@KM|sAPNO FLUT HARP HORN STRS
 Tiny Fugue|i@KM|nPORG
 To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
 Tranquility|i@KM|cSYNZ
+Tranquility Base|i@KM|cBELL SYNZ
 Transition One|i@KM|cBELL CLNT FLUT GLCK HARP STRS
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
@@ -903,22 +913,21 @@ Ultralounge|i@KM|rAPNO APRC BASS SYNZ
 Umbrella Pants|i@KM|fAPRC GLCK PIZZ
 Unanswered Questions|i@KM|fENST
 Undaunted|i@KM|aAPNO EPRC SYNZ
-Unity|i@KM|aAPNO EPRC STDR
-// TODO: Unity has STDR or KLBA?
+Unity|i@KM|aAPNO EPRC KLBA
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
 Unpromised|i@KM|sAPRC FLUT HARP VOCL
-// TODO: confirm INST of Unpromised
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 Upbeat Forever|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
 Urban Gauntlet|i@KM|nAGTR APRC KLBA SYNZ
 // Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
+Vadodora|i@KM|nAPRC ENST FLUT SITR SYNZ
+Vadodora Chill Mix|i@KM|nAPRC FLUT SITR SYNZ
 Valse Gymnopedie|i@KM & @ES|rAPNO APRC
 Vanes|i@KM|sEPNO EPRC HARP SYNZ
 Vanishing|i@KM|fAPNO CLNT FLUT HORN OBOE STRS SYNZ TRBN TUBA
 Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
 Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
-// TODO: move to APR Very Low Note|i@KM|fSYNZ
 Vibe Ace|i@KM|hAPRC BASS SYNZ VIBE
 Vibing Over Venus|i@KM & Alice Goodworth & Radio Kilimanjaro Automaton Ensemble|cAPNO APRC BASS STRS VIBE
 Vicious|i@KM|hEPRC SYNZ
@@ -972,4 +981,4 @@ ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
 Zombie Chase|i@KM|fAPNO APRC SYNZ
 // celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|i@KM|cFLUT SYNZ TRBN
-// TODO: mellotron better considered SYNZ than EPNO? iterate EPNO and change to SYNZ as needed; update MusicInfo.js accordingly
+// TODO: filter all STRS and check for PIZZ
