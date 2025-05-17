@@ -176,6 +176,7 @@ Comfortable Mystery|i@KM|sEPNO
 Comfortable Mystery 2|i@KM|sEPNO
 Comfortable Mystery 3|i@KM|sEPNO
 Comfortable Mystery 4|i@KM|sEPNO
+Comic Hero|i@KM|hAPRC CLNT TRBN TUBA
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Concentration|i@KM|cEPNO SYNZ
@@ -220,13 +221,15 @@ Danse Morialta|i@KM|rAPNO
 Danse of Questionable Tuning|i@KM|sAPNO STRS
 Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
 Dark Fog|i@KM|sAPRC SYNZ
+Dark Pad|i@KM|cSYNZ
 Dark Star|i@KM|hAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Darkening Developments|i@KM|fAPRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
 Darkest Child|i@KM|fCLST HARP STRS
-Darkest Child A|i@KM|fCLST HARP STRS
+Darkest Child var A|i@KM|fCLST HARP STRS
 Darkness is Coming|i@KM|fEPRC SYNZ VOCL
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
+Dead Drop|i@KM|cAPRC BASS EGTR
 Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
 // Decent Descent|b@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Decisions|i@KM|fAPRC EPRC STRS SYNZ VOCL
@@ -257,7 +260,7 @@ Dispersion Relation|i@KM|nAPNO APRC BASS FLUT TRPT VIBE
 District Four|i@KM|aBASS EGTR EPRC JORG
 Divertimento K131|i@KM & @WM|hBELL CLST HARP
 Division|i@KM|fAPNO APRC CLNT FLUT HORN OBOE STRS
-Do De Oh|i@KM|hAPNO
+Doh De Oh|i@KM|hAPNO
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
 Dopplerette|i@KM|fBELL SYNZ
 Double Drift|i@KM|fAGTR APRC BASS SYNZ
