@@ -388,6 +388,7 @@ Ghostpocalypse - 1 Departure|i@KM|fSYNZ
 Ghostpocalypse - 2 The Call|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
 Ghostpocalypse - 4 Temptress|i@KM|fAPNO APRC SYNZ
+Ghostpocalypse - 5 Apotheosis|i@KM|fEPRC SYNZ
 Ghostpocalypse - 6 Crossing the Threshold|sAPNO BASS GLCK
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghostpocalypse - 8 Epilog|i@KM|sAPNO
@@ -400,7 +401,7 @@ Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Gonna Start|i@KM|hAPNO APRC BASS EGTR JORG
 Gonna Start v2|i@KM|hAPNO APRC BASS EGTR JORG
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
-Grand Dark Walt Allegretto|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
+Grand Dark Waltz Allegretto|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
 Grand Dark Waltz Allegro|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
 Grand Dark Waltz Moderato|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
 Grand Dark Waltz Trio Allegro|i@KM|sAPNO APRC BASS
