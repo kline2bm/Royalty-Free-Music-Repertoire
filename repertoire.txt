@@ -5,6 +5,7 @@ Accralate|i@KM|cAPRC MRBA
 Aces High|i@KM|hAPRC BASS EPNO JORG
 Achaidh Cheide|i@KM|nAPRC DULC HARP MDLN STRS WHSL
 Achilles|i@KM|nAPRC HORN STRS TRBN TRPT
+AcidJazz|i@KM|nAPRC BASS EPNO MUTE
 Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 Adventures in Adventureland|i@KM|hAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
 // African Rag|z@BK|hAPNO APRC SYNZ
@@ -29,6 +30,7 @@ Ancient Mystery Waltz Presto|i@KM|aAPRC MRBA VOCL
 Ancient Mystery Waltz Vivace|i@KM|fAPRC MRBA VOCL
 Ancient Rite|i@KM|sAPRC STRS
 Ancient Winds|i@KM|cHARP STRS SYNZ
+And Awaken|i@KM|cCLNT HARP HORN STRS
 Andreas Theme|i@KM|rAPRC BASS EPNO PFLT SYNZ
 Angevin|i@KM|sAPRC ENST FLUT VOCL
 Angevin B|i@KM|nAPRC ENST FLUT VOCL
@@ -46,6 +48,7 @@ Ashton Manor|i@KM|rCLNT FLUT HARP STRS
 Asian Drums|i@KM|fAPRC BELL
 At Launch|i@KM|nAPRC CLNT FLUT HORN MUTE STRS TIMP TRBN TUBA
 At The Shore|i@KM|cAPRC BASS HORN VOCL
+Aurea Carmina|i@KM|hBASS EGTR EPRC HORN STRS SYNZ TRBN TRPT
 Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Avant Jazz|i@KM|fBASS EPRC MUTE SAXO VIBE
 Awaiting Return|i@KM & @GH|sAPNO
@@ -76,6 +79,7 @@ Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
 Big Drumming|i@KM|nAPRC
 Big Mojo|i@KM|fAPRC ENST FLUT STRS SYNZ TIMP TRPT
+Big Rock|i@KM|aAPRC BASS EGTR
 Birch Run|i@KM|nAPRC
 Bit Shift|i@KM|hEPRC SYNZ
 Black Bird|i@KM|nAPRC HPRC
