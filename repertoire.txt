@@ -630,7 +630,6 @@ New Friendly|i@KM|hEPRC SYNZ VOCL
 New Hero in Town|i@KM|nAPRC ENST
 News Theme|i@KM|hAPRC HORN TIMP TRBN TRPT TUBA
 NewsSting|i@KM|hAPRC HORN SYNZ TRBN TRPT
-Niles Blues|i@KM|rAPRC BASS EGTR JORG
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
 Night Vigil|i@KM|sAPRC FLUT STRS VOCL
@@ -638,6 +637,7 @@ Night of the Owl|i@KM|fAPRC FLUT
 Night on the Docks|i@KM|sEPNO
 Night on the Docks - Sax|i@KM|sEPNO SAXO
 Night on the Docks - Trumpet|i@KM|sEPNO MUTE
+Niles Blues|i@KM|rAPRC BASS EGTR JORG
 No Frills Salsa|i@KM|hAPNO APRC BASS TRBN TRPT
 No Frills Salsa - Alternate|i@KM|hAPRC BASS TRBN TRPT
 No Spam Polka|i@KM|hACDN APRC TUBA
