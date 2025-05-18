@@ -488,7 +488,7 @@ Intrepid|i@KM|sAPNO APRC STRS TRBN TUBA VOCL
 Intuit256|i@KM|fAPRC FLUT SYNZ
 Invariance|i@KM|fAPRC BASS MRBA XYLO
 Iron Horse|i@KM|fAPNO
-Iron Horse - Destressed|i@KM|fAPNO
+Iron Horse - Distressed|i@KM|fAPNO
 It is Lost|i@KM|sSYNZ
 Jalandhar|i@KM|aAPRC BASS HPRC SITR SYNZ
 Jazz Brunch|i@KM|rAGTR APRC BASS EPNO JORG
@@ -542,7 +542,7 @@ Long Road Ahead|i@KM|rAPRC HORN STRS TIMP TUBA VOCL
 Long Road Ahead B|i@KM|rSTRS VOCL
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
 Loopster|i@KM|nAPRC BASS EPNO
-Lord of the Rangs|i@KM|hAPRC DGOO FLUT MRBA
+Lord of the Rangs|i@KM|hAPRC DGOO EPRC FLUT MRBA
 Lost Frontier|i@KM|cAPRC HORN STRS VOCL
 Lotus|i@KM|nAPRC
 Love Song|i@KM|sAPNO FLUT HARP HORN STRS
