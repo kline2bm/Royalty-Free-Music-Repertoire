@@ -569,7 +569,7 @@ Mellowtron|i@KM|cFLUT SYNZ
 Merry Go|i@kM|hAPNO
 Merry Go - Distressed|i@KM|hAPNO
 Merry Go Slower|i@KM|hAPNO
-Merry Go Slower - Destressed|i@KM|hAPNO
+Merry Go Slower - Distressed|i@KM|hAPNO
 Mesmerizing Galaxy Loop|i@KM|fSYNZ
 Metalmania|i@KM|aAPRC BASS EGTR
 Metaphysik|i@KM|sAPNO STRS SYNZ
