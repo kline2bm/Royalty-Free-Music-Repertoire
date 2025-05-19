@@ -731,6 +731,7 @@ Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
 Raving Energy (faster)|i@KM|aEPRC SYNZ
 Raw|i@KM|nAPRC BASS
+Reign|i@KM|hAPNO APRC EGTR HORN STRS VOCL
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
 RetroFuture Clean|i@KM|aAPRC BASS EGTR JORG
