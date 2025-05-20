@@ -180,6 +180,7 @@ Comic Hero|i@KM|hAPRC CLNT TRBN TUBA
 Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Concentration|i@KM|cEPNO SYNZ
+Conflicted|i@KM|nAPNO APRC CLNT HORN TIMP TRBN TRPT TUBA
 Confused State|i@KM|fAPRC BASN CLNT KLBA MRBA OBOE
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
@@ -266,6 +267,7 @@ Dopplerette|i@KM|fBELL SYNZ
 Double Drift|i@KM|fAGTR APRC BASS SYNZ
 Double O|i@KM|aEPRC JORG SYNZ VOCL
 Double Polka|i@KM|hACDN APRC TUBA
+Down Home Rockin|i@KM|hAPNO APRC BASS EGTR
 Dragon and Toast|i@KM|fAPRC BASN CLST DGOO HARP OBOE STRS
 Drankin Song|i@KM|cAGTR APRC BASS BNJO ENST STRS
 Dream Catcher|i@KM|fEPRC SYNZ VOCL
@@ -281,6 +283,7 @@ Dubakupado|i@KM|nAPRC MRBA
 Dvorak Polka|i@KM|hACDN APRC TUBA
 // E-OPS|b@BK|nEPRC JORG SYNZ VOCL
 EDM Detection Mode|i@KM|aEPRC SYNZ
+Early Riser|i@KM|aEPRC SYNZ
 Earnest|i@KM|sAPNO
 Earth Prelude|i@KM|cAPNO BASN CLNT FLUT MRBA OBOE STRS SYNZ XYLO
 Eastern Thought|i@KM|fAPRC ENST STDR STRS
@@ -293,6 +296,7 @@ Ebbs and Flows|i@KM|cAPNO SYNZ
 // Echinoderm|i@BK & @KM|fAPRC CLST EFFX SYNZ TRBN
 Echoes of Time|i@KM|fBELL SYNZ
 Echoes of Time v2|i@KM|fSYNZ
+Ecossaise in E-flat|i@KM & @LB|hAPNO
 Egmont Overture|i@KM & @MO & @LB|nBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Egmont Overture Finale|i@KM & @MO & @LB|hBASN CLNT FLUT HORN OBOE STRS TIMP TRPT
 Eighties Action|i@KM|nAPRC SYNZ
@@ -334,6 +338,7 @@ Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
 Fearless First|i@KM|nBASS EGTR EPRC FLUT
 Feelin Good|i@KM|hAPRC BASS EGTR JORG
+Fensters Explanation|i@KM|hAPNO APRC CLNT FLUT TRBN TRPT TUBA
 Feral Angel Waltz |i@KM & @AN|sAPRC BASS EGTR
 Fiddles McGinty|i@KM|hAGTR APRC BASS BGPS WHSL
 Fife and Drum|i@KM|hAPRC FLUT
@@ -481,6 +486,7 @@ Infados|i@KM|fAPRC KLBA MRBA STRS
 Infinite Perspective|i@KM|cAPNO FLUT HARP HORN OBOE SYNZ VOCL
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
 Inspired|i@KM|cAPRC EGTR SYNZ
+Intended Force|i@KM|aFLUT GLCK HARP HORN STRS TIMP TRBN TRPT
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
 Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
@@ -491,6 +497,7 @@ Iron Horse|i@KM|fAPNO
 Iron Horse - Distressed|i@KM|fAPNO
 It is Lost|i@KM|sSYNZ
 Jalandhar|i@KM|aAPRC BASS HPRC SITR SYNZ
+Jarvic 8|i@KM|hBASS
 Jazz Brunch|i@KM|rAGTR APRC BASS EPNO JORG
 Jellyfish in Space|i@KM|cAGTR APRC BASS EPNO PFLT SYNZ
 Jerry Five|i@KM|hEPRC HPRC SYNZ
@@ -731,6 +738,7 @@ Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
 Raving Energy (faster)|i@KM|aEPRC SYNZ
 Raw|i@KM|nAPRC BASS
+Reggae Sketch|i@KM|aAPRC EPNO JORG
 Reign|i@KM|hAPNO APRC EGTR HORN STRS VOCL
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Relent|i@KM|sCLNT HARP
@@ -771,6 +779,7 @@ Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
 Scattershot|i@KM|aAPRC SYNZ
 Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
 Scheming Weasel slower|i@KM|sAPRC BASN BASS CLNT CLST GLCK OBOE
+Schmetterling|i@KM|sPORG VOCL
 Scissors|i@KM|fAPRC SYNZ
 Screen Saver|i@KM|cSYNZ VOCL
 Second Coming - no percussion|i@KM|rHORN STRS TRBN
@@ -793,6 +802,7 @@ Sidewalk Shade - slower|i@KM|cAPNO APRC BASS VIBE
 Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
+Simon Says Dont - 50 cents|i@KM|nSYNZ
 Simplex|i@KM|fAGTR APRC SYNZ
 Sinfonia 3|i@KM|hBASS EPRC PORG
 Skye Cuillin|i@KM|cHARP STRS SYNZ TIMP VOCL WHSL
@@ -836,9 +846,11 @@ Still Pickin|i@KM|hACDN APRC BASS BNJO HMCA
 Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
 Stormfront|i@KM|fAPRC SYNZ
 Street Party|i@KM|hAPRC BASS JORG SAXO STDR TRBN TRPT WHSL
+Streetlight On A Dark Road|i@KM|rOBOE
 String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
+Sudden Defeat|i@KM|sAPRC CLNT HORN TIMP TRBN TRPT TUBA
 Summer Day|i@KM|cAGTR APRC BASS EPNO
 // Summer Raingtone|b@BK & @SI|nAPNO EFFX
 Sunday Dub|i@KM|nAPRC BASS EGTR JORG
@@ -862,6 +874,7 @@ Take a Chance|i@KM|hAPRC BELL CLNT FLUT HORN STRS TIMP XYLO
 Take the Lead|i@KM|aAPRC BASS EGTR SYNZ
 Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
 Tech Live|i@KM|hAPRC KLBA SYNZ
+Tech Talk|i@KM|hBASS EGTR EPRC MUTE SAXO XYLO
 Tectonic|i@KM|aAPNO APRC HORN STRS TIMP TRBN TRPT
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
 Temple of the Manes|i@KM|sAPRC FLUT HARP OBOE
@@ -961,6 +974,7 @@ Water Droplets on the River|i@KM|rAPNO
 Water Prelude|i@KM|rBASN BELL CLST FLUT HARP STRS
 Waunobe March|i@KM|hAPRC CLNT FLUT GLCK SAXO TRBN TRPT TUBA
 We Got Trouble|i@KM|fAPRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
+Weight of Responsibility|i@KM|sHORN STRS TRBN TRPT TUBA
 Welcome to the Show|i@KM|hAPRC BASS EGTR SYNZ TRPT XYLO
 Wepa|i@KM|nBASS EPRC STRS
 Werq|i@KM|hEPRC SYNZ
@@ -974,12 +988,14 @@ Whiskey on the Mississippi|i@KM|hAPRC BASS EGTR EPNO JORG
 White|i@KM|rAPNO
 White Lotus|i@KM|cAPNO DULC STDR SYNZ
 Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
+Wholesome|i@KM|hAPRC MRBA PIZZ
 Willow and the Light|i@KM|sAPRC HARP FLUT VOCL
 Wind of the Rainforest|i@KM|cEPNO SYNZ
 Windswept|i@KM|rAGTR STRS
 Winner Winner|i@KM|hAPRC GLCK PIZZ STRS VOCL XYLO
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
+Wisps of Whorls|i@KM|cEPNO SYNZ
 Witch Hunt|i@KM|aAPRC CLNT FLUT HORN KLBA OBOE STRS TRBN TUBA
 With Regards|i@KM|rAGTR TRBN TUBA
 With a Creation|i@KM|fEPNO EPRC
