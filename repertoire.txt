@@ -39,6 +39,7 @@ Anguish|i@KM|sAGTR APRC HARP SYNZ
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
 Apero Hour|i@KM|hAGTR APRC BASS JORG
 Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
+Aquatic City Vanished|f@BT|nAPRC FLUT STDR
 Aretes|i@KM|rAPNO SYNZ VOCL
 Arid Foothills|i@KM|fAPRC MRBA HORN STRS TRBN TUBA
 Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
@@ -65,6 +66,7 @@ Bad Ideas _distressed_|i@KM|fAPNO
 Balloon Game|i@KM|hAPRC SYNZ
 Balzan Groove|i@KM|aAPRC EPRC STRS SYNZ
 Bama Country|i@KM|hACDN AGTR APRC BASS BNJO HMCA STRS
+Bar Brawl|f@BT|hAPRC DULC HPRC MDLN STRS WHSL
 Basement Floor|i@KM|fEPRC SYNZ VOCL
 Basic Implosion|i@KM|aEPRC HPRC SYNZ
 Bass Soli|i@KM|cBASS
@@ -94,6 +96,7 @@ Blue Paint|i@KM|cAPNO
 Blue Ska|i@KM|hAPRC BASS EGTR JORG SAXO TRBN TRPT
 Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
 // Blues 'n' Noise|z@BK|nAGTR APRC TUBA
+Bollywood Groove|f@KM|fAPRC ENST STRS VOCL
 Boogie Party|i@KM|hAPNO APRC BASS JORG
 Bossa Antigua|i@KM|cAGTR APRC BASS
 BossaBossa|i@KM|cAGTR APNO APRC BASS
@@ -116,23 +119,23 @@ Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
 Canon In D Interstellar Mix|i@KM & @JP|hEPRC SYNZ
 Canon in D Major|i@KM & @JP|rHARP STRS
 Canon in D for Autoharp|i@KM & @JP|rDULC
-//Canon in D for General MIDI Bass|z@BK & @JP|eBASS SYNZ
-//Canon in D for General MIDI Brass|z@BK & JP|eHORN MUTE TRBN TRPT TUBA
-//Canon in D for General MIDI Chromatic Percussion|z@BK & JP|eBELL CLST DULC GLCK MRBA MUBX VIBE XYLO
-//Canon in D for General MIDI Drums|z@BK & @JP|eAPRC BELL EPRC TIMP
-//Canon in D for General MIDI Ensemble|z@BK & @JP|eSTRS SYNZ VOCL
-//Canon in D for General MIDI Ethnic|z@BK & @JP|eBGPS ENST ENWD BNJO KLBA SITR STRS
-//Canon in D for General MIDI Guitars|z@BK & @JP|eAGTR EGTR
-//Canon in D for General MIDI Orchestral|z@BK & @JP|eHARP PIZZ STRS TIMP
-//Canon in D for General MIDI Organs|z@BK & @JP|eACDN HMCA JORG PORG
-//Canon in D for General MIDI Percussive|z@BK & @JP|eAPRC BELL EPRC STDR
-//Canon in D for General MIDI Pianos|z@BK & @JP|eAPNO EPNO HPCH
-//Canon in D for General MIDI Pipes|z@BK & @JP|eENWD FLUT PFLT WHSL
-//Canon in D for General MIDI Reeds|z@BK & @JP|eBASN CLNT OBOE SAXO
-//Canon in D for General MIDI Sound Effects|z@BK & @JP|eAGTR EFFX HPRC
-//Canon in D for General MIDI Synth Effects|z@BK & @JP|eEFFX SYNZ
-//Canon in D for General MIDI Synth Leads|z@BK & @JP|eSYNZ VOCL
-//Canon in D for General MIDI Synth Pads|z@BK & @JP|eSYNZ VOCL
+// Canon in D for General MIDI Bass|z@BK & @JP|eBASS SYNZ
+// Canon in D for General MIDI Brass|z@BK & JP|eHORN MUTE TRBN TRPT TUBA
+// Canon in D for General MIDI Chromatic Percussion|z@BK & JP|eBELL CLST DULC GLCK MRBA MUBX VIBE XYLO
+// Canon in D for General MIDI Drums|z@BK & @JP|eAPRC BELL EPRC TIMP
+// Canon in D for General MIDI Ensemble|z@BK & @JP|eSTRS SYNZ VOCL
+// Canon in D for General MIDI Ethnic|z@BK & @JP|eBGPS ENST ENWD BNJO KLBA SITR STRS
+// Canon in D for General MIDI Guitars|z@BK & @JP|eAGTR EGTR
+// Canon in D for General MIDI Orchestral|z@BK & @JP|eHARP PIZZ STRS TIMP
+// Canon in D for General MIDI Organs|z@BK & @JP|eACDN HMCA JORG PORG
+// Canon in D for General MIDI Percussive|z@BK & @JP|eAPRC BELL EPRC STDR
+// Canon in D for General MIDI Pianos|z@BK & @JP|eAPNO EPNO HPCH
+// Canon in D for General MIDI Pipes|z@BK & @JP|eENWD FLUT PFLT WHSL
+// Canon in D for General MIDI Reeds|z@BK & @JP|eBASN CLNT OBOE SAXO
+// Canon in D for General MIDI Sound Effects|z@BK & @JP|eAGTR EFFX HPRC
+// Canon in D for General MIDI Synth Effects|z@BK & @JP|eEFFX SYNZ
+// Canon in D for General MIDI Synth Leads|z@BK & @JP|eSYNZ VOCL
+// Canon in D for General MIDI Synth Pads|z@BK & @JP|eSYNZ VOCL
 Canon in D for Two Harps|i@KM & @JP|rHARP
 Canon in D for Two Renaissance Harps|i@KM & @JP|rHARP
 Cantina Blues|i@KM|nAPRC BASS ENST VOCL
@@ -182,6 +185,7 @@ Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Concentration|i@KM|cEPNO SYNZ
 Conflicted|i@KM|nAPNO APRC CLNT HORN TIMP TRBN TRPT TUBA
 Confused State|i@KM|fAPRC BASN CLNT KLBA MRBA OBOE
+Connecting Rainbows|f@KM|rHARP
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 Constance|i@KM|fAPRC MRBA STRS SYNZ XYLO
@@ -191,6 +195,7 @@ Corncob|i@KM|hAPRC BASS BNJO
 Court of the Queen|i@KM|rCLST HARP HORN PIZZ STRS TRBN TRPT TUBA
 Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 Cowboy Sting|i@KM|nAGTR APRC BASS ENST STRS
+Coy Koi|f@AY|nAPRC ENST
 // Creepy Churchyard|b@BK & @PB|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
@@ -236,12 +241,14 @@ Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
 Decisions|i@KM|fAPRC EPRC STRS SYNZ VOCL
 Deep Haze|i@KM|nAPRC EGTR SYNZ
 Deep Relaxation|i@KM|cAPNO EPNO HARP SYNZ
+Del Rio Bravo|f@KM|hACDN APRC BASS MRBA
 Del Rio Bravo|i@KM|hACDN APRC BASS MRBA
 Delay Rock|i@KM|hAPRC BASS EGTR
 Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
 Derp Nugget|i@KM|hAPRC BASS ENST SYNZ
 Desert City|i@KM|cAPRC DULC
+Desert Conflict|f@RK|fAPRC ENST ENWD FLUT STRS SYNZ
 Desert of Lost Souls|i@KM|fEPRC SYNZ
 Destiny Day|i@KM|hAPRC SYNZ
 Deuces|i@KM|rAPNO APRC BASS JORG
@@ -329,6 +336,8 @@ Exit the Premises|i@KM|aAPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Exotics|i@KM|aAPNO APRC EPRC SYNZ
 Expeditionary|i@KM|fAPRC FLUT KLBA STRS
+Experimental Test Subject|f@KM|fAPRC SYNZ
+Eye of Forgiveness|f@RK|aAPRC STRS SYNZ
 Fairytale Waltz|i@KM|sCLST OBOE STRS
 Fanfare for Space|i@KM|hAPRC HORN STRS TIMP TRBN TRPT
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
@@ -363,6 +372,7 @@ Flutey Funk|i@KM|nAPRC BASS FLUT
 Flying Kerfuffle|i@KM|hEPRC SYNZ
 Folk Round|i@KM|nACDN AGTR APRC FLUT STRS WHSL
 For Originz|i@KM|rAPRC STRS VOCL
+Forest Frolic Loop|f@KM|hAPRC BGPS DULC FLUT
 Fork and Spoon|i@KM|hAPRC BASS EGTR JORG
 Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
@@ -447,7 +457,8 @@ Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
 Hidden Past|i@KM|sAPRC BGPS SYNZ
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|i@KM|nBASS EGTR EPRC HPRC SAXO TRPT
-Hillbilly Swing|i@KM|hAGTR BASS BNJO HPRC MDLN STRS
+Hillbilly Swing|f@KM|hAGTR BASS BNJO HPRC PIZZ
+Hillbilly Swing|i@KM|hAGTR BASS BNJO HPRC PIZZ
 Himalayan Atmosphere|i@KM|fAPRC BELL
 Hit the Streets|i@KM|aAPRC
 Hit the Streets v2|i@KM|aAPRC
@@ -537,6 +548,7 @@ Light Thought var 1|i@KM|cEPNO
 Light Thought var 2|i@KM|cEPNO
 Lightless Dawn|i@KM|sAPRC BELL STRS SYNZ
 Lift Motif|i@KM|rAPNO
+Limit 70|f@KM|cEPNO EPRC SYNZ
 Limit 70|i@KM|cEPNO EPRC SYNZ
 Lithium|i@KM|sAPNO PORG STRS
 Living Voyage|i@KM|nAPRC ENST FLUT SYNZ VOCL
@@ -584,6 +596,7 @@ Miami Nights - Extended Theme|i@KM|nAPRC EPRC SAXO STRS SYNZ TRPT
 Miami Viceroy|i@KM|cAPRC BASS EGTR SYNZ
 Midday Dance|i@KM|hAPNO
 Midnight Meeting|i@KM|sPORG
+Midnight in the Green House|f@KM|sENST STRS
 Mighty Like Us|i@KM|hAPRC SYNZ
 Militaire Electronic|i@KM|aAPRC EPRC
 Mind Scrape|i@KM|fAPRC BELL SYNZ
@@ -596,6 +609,7 @@ Mistake the Getaway|i@KM|aAPRC EPRC HORN STRS TRBN TRPT
 Mister Exposition|i@KM|hAPNO TUBA
 Misuse|i@KM|fAPRC EPRC SYNZ VOCL
 // Modern Baroque|z@BK|nEPRC PORG
+Modern Island Jam|f@KM & @SA|hEPRC SYNZ
 Modern Jazz Samba|i@KM|nAGTR APNO APRC BASS FLUT
 Modern Piano Zeta - Improbable|i@KM|hAPNO
 Modern Vibes|i@KM|nVIBE
@@ -693,6 +707,7 @@ Overworld|i@KM|fEPRC SYNZ
 Rains Will Fall|i@KM|sAPNO APRC STRS
 Padanaya Blokov|i@KM|nAPRC BASS ENST EPRC SYNZ
 Pale Rider|i@KM|rHARP
+Palm and Soul|f@KM & @SA|nAPRC BASS EGTR JORG SAXO
 Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
 Paradise_Found|i@KM|hEPRC STDR SYNZ VOCL
@@ -781,6 +796,7 @@ Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
 Scheming Weasel slower|i@KM|sAPRC BASN BASS CLNT CLST GLCK OBOE
 Schmetterling|i@KM|sPORG VOCL
 Scissors|i@KM|fAPRC SYNZ
+Screen Saver|f@KM|cSYNZ VOCL
 Screen Saver|i@KM|cSYNZ VOCL
 Second Coming - no percussion|i@KM|rHORN STRS TRBN
 Secret of Tiki Island|i@KM & @BT|fAGTR APNO APRC BASS JORG VIBE VOCL
@@ -841,7 +857,9 @@ Spy Groove|i@KM|nAPRC BASS EPNO JORG STRS
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
 Stay the Course|i@KM|fAPRC SYNZ
+Stereotype News|f@RK|hAPRC HORN STRS SYNZ
 Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
+Still Pickin|f@KM|hACDN APRC BASS BNJO HMCA
 Still Pickin|i@KM|hACDN APRC BASS BNJO HMCA
 Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
 Stormfront|i@KM|fAPRC SYNZ
@@ -992,6 +1010,7 @@ Wholesome|i@KM|hAPRC MRBA PIZZ
 Willow and the Light|i@KM|sAPRC HARP FLUT VOCL
 Wind of the Rainforest|i@KM|cEPNO SYNZ
 Windswept|i@KM|rAGTR STRS
+Windy Old Weather|f@KM & @TR|hACDN
 Winner Winner|i@KM|hAPRC GLCK PIZZ STRS VOCL XYLO
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
