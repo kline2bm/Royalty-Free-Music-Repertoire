@@ -7,6 +7,7 @@ Achaidh Cheide|i@KM|nAPRC DULC HARP MDLN STRS WHSL
 Achilles|i@KM|nAPRC HORN STRS TRBN TRPT
 AcidJazz|i@KM|nAPRC BASS EPNO MUTE
 Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
+Adventure|f@RK|hAPRC HORN STRS
 Adventures in Adventureland|i@KM|hAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
 // African Rag|z@BK|hAPNO APRC SYNZ
 Agnus Dei X|i@KM & @SB|sPORG VOCL
@@ -28,6 +29,7 @@ Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 Ancient Mystery Waltz Allegro|i@KM|fAPRC MRBA VOCL
 Ancient Mystery Waltz Presto|i@KM|aAPRC MRBA VOCL
 Ancient Mystery Waltz Vivace|i@KM|fAPRC MRBA VOCL
+Ancient Rite|f@KM|sAPRC STRS
 Ancient Rite|i@KM|sAPRC STRS
 Ancient Winds|i@KM|cHARP STRS SYNZ
 And Awaken|i@KM|cCLNT HARP HORN STRS
@@ -47,6 +49,8 @@ As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
 Ascending the Vale|i@KM|cAPRC FLUT HARP HORN VOCL
 Ashton Manor|i@KM|rCLNT FLUT HARP STRS
 Asian Drums|i@KM|fAPRC BELL
+Asking Questions|f@RK|f
+// TODO: INST for ^^^ AQ ^^^
 At Launch|i@KM|nAPRC CLNT FLUT HORN MUTE STRS TIMP TRBN TUBA
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Aurea Carmina|i@KM|hBASS EGTR EPRC HORN STRS SYNZ TRBN TRPT
@@ -73,6 +77,7 @@ Bass Soli|i@KM|cBASS
 Bass Vibes|i@KM|nAPRC BASS EPNO
 Bass Walker|i@KM|nBASS
 Bathed in the Light|i@KM|cSYNZ
+Battle Ready|f@BT|fAPRC DGOO ENWD HORN SYNZ TRBN TRPT TUBA
 // Battle of the Desert Aliens|b@BK|fAPRC DULC EGTR MRBA PFLT SYNZ VOCL
 Beach Bum|i@KM|hAPRC BASS EGTR
 Beach Party|i@KM|hAPRC BASS EGTR JORG STDR
@@ -80,6 +85,7 @@ Beachfront Celebration|i@KM|hAPNO APRC BASS HORN STDR TRBN TRPT
 Beauty Flow|i@KM|cAPRC BASS SYNZ
 Bicycle|i@KM|nBASS
 Big Drumming|i@KM|nAPRC
+Big Eyes|f@RK|fBASN FLUT HARP OBOE PIZZ STRS
 Big Mojo|i@KM|fAPRC ENST FLUT STRS SYNZ TIMP TRPT
 Big Rock|i@KM|aAPRC BASS EGTR
 Birch Run|i@KM|nAPRC
@@ -165,6 +171,7 @@ Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
 Cipher2|i@KM|hAPRC EPNO STRS SYNZ
 Circus Waltz FX|i@KM|hAPNO
 Circus of Freaks|i@KM|aAPRC CLNT FLUT TRBN TRPT TUBA XYLO
+City Run|f@RK|aAPRC
 Clash Defiant|i@KM|aAPRC HORN STRS TRBN VOCL
 Clean Soul|i@KM|cBASS EPNO
 Clear Air|i@KM|rAGTR APNO
@@ -233,6 +240,8 @@ Darkening Developments|i@KM|fAPRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
 Darkest Child|i@KM|fCLST HARP STRS
 Darkest Child var A|i@KM|fCLST HARP STRS
 Darkness is Coming|i@KM|fEPRC SYNZ VOCL
+Dawn of the Apocalypse|f@RK|f
+// TODO: INST for ^^^ DotA ^^^
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
 Dead Drop|i@KM|cAPRC BASS EGTR
@@ -249,6 +258,8 @@ Delightful D|i@KM|hEPRC SYNZ
 Derp Nugget|i@KM|hAPRC BASS ENST SYNZ
 Desert City|i@KM|cAPRC DULC
 Desert Conflict|f@RK|fAPRC ENST ENWD FLUT STRS SYNZ
+Desert Fox|f@RK|fAPRC ENST ENWD KLBA STRS
+Desert Fox Underscore|f@RK|fAPRC ENST ENWD KLBA STRS
 Desert of Lost Souls|i@KM|fEPRC SYNZ
 Destiny Day|i@KM|hAPRC SYNZ
 Deuces|i@KM|rAPNO APRC BASS JORG
@@ -281,7 +292,9 @@ Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
 Dreamlike|i@KM|fAPNO BELL OBOE STRS SYNZ
+Dreams of Vain|f@RK|fAPNO APRC SYNZ
 Dreamy Flashback|i@KM|rBELL HARP PIZZ
+Driving Concern|f@KM|nAPRC EPNO MRBA SYNZ
 Drone in D|i@KM|cAPNO SYNZ
 Drums of the Deep|i@KM|fAPRC STRS
 Dub Eastern|i@KM|fAPRC BASS EGTR EPNO SYNZ
@@ -358,6 +371,7 @@ Finding Movement|i@KM|cENST STRS
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Battle of the Dark Wizards|i@KM|fAPRC EPRC HORN STRS SYNZ TRPT VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
+Final Step|f@RK|fAPRC SYNZ
 Fire Prelude|i@KM|fAPRC MRBA STRS SYNZ TIMP
 Firebrand|i@KM|aAPRC
 Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
@@ -385,6 +399,7 @@ Frozen Star|i@KM|cFLUT HARP TUBA VOCL
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Funin and Sunin|i@KM|hAPRC BASS EGTR JORG
 Funky Boxstep|i@KM|hAPRC BASS EGTR JORG
+Funky Energy Loop|f@KM|nAPRC BASS
 Funky Chunk|i@KM|hAPRC BASS EGTR EPNO SYNZ TRPT
 Furious Freak|i@KM|aAPRC EPNO SYNZ
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
@@ -463,10 +478,12 @@ Himalayan Atmosphere|i@KM|fAPRC BELL
 Hit the Streets|i@KM|aAPRC
 Hit the Streets v2|i@KM|aAPRC
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
+Honor Bound|f@BT|aAPRC HORN STRS TRBN TRPT
 Horror_Spacial Winds|i@KM|cSYNZ
 Hot Pursuit|i@KM|aAPRC EGTR STRS
 Hotrock|i@KM|aAPRC BASS EGTR SAXO TRPT
 How it Begins|i@KM|hAPRC SYNZ
+Human Beat|i@KM|nHPRC VOCL
 Hustle|i@KM|hAGTR APRC BASS JORG
 Hyperfun|i@KM|hAPNO APRC UKLE TUBA
 Hypnothis|i@KM|cEPRC SYNZ VOCL
@@ -478,6 +495,7 @@ I Knew a Guy|i@KM|cAPRC BASS VIBE
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
 Ibn Al-Noor|i@KM|fAPRC ENST
 Ice Flow|i@KM|aAPRC SYNZ
+Ice and Snow|f@RK|sFLUT HORN STRS
 Ignosi|i@KM|fAPRC CLNT FLUT HORN MRBA STRS TRBN
 Immersed|i@KM|cAPNO
 Impact Allegretto|i@KM|hAGTR APRC EGTR SYNZ
@@ -570,6 +588,7 @@ Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
 Magic Forest|i@KM|cSTRS SYNZ
+Magic in the Garden|f@RK|cAPRC CLNT KLBA MRBA PIZZ
 Magistar|i@KM|fEPRC GLCK SYNZ TRBN TRPT TUBA VOCL
 Majestic Hills|i@KM|sAPRC BELL CLNT FLUT GLCK HORN STRS TIMP TRBN TUBA
 Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
@@ -638,6 +657,7 @@ Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
 Myst|i@KM|sAPRC CLNT FLUT OBOE STRS TRBN VOCL
 Myst on the Moor|i@KM|fAPRC FLUT MRBA SYNZ
 Mysterioso March|i@KM|fAPRC CLNT CLST HORN MUTE PIZZ
+Mysterious Lights|f@BT|fAPNO EPRC STRS
 Mystery Sax|i@KM|fAPRC SAXO SYNZ
 Mystery Sting|i@KM|nAPRC CLNT MRBA OBOE
 Mystic Force|i@KM|nAPRC BELL TUBA
@@ -648,11 +668,13 @@ Neon Laser Horizon|i@KM|hEPRC SYNZ
 Nerves|i@KM|fAPRC HORN STRS SYNZ TIMP TRBN TRPT
 New Direction|i@KM|cSYNZ
 New Friendly|i@KM|hEPRC SYNZ VOCL
+New Hero in Town|f@KM|nAPRC ENST
 New Hero in Town|i@KM|nAPRC ENST
 News Theme|i@KM|hAPRC HORN TIMP TRBN TRPT TUBA
 NewsSting|i@KM|hAPRC HORN SYNZ TRBN TRPT
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
+Night Vigil|f@KM|sAPRC FLUT STRS VOCL
 Night Vigil|i@KM|sAPRC FLUT STRS VOCL
 Night of the Owl|i@KM|fAPRC FLUT
 Night on the Docks|i@KM|sEPNO
@@ -712,6 +734,7 @@ Pamgaea|i@KM|hSYNZ
 // Pan Flute Serenity|z@BK|cPFLT
 Paradise_Found|i@KM|hEPRC STDR SYNZ VOCL
 Passing Action|i@KM|fAPRC BASS EPRC STRS
+Patron Saint of Heists|f@BT|aAPRC BASS EPNO FLUT SAXO
 Peace of Mind|i@KM|cAPNO STRS SYNZ
 Pennsylvania Rose|i@KM|hAGTR BELL FLUT HORN OBOE STRS TRBN
 Peppy Pepe|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
@@ -756,6 +779,7 @@ Raw|i@KM|nAPRC BASS
 Reggae Sketch|i@KM|aAPRC EPNO JORG
 Reign|i@KM|hAPNO APRC EGTR HORN STRS VOCL
 Relaxing Piano Music|i@KM|cAPNO SYNZ
+Release the Hybrids|f@BT|fEPRC STRS SYNZ
 Relent|i@KM|sCLNT HARP
 RetroFuture Clean|i@KM|aAPRC BASS EGTR JORG
 Return of the Mummy|i@KM|fAPRC ENST STRS VOCL
@@ -789,6 +813,7 @@ Sardana|i@KM|sAGTR
 Satiate|i@KM|fEPRC STRS
 Satiate Percussion|i@KM|fEPRC
 Satiate Strings|i@KM|fSTRS
+Satin Danger|f@KM|fSYNZ VIBE
 Savannah Sketch|i@KM|hAPRC MRBA VOCL
 Sax Rock and Roll|i@KM|aAPRC BASS EGTR SAXO TRPT
 Scattershot|i@KM|aAPRC SYNZ
@@ -913,6 +938,7 @@ The Cannery|i@KM|hAPNO APRC EFFX MUBX TRPT
 The Chamber|i@KM|fAPRC CLNT HARP HORN STRS TRBN TIMP VOCL
 The Complex|i@KM|aAPNO EPRC SYNZ
 The Curtain Rises|i@KM|hAPRC HORN STRS TIMP TRBN TUBA
+The Drama|f@RK|fAPRC STRS SYNZ
 The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
@@ -922,6 +948,7 @@ The Other Side of the Door|i@KM|nFLUT HARP OBOE PIZZ STRS
 The Path of the Goblin King|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
 The Path of the Goblin King v2|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
 The Pyre|i@KM|nAPRC MDLN STRS
+The Range|f@RK|hAPRC HORN STRS
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Second Coming|i@KM & @LV & @WY|fAPRC HORN STRS TRBN VOCL
 The Second Coming Instrumental|i@KM|fAPRC HORN STRS TRBN
@@ -931,6 +958,7 @@ The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
 The Whip Theme (Extended Version)|i@KM|aAPRC BASS EGTR EPRC
 There It Is|i@KM|nBASS EGTR EPRC TRBN TRPT
 Thief in the Night|i@KM|cAPRC BASS EGTR JORG
+Think About It|f@BT|sAPNO STRS SYNZ
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
 Thunder Dreams|i@KM|sSYNZ
 Thunderbird|i@KM|cAPRC FLUT SYNZ
