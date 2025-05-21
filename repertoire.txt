@@ -135,6 +135,7 @@ Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
 Bummin on Tremelo|i@KM|rAPRC BASS EGTR JORG VOCL
 Burn The World Waltz |i@KM & @AN|aAPRC BASS EGTR
 Burning Trapezoid of Fire|f@KM|hAPRC BASS EGTR
+Burt's Requiem|f@AN|sAPNO
 Bushwick Tarantella|i@KM|hACDN AGTR APRC BASS CLNT
 Bushwick Tarantella Loop|i@KM|hACDN AGTR APRC BASS CLNT
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
