@@ -1,5 +1,7 @@
+A Good Bass for Gambling|f@KK|nAPRC BASS EGTR
 // A Long Day of Fun|z@BK|cAGTR APRC
 A Mission|i@KM|nCLNT FLUT STRS TRBN TUBA
+A Waltz For Naseem|f@DS|rAPNO APRC CLNT GLCK HORN STRS
 // Abrasive Accordion|z@BK|aACDN APRC
 Accralate|i@KM|cAPRC MRBA
 Aces High|i@KM|hAPRC BASS EPNO JORG
@@ -21,6 +23,7 @@ Alien Restaurant|i@KM|cAPRC BASS HARP OBOE SITR TRPT
 Allada|i@KM|nAPRC MRBA
 Almost New|i@KM|rAPNO STRS
 Almost in F|i@KM|cAPNO STRS
+Amazing Grace|f@KM & @JN|cSAXO
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Ambiment|i@KM|cAPNO SYNZ
 Americana|i@KM|rAPRC CLNT CLST FLUT GLCK HORN OBOE STRS TIMP TRBN TUBA
@@ -44,6 +47,7 @@ Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
 Aquatic City Vanished|f@BT|nAPRC FLUT STDR
 Aretes|i@KM|rAPNO SYNZ VOCL
 Arid Foothills|i@KM|fAPRC MRBA HORN STRS TRBN TUBA
+Arpent|f@KM|hEPRC SYNZ
 Artifact|i@KM|nAGTR APRC KLBA MRBA VOCL
 As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
 Ascending the Vale|i@KM|cAPRC FLUT HARP HORN VOCL
@@ -58,11 +62,13 @@ Autumn Day|i@KM|rAGTR APNO APRC BASS STRS VOCL
 Avant Jazz|i@KM|fBASS EPRC MUTE SAXO VIBE
 Awaiting Return|i@KM & @GH|sAPNO
 Awesome Call|i@KM|hAPNO APRC BASS EPNO
+Awkward Apocalyptic Pickup|f@AY|fAPRC STRS SYNZ
 Awkward Meeting|i@KM|fAPNO SYNZ
 Baba Yaga|i@KM|fAPNO APRC SYNZ VOCL
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
 Back on Track|i@KM|nAPRC BASS
 Backbay Lounge|i@KM|cAGTR APNO APRC BASS
+Backbeat|f@KM|nEPRC SYNZ
 Backed Vibes|i@KM|nBASS EFFX VIBE
 Backed Vibes Clean|i@KM|nBASS VIBE
 Bad Ideas _clean_|i@KM|fAPNO
@@ -73,6 +79,7 @@ Bama Country|i@KM|hACDN AGTR APRC BASS BNJO HMCA STRS
 Bar Brawl|f@BT|hAPRC DULC HPRC MDLN STRS WHSL
 Basement Floor|i@KM|fEPRC SYNZ VOCL
 Basic Implosion|i@KM|aEPRC HPRC SYNZ
+Bass Meant Jazz|f@KM|nAPRC BASS VIBE
 Bass Soli|i@KM|cBASS
 Bass Vibes|i@KM|nAPRC BASS EPNO
 Bass Walker|i@KM|nBASS
@@ -89,6 +96,7 @@ Big Eyes|f@RK|fBASN FLUT HARP OBOE PIZZ STRS
 Big Mojo|i@KM|fAPRC ENST FLUT STRS SYNZ TIMP TRPT
 Big Rock|i@KM|aAPRC BASS EGTR
 Birch Run|i@KM|nAPRC
+Bit Bit Loop|f@KM|nEPRC SYNZ
 Bit Shift|i@KM|hEPRC SYNZ
 Black Bird|i@KM|nAPRC HPRC
 Bleeping Demo|i@KM|cAPRC SYNZ
@@ -114,6 +122,7 @@ Broken Reality|i@KM|aAPRC BASS EPRC SYNZ
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
 Bummin on Tremelo|i@KM|rAPRC BASS EGTR JORG VOCL
 Burn The World Waltz |i@KM & @AN|aAPRC BASS EGTR
+Burning Trapezoid of Fire|f@KM|hAPRC BASS EGTR
 Bushwick Tarantella|i@KM|hACDN AGTR APRC BASS CLNT
 Bushwick Tarantella Loop|i@KM|hACDN AGTR APRC BASS CLNT
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
@@ -153,6 +162,7 @@ Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
 Celtic Impulse|i@KM|nAPRC DULC HARP MDLN WHSL
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
+Champ de tournesol|f@KK|rAGTR
 Chanter|i@KM|aAPRC ENST SYNZ VOCL
 Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
@@ -296,6 +306,7 @@ Dreams of Vain|f@RK|fAPNO APRC SYNZ
 Dreamy Flashback|i@KM|rBELL HARP PIZZ
 Driving Concern|f@KM|nAPRC EPNO MRBA SYNZ
 Drone in D|i@KM|cAPNO SYNZ
+Drop Point|f@BT|aAPNO APRC MUTE SAXO TRBN TRPT
 Drums of the Deep|i@KM|fAPRC STRS
 Dub Eastern|i@KM|fAPRC BASS EGTR EPNO SYNZ
 Dub Feral|i@KM|fAPRC BASS EGTR EPNO SYNZ
@@ -367,6 +378,7 @@ Fife and Drum|i@KM|hAPRC FLUT
 Fig Leaf Rag|i@KM & @SJ|hAPNO
 Fig Leaf Rag - distressed|i@KM & @SJ|hAPNO
 Fig Leaf Times Two|i@KM & @SJ|hAPNO
+Finally See The Light|f@BT|hAPRC BASS EPNO TRBN TRPT
 Finding Movement|i@KM|cENST STRS
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Battle of the Dark Wizards|i@KM|fAPRC EPRC HORN STRS SYNZ TRPT VOCL
@@ -431,6 +443,7 @@ Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Gonna Start|i@KM|hAPNO APRC BASS EGTR JORG
 Gonna Start v2|i@KM|hAPNO APRC BASS EGTR JORG
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
+Gotta Keep On Movin|f@BT|hAPRC BASS EGTR EPNO STRS VOCL
 Grand Dark Waltz Allegretto|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
 Grand Dark Waltz Allegro|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
 Grand Dark Waltz Moderato|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
@@ -524,6 +537,7 @@ Intuit256|i@KM|fAPRC FLUT SYNZ
 Invariance|i@KM|fAPRC BASS MRBA XYLO
 Iron Horse|i@KM|fAPNO
 Iron Horse - Distressed|i@KM|fAPNO
+Isolation Waltz|f@BT|rAPNO HARP MUBX
 It is Lost|i@KM|sSYNZ
 Jalandhar|i@KM|aAPRC BASS HPRC SITR SYNZ
 Jarvic 8|i@KM|hBASS
@@ -546,6 +560,7 @@ Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
 Klockworx|i@KM|nEPRC SYNZ
 Kumasi Groove|i@KM|cAPRC MRBA
 Kumasi Groove Flugelhorn|i@KM|cAPRC MRBA TRPT
+La Citadelle|f@KK|nAGTR BASS
 Laconic Granny|i@KM|sAPRC CLNT TUBA
 Lachaim|i@KM|hAGTR APRC BASS CLNT SAXO STRS TRBN
 Laid Back Guitars|i@KM|sAGTR APRC
@@ -602,6 +617,7 @@ Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
 Master Disorder|i@KM|fDULC EPRC SYNZ
 Master of the Feast|i@KM|hAGTR APRC DULC ENST ENWD FLUT
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
+Meditating Beat|f@KM|cAPNO APRC SYNZ
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
 Merry Go|i@kM|hAPNO
@@ -653,6 +669,7 @@ Motivator|i@KM|hAPRC BASS SYNZ
 Mountain Emperor|i@KM|nAPRC BELL
 Mourning Song|i@KM|sOBOE STRS
 Movement Proposition|i@KM|aAPRC HORN STRS SYNZ TRBN
+Murder On The Bayou|f@BT|fAGTR BASS BNJO EGTR HPRC
 Music for Manatees|i@KM|cAPNO EPNO STRS SYNZ
 Myst|i@KM|sAPRC CLNT FLUT OBOE STRS TRBN VOCL
 Myst on the Moor|i@KM|fAPRC FLUT MRBA SYNZ
@@ -688,6 +705,7 @@ NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
 Noble Race|i@KM|nAPNO BASN BELL CLNT FLUT GLCK HORN OBOE STRS TIMP TRBN TRPT
 Noise Attack|i@KM|aBASS EGTR EPRC JORG
 Nonstop|i@KM|aEGTR EPRC SYNZ
+Nostalgic Piano|f@RK|cAPNO
 Not As It Seems|i@KM|fAPRC HARP GLCK HORN OBOE STRS TRBN TRPT TUBA
 Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
 Nothing Broken|i@KM|hAGTR APRC CLNT FLUT HPCH JORG
@@ -873,6 +891,7 @@ Space 1990-B|i@KM|cAPRC BELL SYNZ
 Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
 Space Jazz|i@KM|hAPRC JORG SYNZ
 Spacial Harvest|i@KM|fSYNZ
+Spec Ops|f@RK|aSYNZ
 Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 Spider Eyes|i@KM|fAPNO BELL STRS
 Spiders Web|i@KM|fHPCH STRS
@@ -896,6 +915,8 @@ Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUB
 Sudden Defeat|i@KM|sAPRC CLNT HORN TIMP TRBN TRPT TUBA
 Summer Day|i@KM|cAGTR APRC BASS EPNO
 // Summer Raingtone|b@BK & @SI|nAPNO EFFX
+Sun Up Gunned Down|f@BT|nAGTR APRC BASS BELL EGTR PFLT TRPT VOCL
+Sunday Dub|f@KM|nAPRC BASS EGTR JORG
 Sunday Dub|i@KM|nAPRC BASS EGTR JORG
 Sunflower Dance Party|i@KM|hAPRC HPRC SYNZ
 Sunset at Glengorm|i@KM|sAPNO SYNZ VOCL
