@@ -26,6 +26,7 @@ Almost New|i@KM|rAPNO STRS
 Almost in F|i@KM|cAPNO STRS
 Amazing Grace|f@KM & @JN|cSAXO
 Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
+Ambient Bongos|f@AN|nAPRC
 Ambiment|i@KM|cAPNO SYNZ
 Americana|i@KM|rAPRC CLNT CLST FLUT GLCK HORN OBOE STRS TIMP TRBN TUBA
 Anachronist|i@KM|aEGTR EPRC HPCH
@@ -89,10 +90,13 @@ Bass Walker|i@KM|nBASS
 Bathed in the Light|i@KM|cSYNZ
 Battle Ready|f@BT|fAPRC DGOO ENWD HORN SYNZ TRBN TRPT TUBA
 // Battle of the Desert Aliens|b@BK|fAPRC DULC EGTR MRBA PFLT SYNZ VOCL
+Be Chillin|f@AN|cAGTR APRC BASS EGTR JORG SYNZ
 Beach Bum|i@KM|hAPRC BASS EGTR
 Beach Party|i@KM|hAPRC BASS EGTR JORG STDR
 Beachfront Celebration|i@KM|hAPNO APRC BASS HORN STDR TRBN TRPT
 Beauty Flow|i@KM|cAPRC BASS SYNZ
+Beginning of Conflict|f@RK|fAPRC EPNO SYNZ
+Behind the Sword|f@AN|nAPRC BGPS ENST ENWD HARP STRS
 Bicycle|i@KM|nBASS
 Big Drumming|i@KM|nAPRC
 Big Eyes|f@RK|fBASN FLUT HARP OBOE PIZZ STRS
@@ -102,11 +106,13 @@ Birch Run|i@KM|nAPRC
 Bit Bit Loop|f@KM|nEPRC SYNZ
 Bit Shift|i@KM|hEPRC SYNZ
 Black Bird|i@KM|nAPRC HPRC
+Blacksmkith|f@AN|nAPRC DGDOO ENST SITR STRS
 Bleeping Demo|i@KM|cAPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
 Blippy Trance|f@KM|hSYNZ
 Blippy Trance|i@KM|hSYNZ
 Blobby Samba|i@KM|hBASS EFFX EPRC SYNZ
+Blood Eagle|f@AN|fAGTR APRC FLUT VOCL WHSL
 Blown Away|i@KM|aAPRC SYNZ
 Blown Away - No Percussion|i@KM|aSYNZ
 Blue Feather|i@KM|sAPNO
@@ -124,6 +130,7 @@ Breakdown|i@KM|nAPRC BASS
 Brightly Fancy|i@KM|hAGTR APRC BASS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Broken Reality|i@KM|aAPRC BASS EPRC SYNZ
+Brothers Unite|f@AN|rAPNO APRC HORN STRS
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
 Bummin on Tremelo|i@KM|rAPRC BASS EGTR JORG VOCL
 Burn The World Waltz |i@KM & @AN|aAPRC BASS EGTR
@@ -165,6 +172,7 @@ Cartoon Battle|i@KM|aAPRC MUTE SAXO TRBN TUBA
 Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 // Celebration Rock|z@BK|hAPRC EGTR SITR
 Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
+Celebration|f@AN|hAGTR APRC FLUT STRS
 Celtic Impulse|i@KM|nAPRC DULC HARP MDLN WHSL
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
 Champ de tournesol|f@KK|rAGTR
@@ -183,6 +191,7 @@ Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
 Chillin Hard|i@KM|cAPRC SYNZ VOCL
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
+Chronos|f@AN|nAPNO EPRC SYNZ
 Cipher2|i@KM|hAPRC EPNO STRS SYNZ
 Circus Waltz FX|i@KM|hAPNO
 Circus of Freaks|f@KM|aAPRC CLNT FLUT TRBN TRPT TUBA XYLO
@@ -196,6 +205,7 @@ Club Diver|i@KM|aEPRC SYNZ
 Club Seamus|i@KM|hBGPS EPRC SYNZ
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Cold Funk|i@KM|nAGTR APRC BASS EPNO
+Cold Journey|f@AN|sAPNO APRC EFFX ENWD HARP STRS
 Cold Sober|i@KM|nAGTR APRC BASS BGPS EPNO
 Colossus|i@KM|nAPRC BASN BELL CLNT FLUT GLCK HORN MRBA OBOE TRBN TRPT TUBA
 Comfortable Mystery|i@KM|sEPNO
@@ -209,6 +219,7 @@ Concentration|i@KM|cEPNO SYNZ
 Conflicted|i@KM|nAPNO APRC CLNT HORN TIMP TRBN TRPT TUBA
 Confused State|i@KM|fAPRC BASN CLNT KLBA MRBA OBOE
 Connecting Rainbows|f@KM|rHARP
+Consecrated Ground|f@AN|fAPNO APRC BELL PORG STRS TRBN
 Consequence|i@KM|fAPRC EPRC GLCK SYNZ XYLO
 Consort for Brass|i@KM|rHORN TRBN TRPT TUBA
 Constance|i@KM|fAPRC MRBA STRS SYNZ XYLO
@@ -220,6 +231,7 @@ Covert Affair|i@KM|fAPRC BASS EPNO TRPT
 Cowboy Sting|i@KM|nAGTR APRC BASS ENST STRS
 Coy Koi|f@AY|nAPRC ENST
 // Creepy Churchyard|b@BK & @PB|fACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
+Creepy Hallow|f@AN|fAPNO CLST STRS SYNZ
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
 Crowd Hammer|i@KM|fAGTR APRC ENST FLUT OBOE
@@ -257,8 +269,7 @@ Darkening Developments|i@KM|fAPRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
 Darkest Child|i@KM|fCLST HARP STRS
 Darkest Child var A|i@KM|fCLST HARP STRS
 Darkness is Coming|i@KM|fEPRC SYNZ VOCL
-Dawn of the Apocalypse|f@RK|f
-// TODO: INST for ^^^ DotA ^^^
+Dawn of the Apocalypse|f@RK|fAPRC STRS SYNZ VOCL
 Daybreak|i@KM|cEPNO
 Daytime TV Theme|i@KM|cAPNO SAXO STRS
 Dead Drop|i@KM|cAPRC BASS EGTR
@@ -268,6 +279,7 @@ Decisions|i@KM|fAPRC EPRC STRS SYNZ VOCL
 Deep Haze|i@KM|nAPRC EGTR SYNZ
 Deep Relaxation|f@KM|cAPNO EPNO HARP SYNZ
 Deep Relaxation|i@KM|cAPNO EPNO HARP SYNZ
+Deep Tones|f@KM|fHORN SYNZ TRBN
 Del Rio Bravo|f@KM|hACDN APRC BASS MRBA
 Del Rio Bravo|i@KM|hACDN APRC BASS MRBA
 Delay Rock|i@KM|hAPRC BASS EGTR
@@ -486,6 +498,7 @@ Gypsy Shoegazer No Voices|i@KM|sAGTR APNO APRC HPRC TRBN
 Hackbeat|i@KM|hAGTR APRC BASS
 Half Mystery|i@KM|cEPRC SYNZ
 Hall of the Mountain King|i@KM & @MO & @EG|aAPRC BASN CLNT FLUT HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA
+Halloween Theme 1|f@AN|fAPNO CLST STRS SYNZ
 Halls of the Undead|i@KM|fAPRC BELL HORN OBOE PORG TIMP TRBN TUBA VOCL
 Hand Balance Redux|i@KM|fAPRC EPRC STRS SYNZ
 Happy Bee|i@KM|hBASS EPRC JORG
@@ -569,6 +582,7 @@ Jet Fueled Vixen|i@KM|aAPRC EGTR SYNZ
 Jethro on the Run|f@AY|nAGTR APRC BASS BNJO MDLN STRS
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Journey To Ascend|i@KM|cAPRC STDR
+Journey of Hope|f@AN|rAGTR APNO APRC EGTR STRS
 Jungle Mission|f@RK|cAPRC BASS CLST MRBA
 Juniper|i@KM|cCLNT HARP HORN OBOE STRS TRBN TRPT TUBA
 Junkyard Tribe|i@KM|aEPRC
@@ -623,6 +637,7 @@ Lost Frontier|i@KM|cAPRC HORN STRS VOCL
 Lotus|i@KM|nAPRC
 Love Song|i@KM|sAPNO FLUT HARP HORN STRS
 Lukewarm Banjo|f@KM|hAGTR APRC BASS BNJO
+Lurking Sloth|f@AN|sAPRC FLUT GLCK PIZZ TRBN TUBA
 MJS Stings|i@KM|nAGTR APNO APRC BASS
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
@@ -636,6 +651,7 @@ Majestic Hills|i@KM|sAPRC BELL CLNT FLUT GLCK HORN STRS TIMP TRBN TUBA
 Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
 Man Down|i@KM|sEPNO STRS
 Manic Polka|i@KM|hACDN APRC TUBA
+Maple 100|f@KM & @SJ|hAPNO
 Maple Leaf Rag|f@KM & @SJ|hAPNO
 Maple Leaf Rag|i@KM & @SJ|hAPNO
 March of the Mind|i@KM|sAPNO
