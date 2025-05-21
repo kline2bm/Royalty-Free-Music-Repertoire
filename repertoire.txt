@@ -45,6 +45,7 @@ AngloZulu|i@KM|hAPRC FLUT HORN KLBA OBOE STRS TRBN TUBA VOCL
 Anguish|i@KM|sAGTR APRC HARP SYNZ
 // Another Sunny Day|z@BK|hAPRC EGTR SYNZ
 Apero Hour|i@KM|hAGTR APRC BASS JORG
+Aquarium|f@KM & @CS|rAPNO FLUT GLCK STRS
 Aquarium|i@KM & @CS|rAPNO FLUT GLCK STRS
 Aquatic City Vanished|f@BT|nAPRC FLUT STDR
 Aretes|i@KM|rAPNO SYNZ VOCL
@@ -117,6 +118,7 @@ Bollywood Groove|f@KM|fAPRC ENST STRS VOCL
 Boogie Party|i@KM|hAPNO APRC BASS JORG
 Bossa Antigua|i@KM|cAGTR APRC BASS
 BossaBossa|i@KM|cAGTR APNO APRC BASS
+Brandenburg Concerto III, Allegro I|f@DS & @JB|hSYNZ
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Breakdown|i@KM|nAPRC BASS
 Brightly Fancy|i@KM|hAGTR APRC BASS
@@ -183,6 +185,7 @@ Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
 Cipher2|i@KM|hAPRC EPNO STRS SYNZ
 Circus Waltz FX|i@KM|hAPNO
+Circus of Freaks|f@KM|aAPRC CLNT FLUT TRBN TRPT TUBA XYLO
 Circus of Freaks|i@KM|aAPRC CLNT FLUT TRBN TRPT TUBA XYLO
 City Run|f@RK|aAPRC
 Clash Defiant|i@KM|aAPRC HORN STRS TRBN VOCL
@@ -379,7 +382,8 @@ Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
 Fearless First|i@KM|nBASS EGTR EPRC FLUT
 Feelin Good|i@KM|hAPRC BASS EGTR JORG
-Fensters Explanation|i@KM|hAPNO APRC CLNT FLUT TRBN TRPT TUBA
+Fenster's Explanation|f@KM|hAPNO APRC CLNT FLUT TRBN SAXO TRPT TUBA
+Fensters Explanation|i@KM|hAPNO APRC CLNT FLUT TRBN SAXO TRPT TUBA
 Feral Angel Waltz |i@KM & @AN|sAPRC BASS EGTR
 Fiddles McGinty|i@KM|hAGTR APRC BASS BGPS WHSL
 Fife and Drum|i@KM|hAPRC FLUT
@@ -412,6 +416,8 @@ Fork and Spoon|i@KM|hAPRC BASS EGTR JORG
 Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 Freddys Menagerie|i@KM|aAGTR APRC MRBA
+Fright Night Twist|f@BT|fAPRC BASS EGTR JORG TRPT
+Frogs Legs Rag|f@KM & @JS|hAPNO
 Frogs Legs Rag|i@KM & @JS|hAPNO
 Frost Waltz|i@KM|fCLST FLUT GLCK HORN STRS
 Frost Waltz (Alternate)|i@KM|fCLST FLUT GLCK STRS
@@ -436,6 +442,7 @@ Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghost Processional|i@KM|sBELL CLST PIZZ STRS
 Ghost Processional - Alternate|i@KM|sAPRC BELL CLST EFFX PIZZ STRS
 Ghost Story|i@KM|fAPNO APRC VIBE
+Ghost Town|f@RK|fAGTR APRC BASN BELL CLNT GLCK HARP HORN STRS XYLO
 Ghostpocalypse - 1 Departure|i@KM|fSYNZ
 Ghostpocalypse - 2 The Call|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
@@ -503,6 +510,7 @@ Hit the Streets|i@KM|aAPRC
 Hit the Streets v2|i@KM|aAPRC
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
 Honor Bound|f@BT|aAPRC HORN STRS TRBN TRPT
+Horns|f@KM|hAPRC BASS EGTR TRBN TRPT
 Horror_Spacial Winds|i@KM|cSYNZ
 Hot Pursuit|i@KM|aAPRC EGTR STRS
 Hotrock|i@KM|aAPRC BASS EGTR SAXO TRPT
@@ -561,6 +569,7 @@ Jet Fueled Vixen|i@KM|aAPRC EGTR SYNZ
 Jethro on the Run|f@AY|nAGTR APRC BASS BNJO MDLN STRS
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Journey To Ascend|i@KM|cAPRC STDR
+Jungle Mission|f@RK|cAPRC BASS CLST MRBA
 Juniper|i@KM|cCLNT HARP HORN OBOE STRS TRBN TRPT TUBA
 Junkyard Tribe|i@KM|aEPRC
 Just As Soon|i@KM|sAGTR APRC BASS EPNO SAXO
@@ -617,6 +626,7 @@ Lukewarm Banjo|f@KM|hAGTR APRC BASS BNJO
 MJS Stings|i@KM|nAGTR APNO APRC BASS
 Maccary Bay|i@KM & @BD|nAPNO APRC BASS EGTR JORG
 Machinations|i@KM|aAPRC BASN OBOE STRS TRBN TUBA
+Madness of Linda|f@RK|hAPRC BASS EFFX HPRC MRBA VIBE XYLO
 Magic Escape Room|i@KM|fAPRC BASN BELL CLST EFFX FLUT GLCK HARP HORN OBOE PIZZ PORG STRS TIMP TRBN TUBA XYLO
 Magic Forest|i@KM|cSTRS SYNZ
 Magic in the Garden|f@RK|cAPRC CLNT KLBA MRBA PIZZ
@@ -626,6 +636,7 @@ Majestic Hills|i@KM|sAPRC BELL CLNT FLUT GLCK HORN STRS TIMP TRBN TUBA
 Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
 Man Down|i@KM|sEPNO STRS
 Manic Polka|i@KM|hACDN APRC TUBA
+Maple Leaf Rag|f@KM & @SJ|hAPNO
 Maple Leaf Rag|i@KM & @SJ|hAPNO
 March of the Mind|i@KM|sAPNO
 March of the Spoons|i@KM|nAPRC CLNT FLUT OBOE PIZZ
@@ -673,6 +684,7 @@ Modern Vibes|i@KM|nVIBE
 // Modulus 3: Septembers (Ambient Mix)|b@BK & Sepezz|sSTRS SYNZ VOCL
 Monkoto|i@KM|nAPRC CLNT MRBA
 Monster Promenade|i@KM|hAGTR APRC JORG
+Monsters in Hotel|f@RK|fAPNO APRC GLCK HORN PORG TRBN TRPT XYLO
 Montauk Point|i@KM|hAGTR APRC BASS
 Moon Lounge Omicron Prime|i@KM|hEGTR EPRC SYNZ
 Moonlight Hall|i@KM|fAPRC BASN CLST FLUT OBOE PIZZ STRS TIMP TUBA VOCL
@@ -843,6 +855,7 @@ Round Drums|i@KM|nAPRC
 Royal Coupling|f@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Royal Coupling|i@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Run Amok|i@KM|hAPRC BASN CLNT MRBA OBOE PIZZ TRBN TRPT TUBA
+Rush|f@RK|hAPRC BASS FLUT MUTE TUBA
 Rynos Theme|i@KM|fAPNO APRC FLUT HORN STRS TRBN TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
 Samba Isobel|i@KM|rAPNO APRC BASS
@@ -916,6 +929,7 @@ Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 Spider Eyes|i@KM|fAPNO BELL STRS
 Spiders Web|i@KM|fHPCH STRS
 // Spooky Dance Party|b@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
+Spring Chicken|f@BT|hAPRC FLUT GLCK PIZZ STRS XYLO
 Spy Glass|i@KM|fAPNO APRC FLUT HPRC MUTE SAXO VIBE
 Spy Groove|i@KM|nAPRC BASS EPNO JORG STRS
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
@@ -958,6 +972,7 @@ Tafi Maradi|i@KM|hAPRC VOCL
 Tafi Maradi no voice|i@KM|hAPRC
 Tango de Manzana|i@KM|rACDN APNO APRC BASS FLUT STRS
 Take a Chance|i@KM|hAPRC BELL CLNT FLUT HORN STRS TIMP XYLO
+Take the Ride|f@BT|nAPRC BASS EGTR JORG SYNZ VOCL
 Take the Lead|i@KM|aAPRC BASS EGTR SYNZ
 Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
 Tech Live|i@KM|hAPRC KLBA SYNZ
@@ -980,10 +995,13 @@ Thaxted|i@KM & @GH|rBASN CLNT FLUT HARP HORN OBOE STRS TRBN TRPT TUBA
 The Britons|f@KM|cAGTR APRC WHSL
 The Builder|i@KM|fAPRC BASN MRBA OBOE PIZZ TRBN TRPT TUBA
 The Cannery|i@KM|hAPNO APRC EFFX MUBX TRPT
+The Celebrated Minuet|f@RK & @RB|rPIZZ STRS
+The Celebrated Minuet for Piano|f@RK & @RB|rAPNO
 The Chamber|i@KM|fAPRC CLNT HARP HORN STRS TRBN TIMP VOCL
 The Complex|i@KM|aAPNO EPRC SYNZ
 The Curtain Rises|i@KM|hAPRC HORN STRS TIMP TRBN TUBA
 The Drama|f@RK|fAPRC STRS SYNZ
+The Entertainer|f@KM & @SJ|hAPNO
 The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
@@ -1051,6 +1069,7 @@ Village Consort|i@KM|hAGTR APRC PFLT WHSL
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
+Vivace Momentum|f@KM & @SA|hSTRS
 Vivacity|i@KM|hAPRC BASS JORG VIBE
 Voice Over Under|i@KM|hAPRC HPRC SYNZ
 Volatile Reaction|i@KM|aAPRC BASN CLNT FLUT HORN STRS TRBN TUBA
@@ -1095,6 +1114,7 @@ Witch Hunt|i@KM|aAPRC CLNT FLUT HORN KLBA OBOE STRS TRBN TUBA
 Witch Waltz|f@KM|fAPRC CLNT HARP STRS
 With Regards|i@KM|rAGTR TRBN TUBA
 With a Creation|i@KM|fEPNO EPRC
+Wizard Circus|f@KM & @SA|nAPRC HORN TRBN TRPT TUBA
 World Vice|i@KM|aAGTR APRC MRBA VOCL
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
 Zanzibar|i@KM|hAPRC MRBA VOCL
