@@ -124,6 +124,7 @@ Bollywood Groove|f@KM|fAPRC ENST STRS VOCL
 Boogie Party|i@KM|hAPNO APRC BASS JORG
 Bossa Antigua|i@KM|cAGTR APRC BASS
 BossaBossa|i@KM|cAGTR APNO APRC BASS
+Bossy Boots|s@SI|nAPRC BASS EPNO JORG TRPT
 Brandenburg Concerto III, Allegro I|f@DS & @JB|hSYNZ
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Breakdown|i@KM|nAPRC BASS
@@ -319,6 +320,7 @@ Double Polka|i@KM|hACDN APRC TUBA
 Down Home Rockin|i@KM|hAPNO APRC BASS EGTR
 Dragon and Toast|i@KM|fAPRC BASN CLST DGOO HARP OBOE STRS
 Drankin Song|i@KM|cAGTR APRC BASS BNJO ENST STRS
+Dream Aeterna|s@SI|fAPRC BELL DULC EPRC STRS SYNZ VOCL
 Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
 Dreamer|i@KM|cAPNO APRC
@@ -446,6 +448,7 @@ Furious Freak|i@KM|aAPRC EPNO SYNZ
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 Future Gladiator|i@KM|aAPRC BASS HPRC SYNZ
 Fuzzball Parade|i@KM|hAPRC PIZZ
+Galactic Fandango|s@SI|nEGTR HORN SAXO STRS SYNZ TIMP TRBN TRPT
 Galactic Rap|i@KM|cEPRC SYNZ
 Galway|i@KM|hAGTR APRC BASS FLUT STRS
 Garden Music|i@KM|cAPNO SYNZ
@@ -496,6 +499,7 @@ Gymnopedie No 2|i@KM & @ES|sAPNO
 Gymnopedie No 3|i@KM & @ES|sAPNO
 Gypsy Shoegazer|i@KM|sAGTR APNO APRC HPRC TRBN
 Gypsy Shoegazer No Voices|i@KM|sAGTR APNO APRC HPRC TRBN
+HOLY MOLY|s@SI|aEPRC MRBA SYNZ
 Hackbeat|i@KM|hAGTR APRC BASS
 Half Mystery|i@KM|cEPRC SYNZ
 Hall of the Mountain King|i@KM & @MO & @EG|aAPRC BASN CLNT FLUT HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA
@@ -729,6 +733,7 @@ Mystic Force|i@KM|nAPRC BELL TUBA
 Naraina|i@KM|aAPRC BASS ENST EPRC TRPT
 Neo Western|i@KM|nAPRC EGTR SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
+Neon Noir|s@SI|fEPNO EPRC SYNZ
 Neptunian Princess|f@BT|fAPNO APRC BASS MUTE OBOE VIBE
 Nerves|i@KM|fAPRC HORN STRS SYNZ TIMP TRBN TRPT
 New Direction|i@KM|cSYNZ
@@ -739,6 +744,7 @@ News Theme|i@KM|hAPRC HORN TIMP TRBN TRPT TUBA
 NewsSting|i@KM|hAPRC HORN SYNZ TRBN TRPT
 Night Break|i@KM|fSYNZ
 Night Cave|i@KM|cAPRC KLBA MRBA
+Night Drive|s@SI|nAPRC BASS EGTR JORG
 Night Vigil|f@KM|sAPRC FLUT STRS VOCL
 Night Vigil|i@KM|sAPRC FLUT STRS VOCL
 Night of the Owl|i@KM|fAPRC FLUT
@@ -764,6 +770,7 @@ Novus Initium|f@AN|nAPNO APRC STRS
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 Obliteration|i@KM|aAPRC HORN JORG STRS
+Observe|s@SI|fSYNZ
 OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
 Odyssey|i@KM|hSYNZ
 Olde Timey|i@KM|hAPNO
@@ -772,6 +779,7 @@ On the Cool Side|i@KM|sAPRC BASS EPNO SAXO TRPT
 On the Ground|i@KM|fAPRC BASS EPNO
 On the Shore|i@KM|sFLUT GLCK STRS TIMP
 One Sly Move|i@KM|sEGTR EPRC EPNO SYNZ
+One With Everything|s@SI|cAPRC EPRC FLUT ENST SITR SYNZ VOCL
 One-eyed Maestro|i@KM|fACDN APRC FLUT HORN STRS TRPT
 // Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Opium|i@KM|cAPRC DULC STRS VOCL
@@ -781,6 +789,7 @@ Organic Meditations One|i@KM|cAPRC BELL STRS
 Organic Meditations Three|i@KM|cAPNO STRS
 Organic Meditations Two|i@KM|cHORN MRBA TUBA
 Orion 300XB|i@KM|fAPRC SYNZ VOCL
+Orville Mulligan's Ragtime Dream|s@SI|hAPNO APRC BASS CLNT EPRC MUTE SYNZ
 Ossuary 1 - A Beginning|i@KM|cSYNZ
 Ossuary 2 - Turn|i@KM|fAPRC SYNZ
 Ossuary 3 - Words|i@KM|fAPRC SYNZ
@@ -983,6 +992,7 @@ Sunday Dub|f@KM|nAPRC BASS EGTR JORG
 Sunday Dub|i@KM|nAPRC BASS EGTR JORG
 Sunflower Dance Party|i@KM|hAPRC HPRC SYNZ
 Sunset at Glengorm|i@KM|sAPNO SYNZ VOCL
+Sunsetter|s@SI|nAGTR BASS EPRC SYNZ UKLE
 Sunshine A|i@KM|hAGTR APNO APRC BASS
 Sunshine ver 2|i@KM|hAGTR APNO APRC BASS
 Super Friendly|i@KM|hAPRC EPNO SYNZ VOCL
@@ -1049,6 +1059,7 @@ The Vikings|f@AN|nAPNO APRC STRS VOCL
 The Way Out|i@KM|fAPRC SYNZ
 The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
 The Whip Theme (Extended Version)|i@KM|aAPRC BASS EGTR EPRC
+The Wonders Of Science|s@SI|hEPRC SYNZ
 There It Is|i@KM|nBASS EGTR EPRC TRBN TRPT
 Thief in the Night|i@KM|cAPRC BASS EGTR JORG
 Think About It|f@BT|sAPNO STRS SYNZ
@@ -1063,6 +1074,7 @@ To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
 Tranquility|i@KM|cSYNZ
 Tranquility Base|i@KM|cBELL SYNZ
 Transition One|i@KM|cBELL CLNT FLUT GLCK HARP STRS
+Tremendum|s@SI|aEPRC STRS SYNZ VOCL
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trip Up North|f@BT|hAGTR APRC BASS EGTR
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
