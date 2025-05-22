@@ -629,6 +629,7 @@ Local Forecast|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Slower|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Lone Harvest|i@KM|sAPNO CLNT FLUT HARP STRS
+Lonely Mountain|f@RK|sAPRC FLUT HARP OBOE STRS TIMP TRPT TUBA
 Long Road Ahead|i@KM|rAPRC HORN STRS TIMP TUBA VOCL
 Long Road Ahead B|i@KM|rSTRS VOCL
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
@@ -751,12 +752,15 @@ No Spam Polka|i@KM|hACDN APRC TUBA
 NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
 Noble Race|i@KM|nAPNO BASN BELL CLNT FLUT GLCK HORN OBOE STRS TIMP TRBN TRPT
 Noise Attack|i@KM|aBASS EGTR EPRC JORG
+Nomadic Sunset|f@AN|nAPRC EFFX ENST HARP STRS
+Nomadic Sunset MMXIX|f@AN|nAPNO APRC ENST STRS
 Nonstop|i@KM|aEGTR EPRC SYNZ
 Nordic Wist|f@KM|cENST VOCL
 Nostalgic Piano|f@RK|cAPNO
 Not As It Seems|i@KM|fAPRC HARP GLCK HORN OBOE STRS TRBN TRPT TUBA
 Notanico Merengue|i@KM|hAPNO APRC BASS EGTR SAXO TRPT
 Nothing Broken|i@KM|hAGTR APRC CLNT FLUT HPCH JORG
+Novus Initium|f@AN|nAPNO APRC STRS
 Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 Obliteration|i@KM|aAPRC HORN JORG STRS
@@ -790,6 +794,7 @@ Over Under|i@KM|cBASS
 Overcast|i@KM|rAPNO APRC BASS EGTR SYNZ
 Overheat|i@KM|cFLUT STRS SYNZ
 Overriding Concern|i@KM|fAPNO BELL EPRC GLCK SYNZ VOCL
+Overture|f@AN|hAPRC CLNT HORN PIZZ STRS TIMP TRBN
 Overture|i@KM|sAPNO
 Overworld|i@KM|fEPRC SYNZ
 Rains Will Fall|i@KM|sAPNO APRC STRS
@@ -829,6 +834,7 @@ Professor Umlaut|i@KM|aEPRC STRS XYLO
 Professor and the Plant|i@KM|fBASN GLCK HARP MUTE
 Psychedelic Crater|i@KM|aEPRC SITR SYNZ
 Pulse Rock|i@KM|nAPRC BASS EGTR
+Pump up your Graduation|f@KM & @JP|hEPRC SYNZ
 Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|i@KM|aAPNO APRC BASS SYNZ
 // Questions of Time|z@BK|fEPNO HARP
@@ -872,6 +878,7 @@ Round Drums|i@KM|nAPRC
 Royal Coupling|f@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Royal Coupling|i@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Run Amok|i@KM|hAPRC BASN CLNT MRBA OBOE PIZZ TRBN TRPT TUBA
+Rural Industry|f@KM|hAPRC ENST OBOE PIZZ
 Rush|f@RK|hAPRC BASS FLUT MUTE TUBA
 Rynos Theme|i@KM|fAPNO APRC FLUT HORN STRS TRBN TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
@@ -938,6 +945,7 @@ Soporific|i@KM|sBELL EPNO EPRC
 Southern Gothic|i@KM|fAGTR APRC BNJO HPRC VOCL
 Space 1990|i@KM|cAPRC BELL SYNZ
 Space 1990-B|i@KM|cAPRC BELL SYNZ
+Space Ambience|f@AN|cSYNZ
 Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
 Space Jazz|i@KM|hAPRC JORG SYNZ
 Spacial Harvest|i@KM|fSYNZ
@@ -1016,6 +1024,7 @@ The Celebrated Minuet|f@RK & @RB|rPIZZ STRS
 The Celebrated Minuet for Piano|f@RK & @RB|rAPNO
 The Chamber|i@KM|fAPRC CLNT HARP HORN STRS TRBN TIMP VOCL
 The Complex|i@KM|aAPNO EPRC SYNZ
+The Crown|f@AN|nAPNO BASN APRC HARP PIZZ OBOE STRS
 The Curtain Rises|i@KM|hAPRC HORN STRS TIMP TRBN TUBA
 The Drama|f@RK|fAPRC STRS SYNZ
 The Entertainer|f@KM & @SJ|hAPNO
@@ -1033,6 +1042,8 @@ The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Second Coming|i@KM & @LV & @WY|fAPRC HORN STRS TRBN VOCL
 The Second Coming Instrumental|i@KM|fAPRC HORN STRS TRBN
 The Snow Queen|i@KM|fBASN CLNT CLST FLUT PIZZ STRS TIMP
+The Story|f@AN|sAPNO APRC HORN STRS XYLO
+The Vikings|f@AN|nAPNO APRC STRS VOCL
 The Way Out|i@KM|fAPRC SYNZ
 The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
 The Whip Theme (Extended Version)|i@KM|aAPRC BASS EGTR EPRC
@@ -1122,7 +1133,9 @@ Wind of the Rainforest|f@KM|cEPNO SYNZ
 Wind of the Rainforest|i@KM|cEPNO SYNZ
 Windswept|i@KM|rAGTR STRS
 Windy Old Weather|f@KM & @TR|hACDN
+Windy Old Weather - thin|f@KM & @TR|hACDN
 Winner Winner|i@KM|hAPRC GLCK PIZZ STRS VOCL XYLO
+Winter|f@AN|rAPNO
 Winter Chimes|i@KM|rAPNO
 Winter Reflections|i@KM|cSYNZ
 Wisdom in the Sun|f@KM|cBASS BELL EGTR
