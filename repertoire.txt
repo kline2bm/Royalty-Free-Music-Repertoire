@@ -29,6 +29,7 @@ Amazing Grace 2011|i@KM & @JN|cAPNO CLNT PORG
 Ambient Bongos|f@AN|nAPRC
 Ambiment|i@KM|cAPNO SYNZ
 Americana|i@KM|rAPRC CLNT CLST FLUT GLCK HORN OBOE STRS TIMP TRBN TUBA
+Amunet Prime|s@SI|fSYNZ
 Anachronist|i@KM|aEGTR EPRC HPCH
 Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 Ancient Mystery Waltz Allegro|i@KM|fAPRC MRBA VOCL
@@ -190,6 +191,7 @@ Chee Zee Cave|i@KM|aAPRC HORN STRS TRPT
 Chee Zee Caves V2|i@KM|aAPRC STRS
 Chee Zee Jungle|i@KM|fAPRC DGOO FLUT KLBA MRBA VOCL
 Chee Zee Lab|i@KM|nAPRC EFFX EPRC SYNZ
+Cheeky|s@SI|aAPRC JORG SYNZ
 Cheese Greater|s@SI|aEPRC STRS SYNZ
 Cherry Blossom|i@KM|hAPRC MRBA
 Chill|i@KM|cBASS EPRC SYNZ
@@ -211,6 +213,7 @@ Clear Air|i@KM|rAGTR APNO
 Cloud Dancer|i@KM|hEPRC SYNZ VOCL
 Club Diver|i@KM|aEPRC SYNZ
 Club Seamus|i@KM|hBGPS EPRC SYNZ
+Codename Dougwood|s@SI|aAPRC FLUT HORN STRS TIMP TRBN TRPT
 Cognitive Dissonance|i@KM|aEPRC SYNZ
 Cold Funk|i@KM|nAGTR APRC BASS EPNO
 Cold Journey|f@AN|sAPNO APRC EFFX ENWD HARP STRS
@@ -269,7 +272,9 @@ Danse Macabre Isolated Harp|i@KM & @CS|rHARP
 Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Morialta|i@KM|rAPNO
 Danse of Questionable Tuning|i@KM|sAPNO STRS
+Dark 'n' Stormy|s@SI|aAPRC BASS EGTR JORG SYNZ
 Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
+Dark Flashes|s@Si & @BB|aAPNO BASS EPRC FLUT SYNZ
 Dark Fog|i@KM|sAPRC SYNZ
 Dark Pad|i@KM|cSYNZ
 Dark Side Of Mars|s@SI|fEPRC SYNZ
@@ -855,6 +860,7 @@ Presenterator|i@KM|hAPRC SYNZ
 Private Eye|i@KM|fAPRC BASS HORN TRBN TRPT
 Professor Umlaut|i@KM|aEPRC STRS XYLO
 Professor and the Plant|i@KM|fBASN GLCK HARP MUTE
+Proxima Centauri|s@SI|fAPRC FLUT STRS SYNZ TRBN VOCL
 Psychedelic Crater|i@KM|aEPRC SITR SYNZ
 Pulse Rock|i@KM|nAPRC BASS EGTR
 Pump up your Graduation|f@KM & @JP|hEPRC SYNZ
@@ -938,6 +944,7 @@ Shores of Avalon|i@KM|sAPNO SYNZ VOCL
 Show Your Moves|i@KM|hEPRC SYNZ
 Sidewalk Shade|i@KM|cAPNO APRC BASS VIBE
 Sidewalk Shade - slower|i@KM|cAPNO APRC BASS VIBE
+Signs To Nowhere|s@SI|fAPRC BASS HORN MUTE SAXO VIBE
 Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
@@ -973,6 +980,7 @@ Space Ambience|f@AN|cSYNZ
 Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
 Space Jazz|i@KM|hAPRC JORG SYNZ
 Spacial Harvest|i@KM|fSYNZ
+Speakeasy|s@SI|hAPRC BASS EFFX EPNO MUTE SAXO TRBN TUBA
 Spec Ops|f@RK|aSYNZ
 Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 Spider Eyes|i@KM|fAPNO BELL STRS
@@ -1017,6 +1025,7 @@ Swimmey Texture|i@KM|cAPNO SYNZ
 Swing Maching|f@KM & @SA|nAPNO EPRC SAXO SYNZ TRPT
 Symbiosis|i@KM|fAPNO EPRC
 Symmetry|i@KM|fEPRC SYNZ
+Synapse|s@SI|cEPRC SYNZ
 Tabuk|i@KM|fAPRC FLUT STRS
 Tafi Maradi|i@KM|hAPRC VOCL
 Tafi Maradi no voice|i@KM|hAPRC
@@ -1059,11 +1068,13 @@ The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Good Fight|s@SI|sPORG STRS VOCL
 The Lift|i@KM|nEPRC SYNZ
 The Machine Thinks|i@KM|fSYNZ
+The Other Place|s@SI|fEPRC SYNZ
 The Other Side of the Door|i@KM|nFLUT HARP OBOE PIZZ STRS
 The Path of the Goblin King|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
 The Path of the Goblin King v2|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
 The Pyre|i@KM|nAPRC MDLN STRS
 The Range|f@RK|hAPRC HORN STRS
+The Right Direction|s@SI|hAPRC EGTR SYNZ
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Second Coming|i@KM & @LV & @WY|fAPRC HORN STRS TRBN VOCL
 The Second Coming Instrumental|i@KM|fAPRC HORN STRS TRBN
@@ -1083,6 +1094,7 @@ Thunderbird|i@KM|cAPRC FLUT SYNZ
 Thunderhead|i@KM|nAPRC
 Tikopia|i@KM|nAPRC
 Time Passes|i@KM|sAPNO FLUT HARP HORN STRS
+Time Travellin' Nancy|s@SI|hAPNO BASS EPRC VOCL
 Tiny Fugue|i@KM|nPORG
 To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
 Tonight At Eight|s@SI|hAPRC EPRC HORN STRS TRBN SYNZ
@@ -1177,6 +1189,7 @@ Witch Waltz|f@KM|fAPRC CLNT HARP STRS
 With Regards|i@KM|rAGTR TRBN TUBA
 With a Creation|i@KM|fEPNO EPRC
 Wizard Circus|f@KM & @SA|nAPRC HORN TRBN TRPT TUBA
+Womp|s@SI|aAPRC SYNZ
 World Vice|i@KM|aAGTR APRC MRBA VOCL
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
 Zanzibar|i@KM|hAPRC MRBA VOCL
