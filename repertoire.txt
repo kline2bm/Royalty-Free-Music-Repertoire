@@ -70,6 +70,7 @@ Awkward Apocalyptic Pickup|f@AY|fAPRC STRS SYNZ
 Awkward Meeting|i@KM|fAPNO SYNZ
 Baba Yaga|i@KM|fAPNO APRC SYNZ VOCL
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
+Back To Cool|s@SI|nAPRC BASS EGTR EPNO EPRC HPRC SAXO
 Back on Track|i@KM|nAPRC BASS
 Backbay Lounge|i@KM|cAGTR APNO APRC BASS
 Backbeat|f@KM|nEPRC SYNZ
@@ -98,6 +99,7 @@ Beauty Flow|i@KM|cAPRC BASS SYNZ
 Beginning of Conflict|f@RK|fAPRC EPNO SYNZ
 Behind the Sword|f@AN|nAPRC BGPS ENST ENWD HARP STRS
 Bicycle|i@KM|nBASS
+Big Boi Pants|s@SI|aEPRC STRS SYNZ TIMP
 Big Drumming|i@KM|nAPRC
 Big Eyes|f@RK|fBASN FLUT HARP OBOE PIZZ STRS
 Big Mojo|i@KM|fAPRC ENST FLUT STRS SYNZ TIMP TRPT
@@ -132,6 +134,7 @@ Brightly Fancy|i@KM|hAGTR APRC BASS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Broken Reality|i@KM|aAPRC BASS EPRC SYNZ
 Brothers Unite|f@AN|rAPNO APRC HORN STRS
+Building Inspiration|s@SI|hEPRC STRS SYNZ
 Bumba Crossing|i@KM|cAPRC BASS FLUT MRBA VOCL
 Bummin on Tremelo|i@KM|rAPRC BASS EGTR JORG VOCL
 Burn The World Waltz |i@KM & @AN|aAPRC BASS EGTR
@@ -177,6 +180,7 @@ Cello Suite 1 in G - Prelude|i@KM & @JB|nDULC
 Celebration|f@AN|hAGTR APRC FLUT STRS
 Celtic Impulse|i@KM|nAPRC DULC HARP MDLN WHSL
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
+Chaise De l’Obscurité|s@SI|aEGTR EPRC HARP STRS SYNZ
 Champ de tournesol|f@KK|rAGTR
 Chanter|i@KM|aAPRC ENST SYNZ VOCL
 Chase Pulse|i@KM|fAPRC SYNZ
@@ -186,6 +190,7 @@ Chee Zee Cave|i@KM|aAPRC HORN STRS TRPT
 Chee Zee Caves V2|i@KM|aAPRC STRS
 Chee Zee Jungle|i@KM|fAPRC DGOO FLUT KLBA MRBA VOCL
 Chee Zee Lab|i@KM|nAPRC EFFX EPRC SYNZ
+Cheese Greater|s@SI|aEPRC STRS SYNZ
 Cherry Blossom|i@KM|hAPRC MRBA
 Chill|i@KM|cBASS EPRC SYNZ
 // Chill Science|b@BK & @SI|cAPNO SAXO STRS
@@ -193,6 +198,7 @@ Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
 Chillin Hard|i@KM|cAPRC SYNZ VOCL
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
+Chrome Zone|s@SI|hEPRC SYNZ
 Chronos|f@AN|nAPNO EPRC SYNZ
 Cipher2|i@KM|hAPRC EPNO STRS SYNZ
 Circus Waltz FX|i@KM|hAPNO
@@ -266,6 +272,7 @@ Danse of Questionable Tuning|i@KM|sAPNO STRS
 Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
 Dark Fog|i@KM|sAPRC SYNZ
 Dark Pad|i@KM|cSYNZ
+Dark Side Of Mars|s@SI|fEPRC SYNZ
 Dark Star|i@KM|hAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Darkening Developments|i@KM|fAPRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
 Darkest Child|i@KM|fCLST HARP STRS
@@ -303,6 +310,7 @@ Dewdrop Fantasy|i@KM|cEFFX SYNZ
 Digital Lemonade|i@KM|hAPRC SYNZ
 Digya|i@KM|nAPRC BASS ENST MRBA
 Dirt Rhodes|i@KM|cEPNO EPRC
+Dirty Gertie|s@SI|aAPRC BASS EGTR VOCL
 Disco Lounge|i@KM|rAPRC STRS SYNZ VIBE
 Disco Medusae|i@KM|hBASS EGTR EPNO EPRC SYNZ
 Disco Sting|i@KM|hEPRC SYNZ
@@ -467,6 +475,7 @@ Ghostpocalypse - 5 Apotheosis|i@KM|fEPRC SYNZ
 Ghostpocalypse - 6 Crossing the Threshold|sAPNO BASS GLCK
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghostpocalypse - 8 Epilog|i@KM|sAPNO
+Give A Little|s@SI|hAPNO APRC BASS SAXO TRBN TRPT
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
 Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR TRPT SAXO
 Gloom Horizon|i@KM|sAPRC STRS
@@ -489,6 +498,7 @@ Grim Idol|i@KM|aAPRC CLNT FLUT HORN JORG OBOE STRS TRBN
 Griphop|i@KM|aEPRC STRS SYNZ VIBE
 Groove Grove|i@KM|fAPRC EPNO SYNZ
 Groovin|f@BB|nAPNO APRC EGTR JORG
+Groovy Funky Disco|s@SI|hAPRC BASS EGTR EPNO HORN HPRC STRS TRBN VOCL
 Groundwork|i@KM|hAGTR APNO APRC BASS
 Guess Who|i@KM|aAPNO APRC BASN EGTR GLCK HPCH OBOE STRS
 Gustav Sting|i@KM|aAPRC STRS XYLO
@@ -517,6 +527,7 @@ Heart of Nowhere|i@KM|rSTRS VOCL
 Heartwarming|i@KM|rAPNO
 Heavy Heart|i@KM|sENST STRS WHSL
 Heavy Interlude|i@KM|aAPRC DULC MDLN STRS
+Helena's Lament|s@SI|sAPNO
 Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
 Hidden Past|i@KM|sAPRC BGPS SYNZ
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
@@ -579,6 +590,7 @@ Iron Horse - Distressed|i@KM|fAPNO
 Isolation Waltz|f@BT|rAPNO HARP MUBX
 It is Lost|i@KM|sSYNZ
 Jalandhar|i@KM|aAPRC BASS HPRC SITR SYNZ
+Janus Turning|s@SI|aAPRC BELL FLUT HORN PORG STRS SYNZ TRBN TRPT VOCL
 Jarvic 8|i@KM|hBASS
 Jazz Brunch|i@KM|rAGTR APRC BASS EPNO JORG
 Jellyfish in Space|i@KM|cAGTR APRC BASS EPNO PFLT SYNZ
@@ -835,6 +847,7 @@ Porch Blues|i@KM|cAGTR APNO HMCA
 Porch Swing Days - faster|i@KM|rAGTR APRC BASS VOCL
 Porch Swing Days - slower|i@KM|rAGTR APRC BASS VOCL
 Port Horizon|i@KM|nAGTR APNO APRC EFFX BASS STRS SYNZ TRBN TRPT VIBE
+Posteriosis|s@SI|nEPRC SYNZ
 Power Restored|i@KM|fAPRC CLNT FLUT GLCK STRS TIMP TRBN TUBA
 // Primer Post Braces|b@BK|nHPRC VOCL
 Prelude in C - BWV 846|i@KM & @JB|rAPNO
@@ -1043,6 +1056,7 @@ The Entertainer|f@KM & @SJ|hAPNO
 The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
+The Good Fight|s@SI|sPORG STRS VOCL
 The Lift|i@KM|nEPRC SYNZ
 The Machine Thinks|i@KM|fSYNZ
 The Other Side of the Door|i@KM|nFLUT HARP OBOE PIZZ STRS
@@ -1071,6 +1085,7 @@ Tikopia|i@KM|nAPRC
 Time Passes|i@KM|sAPNO FLUT HARP HORN STRS
 Tiny Fugue|i@KM|nPORG
 To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
+Tonight At Eight|s@SI|hAPRC EPRC HORN STRS TRBN SYNZ
 Tranquility|i@KM|cSYNZ
 Tranquility Base|i@KM|cBELL SYNZ
 Transition One|i@KM|cBELL CLNT FLUT GLCK HARP STRS
@@ -1105,6 +1120,7 @@ Vanes|i@KM|sEPNO EPRC HARP SYNZ
 Vanishing|i@KM|fAPNO CLNT FLUT HORN OBOE STRS SYNZ TRBN TUBA
 Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
 Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
+Verão|s@SI|hACDN APRC BASS EGTR SYNZ TRPT
 Vibe Ace|i@KM|hAPRC BASS SYNZ VIBE
 Vibing Over Venus|i@KM & Alice Goodworth & Radio Kilimanjaro Automaton Ensemble|cAPNO APRC BASS STRS VIBE
 Vicious|i@KM|hEPRC SYNZ
@@ -1115,6 +1131,7 @@ Virtutes Vocis|i@KM|sVOCL
 Vivace Momentum|f@KM & @SA|hSTRS
 Vivacity|i@KM|hAPRC BASS JORG VIBE
 Voice Over Under|i@KM|hAPRC HPRC SYNZ
+Void Glider|s@SI|fSYNZ
 Volatile Reaction|i@KM|aAPRC BASN CLNT FLUT HORN STRS TRBN TUBA
 Voltaic|i@KM|aEPRC SYNZ
 Vulcan|i@KM|fAPRC BELL FLUT
