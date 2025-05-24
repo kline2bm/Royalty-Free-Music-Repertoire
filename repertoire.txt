@@ -20,6 +20,7 @@ Air Prelude|i@KM|sFLUT SYNZ
 Airport Lounge|i@KM|hAPRC BASS EPNO VIBE
 Airship Serenity|i@KM|rSYNZ
 Aitech|i@KM|hAPRC BASS EGTR EPRC SYNZ
+Al Andalus|s@SI|aAGTR APRC
 Alien Restaurant|i@KM|cAPRC BASS HARP OBOE SITR TRPT
 Allada|i@KM|nAPRC MRBA
 Almost New|i@KM|rAPNO STRS
@@ -83,6 +84,7 @@ Balloon Game|i@KM|hAPRC SYNZ
 Balzan Groove|i@KM|aAPRC EPRC STRS SYNZ
 Bama Country|i@KM|hACDN AGTR APRC BASS BNJO HMCA STRS
 Bar Brawl|f@BT|hAPRC DULC HPRC MDLN STRS WHSL
+Barry The Badger|s@SI|hAPNO BASN BASS FLUT HPCH
 Basement Floor|i@KM|fEPRC SYNZ VOCL
 Basic Implosion|i@KM|aEPRC HPRC SYNZ
 Bass Meant Jazz|f@KM|nAPRC BASS VIBE
@@ -405,6 +407,7 @@ Fairytale Waltz|i@KM|sCLST OBOE STRS
 Fanfare for Space|i@KM|hAPRC HORN STRS TIMP TRBN TRPT
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
 Fantastic Dim Bar|i@KM|sAPNO BELL STRS
+Fantasy Overture|s@SI|fAPRC BELL FLUT GLCK PIZZ STRS TRBN TRPT VOCL
 // Far Out, Dude!|b@BK|cTODO
 Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
@@ -554,6 +557,7 @@ Hustle|i@KM|hAGTR APRC BASS JORG
 Hyperfun|i@KM|hAPNO APRC UKLE TUBA
 Hypnothis|i@KM|cEPRC SYNZ VOCL
 I Can Feel it Coming|i@KM|fAPRC EGTR SYNZ
+I Domine|s@SI|aAPRC EGTR EPRC HORN STRS TRBN TRPT VOCL
 I Feel You|i@KM|rAPNO BASS EGTR EPRC
 I Got a Stick Arr Bryan Teoh|i@KM & @BT|hAPRC BASS EGTR SAXO TRBN TRPT
 I Got a Stick Feat James Gavins|i@KM & @BT & @JG|hAPRC BASS EGTR SAXO TRBN TRPT VOCL
@@ -630,6 +634,7 @@ Laserpack|i@KM|aAPRC EPRC SYNZ
 Last Kiss Goodnight|i@KM|rAPNO APRC BASS EGTR STRS
 Lasting Hope|i@KM|sAPRC HARP SYNZ VOCL
 Late Night Radio|i@KM|cBASS EPNO EPRC SYNZ
+Later Alligator|s@SI|aAGTR BASS EGTR EPRC
 Latin Industries|i@KM|aAPRC EPRC SYNZ VOCL
 Le Grand Chase|i@KM|aAPNO APRC EFFX SAXO TRPT TUBA XYLO
 Leaving Home|i@KM|sAPNO CLNT DULC EGTR FLUT SYNZ
@@ -768,6 +773,7 @@ Night of the Owl|i@KM|fAPRC FLUT
 Night on the Docks|i@KM|sEPNO
 Night on the Docks - Sax|i@KM|sEPNO SAXO
 Night on the Docks - Trumpet|i@KM|sEPNO MUTE
+Nightchaser|s@SI|nEPRC SYNZ
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
 No Frills Salsa|i@KM|hAPNO APRC BASS TRBN TRPT
 No Frills Salsa - Alternate|i@KM|hAPRC BASS TRBN TRPT
@@ -814,6 +820,7 @@ Ossuary 4 - Animate|i@KM|fAPRC EPRC SYNZ
 Ossuary 5 - Rest|i@KM|cSYNZ
 Ossuary 6 - Air|i@KM|fSYNZ
 Ossuary 7 - Resolve|i@KM|cAPRC SYNZ
+Outdoors In Summer|s@SI|sAGTR APRC MUBX STRS
 Ouroboros|i@KM|aEPRC SYNZ
 Outfoxing the Fox|i@KM|nAPRC BASS STRS SYNZ
 Over Under|i@KM|cBASS
@@ -826,6 +833,7 @@ Overture|i@KM|sAPNO
 Overworld|i@KM|fEPRC SYNZ
 Rains Will Fall|i@KM|sAPNO APRC STRS
 Padanaya Blokov|i@KM|nAPRC BASS ENST EPRC SYNZ
+Pagan Cross|s@SI|sWHSL
 Pale Rider|i@KM|rHARP
 Palm and Soul|f@KM & @SA|nAPRC BASS EGTR JORG SAXO
 Pamgaea|i@KM|hSYNZ
@@ -899,6 +907,7 @@ River Valley Breakdown|i@KM|hAPRC BASS BNJO MDLN STRS
 River of Io|i@KM|fAPRC CLNT FLUT STRS SYNZ
 Robo-Western|i@KM|aBASS EGTR EPRC STRS SYNZ
 Robobozo|i@KM|fAPRC EGTR JORG SYNZ
+Rockapalooza!|s@SI|hAPNO APRC BASS EGTR SAXO
 Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Rocket Power|i@KM|aBASS EGTR EPRC JORG
 Rollin at 5|i@KM|nAPNO APRC BASS TRBN TRPT
@@ -932,6 +941,7 @@ Secret of Tiki Island|i@KM & @BT|fAGTR APNO APRC BASS JORG VIBE VOCL
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
 Senbazuru|i@KM|cENST FLUT STRS
 Sergio's Magic Dustbin|i@KM|aAPRC BASN CLNT FLUT GLCK HORN MRBA TRBN TRPT TUBA WHSL XYLO
+Set It Up|s@SI|nAPRC STRS SYNZ VOCL
 Seven March|i@KM|fAPRC SYNZ
 Shades of Spring|i@KM|sAPNO APRC BASS
 Shamanistic|i@KM|fAPRC FLUT STRS SYNZ XYLO
@@ -979,6 +989,7 @@ Space 1990-B|i@KM|cAPRC BELL SYNZ
 Space Ambience|f@AN|cSYNZ
 Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
 Space Jazz|i@KM|hAPRC JORG SYNZ
+Spacedman|s@SI|cEPRC SYNZ
 Spacial Harvest|i@KM|fSYNZ
 Speakeasy|s@SI|hAPRC BASS EFFX EPNO MUTE SAXO TRBN TUBA
 Spec Ops|f@RK|aSYNZ
@@ -986,6 +997,7 @@ Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 Spider Eyes|i@KM|fAPNO BELL STRS
 Spiders Web|i@KM|fHPCH STRS
 // Spooky Dance Party|b@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
+Sports FM|s@SI|hAPRC BASS EGTR JORG SYNZ TRPT
 Spring Chicken|f@BT|hAPRC FLUT GLCK PIZZ STRS XYLO
 Spy Glass|i@KM|fAPNO APRC FLUT HPRC MUTE SAXO VIBE
 Spy Groove|i@KM|nAPRC BASS EPNO JORG STRS
@@ -1033,6 +1045,7 @@ Tango de Manzana|i@KM|rACDN APNO APRC BASS FLUT STRS
 Take a Chance|i@KM|hAPRC BELL CLNT FLUT HORN STRS TIMP XYLO
 Take the Ride|f@BT|nAPRC BASS EGTR JORG SYNZ VOCL
 Take the Lead|i@KM|aAPRC BASS EGTR SYNZ
+Tape Star|s@SI|cEPRC SYNZ
 Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
 Tech Live|i@KM|hAPRC KLBA SYNZ
 Tech Talk|i@KM|hBASS EGTR EPRC MUTE SAXO XYLO
@@ -1089,6 +1102,7 @@ There It Is|i@KM|nBASS EGTR EPRC TRBN TRPT
 Thief in the Night|i@KM|cAPRC BASS EGTR JORG
 Think About It|f@BT|sAPNO STRS SYNZ
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
+Through The Woods|s@SI|hCLNT CLST FLUT HARP PIZZ
 Thunder Dreams|i@KM|sSYNZ
 Thunderbird|i@KM|cAPRC FLUT SYNZ
 Thunderhead|i@KM|nAPRC
@@ -1117,6 +1131,7 @@ Ultralounge|i@KM|rAPNO APRC BASS SYNZ
 Umbrella Pants|i@KM|fAPRC GLCK PIZZ
 Unanswered Questions|i@KM|fENST
 Undaunted|i@KM|aAPNO EPRC SYNZ
+Underglow|s@SI|fSYNZ
 Unity|i@KM|aAPNO EPRC KLBA
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
@@ -1150,6 +1165,7 @@ Vulcan|i@KM|fAPRC BELL FLUT
 Wagon Wheel|i@KM|hAPRC
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
+Wallpaper Paste|s@SI|hAPNO APRC HPRC MUTE SYNZ TUBA
 Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Waltz Primordial |i@KM & @AN|sAPRC BASS EGTR
@@ -1190,7 +1206,10 @@ With Regards|i@KM|rAGTR TRBN TUBA
 With a Creation|i@KM|fEPNO EPRC
 Wizard Circus|f@KM & @SA|nAPRC HORN TRBN TRPT TUBA
 Womp|s@SI|aAPRC SYNZ
+Wood and Metal and Water|i@KM|c
+// TODO: INST for ^^^ WaMaW ^^^
 World Vice|i@KM|aAGTR APRC MRBA VOCL
+Xenon Sentry|s@SI|aEPRC SYNZ
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
 Zanzibar|i@KM|hAPRC MRBA VOCL
 Zap Beat|i@KM|aAPRC BASS EGTR JORG SYNZ
