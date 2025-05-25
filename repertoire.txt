@@ -13,6 +13,7 @@ Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 Adventure|f@RK|hAPRC HORN STRS
 Adventures in Adventureland|i@KM|hAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
 // African Rag|z@BK|hAPNO APRC SYNZ
+Against Time|s@SI|aAPNO APRC BASS STRS SYNZ
 Agnus Dei X|i@KM & @SB|sPORG VOCL
 AhDah|i@KM|cEPNO EPRC JORG SYNZ VOCL
 Air Prelude|i@KM|sFLUT SYNZ
@@ -248,6 +249,7 @@ Creepy Hallow|f@AN|fAPNO CLST STRS SYNZ
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
 Crowd Hammer|i@KM|fAGTR APRC ENST FLUT OBOE
+Cruise Control|s@SI|hBASS EPNO EPRC SYNZ
 Cruising for Goblins|i@KM|fEPRC SYNZ
 Crunk Knight|i@KM|aENWD EPRC SYNZ VOCL
 Crusade|i@KM|sAPRC HORN STRS TRBN TRPT
@@ -301,6 +303,7 @@ Del Rio Bravo|i@KM|hACDN APRC BASS MRBA
 Delay Rock|i@KM|hAPRC BASS EGTR
 Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
+Depth Of Focus|s@SI|sAPNO STRS
 Derp Nugget|i@KM|hAPRC BASS ENST SYNZ
 Desert City|i@KM|cAPRC DULC
 Desert Conflict|f@RK|fAPRC ENST ENWD FLUT STRS SYNZ
@@ -397,7 +400,7 @@ Evening Fall - Piano|i@KM|sAPNO
 Evening Melodrama|i@KM|hAPRC CLNT FLUT HORN STRS TIMP TRBN TRPT
 Ever Mindful|i@KM|cCLNT FLUT STRS VOCL
 Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
-Exit the Premises|i@KM|aAPRC SYNZ
+Exit the Premises|i@KM|hAPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Exotics|i@KM|aAPNO APRC EPRC SYNZ
 Expeditionary|i@KM|fAPRC FLUT KLBA STRS
@@ -411,11 +414,13 @@ Fantasy Overture|s@SI|fAPRC BELL FLUT GLCK PIZZ STRS TRBN TRPT VOCL
 // Far Out, Dude!|b@BK|cTODO
 Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
+Fearful New World|s@SI|fAPNO SYNZ
 Fearless First|i@KM|nBASS EGTR EPRC FLUT
 Feelin Good|i@KM|hAPRC BASS EGTR JORG
 Fenster's Explanation|f@KM|hAPNO APRC CLNT FLUT TRBN SAXO TRPT TUBA
 Fensters Explanation|i@KM|hAPNO APRC CLNT FLUT TRBN SAXO TRPT TUBA
 Feral Angel Waltz |i@KM & @AN|sAPRC BASS EGTR
+Fiddle-De-Dee|s@SI|hAGTR APRC MDLN STRS WHSL
 Fiddles McGinty|i@KM|hAGTR APRC BASS BGPS WHSL
 Fife and Drum|i@KM|hAPRC FLUT
 Fig Leaf Rag|i@KM & @SJ|hAPNO
@@ -574,6 +579,7 @@ Impact Intermezzo|i@KM|aAPRC
 Impact Lento|i@KM|cSYNZ VOCL
 Impact Moderato|i@KM|hAPRC EGTR SYNZ
 Impact Prelude|i@KM|fAPRC EGTR SYNZ
+Imperial China Cinematic|rAPRC ENST FLUT STRS
 In The West|i@KM|fAPRC CLNT FLUT STRS
 In Your Arms|i@KM|rAPRC BASS MUTE SAXO TRBN
 Industrial Cinematic|i@KM|fAPRC SYNZ
@@ -625,6 +631,7 @@ Klockworx|i@KM|nEPRC SYNZ
 Kumasi Groove|i@KM|cAPRC MRBA
 Kumasi Groove Flugelhorn|i@KM|cAPRC MRBA TRPT
 La Citadelle|f@KK|nAGTR BASS
+La Pompe Du Trompe|s@SI|hAGTR APRC BASS
 Laconic Granny|i@KM|sAPRC CLNT TUBA
 Lachaim|i@KM|hAGTR APRC BASS CLNT SAXO STRS TRBN
 Laid Back Guitars|i@KM|sAGTR APRC
@@ -649,6 +656,7 @@ Lift Motif|i@KM|rAPNO
 Limit 70|f@KM|cEPNO EPRC SYNZ
 Limit 70|i@KM|cEPNO EPRC SYNZ
 Lithium|i@KM|sAPNO PORG STRS
+Liturgy Of The Street|s@SI|fAPRC EPRC STRS SYNZ
 Living Voyage|i@KM|nAPRC ENST FLUT SYNZ VOCL
 Lobby Time|i@KM|hAPNO APRC BASS VIBE
 Local Forecast|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
@@ -848,6 +856,7 @@ Perigrine Grandeur|i@KM|aAPRC BASS DULC
 Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
 Petulant March|i@KM|nEPRC SYNZ
 Phat Sketch|i@KM|nEPRC SYNZ
+Phortitude|s@SI|nBASS EPRC STRS SYNZ
 Pilot Error|i@KM|nAPNO APRC EGTR
 Pinball Spring|i@KM|hEPRC SYNZ
 Pinball Spring 160|i@KM|hEPRC SYNZ
@@ -921,6 +930,7 @@ Rush|f@RK|hAPRC BASS FLUT MUTE TUBA
 Rynos Theme|i@KM|fAPNO APRC FLUT HORN STRS TRBN TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
 Samba Isobel|i@KM|rAPNO APRC BASS
+Samovar Party|s@SI|aAGTR CLNT EPRC STRS SYNZ
 Sancho Panza gets a Latte|i@KM|sACDN AGTR APRC BASS FLUT TRPT
 Sardana|i@KM|sAGTR
 Satiate|i@KM|fEPRC STRS
@@ -1001,6 +1011,7 @@ Sports FM|s@SI|hAPRC BASS EGTR JORG SYNZ TRPT
 Spring Chicken|f@BT|hAPRC FLUT GLCK PIZZ STRS XYLO
 Spy Glass|i@KM|fAPNO APRC FLUT HPRC MUTE SAXO VIBE
 Spy Groove|i@KM|nAPRC BASS EPNO JORG STRS
+Stars and Laurels|s@SI|aAPNO APRC STRS TRBN VOCL
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
 Stay the Course|i@KM|fAPRC SYNZ
@@ -1028,12 +1039,14 @@ Sunset at Glengorm|i@KM|sAPNO SYNZ VOCL
 Sunsetter|s@SI|nAGTR BASS EPRC SYNZ UKLE
 Sunshine A|i@KM|hAGTR APNO APRC BASS
 Sunshine ver 2|i@KM|hAGTR APNO APRC BASS
+Suspended Animation|s@SI|fAPNO APRC SYNZ
 Super Friendly|i@KM|hAPRC EPNO SYNZ VOCL
 Super Polka|i@KM|hAPRC BASS CLNT EGTR TRPT
 Super Power Cool Dude|i@KM|hAPRC SYNZ
 Surf Inspector|i@KM|nAPRC BASS EGTR EPNO JORG
 Surf Shimmy|i@KM|nAPRC BASS EGTR JORG
 Swimmey Texture|i@KM|cAPNO SYNZ
+Swing Has Swung|s@SI|aAPNO APRC BASS SAXO TRBN TRPT VIBE
 Swing Maching|f@KM & @SA|nAPNO EPRC SAXO SYNZ TRPT
 Symbiosis|i@KM|fAPNO EPRC
 Symmetry|i@KM|fEPRC SYNZ
@@ -1081,6 +1094,7 @@ The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
 The Good Fight|s@SI|sPORG STRS VOCL
 The Lift|i@KM|nEPRC SYNZ
 The Machine Thinks|i@KM|fSYNZ
+The Medieval Banquet|s@SI|cAPRC DULC ENST HARP WHSL
 The Other Place|s@SI|fEPRC SYNZ
 The Other Side of the Door|i@KM|nFLUT HARP OBOE PIZZ STRS
 The Path of the Goblin King|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
@@ -1132,6 +1146,7 @@ Umbrella Pants|i@KM|fAPRC GLCK PIZZ
 Unanswered Questions|i@KM|fENST
 Undaunted|i@KM|aAPNO EPRC SYNZ
 Underglow|s@SI|fSYNZ
+Unfolding Mirrors|s@SI|sAPNO STRS SYNZ
 Unity|i@KM|aAPNO EPRC KLBA
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
@@ -1166,6 +1181,7 @@ Wagon Wheel|i@KM|hAPRC
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
 Wallpaper Paste|s@SI|hAPNO APRC HPRC MUTE SYNZ TUBA
+Walk Happy|s@SI|hAGTR APRC EGTR EPNO
 Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Waltz Primordial |i@KM & @AN|sAPRC BASS EGTR
@@ -1182,6 +1198,7 @@ Wet Riffs|i@KM|cBASS
 What Is Love|i@KM|rEPRC STRS SYNZ
 What You Want|i@KM|aAPRC BASS EGTR VOCL
 What You Want ver 2|i@KM|aAPRC BASS EGTR
+What's The Angle?|s@SI|nAPRC BASS MUTE
 Whimsy Groove|i@KM|hAPRC MRBA
 Whiskey on the Mississippi|i@KM|hAPRC BASS EGTR EPNO JORG
 White|i@KM|rAPNO
@@ -1214,6 +1231,7 @@ Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
 Zanzibar|i@KM|hAPRC MRBA VOCL
 Zap Beat|i@KM|aAPRC BASS EGTR JORG SYNZ
 Zazie|i@KM|hAPRC BASS EPNO TRPT VOCL
+Zen Garden|s@SI|nBELL ENST EPRC GLCK SYNZ
 ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
 Zombie Chase|i@KM|fAPNO APRC SYNZ
 // celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
