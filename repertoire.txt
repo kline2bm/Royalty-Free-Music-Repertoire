@@ -1050,12 +1050,12 @@ Sunset at Glengorm|i@KM|sAPNO SYNZ VOCL
 Sunsetter|s@SI|nAGTR BASS EPRC SYNZ UKLE
 Sunshine A|i@KM|hAGTR APNO APRC BASS
 Sunshine ver 2|i@KM|hAGTR APNO APRC BASS
-Suspended Animation|s@SI|fAPNO APRC SYNZ
 Super Friendly|i@KM|hAPRC EPNO SYNZ VOCL
 Super Polka|i@KM|hAPRC BASS CLNT EGTR TRPT
 Super Power Cool Dude|i@KM|hAPRC SYNZ
 Surf Inspector|i@KM|nAPRC BASS EGTR EPNO JORG
 Surf Shimmy|i@KM|nAPRC BASS EGTR JORG
+Suspended Animation|s@SI|fAPNO APRC SYNZ
 Swimmey Texture|i@KM|cAPNO SYNZ
 Swing Has Swung|s@SI|aAPNO APRC BASS SAXO TRBN TRPT VIBE
 Swing Maching|f@KM & @SA|nAPNO EPRC SAXO SYNZ TRPT
