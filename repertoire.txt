@@ -592,6 +592,7 @@ Infinite Peace|f@KM|cAPRC STRS XYLO
 Infinite Perspective|i@KM|cAPNO FLUT HARP HORN OBOE SYNZ VOCL
 Infinite Wonder|f@KM|cSYNZ
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
+Inspirational Breakthrough|s@SI|rAPNO
 Inspired|i@KM|cAPRC EGTR SYNZ
 Intended Force|i@KM|aFLUT GLCK HARP HORN STRS TIMP TRBN TRPT
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
@@ -604,6 +605,7 @@ Iron Horse|i@KM|fAPNO
 Iron Horse - Distressed|i@KM|fAPNO
 Isolation Waltz|f@BT|rAPNO HARP MUBX
 It is Lost|i@KM|sSYNZ
+It's Not Over 'Til The Bossa Nova|s@SI|cAPRC BASS EGTR VOCL
 Jalandhar|i@KM|aAPRC BASS HPRC SITR SYNZ
 Janus Turning|s@SI|aAPRC BELL FLUT HORN PORG STRS SYNZ TRBN TRPT VOCL
 Jarvic 8|i@KM|hBASS
@@ -812,6 +814,7 @@ On the Shore|i@KM|sFLUT GLCK STRS TIMP
 One Sly Move|i@KM|sEGTR EPRC EPNO SYNZ
 One With Everything|s@SI|cAPRC EPRC FLUT ENST SITR SYNZ VOCL
 One-eyed Maestro|i@KM|fACDN APRC FLUT HORN STRS TRPT
+Opening Move|s@SI|nAPNO APRC BASS MUTE
 // Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Opium|i@KM|cAPRC DULC STRS VOCL
 Opportunity Walks|i@KM|sAPNO APRC BASS
@@ -857,6 +860,7 @@ Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
 Petulant March|i@KM|nEPRC SYNZ
 Phat Sketch|i@KM|nEPRC SYNZ
 Phortitude|s@SI|nBASS EPRC STRS SYNZ
+Piano Romantisme|s@SI|rAPNO
 Pilot Error|i@KM|nAPNO APRC EGTR
 Pinball Spring|i@KM|hEPRC SYNZ
 Pinball Spring 160|i@KM|hEPRC SYNZ
@@ -884,6 +888,7 @@ Pump up your Graduation|f@KM & @JP|hEPRC SYNZ
 Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|i@KM|aAPNO APRC BASS SYNZ
 // Questions of Time|z@BK|fEPNO HARP
+Quiescent In Time|s@SI|cSYNZ
 Quinns Song-A New Man|i@KM & @FC|sAPNO TIMP STRS VOCL
 Quinns Song-First Night|i@KM & @FC|fAPNO SYNZ
 Quinns Song-The Dance Begins|i@KM & @FC|sAPNO STRS
@@ -894,11 +899,13 @@ Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
 Raving Energy (faster)|i@KM|aEPRC SYNZ
 Raw|i@KM|nAPRC BASS
+Regency Baroque|s@SI|hHPCH STRS
 Reggae Sketch|i@KM|aAPRC EPNO JORG
 Reign|i@KM|hAPNO APRC EGTR HORN STRS VOCL
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Release the Hybrids|f@BT|fEPRC STRS SYNZ
 Relent|i@KM|sCLNT HARP
+Rendezvous|s@SI|hAPNO APRC BASS
 RetroFuture Clean|i@KM|aAPRC BASS EGTR JORG
 Return of the Mummy|i@KM|fAPRC ENST STRS VOCL
 Reunited|i@KM|rAPNO APRC STRS
@@ -982,6 +989,7 @@ Smoking Gun|i@KM|fAPRC BASS BELL EGTR FLUT STRS VOCL
 Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
 Smooth Move|i@KM|nEPRC SYNZ
 Smoother Move|i@KM|sAPNO
+Snap Happy|s@SI|hEPRC HRPC MRBA SYNZ VOCL
 Snare Bounce Polka|i@KM|hACDN APRC TUBA
 Sneaky Adventure|i@KM|cAPRC BASN BASS PIZZ
 Snowdrop|i@KM|sAPNO
@@ -994,6 +1002,7 @@ Sonata 17|i@KM|rAPRC BASN FLUT HORN STRS TIMP TRBN TRPT TUBA
 Song of the Volga Boatmen|i@KM & @TR|sHORN TRBN TRPT TUBA
 Soporific|i@KM|sBELL EPNO EPRC
 Southern Gothic|i@KM|fAGTR APRC BNJO HPRC VOCL
+Soviet March|s@SI|fAPRC BELL DULC ENST HORN STRS VOCL
 Space 1990|i@KM|cAPRC BELL SYNZ
 Space 1990-B|i@KM|cAPRC BELL SYNZ
 Space Ambience|f@AN|cSYNZ
@@ -1029,7 +1038,9 @@ String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Sudden Defeat|i@KM|sAPRC CLNT HORN TIMP TRBN TRPT TUBA
+Summer Calypstep|s@SI|hAPNO EPRC STDR SYNZ
 Summer Day|i@KM|cAGTR APRC BASS EPNO
+Summer Rain|s@SI|rAPNO
 // Summer Raingtone|b@BK & @SI|nAPNO EFFX
 Sun Up Gunned Down|f@BT|nAGTR APRC BASS BELL EGTR PFLT TRPT VOCL
 Sunday Dub|f@KM|nAPRC BASS EGTR JORG
