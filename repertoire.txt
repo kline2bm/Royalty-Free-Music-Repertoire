@@ -12,6 +12,8 @@ Achilles|i@KM|nAPRC HORN STRS TRBN TRPT
 Acid Beat|w@FN|nEPRC SYNZ
 AcidJazz|i@KM|nAPRC BASS EPNO MUTE
 Acoustic Shifter|w*imp*|nAGTR APRC SYNZ
+Action Introduction|w@KK|aBELL EPRC SYNZ
+Action Investigation|w@KK|cEPRC
 Adding the Sun|f@KM|rAPRC BASS EPRC VOCL
 Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 Adventure|f@RK|hAPRC HORN STRS
@@ -27,6 +29,7 @@ Airship Serenity|i@KM|rSYNZ
 Aitech|i@KM|hAPRC BASS EGTR EPRC SYNZ
 Al Andalus|s@SI|aAGTR APRC
 Alien Restaurant|i@KM|cAPRC BASS HARP OBOE SITR TRPT
+Alison|w@JS|rAPRC BASS EGTR
 All The Tea In China|s@SI|cAPRC ENST FLUT STRS
 Allada|i@KM|nAPRC MRBA
 Almost New|i@KM|rAPNO STRS
