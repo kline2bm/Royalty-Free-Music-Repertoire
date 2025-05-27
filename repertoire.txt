@@ -1,3 +1,5 @@
+120 Monster|w@KM|nAPNO EPRC
+2006-June-26|w@KM|nAPNO
 A Good Bass for Gambling|f@KK|nAPRC BASS EGTR
 // A Long Day of Fun|z@BK|cAGTR APRC
 A Mission|i@KM|nCLNT FLUT STRS TRBN TUBA
@@ -7,7 +9,9 @@ Accralate|i@KM|cAPRC MRBA
 Aces High|i@KM|hAPRC BASS EPNO JORG
 Achaidh Cheide|i@KM|nAPRC DULC HARP MDLN STRS WHSL
 Achilles|i@KM|nAPRC HORN STRS TRBN TRPT
+Acid Beat|w@FN|nEPRC SYNZ
 AcidJazz|i@KM|nAPRC BASS EPNO MUTE
+Acoustic Shifter|w*imp*|nAGTR APRC SYNZ
 Adding the Sun|f@KM|rAPRC BASS EPRC VOCL
 Adding the Sun|i@KM|rAPRC BASS EPRC VOCL
 Adventure|f@RK|hAPRC HORN STRS
@@ -1260,6 +1264,7 @@ Zebra Township|s@SI|hACDN AGTR APRC BASS TRPT VOCL
 Zen Garden|s@SI|nBELL ENST EPRC GLCK SYNZ
 ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
 Zombie Chase|i@KM|fAPNO APRC SYNZ
+a432|w@KM|cAPNO STRS
 // celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|i@KM|cFLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
