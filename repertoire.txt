@@ -23,6 +23,7 @@ Airship Serenity|i@KM|rSYNZ
 Aitech|i@KM|hAPRC BASS EGTR EPRC SYNZ
 Al Andalus|s@SI|aAGTR APRC
 Alien Restaurant|i@KM|cAPRC BASS HARP OBOE SITR TRPT
+All The Tea In China|s@SI|cAPRC ENST FLUT STRS
 Allada|i@KM|nAPRC MRBA
 Almost New|i@KM|rAPNO STRS
 Almost in F|i@KM|cAPNO STRS
@@ -71,6 +72,7 @@ Awaiting Return|i@KM & @GH|sAPNO
 Awesome Call|i@KM|hAPNO APRC BASS EPNO
 Awkward Apocalyptic Pickup|f@AY|fAPRC STRS SYNZ
 Awkward Meeting|i@KM|fAPNO SYNZ
+BEES!|s@SI|hACDN AGTR APRC SAXO SYNZ TUBA VIBE
 Baba Yaga|i@KM|fAPNO APRC SYNZ VOCL
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
 Back To Cool|s@SI|nAPRC BASS EGTR EPNO EPRC HPRC SAXO
@@ -127,6 +129,7 @@ Blue Ska|i@KM|hAPRC BASS EGTR JORG SAXO TRBN TRPT
 Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
 // Blues 'n' Noise|z@BK|nAGTR APRC TUBA
 Bollywood Groove|f@KM|fAPRC ENST STRS VOCL
+Bombay Summer|s@SI|fAPRC BASS FLUT SITR STRS
 Boogie Party|i@KM|hAPNO APRC BASS JORG
 Bossa Antigua|i@KM|cAGTR APRC BASS
 BossaBossa|i@KM|cAGTR APNO APRC BASS
@@ -134,6 +137,8 @@ Bossy Boots|s@SI|nAPRC BASS EPNO JORG TRPT
 Brandenburg Concerto III, Allegro I|f@DS & @JB|hSYNZ
 Brandenburg No4-1 BWV1049|i@KM & @JB|rFLUT HPCH STRS
 Breakdown|i@KM|nAPRC BASS
+Breathe|s@SI|fAPNO EGTR SYNZ
+Bright Ideas|s@SI|rAPNO
 Brightly Fancy|i@KM|hAGTR APRC BASS
 Brittle Rille|i@KM|rBASS MUBX STRS
 Broken Reality|i@KM|aAPRC BASS EPRC SYNZ
@@ -197,6 +202,7 @@ Chee Zee Lab|i@KM|nAPRC EFFX EPRC SYNZ
 Cheeky|s@SI|aAPRC JORG SYNZ
 Cheese Greater|s@SI|aEPRC STRS SYNZ
 Cherry Blossom|i@KM|hAPRC MRBA
+Chicken Hut Bluegrass|s@SI|hAPNO APRC BASS BNJO EGTR STRS
 Chill|i@KM|cBASS EPRC SYNZ
 // Chill Science|b@BK & @SI|cAPNO SAXO STRS
 Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
@@ -271,6 +277,7 @@ Dance of Deception|i@KM|fAPRC PORG
 Dances and Dames|i@KM|fAPRC BASS EPNO VOCL
 Dancing at the Inn|f@KM|hAPRC ENWD TUBA
 Danger Storm|i@KM|aAGTR APRC SYNZ
+Dank Halloween|s@SI|aEPRC GLCK HPCH PORG STRS VOCL
 Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Macabre Isolated Harp|i@KM & @CS|rHARP
 Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
@@ -317,8 +324,10 @@ Devonshire Waltz Allegretto|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
 Devonshire Waltz Andante|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
 Devonshire Waltz Moderato|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
 Dewdrop Fantasy|i@KM|cEFFX SYNZ
+Diaphanous|s@SI|cSYNZ
 Digital Lemonade|i@KM|hAPRC SYNZ
 Digya|i@KM|nAPRC BASS ENST MRBA
+Dire Space Emergency|s@SI|fEPRC SYNZ
 Dirt Rhodes|i@KM|cEPNO EPRC
 Dirty Gertie|s@SI|aAPRC BASS EGTR VOCL
 Disco Lounge|i@KM|rAPRC STRS SYNZ VIBE
@@ -439,6 +448,7 @@ Firesong|i@KM|nAPRC
 Firmament|i@KM|nAPRC BASS EGTR JORG
 Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
 Five Card Shuffle|i@KM|hAPNO
+Flight Of The Swift|s@SI|nAPNO APRC BASS BELL EGTR SYNZ
 Floating Cities|i@KM|sAPRC SYNZ
 Fluffing a Duck|i@KM|hAPRC CLNT FLUT MRBA TIMP TRBN TUBA
 Fluidscape|i@KM|cFLUT HARP SYNZ
@@ -566,6 +576,7 @@ I Domine|s@SI|aAPRC EGTR EPRC HORN STRS TRBN TRPT VOCL
 I Feel You|i@KM|rAPNO BASS EGTR EPRC
 I Got a Stick Arr Bryan Teoh|i@KM & @BT|hAPRC BASS EGTR SAXO TRBN TRPT
 I Got a Stick Feat James Gavins|i@KM & @BT & @JG|hAPRC BASS EGTR SAXO TRBN TRPT VOCL
+I Have The Power|s@SI|nAPRC BASS EGTR STRS SYNZ
 I Knew a Guy|i@KM|cAPRC BASS VIBE
 // I'm Afraid of Fears|z@BK|fAPRC EGTR EFFX TRPT VOCL
 Ibn Al-Noor|i@KM|fAPRC ENST
@@ -758,6 +769,7 @@ Myst|i@KM|sAPRC CLNT FLUT OBOE STRS TRBN VOCL
 Myst on the Moor|i@KM|fAPRC FLUT MRBA SYNZ
 Mysterioso March|i@KM|fAPRC CLNT CLST HORN MUTE PIZZ
 Mysterious Lights|f@BT|fAPNO EPRC STRS
+Mysterious String Quintet|s@SI|fDULC STRS
 Mystery Sax|i@KM|fAPRC SAXO SYNZ
 Mystery Sting|i@KM|nAPRC CLNT MRBA OBOE
 Mystic Force|i@KM|nAPRC BELL TUBA
@@ -1244,6 +1256,7 @@ Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
 Zanzibar|i@KM|hAPRC MRBA VOCL
 Zap Beat|i@KM|aAPRC BASS EGTR JORG SYNZ
 Zazie|i@KM|hAPRC BASS EPNO TRPT VOCL
+Zebra Township|s@SI|hACDN AGTR APRC BASS TRPT VOCL
 Zen Garden|s@SI|nBELL ENST EPRC GLCK SYNZ
 ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
 Zombie Chase|i@KM|fAPNO APRC SYNZ
