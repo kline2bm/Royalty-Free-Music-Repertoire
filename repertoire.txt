@@ -514,8 +514,10 @@ Fuzzball Parade|i@KM|hAPRC PIZZ
 Galactic Fandango|s@SI|nEGTR HORN SAXO STRS SYNZ TIMP TRBN TRPT
 Galactic Rap|i@KM|cEPRC SYNZ
 Galway|i@KM|hAGTR APRC BASS FLUT STRS
+Gangsta Badger|w@KM|nEPRC STRS SYNZ
 Garden Music|i@KM|cAPNO SYNZ
 Gaslamp Funworks|i@KM|hAPRC EFFX GLCK HORN STRS TRBN TRPT TUBA XYLO
+Germ Factory|w*imp*|fEFFX SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghost Processional|i@KM|sBELL CLST PIZZ STRS
@@ -533,12 +535,15 @@ Ghostpocalypse - 8 Epilog|i@KM|sAPNO
 Give A Little|s@SI|hAPNO APRC BASS SAXO TRBN TRPT
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
 Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR TRPT SAXO
+Global Resonance|w@KF|nAPRC SYNZ
 Gloom Horizon|i@KM|sAPRC STRS
+Gm115|w@KM|sAPNO APRC SYNZ
 Go Cart|i@KM|aEPRC SYNZ
 Go Cart - Drop Mix|i@KM|aEPRC SYNZ
 Go Cart - Loop Mix|i@KM|aEPRC SYNZ
 Gonna Start|i@KM|hAPNO APRC BASS EGTR JORG
 Gonna Start v2|i@KM|hAPNO APRC BASS EGTR JORG
+Good Night|w@KM|sHORN STRS TRBN TRPT TUBA
 Got Funk|i@KM|aAPNO APRC BASS TRBN TRPT
 Gotta Keep On Movin|f@BT|hAPRC BASS EGTR EPNO STRS VOCL
 Grand Dark Waltz Allegretto|i@KM|sAPNO APRC BASS CLST FLUT HORN PIZZ TRPT
@@ -580,13 +585,19 @@ Harmful or Fatal|i@KM|aEGTR EPRC SYNZ
 Healing|i@KM|cAGTR APRC FLUT STRS
 Heart of Nowhere|i@KM|rSTRS VOCL
 Heartwarming|i@KM|rAPNO
+Heaven Is Free|w@KM & @FG|sEPRC MRBA PIZZ STRS VOCL
 Heavy Heart|i@KM|sENST STRS WHSL
 Heavy Interlude|i@KM|aAPRC DULC MDLN STRS
 Helena's Lament|s@SI|sAPNO
 Hep Cats|i@KM|hAGTR APRC BASS EPNO FLUT JORG
+Here We Go|w@AF|nAPNO
+Hexxit DRAVE Symphonie|w@YS|nHARP STRS
+// TODO: more INST for ^^^ HDS ^^^
 Hidden Past|i@KM|sAPRC BGPS SYNZ
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|i@KM|nBASS EGTR EPRC HPRC SAXO TRPT
+Hilary's Walk in the Woods|w*imp*|nAGTR APRC EFFX
+// TODO: more INST for ^^^ HWitW ^^^
 Hillbilly Swing|f@KM|hAGTR BASS BNJO HPRC PIZZ
 Hillbilly Swing|i@KM|hAGTR BASS BNJO HPRC PIZZ
 Himalayan Atmosphere|i@KM|fAPRC BELL
@@ -661,7 +672,7 @@ Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Journey To Ascend|i@KM|cAPRC STDR
 Journey of Hope|f@AN|rAGTR APNO APRC EGTR STRS
 Jungle Mission|f@RK|cAPRC BASS CLST MRBA
-Juniper|i@KM|cCLNT HARP HORN OBOE STRS TRBN TRPT TUBA
+Juniper|i@KM & @GH|cCLNT HARP HORN OBOE STRS TRBN TRPT TUBA
 Junkyard Tribe|i@KM|aEPRC
 Just As Soon|i@KM|sAGTR APRC BASS EPNO SAXO
 Just Nasty|i@KM|aAPRC EPNO JORG SAXO TRBN TRPT
