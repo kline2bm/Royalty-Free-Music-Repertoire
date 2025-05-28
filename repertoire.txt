@@ -80,6 +80,7 @@ Awesome Call|i@KM|hAPNO APRC BASS EPNO
 Awkward Apocalyptic Pickup|f@AY|fAPRC STRS SYNZ
 Awkward Meeting|i@KM|fAPNO SYNZ
 BEES!|s@SI|hACDN AGTR APRC SAXO SYNZ TUBA VIBE
+BTS Prolog|w@KM|fSTRS VOCL
 Baba Yaga|i@KM|fAPNO APRC SYNZ VOCL
 Babylon|i@KM|cAPNO APRC BASS FLUT GLCK SYNZ
 Back To Cool|s@SI|nAPRC BASS EGTR EPNO EPRC HPRC SAXO
@@ -123,6 +124,7 @@ Bit Shift|i@KM|hEPRC SYNZ
 Black Bird|i@KM|nAPRC HPRC
 Blacksmkith|f@AN|nAPRC DGDOO ENST SITR STRS
 Bleeping Demo|i@KM|cAPRC SYNZ
+Blipotron|w@FN|nEPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
 Blippy Trance|f@KM|hSYNZ
 Blippy Trance|i@KM|hSYNZ
@@ -138,6 +140,7 @@ Blue Scorpion|i@KM|aAPRC DULC EGTR EPRC KLBA SYNZ
 Bollywood Groove|f@KM|fAPRC ENST STRS VOCL
 Bombay Summer|s@SI|fAPRC BASS FLUT SITR STRS
 Boogie Party|i@KM|hAPNO APRC BASS JORG
+Born Barnstomers|w@BB|hAGTR APRC BASS BNJO JORG MDLN
 Bossa Antigua|i@KM|cAGTR APRC BASS
 BossaBossa|i@KM|cAGTR APNO APRC BASS
 Bossy Boots|s@SI|nAPRC BASS EPNO JORG TRPT
@@ -161,6 +164,7 @@ Bushwick Tarantella Loop|i@KM|hACDN AGTR APRC BASS CLNT
 // C what I did There?|b@BK|cAPRC BASN BELL CLNT FLUT HARP HORN GLCK MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA
 C-Funk|i@KM|nAPRC BASS EGTR MUTE SAXO
 Call to Adventure|i@KM|hAPRC BASN CLNT CLST FLUT HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA XYLO
+Calm Sketch for Piano|w@KM|cAPNO
 Cambodian Odyssey|i@KM|cAPRC FLUT OBOE SYNZ
 // Can you Hear me Now?|b@BK|nAPRC BASN BELL CLNT FLUT GLCK HARP HORN OBOE MRBA STRS TIMP TRBN TRPT TUBA
 Canon In D For 8 Bit Synths|i@KM & @JP|hSYNZ
@@ -188,6 +192,7 @@ Canon in D for Two Harps|i@KM & @JP|rHARP
 Canon in D for Two Renaissance Harps|i@KM & @JP|rHARP
 Cantina Blues|i@KM|nAPRC BASS ENST VOCL
 Captain Scurvy|i@KM|nEPRC SYNZ
+Careless Riot|w@KM & @FG|sAPNO
 Carpe Diem|i@KM|hAGTR APRC BASS CLNT FLUT UKLE XYLO
 Cartoon Battle|i@KM|aAPRC MUTE SAXO TRBN TUBA
 Cattails|i@KM|rACDN AGTR BNJO ENST STRS
@@ -201,6 +206,8 @@ Champ de tournesol|f@KK|rAGTR
 Chanter|i@KM|aAPRC ENST SYNZ VOCL
 Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
+Chase Pulse Faster|w@KM|fAPRC SYNZ
+Cheap Arp Guitar|w@AY|cAGTR
 Chee Zee Beach|i@KM|hAPRC BASS EGTR MRBA STDR
 Chee Zee Cave|i@KM|aAPRC HORN STRS TRPT
 Chee Zee Caves V2|i@KM|aAPRC STRS
@@ -1183,6 +1190,7 @@ Unity|i@KM|aAPNO EPRC KLBA
 Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
 Unpromised|i@KM|sAPRC FLUT HARP VOCL
+Unrelenting|i@KM|fSTRS VOCL
 Unwritten Return|i@KM|fAPNO EPNO EPRC SYNZ
 Upbeat Forever|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
 Urban Gauntlet|i@KM|nAGTR APRC KLBA SYNZ
