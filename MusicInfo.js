@@ -106,7 +106,7 @@ class MusicInfo {
    * \@RB R. Luigi Boccherini   \@RK Rafael Krux          \@SA Suno AI
    * \@SB Samuel O. Barber      \@SI Shane Ivers          \@SJ Scott Joplin
    * \@TM Thundermine           \@TR Traditional          \@VO Various Others
-   * \@WM Wolfgang A. Mozart    \@WY William B. Yeats
+   * \@WM Wolfgang A. Mozart    \@WY William B. Yeats     \@YS Johannes Schroll
    * param string {string} a string that may contain an artist code
    * return {string} a string with artist codes replaced with their corresponding names
    */
@@ -127,7 +127,7 @@ class MusicInfo {
       .replaceAll("@RB", "R. Luigi Bocherini")    .replaceAll("@RK", "Rafael Krux")          .replaceAll("@SA", "Suno AI")
       .replaceAll("@SB", "Samuel O. Barber")      .replaceAll("@SI", "Shane Ivers")          .replaceAll("@SJ", "Scott Joplin")
       .replaceAll("@TM", "Thundermine")           .replaceAll("@TR", "Traditional")          .replaceAll("@VO", "Various Others")
-      .replaceAll("@WM", "Wolfgang A. Mozart")    .replaceAll("@WY", "William B. Yeats")
+      .replaceAll("@WM", "Wolfgang A. Mozart")    .replaceAll("@WY", "William B. Yeats")     .replaceAll("@YS", "Johannes Schroll")
   }
 
   /**
