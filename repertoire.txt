@@ -304,7 +304,7 @@ Danse Morialta|i@KM|rAPNO
 Danse of Questionable Tuning|i@KM|sAPNO STRS
 Dark 'n' Stormy|s@SI|aAPRC BASS EGTR JORG SYNZ
 Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
-Dark Flashes|s@Si & @BB|aAPNO BASS EPRC FLUT SYNZ
+Dark Flashes|s@SI & @BX|aAPNO BASS EPRC FLUT SYNZ
 Dark Fog|i@KM|sAPRC SYNZ
 Dark Pad|i@KM|cSYNZ
 Dark Rock|w@KM|sAPRC BASS EGTR EPNO
@@ -745,7 +745,7 @@ Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
 Meditating Beat|f@KM|cAPNO APRC SYNZ
 Mega Hyper Ultrastorm|i@KM|aEPRC SYNZ
 Mellowtron|i@KM|cFLUT SYNZ
-Merry Go|i@kM|hAPNO
+Merry Go|i@KM|hAPNO
 Merry Go - Distressed|i@KM|hAPNO
 Merry Go Slower|i@KM|hAPNO
 Merry Go Slower - Distressed|i@KM|hAPNO
