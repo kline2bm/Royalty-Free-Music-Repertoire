@@ -220,6 +220,7 @@ Chicken Hut Bluegrass|s@SI|hAPNO APRC BASS BNJO EGTR STRS
 Chill|i@KM|cBASS EPRC SYNZ
 // Chill Science|b@BK & @SI|cAPNO SAXO STRS
 Chill Wave|i@KM|cBASS EGTR EPRC SYNZ
+Chillectro|w@FN|nEPRC SYNZ
 Chillin Hard|i@KM|cAPRC SYNZ VOCL
 Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
@@ -251,6 +252,7 @@ Comin Round the Mountain|i@KM & @TR|hAGTR APRC BASS SYNZ
 Comparsa|i@KM|hAPNO APRC BASS EGTR FLUT SAXO TRPT
 Concentration|i@KM|cEPNO SYNZ
 Conflicted|i@KM|nAPNO APRC CLNT HORN TIMP TRBN TRPT TUBA
+Conflicted|w@KM|nAPNO APRC CLNT HORN TIMP TRBN TRPT TUBA
 Confused State|i@KM|fAPRC BASN CLNT KLBA MRBA OBOE
 Connecting Rainbows|f@KM|rHARP
 Consecrated Ground|f@AN|fAPNO APRC BELL PORG STRS TRBN
@@ -268,6 +270,7 @@ Coy Koi|f@AY|nAPRC ENST
 Creepy Hallow|f@AN|fAPNO CLST STRS SYNZ
 Crinoline Dreams|i@KM|rAPNO APRC BASS STRS
 Crossing the Chasm|i@KM|aAPRC STRS VOCL
+Crossing the Chasm|w@KM|aAPRC HORN STRS VOCL
 Crowd Hammer|i@KM|fAGTR APRC ENST FLUT OBOE
 Cruise Control|s@SI|hBASS EPNO EPRC SYNZ
 Cruising for Goblins|i@KM|fEPRC SYNZ
@@ -275,6 +278,7 @@ Crunk Knight|i@KM|aENWD EPRC SYNZ VOCL
 Crusade|i@KM|sAPRC HORN STRS TRBN TRPT
 Crusade - Heavy Industry|i@KM|sAPRC HORN STRS TRBN TRPT TUBA
 Crypto|i@KM|fAPRC FLUT SYNZ
+Crystal Bungalow|w@KM|hVIBE
 Cuban Sandwich|i@KM|cAPNO APRC BASS
 CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 CumbiaNoFrillsFaster|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
@@ -289,6 +293,7 @@ Dama-May|i@KM|fAPRC DULC STRS
 Dance Monster|i@KM|nAPNO EPRC SYNZ
 Dance of Deception|i@KM|fAPRC PORG
 Dances and Dames|i@KM|fAPRC BASS EPNO VOCL
+Dance of the Turtle|w@KM|nBASN CLNT FLUT OBOE
 Dancing at the Inn|f@KM|hAPRC ENWD TUBA
 Danger Storm|i@KM|aAGTR APRC SYNZ
 Dank Halloween|s@SI|aEPRC GLCK HPCH PORG STRS VOCL
@@ -302,6 +307,7 @@ Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
 Dark Flashes|s@Si & @BB|aAPNO BASS EPRC FLUT SYNZ
 Dark Fog|i@KM|sAPRC SYNZ
 Dark Pad|i@KM|cSYNZ
+Dark Rock|w@KM|sAPRC BASS EGTR EPNO
 Dark Side Of Mars|s@SI|fEPRC SYNZ
 Dark Star|i@KM|hAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
 Darkening Developments|i@KM|fAPRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
@@ -349,21 +355,25 @@ Disco Medusae|i@KM|hBASS EGTR EPNO EPRC SYNZ
 Disco Sting|i@KM|hEPRC SYNZ
 Disco con Tutti|i@KM|hAPRC EGTR EPNO SYNZ TRBN TRPT
 Dispersion Relation|i@KM|nAPNO APRC BASS FLUT TRPT VIBE
+Distant Star|w@MF & @TM|nEPRC SYNZ
 District Four|i@KM|aBASS EGTR EPRC JORG
 Divertimento K131|i@KM & @WM|hBELL CLST HARP
 Division|i@KM|fAPNO APRC CLNT FLUT HORN OBOE STRS
 Doh De Oh|i@KM|hAPNO
 Doobly Doo|i@KM|hAPRC PIZZ SYNZ
+Dopey Stroll Loop|w@KM|hAPRC BASS JORG
 Dopplerette|i@KM|fBELL SYNZ
 Double Drift|i@KM|fAGTR APRC BASS SYNZ
 Double O|i@KM|aEPRC JORG SYNZ VOCL
 Double Polka|i@KM|hACDN APRC TUBA
 Down Home Rockin|i@KM|hAPNO APRC BASS EGTR
+Down the river|w@KK|hAGTR BNJO
 Dragon and Toast|i@KM|fAPRC BASN CLST DGOO HARP OBOE STRS
 Drankin Song|i@KM|cAGTR APRC BASS BNJO ENST STRS
 Dream Aeterna|s@SI|fAPRC BELL DULC EPRC STRS SYNZ VOCL
 Dream Catcher|i@KM|fEPRC SYNZ VOCL
 Dream Culture|i@KM|rAPNO EPRC
+Dream Freedom|w@DS|hAPNO BELL EGTR GLCK SYNZ TIMP
 Dreamer|i@KM|cAPNO APRC
 Dreamlike|i@KM|fAPNO BELL OBOE STRS SYNZ
 Dreams of Vain|f@RK|fAPNO APRC SYNZ
