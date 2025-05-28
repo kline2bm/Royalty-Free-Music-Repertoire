@@ -397,6 +397,7 @@ Easy Jam|i@KM|sAPRC BASS EGTR FLUT TRBN TRPT
 Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
 Easy Lemon 30 second|i@KM|cAGTR BASS MRBA
 Easy Lemon 60 second|i@KM|cAGTR APRC BASS CLST MRBA
+Eb Demo|w@KM|nAPNO EPRC
 Ebbs and Flows|f@KM|cAPNO SYNZ
 Ebbs and Flows|i@KM|cAPNO SYNZ
 // Echinoderm|i@BK & @KM|fAPRC CLST EFFX SYNZ TRBN
