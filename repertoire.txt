@@ -202,7 +202,7 @@ Celebration|f@AN|hAGTR APRC FLUT STRS
 Celtic Impulse|i@KM|nAPRC DULC HARP MDLN WHSL
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
 Chaise De l’Obscurité|s@SI|aEGTR EPRC HARP STRS SYNZ
-Champ de tournesol|f@KK|rAGTR
+Champ de tournesol|f@KK|rAGTR EGTR
 Chanter|i@KM|aAPRC ENST SYNZ VOCL
 Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
@@ -443,13 +443,16 @@ Eye of Forgiveness|f@RK|aAPRC STRS SYNZ
 Fairytale Waltz|i@KM|sCLST OBOE STRS
 Fanfare for Space|i@KM|hAPRC HORN STRS TIMP TRBN TRPT
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
-Fantastic Dim Bar|i@KM|sAPNO BELL STRS
+Fantastic A|w@KM|sHARP OBOE STRS TIMP VOCL
+Fantastic Dim Bar|i@KM|sAPNO STRS
+Fantastic Dim Bar|w@KM|sAPNO STRS
 Fantasy Overture|s@SI|fAPRC BELL FLUT GLCK PIZZ STRS TRBN TRPT VOCL
 // Far Out, Dude!|b@BK|cTODO
 Fast Talkin|i@KM|fAPRC BASS HORN STRS TRBN
 Faster Does It|i@KM|aAPRC BASS
 Fearful New World|s@SI|fAPNO SYNZ
 Fearless First|i@KM|nBASS EGTR EPRC FLUT
+Feel Good Feel|w@JS|hAPRC BASS EPNO SYNZ
 Feelin Good|i@KM|hAPRC BASS EGTR JORG
 Fenster's Explanation|f@KM|hAPNO APRC CLNT FLUT TRBN SAXO TRPT TUBA
 Fensters Explanation|i@KM|hAPNO APRC CLNT FLUT TRBN SAXO TRPT TUBA
@@ -460,6 +463,7 @@ Fife and Drum|i@KM|hAPRC FLUT
 Fig Leaf Rag|i@KM & @SJ|hAPNO
 Fig Leaf Rag - distressed|i@KM & @SJ|hAPNO
 Fig Leaf Times Two|i@KM & @SJ|hAPNO
+Filthy|w@KK|fAPRC BASS EGTR SYNZ
 Finally See The Light|f@BT|hAPRC BASS EPNO TRBN TRPT
 Finding Movement|i@KM|cENST STRS
 Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
@@ -480,6 +484,7 @@ Fluidscape|i@KM|cFLUT HARP SYNZ
 Flutey Funk|i@KM|nAPRC BASS FLUT
 Flying Kerfuffle|i@KM|hEPRC SYNZ
 Folk Round|i@KM|nACDN AGTR APRC FLUT STRS WHSL
+Folk Song|w@BB|hAGTR APRC BNJO UKLE
 For Originz|i@KM|rAPRC STRS VOCL
 Forest Frolic Loop|f@KM|hAPRC BGPS DULC FLUT
 Forest Night|f@PS|cAPRC BELL EFFX HARP STRS SYNZ VOCL
@@ -487,12 +492,14 @@ Fork and Spoon|i@KM|hAPRC BASS EGTR JORG
 Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
 Freddys Menagerie|i@KM|aAGTR APRC MRBA
+Freezing Winds|w@KF|fAGTR EFFX SYNZ
 Fright Night Twist|f@BT|fAPRC BASS EGTR JORG TRPT
 Frogs Legs Rag|f@KM & @JS|hAPNO
 Frogs Legs Rag|i@KM & @JS|hAPNO
 Frost Waltz|i@KM|fCLST FLUT GLCK HORN STRS
 Frost Waltz (Alternate)|i@KM|fCLST FLUT GLCK STRS
 Frozen Star|i@KM|cFLUT HARP TUBA VOCL
+Fugue in Gee Miner|w@KM|nEPRC SYNZ
 // Fugue of the Cat|b@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
 Funeral March for Brass|i@KM|sAPRC TRBN TRPT
 Funin and Sunin|i@KM|hAPRC BASS EGTR JORG
