@@ -92,8 +92,8 @@ class MusicInfo {
    * Or replace an artist code of the form @XY with the artist name
    * The artist codes reduce the size of the repertoire file by replacing common artists with fewer chars
    * \@AN Alexander Nakarada    \@AY Anonymous            \@BB Brian Boyko
-   * \@BX Bix L. B. Beiderbecke \@BD Brett Van Donsel     \@BK Bryce M. Kline
-   * \@BT Bryan Teoh            \@CL Calixa Lavallée      \@CS Charles-Camille Saint-Saëns
+   * \@BD Brett Van Donsel      \@BK Bryce M. Kline       \@BT Bryan Teoh
+   * \@BX Bix L. B. Beiderbecke \@CL Calixa Lavallée      \@CS Charles-Camille Saint-Saëns
    * \@DS dogsounds             \@EG Edvard H. Grieg      \@ES Erik A. Satie
    * \@FC Frédéric F. Chopin    \@FG Fake Muic Generator  \@FH F. Joseph Haydn
    * \@FN Frank Nora            \@GG George Gershwin      \@GR Gioachino A. Rossini
@@ -112,8 +112,8 @@ class MusicInfo {
   static escapeArtists(string) {
     return string
       .replaceAll("@AN", "Alexander Nakarada")    .replaceAll("@AY", "Anonymous")            .replaceAll("@BB", "Brian Boyko")
-      .replaceAll("@BX", "Bix L. B. Beiderbecke") .replaceAll("@BD", "Brett Van Donsel")     .replaceAll("@BK", "Bryce M. Kline")
-      .replaceAll("@BT", "Bryan Teoh")            .replaceAll("@CL", "Calixa Lavallée")      .replaceAll("@CS", "Charles-Camille Saint-Saëns")
+      .replaceAll("@BD", "Brett Van Donsel")      .replaceAll("@BK", "Bryce M. Kline")       .replaceAll("@BT", "Bryan Teoh")
+      .replaceAll("@BX", "Bix L. B. Beiderbecke") .replaceAll("@CL", "Calixa Lavallée")      .replaceAll("@CS", "Charles-Camille Saint-Saëns")
       .replaceAll("@DS", "dogsounds")             .replaceAll("@EG", "Edvard H. Grieg")      .replaceAll("@ES", "Erik A. Satie")
       .replaceAll("@FC", "Frédéric F. Chopin")    .replaceAll("@FG", "Fake Music Generator") .replaceAll("@FH", "F. Joseph Haydn")
       .replaceAll("@FN", "Frank Nora")            .replaceAll("@GG", "George Gershwin")      .replaceAll("@GR", "Gioachino A. Rossini")
