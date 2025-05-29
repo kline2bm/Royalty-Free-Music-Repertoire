@@ -1027,7 +1027,7 @@ Show Your Moves|i@KM|hEPRC SYNZ
 Sidewalk Shade|i@KM|cAPNO APRC BASS VIBE
 Sidewalk Shade - slower|i@KM|cAPNO APRC BASS VIBE
 Signs To Nowhere|s@SI|fAPRC BASS HORN MUTE SAXO VIBE
-Silly Fun|i@KM|hAPRC BELL HPRC SYNZ WHSL
+Silly Fun|i@KM|hBELL EPRC HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Simon Says Dont - 50 cents|i@KM|nSYNZ
