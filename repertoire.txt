@@ -633,7 +633,10 @@ Impact Intermezzo|i@KM|aAPRC
 Impact Lento|i@KM|cSYNZ VOCL
 Impact Moderato|i@KM|hAPRC EGTR SYNZ
 Impact Prelude|i@KM|fAPRC EGTR SYNZ
+Imperfect Echoes|w@KM|cAPNO
 Imperial China Cinematic|rAPRC ENST FLUT STRS
+Impomptu in D Major|w@KM|hAPNO
+Impromptu for Pianoforte and Beatbox|w@KM & @BT|nAPNO HPRC
 In The West|i@KM|fAPRC CLNT FLUT STRS
 In Your Arms|i@KM|rAPRC BASS MUTE SAXO TRBN
 Industrial Cinematic|i@KM|fAPRC SYNZ
@@ -648,7 +651,8 @@ Infinite Wonder|f@KM|cSYNZ
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
 Inspirational Breakthrough|s@SI|rAPNO
 Inspired|i@KM|cAPRC EGTR SYNZ
-Intended Force|i@KM|aFLUT GLCK HARP HORN STRS TIMP TRBN TRPT
+Intended Force|i@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
+Intended Force|w@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
 Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
