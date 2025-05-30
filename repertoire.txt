@@ -810,6 +810,7 @@ Modern Vibes|i@KM|nVIBE
 Monkoto|i@KM|nAPRC CLNT MRBA
 Monster Promenade|i@KM|hAGTR APRC JORG
 Monsters in Hotel|f@RK|fAPNO APRC GLCK HORN PORG TRBN TRPT XYLO
+Montageur|w@FN|nEPRC SYNZ
 Montauk Point|i@KM|hAGTR APRC BASS
 Moon Lounge Omicron Prime|i@KM|hEGTR EPRC SYNZ
 Moonlight Hall|i@KM|fAPRC BASN CLST FLUT OBOE PIZZ STRS TIMP TUBA VOCL
@@ -817,6 +818,7 @@ Moonstone|i@KM|cAPNO
 Moorland|i@KM|sAPRC BGPS
 Morgana Rides|i@KM|fAPRC DULC STRS SYNZ
 Morning|i@KM|cAGTR FLUT HARP
+Morning Snowflake|w@KM|rAPNO
 Morocco Sting|i@KM|nAPRC BASN FLUT KLBA
 Motherlode|i@KM|nAPRC BASS EGTR HORN TRPT
 Motivator|i@KM|hAPRC BASS SYNZ
