@@ -676,11 +676,13 @@ Jethro on the Run|f@AY|nAGTR APRC BASS BNJO MDLN STRS
 Joey's Formal Waltz - Unscented|i@KM|rAPRC BASS EGTR EPNO
 Journey To Ascend|i@KM|cAPRC STDR
 Journey of Hope|f@AN|rAGTR APNO APRC EGTR STRS
+Journey of Solitude|w@KM|sAPRC FLUT STRS
 Jungle Mission|f@RK|cAPRC BASS CLST MRBA
 Juniper|i@KM & @GH|cCLNT HARP HORN OBOE STRS TRBN TRPT TUBA
 Junkyard Tribe|i@KM|aEPRC
 Just As Soon|i@KM|sAGTR APRC BASS EPNO SAXO
 Just Nasty|i@KM|aAPRC EPNO JORG SAXO TRBN TRPT
+K's Theme|w@DS|nAPRC BASS EPNO SYNZ
 Kalimba Relaxation Music|f@KM|cKLBA SYNZ
 Kalimba Relaxation Music|i@KM|cKLBA SYNZ
 Kawai Kitsune|i@KM|hEPRC SYNZ
@@ -688,6 +690,7 @@ Kick Shock|i@KM|aAPRC EPRC SYNZ
 Killers|i@KM|aAPRC EGTR STRS VOCL
 Killing Time|i@KM|fEPRC JORG SYNZ
 Kings of Tara|i@KM|hAGTR APRC BASS BNJO FLUT
+Kleine Bar|w@DS|rAPNO APRC BASS EPNO FLUT HARP OBOE
 Klockworx|i@KM|nEPRC SYNZ
 Kumasi Groove|i@KM|cAPRC MRBA
 Kumasi Groove Flugelhorn|i@KM|cAPRC MRBA TRPT
@@ -704,6 +707,8 @@ Lasting Hope|i@KM|sAPRC HARP SYNZ VOCL
 Late Night Radio|i@KM|cBASS EPNO EPRC SYNZ
 Later Alligator|s@SI|aAGTR BASS EGTR EPRC
 Latin Industries|i@KM|aAPRC EPRC SYNZ VOCL
+Latinish|w@FN|hAPNO APRC BASS PLFT SAXO SYNZ
+Lawful Victim Unit|w@KM|cAPRC BASS EPNO STRS
 Le Grand Chase|i@KM|aAPNO APRC EFFX SAXO TRPT TUBA XYLO
 Leaving Home|i@KM|sAPNO CLNT DULC EGTR FLUT SYNZ
 Legend of One|i@KM|fAPNO EPRC SYNZ
@@ -718,7 +723,9 @@ Limit 70|f@KM|cEPNO EPRC SYNZ
 Limit 70|i@KM|cEPNO EPRC SYNZ
 Lithium|i@KM|sAPNO PORG STRS
 Liturgy Of The Street|s@SI|fAPRC EPRC STRS SYNZ
+Lives That Are Worth Saving|w@KM & @FG|sEPRC SYNZ
 Living Voyage|i@KM|nAPRC ENST FLUT SYNZ VOCL
+Lizzy|w@KM|hHPCH STRS
 Lobby Time|i@KM|hAPNO APRC BASS VIBE
 Local Forecast|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
 Local Forecast - Elevator|i@KM|nAPNO APRC BASS EGTR EPNO FLUT TRPT
@@ -728,11 +735,13 @@ Lonely Mountain|f@RK|sAPRC FLUT HARP OBOE STRS TIMP TRPT TUBA
 Long Road Ahead|i@KM|rAPRC HORN STRS TIMP TUBA VOCL
 Long Road Ahead B|i@KM|rSTRS VOCL
 Long Time Coming|i@KM|aAPNO EPRC STRS SYNZ
+Long Trail|w@BB|sAGTR APNO BASS STRS
 Loopster|i@KM|nAPRC BASS EPNO
 Lord of the Rangs|i@KM|hAPRC DGOO EPRC FLUT MRBA
 Lost Frontier|i@KM|cAPRC HORN STRS VOCL
 Lotus|i@KM|nAPRC
 Love Song|i@KM|sAPNO FLUT HARP HORN STRS
+Low Level Action A|w@KM|fBASS
 Lukewarm Banjo|f@KM|hAGTR APRC BASS BNJO
 Lurking Sloth|f@AN|sAPRC FLUT GLCK PIZZ TRBN TUBA
 MJS Stings|i@KM|nAGTR APNO APRC BASS
@@ -1238,7 +1247,8 @@ Variation on Egmont|i@KM & @LB|aAPNO EPRC SYNZ
 Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
 Verão|s@SI|hACDN APRC BASS EGTR SYNZ TRPT
 Vibe Ace|i@KM|hAPRC BASS SYNZ VIBE
-Vibing Over Venus|i@KM & Alice Goodworth & Radio Kilimanjaro Automaton Ensemble|cAPNO APRC BASS STRS VIBE
+Vibing Over Venus|i@KM & @AG & @RE|cAPNO APRC BASS STRS VIBE
+// add Alice Goodworth and Radio Kilimanjaro Automaton Ensemble to escapeArtists in MusicInfo.js
 Vicious|i@KM|hEPRC SYNZ
 Village Consort|i@KM|hAGTR APRC PFLT WHSL
 Village Dawn|i@KM|hAPNO
@@ -1279,7 +1289,7 @@ White|i@KM|rAPNO
 White Lotus|i@KM|cAPNO DULC STDR SYNZ
 Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
 Wholesome|i@KM|hAPRC MRBA PIZZ
-Willow and the Light|i@KM|sAPRC HARP FLUT VOCL
+Willow and the Light|i@KM|sAPRC FLUT HARP VOCL
 Wind of the Rainforest|f@KM|cEPNO SYNZ
 Wind of the Rainforest|i@KM|cEPNO SYNZ
 Windswept|i@KM|rAGTR STRS
