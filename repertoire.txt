@@ -754,6 +754,7 @@ Magic in the Garden|f@RK|cAPRC CLNT KLBA MRBA PIZZ
 Magical Transition|f@KM|fCLST FLUT OBOE STRS
 Magistar|i@KM|fEPRC GLCK SYNZ TRBN TRPT TUBA VOCL
 Majestic Hills|i@KM|sAPRC BELL CLNT FLUT GLCK HORN STRS TIMP TRBN TUBA
+Mallet Chaos|w@KM|nAPRC MRBA
 Malt Shop Bop|i@KM|hAPNO APRC BASS EGTR SAXO
 Man Down|i@KM|sEPNO STRS
 Manic Polka|i@KM|hACDN APRC TUBA
@@ -764,6 +765,7 @@ March of the Mind|i@KM|sAPNO
 March of the Spoons|i@KM|nAPRC CLNT FLUT OBOE PIZZ
 Martian Cowboy|i@KM|fBASS GLCK SYNZ
 Mary Celeste|i@KM|fBASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
+Mascott's Theme|w@KK|hAPRC BASS BNJO MDLN
 Master Disorder|i@KM|fDULC EPRC SYNZ
 Master of the Feast|i@KM|hAGTR APRC DULC ENST ENWD FLUT
 Matts Blues|i@KM|hAPRC BASS EGTR HMCA JORG
@@ -776,6 +778,7 @@ Merry Go Slower|i@KM|hAPNO
 Merry Go Slower - Distressed|i@KM|hAPNO
 Mesmerizing Galaxy Loop|i@KM|fSYNZ
 Metalmania|i@KM|aAPRC BASS EGTR
+Metaltania|w@KM|aAPRC BASS EGTR
 Metaphysik|i@KM|sAPNO STRS SYNZ
 Miami Nights - Extended Theme|i@KM|nAPRC EPRC SAXO STRS SYNZ TRPT
 Miami Viceroy|i@KM|cAPRC BASS EGTR SYNZ
