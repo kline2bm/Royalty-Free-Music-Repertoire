@@ -1293,8 +1293,8 @@ White Lotus|i@KM|cAPNO DULC STDR SYNZ
 Who Likes to Party|i@KM|hAPRC EGTR HORN STRS SYNZ
 Wholesome|i@KM|hAPRC MRBA PIZZ
 Willow and the Light|i@KM|sAPRC FLUT HARP VOCL
-Wind of the Rainforest|f@KM|cEPNO SYNZ
-Wind of the Rainforest|i@KM|cEPNO SYNZ
+Wind of the Rainforest|f@KM|cEPNO HARP SYNZ
+Wind of the Rainforest|i@KM|cEPNO HARP SYNZ
 Windswept|i@KM|rAGTR STRS
 Windy Old Weather|f@KM & @TR|hACDN
 Windy Old Weather - thin|f@KM & @TR|hACDN
