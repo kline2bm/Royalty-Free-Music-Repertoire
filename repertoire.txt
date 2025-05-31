@@ -837,6 +837,7 @@ Mystery Sting|i@KM|nAPRC CLNT MRBA OBOE
 Mystic Force|i@KM|nAPRC BELL TUBA
 // TODO: mellotron better considered SYNZ than EPNO? iterate EPNO and change to SYNZ as needed; update MusicInfo.js accordingly
 Naraina|i@KM|aAPRC BASS ENST EPRC TRPT
+Native Dream|w*imp*|nAPRC STDR SYNZ
 Neo Western|i@KM|nAPRC EGTR SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
 Neon Noir|s@SI|fEPNO EPRC SYNZ
@@ -861,6 +862,7 @@ Nightchaser|s@SI|nEPRC SYNZ
 Niles Blues|i@KM|rAPRC BASS EGTR JORG
 No Frills Salsa|i@KM|hAPNO APRC BASS TRBN TRPT
 No Frills Salsa - Alternate|i@KM|hAPRC BASS TRBN TRPT
+No Rocking in the Jazzhands Zone|w@PG|sAPNO
 No Spam Polka|i@KM|hACDN APRC TUBA
 NoGoodLayabout|i@KM|hAPNO APRC BASS CLNT
 Noble Race|i@KM|nAPNO BASN BELL CLNT FLUT GLCK HORN OBOE STRS TIMP TRBN TRPT
@@ -878,6 +880,7 @@ Nowhere Land|i@KM|hAPRC SYNZ
 Numinous Shine|i@KM|cSYNZ
 Obliteration|i@KM|aAPRC HORN JORG STRS
 Observe|s@SI|fSYNZ
+Octave Jumper|w@FN|aEPRC SYNZ
 OctoBlues|i@KM & @BD|rAPRC BASS EGTR JORG
 Odyssey|i@KM|hSYNZ
 Olde Timey|i@KM|hAPNO
@@ -892,6 +895,7 @@ Opening Move|s@SI|nAPNO APRC BASS MUTE
 // Operation Plot Summary|b@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Opium|i@KM|cAPRC DULC STRS VOCL
 Opportunity Walks|i@KM|sAPNO APRC BASS
+Orchestra Demo|w@KM|cBELL CLNT HORN OBOE STRS TRBN TRPT TUBA
 Organic Grunge|i@KM|aAPRC EGTR JORG
 Organic Meditations One|i@KM|cAPRC BELL STRS
 Organic Meditations Three|i@KM|cAPNO STRS
@@ -926,6 +930,7 @@ Pamgaea|i@KM|hSYNZ
 Paradise_Found|i@KM|hEPRC STDR SYNZ VOCL
 Passing Action|i@KM|fAPRC BASS EPRC STRS
 Patron Saint of Heists|f@BT|aAPRC BASS EPNO FLUT SAXO
+Peace in Sunlight|w@KF|nAPRC SYNZ
 Peace of Mind|i@KM|cAPNO STRS SYNZ
 Pennsylvania Rose|i@KM|hAGTR BELL FLUT HORN OBOE STRS TRBN
 Peppy Pepe|i@KM|hAPRC BASS EGTR SAXO TRBN TRPT
@@ -933,6 +938,7 @@ Perigrine Grandeur|i@KM|aAPRC BASS DULC
 Perspectives|i@KM|cAGTR APNO APRC FLUT GLCK STRS SYNZ
 Petulant March|i@KM|nEPRC SYNZ
 Phat Sketch|i@KM|nEPRC SYNZ
+Phat Sketch|w@KM|nEPRC SYNZ
 Phortitude|s@SI|nBASS EPRC STRS SYNZ
 Piano Romantisme|s@SI|rAPNO
 Pilot Error|i@KM|nAPNO APRC EGTR
