@@ -322,8 +322,8 @@ Deadly Roulette|i@KM|cAPRC BASS EGTR HPRC SYNZ VIBE
 // Decent Descent|b@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Decisions|i@KM|fAPRC EPRC STRS SYNZ VOCL
 Deep Haze|i@KM|nAPRC EGTR SYNZ
-Deep Relaxation|f@KM|cAPNO EPNO HARP SYNZ
-Deep Relaxation|i@KM|cAPNO EPNO HARP SYNZ
+Deep Relaxation|f@KM|cAPNO EFFX EPNO HARP SYNZ
+Deep Relaxation|i@KM|cAPNO EFFX EPNO HARP SYNZ
 Deep Tones|f@KM|fHORN SYNZ TRBN
 Del Rio Bravo|f@KM|hACDN APRC BASS MRBA
 Del Rio Bravo|i@KM|hACDN APRC BASS MRBA
@@ -956,6 +956,7 @@ Port Horizon|i@KM|nAGTR APNO APRC EFFX BASS STRS SYNZ TRBN TRPT VIBE
 Posteriosis|s@SI|nEPRC SYNZ
 Power Restored|i@KM|fAPRC CLNT FLUT GLCK STRS TIMP TRBN TUBA
 // Primer Post Braces|b@BK|nHPRC VOCL
+Prefunk Loop|w@KM|nAPRC BASS
 Prelude in C - BWV 846|i@KM & @JB|rAPNO
 Presenterator|i@KM|hAPRC SYNZ
 Private Eye|i@KM|fAPRC BASS HORN TRBN TRPT
@@ -963,6 +964,9 @@ Professor Umlaut|i@KM|aEPRC STRS XYLO
 Professor and the Plant|i@KM|fBASN GLCK HARP MUTE
 Proxima Centauri|s@SI|fAPRC FLUT STRS SYNZ TRBN VOCL
 Psychedelic Crater|i@KM|aEPRC SITR SYNZ
+Psychedelic Crater|w@KM|aEPRC SITR SYNZ
+Pulling The Plug On Kindness|w@KM & @FG|sAPRC BASS VIBE
+Pulse|w@KM|nAPRC BASS EGTR
 Pulse Rock|i@KM|nAPRC BASS EGTR
 Pump up your Graduation|f@KM & @JP|hEPRC SYNZ
 Pure Attitude|i@KM|nEPRC HARP HORN STRS SYNZ TRBN TRPT
