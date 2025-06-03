@@ -1024,6 +1024,7 @@ Royal Coupling|i@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Run Amok|i@KM|hAPRC BASN CLNT MRBA OBOE PIZZ TRBN TRPT TUBA
 Rural Industry|f@KM|hAPRC ENST OBOE PIZZ
 Rush|f@RK|hAPRC BASS FLUT MUTE TUBA
+Russian Microtheme|w@DS|fAPRC ENST EPRC SYNZ
 Rynos Theme|i@KM|fAPNO APRC FLUT HORN STRS TRBN TUBA
 Salty Ditty|i@KM|hEPRC SYNZ
 Samba Isobel|i@KM|rAPNO APRC BASS
@@ -1040,6 +1041,7 @@ Scattershot|i@KM|aAPRC SYNZ
 Scheming Weasel faster|i@KM|fAPRC BASN BASS CLNT CLST GLCK OBOE
 Scheming Weasel slower|i@KM|sAPRC BASN BASS CLNT CLST GLCK OBOE
 Schmetterling|i@KM|sPORG VOCL
+Schmetterling|w@KM|sPORG VOCL
 Scissors|i@KM|fAPRC SYNZ
 Screen Saver|f@KM|cSYNZ VOCL
 Screen Saver|i@KM|cSYNZ VOCL
@@ -1048,13 +1050,16 @@ Secret of Tiki Island|i@KM & @BT|fAGTR APNO APRC BASS JORG VIBE VOCL
 Secrets of the Schoolyard|i@KM|fEPRC SYNZ
 Senbazuru|i@KM|cENST FLUT STRS
 Sergio's Magic Dustbin|i@KM|aAPRC BASN CLNT FLUT GLCK HORN MRBA TRBN TRPT TUBA WHSL XYLO
+Serious Showcase|w@KM|nAPRC BASS SYNZ
 Set It Up|s@SI|nAPRC STRS SYNZ VOCL
 Seven March|i@KM|fAPRC SYNZ
 Shades of Spring|i@KM|sAPNO APRC BASS
 Shamanistic|i@KM|fAPRC FLUT STRS SYNZ XYLO
 Shaving Mirror|i@KM|hAPRC BASS EGTR JORG TRPT
+Shaving Mirror|w@KM|hAPRC BASS EGTR JORG TRPT
 Shenyang|i@KM|hAPRC ENST
 Sheep May Safely Graze - BWV 208|i@KM & @JB|rCLST HARP MRBA VIBE
+Shine|w@PS|fAPNO APRC JORG STRS SYNZ
 Shiny Tech|i@KM|hEPRC SYNZ
 Shiny Tech2|i@KM|nEPRC SYNZ
 Shores of Avalon|i@KM|sAPNO SYNZ VOCL
@@ -1066,8 +1071,13 @@ Silly Fun|i@KM|hBELL EPRC HPRC SYNZ WHSL
 Silver Blue Light|i@KM|cAGTR SYNZ
 // Simple EP Loop|z@BK|hEPNO EPRC VOCL
 Simon Says Dont - 50 cents|i@KM|nSYNZ
+Simon Says Dont - 50 cents|w@KM|nSYNZ
 Simplex|i@KM|fAGTR APRC SYNZ
 Sinfonia 3|i@KM|hBASS EPRC PORG
+Sinfonia to Cantata 29|w@DS & @JB|hJORG SYNZ TIMP
+Skill Is Futile|w@KM|nAGTR
+Skipping in the No Standing Zone|w@PG|nAPRC BASS EPNO MRBA
+Skydive Safari|w@AY|hAGTR APRC BASS SYNZ
 Skye Cuillin|i@KM|cHARP STRS SYNZ TIMP VOCL WHSL
 Sleep_and_Then|i@KM|cBELL CLNT FLUT GLCK HARP STRS
 Slide Kilter|s@SI|cAGTR BASS EPRC SYNZ VOCL
@@ -1078,12 +1088,15 @@ Smash Sketch|i@KM|aBASS EPRC EPNO JORG
 Smoking Gun|i@KM|fAPRC BASS BELL EGTR FLUT STRS VOCL
 Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
 Smooth Move|i@KM|nEPRC SYNZ
+Smooth it Out on the Whetstones of the Heavens|w@BP|sEPNO SYNZ
 Smoother Move|i@KM|sAPNO
 Snap Happy|s@SI|hEPRC HRPC MRBA SYNZ VOCL
 Snare Bounce Polka|i@KM|hACDN APRC TUBA
 Sneaky Adventure|i@KM|cAPRC BASN BASS PIZZ
 Snowdrop|i@KM|sAPNO
+Snowdrop|w@KM|sAPNO
 Soaring|i@KM|cSYNZ
+Sober Scotsman|w@KM|nAGTR APRC BASS BGPS EPNO
 Sock Hop|i@KM|rAPRC BASS EGTR VIBE
 Somewhere Sunny|i@KM|rAGTR
 Somewhere Sunny (ver 2)|i@KM|rAGTR
@@ -1096,10 +1109,12 @@ Soviet March|s@SI|fAPRC BELL DULC ENST HORN STRS VOCL
 Space 1990|i@KM|cAPRC BELL SYNZ
 Space 1990-B|i@KM|cAPRC BELL SYNZ
 Space Ambience|f@AN|cSYNZ
+Space Explorers|w@KM|cFLUT SYNZ TRBN
 Space Fighter Loop|i@KM|nAPRC HORN SYNZ TUBA
 Space Jazz|i@KM|hAPRC JORG SYNZ
 Spacedman|s@SI|cEPRC SYNZ
 Spacial Harvest|i@KM|fSYNZ
+Spacial Winds|w@KM|cSYNZ
 Speakeasy|s@SI|hAPRC BASS EFFX EPNO MUTE SAXO TRBN TUBA
 Spec Ops|f@RK|aSYNZ
 Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
