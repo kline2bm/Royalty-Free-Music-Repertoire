@@ -213,7 +213,7 @@ Chee Zee Cave|i@KM|aAPRC HORN STRS TRPT
 Chee Zee Caves V2|i@KM|aAPRC STRS
 Chee Zee Jungle|i@KM|fAPRC DGOO FLUT KLBA MRBA VOCL
 Chee Zee Lab|i@KM|nAPRC EFFX EPRC SYNZ
-Cheeky|s@SI|aAPRC JORG SYNZ
+Cheeky|s@SI|cAPRC JORG SYNZ
 Cheese Greater|s@SI|aEPRC STRS SYNZ
 Cherry Blossom|i@KM|hAPRC MRBA
 Chicken Hut Bluegrass|s@SI|hAPNO APRC BASS BNJO EGTR STRS
@@ -978,18 +978,23 @@ Quinns Song-First Night|i@KM & @FC|fAPNO SYNZ
 Quinns Song-The Dance Begins|i@KM & @FC|sAPNO STRS
 Quirky Dog|i@KM|hAPNO APRC BASS SYNZ TRPT
 Radio Martini|i@KM|hAGTR APRC BASS CLNT FLUT PIZZ
+Rain|w@DR|cEPRC SYNZ
+Rain - remastered|w@DR|cEPRC SYNZ
 Rainbows|i@KM|hAPRC BASS MRBA UKLE
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
 Raving Energy (faster)|i@KM|aEPRC SYNZ
 Raw|i@KM|nAPRC BASS
 Regency Baroque|s@SI|hHPCH STRS
+Reggae (Sketch)|w@KM|aAPRC EPNO JORG
 Reggae Sketch|i@KM|aAPRC EPNO JORG
 Reign|i@KM|hAPNO APRC EGTR HORN STRS VOCL
 Relaxing Piano Music|i@KM|cAPNO SYNZ
 Release the Hybrids|f@BT|fEPRC STRS SYNZ
 Relent|i@KM|sCLNT HARP
+Remember This Shadow|w@KK|sAGTR APRC BASS UKLE
 Rendezvous|s@SI|hAPNO APRC BASS
+Requiem: Titanic|w@DS|sBELL EFFX STRS SYNZ
 RetroFuture Clean|i@KM|aAPRC BASS EGTR JORG
 Return of the Mummy|i@KM|fAPRC ENST STRS VOCL
 Reunited|i@KM|rAPNO APRC STRS
@@ -1012,6 +1017,7 @@ Rocket|i@KM|aEGTR EPRC STRS SYNZ VOCL
 Rocket Power|i@KM|aBASS EGTR EPRC JORG
 Rollin at 5|i@KM|nAPNO APRC BASS TRBN TRPT
 Rollin at 5 - electronic|i@KM|nEPRC SYNZ
+Roquefort Prolog|w@KM|cEPNO STRS
 Round Drums|i@KM|nAPRC
 Royal Coupling|f@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
 Royal Coupling|i@KM|rAPRC CLNT FLUT HORN STRS TIMP TRBN TUBA
