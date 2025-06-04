@@ -292,8 +292,8 @@ Daily Beetle|i@KM|hAGTR APNO APRC HPRC MRBA MUBX UKLE
 Dama-May|i@KM|fAPRC DULC STRS
 Dance Monster|i@KM|nAPNO EPRC SYNZ
 Dance of Deception|i@KM|fAPRC PORG
-Dances and Dames|i@KM|fAPRC BASS EPNO VOCL
 Dance of the Turtle|w@KM|nBASN CLNT FLUT OBOE
+Dances and Dames|i@KM|fAPRC BASS EPNO VOCL
 Dancing at the Inn|f@KM|hAPRC ENWD TUBA
 Danger Storm|i@KM|aAGTR APRC SYNZ
 Dank Halloween|s@SI|aEPRC GLCK HPCH PORG STRS VOCL
@@ -1088,7 +1088,7 @@ Smash Sketch|i@KM|aBASS EPRC EPNO JORG
 Smoking Gun|i@KM|fAPRC BASS BELL EGTR FLUT STRS VOCL
 Smooth Lovin|i@KM|rAGTR APNO APRC BASS JORG
 Smooth Move|i@KM|nEPRC SYNZ
-Smooth it Out on the Whetstones of the Heavens|w@BP|sEPNO SYNZ
+Smooth it Out on the Whetstone of the Heavens|w@BP|sEPNO SYNZ
 Smoother Move|i@KM|sAPNO
 Snap Happy|s@SI|hEPRC HRPC MRBA SYNZ VOCL
 Snare Bounce Polka|i@KM|hACDN APRC TUBA
