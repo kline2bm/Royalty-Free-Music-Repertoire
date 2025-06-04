@@ -1131,11 +1131,13 @@ Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
 Stay the Course|i@KM|fAPRC SYNZ
 Stereotype News|f@RK|hAPRC HORN STRS SYNZ
 Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
+Sticks and Tricks|w@KM|nAPRC MRBA SYNZ
 Still Pickin|f@KM|hACDN APRC BASS BNJO HMCA
 Still Pickin|i@KM|hACDN APRC BASS BNJO HMCA
 Stompin at Midnight|f@KM & @SA|hAPRC BASS SAXO TRBN TRPT
 Stompin at Midnight - Vinyl Recording|f@KM & @SA|hAPRC BASS SAXO TRBN TRPT
 Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
+Store Theme|w@KK|cAPRC BASS BELL UKLE
 Stormfront|i@KM|fAPRC SYNZ
 Street Party|i@KM|hAPRC BASS JORG SAXO STDR TRBN TRPT WHSL
 Streetlight On A Dark Road|i@KM|rOBOE
@@ -1143,10 +1145,12 @@ String Impromptu Number 1|i@KM|cSTRS
 Stringed Disco|i@KM|hAPRC BASS EGTR EPNO STRS
 Suave Standpipe|i@KM|rACDN AGTR APRC BASS EPNO HORN JORG SAXO SYNZ TRBN TRPT TUBA VIBE
 Sudden Defeat|i@KM|sAPRC CLNT HORN TIMP TRBN TRPT TUBA
+Sudden Defeat|w@KM|sAPRC CLNT HORN TIMP TRBN TRPT TUBA
 Summer Calypstep|s@SI|hAPNO EPRC STDR SYNZ
 Summer Day|i@KM|cAGTR APRC BASS EPNO
 Summer Rain|s@SI|rAPNO
 // Summer Raingtone|b@BK & @SI|nAPNO EFFX
+Summer Sidewalk|w@JS|hAGTR APRC BASS EPNO
 Sun Up Gunned Down|f@BT|nAGTR APRC BASS BELL EGTR PFLT TRPT VOCL
 Sunday Dub|f@KM|nAPRC BASS EGTR JORG
 Sunday Dub|i@KM|nAPRC BASS EGTR JORG
@@ -1157,7 +1161,7 @@ Sunshine A|i@KM|hAGTR APNO APRC BASS
 Sunshine ver 2|i@KM|hAGTR APNO APRC BASS
 Super Friendly|i@KM|hAPRC EPNO SYNZ VOCL
 Super Polka|i@KM|hAPRC BASS CLNT EGTR TRPT
-Super Power Cool Dude|i@KM|hAPRC SYNZ
+Super Power Cool Dude|i@KM|hAPRC BELL SYNZ
 Surf Inspector|i@KM|nAPRC BASS EGTR EPNO JORG
 Surf Shimmy|i@KM|nAPRC BASS EGTR JORG
 Suspended Animation|s@SI|fAPNO APRC SYNZ
@@ -1167,6 +1171,7 @@ Swing Maching|f@KM & @SA|nAPNO EPRC SAXO SYNZ TRPT
 Symbiosis|i@KM|fAPNO EPRC
 Symmetry|i@KM|fEPRC SYNZ
 Synapse|s@SI|cEPRC SYNZ
+Synergy Cruiser|w@KM|hAPRC BELL SYNZ
 Tabuk|i@KM|fAPRC FLUT STRS
 Tafi Maradi|i@KM|hAPRC VOCL
 Tafi Maradi no voice|i@KM|hAPRC
@@ -1175,11 +1180,15 @@ Take a Chance|i@KM|hAPRC BELL CLNT FLUT HORN STRS TIMP XYLO
 Take the Ride|f@BT|nAPRC BASS EGTR JORG SYNZ VOCL
 Take the Lead|i@KM|aAPRC BASS EGTR SYNZ
 Tape Star|s@SI|cEPRC SYNZ
+Tapped Piano|w@KM|sAPNO
+Tatami Tea|w@KM|cENST ENWD SYNZ
 Tea Roots|i@KM|cAPNO APRC BASS EGTR ENST JORG MUTE SAXO
 Tech Live|i@KM|hAPRC KLBA SYNZ
-Tech Talk|i@KM|hBASS EGTR EPRC MUTE SAXO XYLO
+Tech Talk|i@KM|hBASS EGTR EPRC SAXO TRPT XYLO
+Teck Talk|w@KM|hBASS EGTR EPRC SAXO TRPT XYLO
 Tectonic|i@KM|aAPNO APRC HORN STRS TIMP TRBN TRPT
 // Temple Jazz|z@BK|sAPRC PFLT TRBN
+Temple Ruins|w@KM|fAPRC BELL
 Temple of the Manes|i@KM|sAPRC FLUT HARP OBOE
 Tempting Secrets|i@KM|cFLUT STRS VOCL
 Tenebrous Brothers Carnival - Act One|i@KM|fAPRC CLNT GLCK JORG STRS TUBA VOCL
