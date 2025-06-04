@@ -304,7 +304,7 @@ Danse Morialta|i@KM|rAPNO
 Danse of Questionable Tuning|i@KM|sAPNO STRS
 Dark 'n' Stormy|s@SI|aAPRC BASS EGTR JORG SYNZ
 Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
-Dark Flashes|s@SI & @BX|aAPNO BASS EPRC FLUT SYNZ
+Dark Flashes|s@SI & @BE|aAPNO BASS EPRC FLUT SYNZ
 Dark Fog|i@KM|sAPRC SYNZ
 Dark Pad|i@KM|cSYNZ
 Dark Rock|w@KM|sAPRC BASS EGTR EPNO
@@ -1218,10 +1218,13 @@ The Entertainer|f@KM & @SJ|hAPNO
 The Entertainer|i@KM & @SJ|hAPNO
 The Escalation|i@KM|fAPRC STRS
 The Forest and the Trees|i@KM|cCLNT FLUT GLCK TRBN
+The Ginger Girl|w@AY|sAPRC CLNT GLCK HORN STRS TRBN XYLO
 The Good Fight|s@SI|sPORG STRS VOCL
+The Hidden Valley of Shambhala|w@KM|sAGTR STRS
 The Lift|i@KM|nEPRC SYNZ
 The Machine Thinks|i@KM|fSYNZ
 The Medieval Banquet|s@SI|cAPRC DULC ENST HARP WHSL
+The Modal Drummer|w@KM|hAPRC MRBA
 The Other Place|s@SI|fEPRC SYNZ
 The Other Side of the Door|i@KM|nFLUT HARP OBOE PIZZ STRS
 The Path of the Goblin King|i@KM|fCLNT CLST FLUT OBOE PIZZ TIMP
@@ -1234,6 +1237,7 @@ The Second Coming|i@KM & @LV & @WY|fAPRC HORN STRS TRBN VOCL
 The Second Coming Instrumental|i@KM|fAPRC HORN STRS TRBN
 The Snow Queen|i@KM|fBASN CLNT CLST FLUT PIZZ STRS TIMP
 The Story|f@AN|sAPNO APRC HORN STRS XYLO
+The View Across|w@KM|cAPRC BASS ENST
 The Vikings|f@AN|nAPNO APRC STRS VOCL
 The Way Out|i@KM|fAPRC SYNZ
 The Whip Theme|i@KM|aAPRC BASS EGTR EPRC
@@ -1241,6 +1245,7 @@ The Whip Theme (Extended Version)|i@KM|aAPRC BASS EGTR EPRC
 The Wonders Of Science|s@SI|hEPRC SYNZ
 There It Is|i@KM|nBASS EGTR EPRC TRBN TRPT
 Thief in the Night|i@KM|cAPRC BASS EGTR JORG
+Thin|w@KM|hAPRC BASS EGTR
 Think About It|f@BT|sAPNO STRS SYNZ
 Thinking Out Loud|i@KM|nAPNO APRC EPRC STRS SYNZ TIMP
 Through The Woods|s@SI|hCLNT CLST FLUT HARP PIZZ
@@ -1250,6 +1255,7 @@ Thunderhead|i@KM|nAPRC
 Tikopia|i@KM|nAPRC
 Time Passes|i@KM|sAPNO FLUT HARP HORN STRS
 Time Travellin' Nancy|s@SI|hAPNO BASS EPRC VOCL
+Timewarp|w@BX|cBASS EPNO SYNZ
 Tiny Fugue|i@KM|nPORG
 To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
 Tonight At Eight|s@SI|hAPRC EPRC HORN STRS TRBN SYNZ
@@ -1257,6 +1263,7 @@ Tranquility|i@KM|cSYNZ
 Tranquility Base|i@KM|cBELL SYNZ
 Transition One|i@KM|cBELL CLNT FLUT GLCK HARP STRS
 Tremendum|s@SI|aEPRC STRS SYNZ VOCL
+Triangle|w@JS|rAGTR APNO APRC BASS CLNT EPNO SYNZ
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trip Up North|f@BT|hAGTR APRC BASS EGTR
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
@@ -1308,12 +1315,14 @@ Voltaic|i@KM|aEPRC SYNZ
 Vulcan|i@KM|fAPRC BELL FLUT
 Wagon Wheel|i@KM|hAPRC
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
+Waiting on Platform 9|w*imp*|fEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
 Wallpaper Paste|s@SI|hAPNO APRC HPRC MUTE SYNZ TUBA
 Walk Happy|s@SI|hAGTR APRC EGTR EPNO
 Walking Along|i@KM|cAPRC BASS VIBE
 Waltz - Tschikovsky Op. 40|i@KM & @PT|sAPNO
 Waltz Primordial |i@KM & @AN|sAPRC BASS EGTR
+Waltzing Marvin|w@AY|rAGTR APRC BASS STRS
 Water Droplets on the River|i@KM|rAPNO
 Water Prelude|i@KM|rBASN BELL CLST FLUT HARP STRS
 Waunobe March|i@KM|hAPRC CLNT FLUT GLCK SAXO TRBN TRPT TUBA
