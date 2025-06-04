@@ -529,7 +529,7 @@ Ghostpocalypse - 2 The Call|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
 Ghostpocalypse - 4 Temptress|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 5 Apotheosis|i@KM|fEPRC SYNZ
-Ghostpocalypse - 6 Crossing the Threshold|sAPNO BASS GLCK
+Ghostpocalypse - 6 Crossing the Threshold|i@KM|sAPNO BASS GLCK
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghostpocalypse - 8 Epilog|i@KM|sAPNO
 Give A Little|s@SI|hAPNO APRC BASS SAXO TRBN TRPT
