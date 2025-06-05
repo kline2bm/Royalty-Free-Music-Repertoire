@@ -68,8 +68,7 @@ As I Figure|i@KM|sAGTR APRC BASS EPNO SAXO
 Ascending the Vale|i@KM|cAPRC FLUT HARP HORN VOCL
 Ashton Manor|i@KM|rCLNT FLUT HARP STRS
 Asian Drums|i@KM|fAPRC BELL
-Asking Questions|f@RK|f
-// TODO: INST for ^^^ AQ ^^^
+Asking Questions|f@RK|fAPNO APRC BELL STRS SYNZ
 At Launch|i@KM|nAPRC CLNT FLUT HORN MUTE STRS TIMP TRBN TUBA
 At The Shore|i@KM|cAPRC BASS HORN VOCL
 Aurea Carmina|i@KM|hBASS EGTR EPRC HORN STRS SYNZ TRBN TRPT
