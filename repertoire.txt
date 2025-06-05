@@ -125,8 +125,8 @@ Blacksmith|f@AN|nAPRC DGDO ENST SITR STRS
 Bleeping Demo|i@KM|cAPRC SYNZ
 Blipotron|w@FN|nEPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
-Blippy Trance|f@KM|hSYNZ
-Blippy Trance|i@KM|hSYNZ
+Blippy Trance|f@KM|hEPRC SYNZ
+Blippy Trance|i@KM|hEPRC SYNZ
 Blobby Samba|i@KM|hBASS EFFX EPRC SYNZ
 Blood Eagle|f@AN|fAGTR APRC FLUT VOCL WHSL
 Blown Away|i@KM|aAPRC SYNZ
