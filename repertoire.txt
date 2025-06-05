@@ -1368,8 +1368,7 @@ With a Creation|i@KM|fEPNO EPRC
 Wizard Circus|f@KM & @SA|nAPRC HORN TRBN TRPT TUBA
 Womp|s@SI|aAPRC SYNZ
 Wonder Flow|w@KM|nAPRC BASS SYNZ
-Wood and Metal and Water|i@KM|c
-// TODO: INST for ^^^ WaMaW ^^^
+Wood and Metal and Water|i@KM|cAPRC BELL MRBA STRS SYNZ
 World Vice|i@KM|aAGTR APRC MRBA VOCL
 Xenon Sentry|s@SI|aEPRC SYNZ
 You, Yourself and the Main Character|w@KK|cEGTR
