@@ -141,6 +141,7 @@ Bollywood Groove|f@KM|fAPRC ENST STRS VOCL
 Bombay Summer|s@SI|fAPRC BASS FLUT SITR STRS
 Boogie Party|i@KM|hAPNO APRC BASS JORG
 Born Barnstomers|w@BB|hAGTR APRC BASS BNJO JORG MDLN
+Boss Battle|w@KM|aAPRC HORN STRS SYNZ TRBN
 Bossa Antigua|i@KM|cAGTR APRC BASS
 BossaBossa|i@KM|cAGTR APNO APRC BASS
 Bossy Boots|s@SI|nAPRC BASS EPNO JORG TRPT
@@ -368,6 +369,7 @@ Double O|i@KM|aEPRC JORG SYNZ VOCL
 Double Polka|i@KM|hACDN APRC TUBA
 Down Home Rockin|i@KM|hAPNO APRC BASS EGTR
 Down the river|w@KK|hAGTR BNJO
+Dragon Dance|w@RK|rAPNO APRC HORN STRS VOCL
 Dragon and Toast|i@KM|fAPRC BASN CLST DGOO HARP OBOE STRS
 Drankin Song|i@KM|cAGTR APRC BASS BNJO ENST STRS
 Dream Aeterna|s@SI|fAPRC BELL DULC EPRC STRS SYNZ VOCL
@@ -378,6 +380,7 @@ Dreamer|i@KM|cAPNO APRC
 Dreamlike|i@KM|fAPNO BELL OBOE STRS SYNZ
 Dreams of Vain|f@RK|fAPNO APRC SYNZ
 Dreamy Flashback|i@KM|rBELL HARP PIZZ
+Dreamy Piano Fantasy|w@RK|cAPNO APRC STRS VOCL
 Driving Concern|f@KM|nAPRC EPNO MRBA SYNZ
 Drone in D|i@KM|cAPNO SYNZ
 Drop Point|f@BT|aAPNO APRC MUTE SAXO TRBN TRPT
@@ -440,6 +443,7 @@ Exotics|i@KM|aAPNO APRC EPRC SYNZ
 Expeditionary|i@KM|fAPRC FLUT KLBA STRS
 Experimental Test Subject|f@KM|fAPRC SYNZ
 Eye of Forgiveness|f@RK|aAPRC STRS SYNZ
+Fairy Dance|w@RK|sCLST MRBA STRS
 Fairytale Waltz|i@KM|sCLST OBOE STRS
 Fanfare for Space|i@KM|hAPRC HORN STRS TIMP TRBN TRPT
 Fantasia Fantasia|i@KM|hEGTR EPRC SYNZ
@@ -524,6 +528,7 @@ Ghost Processional|i@KM|sBELL CLST PIZZ STRS
 Ghost Processional - Alternate|i@KM|sAPRC BELL CLST EFFX PIZZ STRS
 Ghost Story|i@KM|fAPNO APRC VIBE
 Ghost Town|f@RK|fAGTR APRC BASN BELL CLNT GLCK HARP HORN STRS XYLO
+Ghost Town|w@RK|fAGTR APRC BASN BELL CLNT GLCK HARP HORN STRS XYLO
 Ghostpocalypse - 1 Departure|i@KM|fSYNZ
 Ghostpocalypse - 2 The Call|i@KM|fAPNO APRC SYNZ
 Ghostpocalypse - 3 Road of Trials|i@KM|sAPNO SYNZ
@@ -605,6 +610,7 @@ Hit the Streets|i@KM|aAPRC
 Hit the Streets v2|i@KM|aAPRC
 Honey Bee|i@KM|hAPRC BASS EPNO TRPT
 Honor Bound|f@BT|aAPRC HORN STRS TRBN TRPT
+Horned Flute Chill|w@KM|cAGTR APRC BASS EPNO FLUT GLCK HORN
 Horns|f@KM|hAPRC BASS EGTR TRBN TRPT
 Horror_Spacial Winds|i@KM|cSYNZ
 Hot Pursuit|i@KM|aAPRC EGTR STRS
@@ -835,7 +841,6 @@ Mysterious String Quintet|s@SI|fDULC STRS
 Mystery Sax|i@KM|fAPRC SAXO SYNZ
 Mystery Sting|i@KM|nAPRC CLNT MRBA OBOE
 Mystic Force|i@KM|nAPRC BELL TUBA
-// TODO: mellotron better considered SYNZ than EPNO? iterate EPNO and change to SYNZ as needed; update MusicInfo.js accordingly
 Naraina|i@KM|aAPRC BASS ENST EPRC TRPT
 Native Dream|w*imp*|nAPRC STDR SYNZ
 Neo Western|i@KM|nAPRC EGTR SYNZ
@@ -1115,7 +1120,7 @@ Space Jazz|i@KM|hAPRC JORG SYNZ
 Spacedman|s@SI|cEPRC SYNZ
 Spacial Harvest|i@KM|fSYNZ
 Spacial Winds|w@KM|cSYNZ
-Speakeasy|s@SI|hAPRC BASS EFFX EPNO MUTE SAXO TRBN TUBA
+Speakeasy|s@SI|hAPRC BASS EFFX EGTR MUTE SAXO TRBN TUBA
 Spec Ops|f@RK|aSYNZ
 Spellbound|i@KM|fEGTR EPRC SYNZ VOCL
 Spider Eyes|i@KM|fAPNO BELL STRS
@@ -1252,10 +1257,11 @@ Through The Woods|s@SI|hCLNT CLST FLUT HARP PIZZ
 Thunder Dreams|i@KM|sSYNZ
 Thunderbird|i@KM|cAPRC FLUT SYNZ
 Thunderhead|i@KM|nAPRC
+Tiki Chanter|w@KM|fAPRC HORN VOCL
 Tikopia|i@KM|nAPRC
 Time Passes|i@KM|sAPNO FLUT HARP HORN STRS
 Time Travellin' Nancy|s@SI|hAPNO BASS EPRC VOCL
-Timewarp|w@BX|cBASS EPNO SYNZ
+Timewarp|w@BX|cBASS EPRC SYNZ
 Tiny Fugue|i@KM|nPORG
 To the Ends|i@KM|sBASN BELL CLNT OBOE STRS TRBN VOCL
 Tonight At Eight|s@SI|hAPRC EPRC HORN STRS TRBN SYNZ
@@ -1263,7 +1269,7 @@ Tranquility|i@KM|cSYNZ
 Tranquility Base|i@KM|cBELL SYNZ
 Transition One|i@KM|cBELL CLNT FLUT GLCK HARP STRS
 Tremendum|s@SI|aEPRC STRS SYNZ VOCL
-Triangle|w@JS|rAGTR APNO APRC BASS CLNT EPNO SYNZ
+Triangle|w@JS|rAGTR APNO APRC BASS EPNO SAXO SYNZ
 Trio for Piano Violin and Viola|i@KM|sAPNO STRS
 Trip Up North|f@BT|hAGTR APRC BASS EGTR
 Trips It|i@KM & @FC|aAPRC BASS EPNO SYNZ VOCL
@@ -1282,7 +1288,7 @@ Undaunted|i@KM|aAPNO EPRC SYNZ
 Underglow|s@SI|fSYNZ
 Unfolding Mirrors|s@SI|sAPNO STRS SYNZ
 Unity|i@KM|aAPNO EPRC KLBA
-Universal|i@KM|rAPNO BASS EPNO EPRC SYNZ
+Universal|i@KM|rAPNO BASS EPRC SYNZ
 Unnatural Situation|i@KM|fAPNO SYNZ
 Unpromised|i@KM|sAPRC FLUT HARP VOCL
 Unrelenting|i@KM|fSTRS VOCL
@@ -1329,6 +1335,7 @@ Waunobe March|i@KM|hAPRC CLNT FLUT GLCK SAXO TRBN TRPT TUBA
 We Got Trouble|i@KM|fAPRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
 Weight of Responsibility|i@KM|sHORN STRS TRBN TRPT TUBA
 Welcome to the Show|i@KM|hAPRC BASS EGTR SYNZ TRPT XYLO
+Well-tempered Raver|w@AY & @JB|aEPRC SYNZ
 Wepa|i@KM|nBASS EPRC STRS
 Werq|i@KM|hEPRC SYNZ
 Western Streets|i@KM|fAPRC BELL TIMP
@@ -1361,17 +1368,19 @@ With Regards|i@KM|rAGTR TRBN TUBA
 With a Creation|i@KM|fEPNO EPRC
 Wizard Circus|f@KM & @SA|nAPRC HORN TRBN TRPT TUBA
 Womp|s@SI|aAPRC SYNZ
+Wonder Flow|w@KM|nAPRC BASS SYNZ
 Wood and Metal and Water|i@KM|c
 // TODO: INST for ^^^ WaMaW ^^^
 World Vice|i@KM|aAGTR APRC MRBA VOCL
 Xenon Sentry|s@SI|aEPRC SYNZ
+You, Yourself and the Main Character|w@KK|cEGTR
 Your Call|i@KM|nAPRC BASS EGTR STRS SYNZ
 Zanzibar|i@KM|hAPRC MRBA VOCL
 Zap Beat|i@KM|aAPRC BASS EGTR JORG SYNZ
 Zazie|i@KM|hAPRC BASS EPNO TRPT VOCL
 Zebra Township|s@SI|hACDN AGTR APRC BASS TRPT VOCL
 Zen Garden|s@SI|nBELL ENST EPRC GLCK SYNZ
-ZigZag|i@KM|nAPRC BASS EGTR EPNO SYNZ
+ZigZag|i@KM|nAPRC BASS EGTR SYNZ
 Zombie Chase|i@KM|fAPNO APRC SYNZ
 a432|w@KM|cAPNO STRS
 // celestial claws|b@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
