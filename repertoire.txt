@@ -121,7 +121,7 @@ Birch Run|i@KM|nAPRC
 Bit Bit Loop|f@KM|aEPRC SYNZ
 Bit Shift|i@KM|hEPRC SYNZ
 Black Bird|i@KM|nAPRC HPRC
-Blacksmith|f@AN|nAPRC DGDOO ENST SITR STRS
+Blacksmith|f@AN|nAPRC DGDO ENST SITR STRS
 Bleeping Demo|i@KM|cAPRC SYNZ
 Blipotron|w@FN|nEPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
