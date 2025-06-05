@@ -403,7 +403,7 @@ Easy Lemon 60 second|i@KM|cAGTR APRC BASS CLST MRBA
 Eb Demo|w@KM|nAPNO EPRC
 Ebbs and Flows|f@KM|cAPNO SYNZ
 Ebbs and Flows|i@KM|cAPNO SYNZ
-// Echinoderm|i@BK & @KM|fAPRC CLST EFFX SYNZ TRBN
+// Echinoderm|b@BK & @KM|fAPRC CLST EFFX SYNZ TRBN
 Echoes of Time|i@KM|fBELL SYNZ
 Echoes of Time v2|i@KM|fSYNZ
 Ecossaise in E-flat|i@KM & @LB|hAPNO
