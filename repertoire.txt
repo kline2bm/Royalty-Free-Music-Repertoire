@@ -294,7 +294,7 @@ Dance Monster|i@KM|nAPNO EPRC SYNZ
 Dance of Deception|i@KM|fAPRC PORG
 Dance of the Turtle|w@KM|nBASN CLNT FLUT OBOE
 Dances and Dames|i@KM|fAPRC BASS EPNO VOCL
-Dancing at the Inn|f@KM|hAPRC ENWD TUBA
+Dancing at the Inn|f@KM|hAPRC ENWD HPCH TUBA
 Danger Storm|i@KM|aAGTR APRC SYNZ
 Dank Halloween|s@SI|aEPRC GLCK HPCH PORG STRS VOCL
 Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
