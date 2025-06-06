@@ -202,7 +202,7 @@ Celebration|f@AN|hAGTR APRC FLUT STRS
 Celtic Impulse|i@KM|nAPRC DULC HARP MDLN WHSL
 Cephalopod|i@KM|aAPRC GLCK HPRC SYNZ
 Chaise De l’Obscurité|s@SI|aEGTR EPRC HARP STRS SYNZ
-Champ de tournesol|f@KK|rAGTR EGTR
+Champ de tournesol|f@KK|rAGTR
 Chanter|i@KM|aAPRC ENST SYNZ VOCL
 Chase Pulse|i@KM|fAPRC SYNZ
 Chase Pulse Faster|i@KM|fAPRC SYNZ
