@@ -400,8 +400,8 @@ Easy Lemon|i@KM|cAGTR APRC BASS CLST MRBA
 Easy Lemon 30 second|i@KM|cAGTR BASS MRBA
 Easy Lemon 60 second|i@KM|cAGTR APRC BASS CLST MRBA
 Eb Demo|w@KM|nAPNO EPRC
-Ebbs and Flows|f@KM|cAPNO SYNZ
-Ebbs and Flows|i@KM|cAPNO SYNZ
+Ebbs and Flows|f@KM|cAPNO EFFX SYNZ
+Ebbs and Flows|i@KM|cAPNO EFFX SYNZ
 // Echinoderm|b@BK & @KM|fAPRC CLST EFFX SYNZ TRBN
 Echoes of Time|i@KM|fBELL SYNZ
 Echoes of Time v2|i@KM|fSYNZ
@@ -413,8 +413,8 @@ El Magicia|i@KM|aAGTR APRC EGTR
 Electro Cabello|i@KM|hEPRC SAXO SYNZ TRBN TRPT UKLE
 Electro Sketch|i@KM|aEPRC SYNZ
 Electrodoodle|i@KM|hEPRC SYNZ
-Elf Meditation|f@KM|cHARP STRS SYNZ
-Elf Meditation|i@KM|cHARP STRS SYNZ
+Elf Meditation|f@KM|cEFFX HARP STRS SYNZ
+Elf Meditation|i@KM|cEFFX HARP STRS SYNZ
 Enchanted Journey|i@KM|rHARP
 Enchanted Valley|i@KM|rCLNT CLST FLUT STRS
 Energizing|f@KM|cAPRC SYNZ
