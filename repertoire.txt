@@ -924,7 +924,6 @@ Overriding Concern|i@KM|fAPNO BELL EPRC GLCK SYNZ VOCL
 Overture|f@AN|hAPRC CLNT HORN PIZZ STRS TIMP TRBN
 Overture|i@KM|sAPNO
 Overworld|i@KM|fEPRC SYNZ
-Rains Will Fall|i@KM|sAPNO APRC STRS
 Padanaya Blokov|i@KM|nAPRC BASS ENST EPRC SYNZ
 Pagan Cross|s@SI|sWHSL
 Pale Rider|i@KM|rHARP
@@ -985,6 +984,7 @@ Radio Martini|i@KM|hAGTR APRC BASS CLNT FLUT PIZZ
 Rain|w@DR|cEPRC SYNZ
 Rain - remastered|w@DR|cEPRC SYNZ
 Rainbows|i@KM|hAPRC BASS MRBA UKLE
+Rains Will Fall|i@KM|sAPNO APRC STRS
 Ranz des Vaches|i@KM & @GR|cBASN FLUT OBOE PIZZ
 Raving Energy|i@KM|aEPRC SYNZ
 Raving Energy (faster)|i@KM|aEPRC SYNZ
