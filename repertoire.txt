@@ -441,7 +441,7 @@ Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Exotics|i@KM|aAPNO APRC EPRC SYNZ
 Expeditionary|i@KM|fAPRC FLUT KLBA STRS
 Experimental Test Subject|f@KM|fAPRC SYNZ
-Eye of Forgiveness|f@RK|aAPRC STRS SYNZ
+Eye of Forgiveness|f@RK|aAPRC ENST STRS
 Fairy Dance|w@RK|sCLST MRBA STRS
 Fairytale Waltz|i@KM|sCLST OBOE STRS
 Fanfare for Space|i@KM|hAPRC HORN STRS TIMP TRBN TRPT
