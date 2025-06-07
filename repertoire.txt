@@ -658,7 +658,7 @@ Inspirational Breakthrough|s@SI|rAPNO
 Inspired|i@KM|cAPRC EGTR SYNZ
 Intended Force|i@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Intended Force|w@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
-Interluder|w*imp*|fAPRC FLUT SYNZ
+Interluder|w*imp*|fAPRC EPRC FLUT SYNZ
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
 Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
