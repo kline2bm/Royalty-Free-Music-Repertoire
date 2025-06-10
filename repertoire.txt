@@ -1305,7 +1305,6 @@ Vegas Glitz|i@KM|hAPRC SAXO TRBN TRPT
 Verão|s@SI|hACDN APRC BASS EGTR SYNZ TRPT
 Vibe Ace|i@KM|hAPRC BASS SYNZ VIBE
 Vibing Over Venus|i@KM & @AG & @RE|cAPNO APRC BASS STRS VIBE
-// add Alice Goodworth and Radio Kilimanjaro Automaton Ensemble to escapeArtists in MusicInfo.js
 Vicious|i@KM|hEPRC SYNZ
 Village Consort|i@KM|hAGTR APRC PFLT WHSL
 Village Dawn|i@KM|hAPNO
