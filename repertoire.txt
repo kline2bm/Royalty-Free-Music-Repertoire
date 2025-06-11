@@ -802,7 +802,7 @@ Mistake the Getaway|i@KM|aAPRC EPRC HORN STRS TRBN TRPT
 Mister Exposition|i@KM|hAPNO TUBA
 Misuse|i@KM|fAPRC EPRC SYNZ VOCL
 // Modern Baroque|z@BK|nEPRC PORG
-Modern Island Jam|f@KM & @SA|hEPRC SYNZ
+Modern Island Jam|f@KM & @SA|hAPNO EPRC SYNZ
 Modern Jazz Samba|i@KM|nAGTR APNO APRC BASS FLUT
 Modern Piano Zeta - Improbable|i@KM|hAPNO
 Modern Vibes|i@KM|nVIBE
