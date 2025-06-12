@@ -123,8 +123,8 @@ Bit Shift|i@KM|hEPRC SYNZ
 Black Bird|i@KM|nAPRC HPRC
 Blacksmith|f@AN|nAPRC DGDO ENST SITR STRS
 Bleeping Demo|i@KM|cAPRC SYNZ
-Blipotron|w@FN|nEPRC SYNZ
 Blipotron|i@KM|fBASS EPRC SYNZ
+Blipotron|w@FN|nEPRC SYNZ
 Blippy Trance|f@KM|hEPRC SYNZ
 Blippy Trance|i@KM|hEPRC SYNZ
 Blobby Samba|i@KM|hBASS EFFX EPRC SYNZ
