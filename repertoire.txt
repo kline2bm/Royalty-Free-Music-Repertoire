@@ -1133,7 +1133,7 @@ Stars and Laurels|s@SI|aAPNO APRC STRS TRBN VOCL
 Starting Out Waltz Allegretto|i@KM|rAPNO APRC BASS
 Starting Out Waltz Vivace|i@KM|rAPNO APRC BASS
 Stay the Course|i@KM|fAPRC SYNZ
-Stereotype News|f@RK|hAPRC HORN STRS SYNZ
+Stereotype News|f@RK|hAPRC HORN STRS SYNZ TIMP
 Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
 Sticks and Tricks|w@KM|nAPRC MRBA SYNZ
 Still Pickin|f@KM|hACDN APRC BASS BNJO HMCA
