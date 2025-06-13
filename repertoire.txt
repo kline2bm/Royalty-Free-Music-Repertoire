@@ -1136,8 +1136,8 @@ Stay the Course|i@KM|fAPRC SYNZ
 Stereotype News|f@RK|hAPRC HORN STRS SYNZ TIMP
 Stealth Groover|i@KM|cAPNO APRC BASS EGTR SYNZ
 Sticks and Tricks|w@KM|nAPRC MRBA SYNZ
-Still Pickin|f@KM|hACDN APRC BASS BNJO HMCA
-Still Pickin|i@KM|hACDN APRC BASS BNJO HMCA
+Still Pickin|f@KM|hACDN APRC BASS BNJO HMCA STRS
+Still Pickin|i@KM|hACDN APRC BASS BNJO HMCA STRS
 Stompin at Midnight|f@KM & @SA|hAPRC BASS SAXO TRBN TRPT
 Stompin at Midnight - Vinyl Recording|f@KM & @SA|hAPRC BASS SAXO TRBN TRPT
 Stoneworld Battle|i@KM|fAPRC HORN STRS TIMP TRPT TUBA XYLO
