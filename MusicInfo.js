@@ -99,7 +99,7 @@ class MusicInfo {
    * \@EG Edvard H. Grieg                      \@ES Erik A. Satie               \@FC Frédéric F. Chopin   \@FG Fake Music Generator
    * \@FH F. Joseph Haydn                      \@FN Frank Nora                  \@GG George Gershwin      \@GH Gustav T. Holst
    * \@GR Gioachino A. Rossini                 \@JB Johann S. Bach              \@JC John M. Cage         \@JG John Gavins
-   * \@JN John Newton                          \@JP Johann Pachelbel            \@JS James Scott          \@KF Knight of Fire
+   * \@JN John Newton                          \@JP Johann Pachelbel            \@JS James S. Scott       \@KF Knight of Fire
    * \@KK Komiku                               \@KM Kevin MacLeod               \@LB Ludwig van Beethoven \@LV LibriVox
    * \@MF Max Fedorov                          \@MM Modest P. Mussorgsky        \@MO MusOpen              \@PB Pixabay
    * \@PG Peter Gresser                        \@PS Phase Shift                 \@PT Pyotr I. Tchaikovsky \@RB R. Luigi Boccherini
@@ -121,7 +121,7 @@ class MusicInfo {
       .replaceAll("@FN", "Frank Nora")                  .replaceAll("@GG", "George Gershwin")                      .replaceAll("@GH", "Gustav T. Holst")
       .replaceAll("@GR", "Gioachino A. Rossini")        .replaceAll("@JB", "Johann S. Bach")                       .replaceAll("@JC", "John M. Cage")
       .replaceAll("@JG", "John Gavins")                 .replaceAll("@JN", "John Newton")                          .replaceAll("@JP", "Johann Pachelbel")
-      .replaceAll("@JS", "James Scott")                 .replaceAll("@KF", "Knight of Fire")                       .replaceAll("@KK", "Komiku")
+      .replaceAll("@JS", "James S. Scott")              .replaceAll("@KF", "Knight of Fire")                       .replaceAll("@KK", "Komiku")
       .replaceAll("@KM", "Kevin MacLeod")               .replaceAll("@LB", "Ludwig van Beethoven")                 .replaceAll("@LV", "LibriVox")
       .replaceAll("@MF", "Max Fedorov")                 .replaceAll("@MM", "Modest P. Mussorgsky")                 .replaceAll("@MO", "MusOpen")
       .replaceAll("@PB", "Pixabay")                     .replaceAll("@PG", "Peter Gresser")                        .replaceAll("@PS", "Phase Shift")
