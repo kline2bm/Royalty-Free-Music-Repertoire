@@ -1310,7 +1310,7 @@ Village Consort|i@KM|hAGTR APRC PFLT WHSL
 Village Dawn|i@KM|hAPNO
 Virtutes Instrumenti|i@KM|sSTRS
 Virtutes Vocis|i@KM|sVOCL
-Vivace Momentum|f@KM & @SA|hSTRS
+Vivace Momentum|f@KM & @SA|rSTRS
 Vivacity|i@KM|hAPRC BASS JORG VIBE
 Voice Over Under|i@KM|hAPRC HPRC SYNZ
 Void Glider|s@SI|fSYNZ
