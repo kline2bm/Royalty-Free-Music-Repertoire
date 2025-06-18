@@ -47,8 +47,8 @@ Ancient Mystery Waltz Presto|i@KM|aAPRC MRBA VOCL
 Ancient Mystery Waltz Vivace|i@KM|fAPRC MRBA VOCL
 Ancient Rite|f@KM|sAPRC STRS VOCL
 Ancient Rite|i@KM|sAPRC STRS VOCL
-Ancient Winds|f@KM|cHARP STRS SYNZ
-Ancient Winds|i@KM|cHARP STRS SYNZ
+Ancient Winds|f@KM|cEFFX HARP STRS SYNZ
+Ancient Winds|i@KM|cEFFX HARP STRS SYNZ
 And Awaken|i@KM|cCLNT HARP HORN STRS
 Andreas Theme|i@KM|rAPRC BASS EPNO PFLT SYNZ
 Angevin|i@KM|sAPRC ENST FLUT VOCL
