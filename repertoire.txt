@@ -656,8 +656,8 @@ Infinite Wonder|f@KM|cSYNZ
 Inner Light|i@KM|rAPRC BASS DULC GLCK VOCL
 Inspirational Breakthrough|s@SI|rAPNO
 Inspired|i@KM|cAPRC EGTR SYNZ
+Indended Force|w@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Intended Force|i@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
-Intended Force|w@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Interluder|w*imp*|fAPRC EPRC FLUT SYNZ
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
