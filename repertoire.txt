@@ -45,8 +45,8 @@ Anamalie|i@KM|sAGTR APNO APRC BASS CLNT OBOE
 Ancient Mystery Waltz Allegro|i@KM|fAPRC MRBA VOCL
 Ancient Mystery Waltz Presto|i@KM|aAPRC MRBA VOCL
 Ancient Mystery Waltz Vivace|i@KM|fAPRC MRBA VOCL
-Ancient Rite|f@KM|sAPRC STRS
-Ancient Rite|i@KM|sAPRC STRS
+Ancient Rite|f@KM|sAPRC STRS VOCL
+Ancient Rite|i@KM|sAPRC STRS VOCL
 Ancient Winds|f@KM|cHARP STRS SYNZ
 Ancient Winds|i@KM|cHARP STRS SYNZ
 And Awaken|i@KM|cCLNT HARP HORN STRS
