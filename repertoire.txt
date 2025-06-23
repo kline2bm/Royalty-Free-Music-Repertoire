@@ -193,7 +193,7 @@ Canon in D for Two Renaissance Harps|i@KM & @JP|rHARP
 Cantina Blues|i@KM|nAPRC BASS ENST VOCL
 Captain Scurvy|i@KM|nEPRC SYNZ
 Careless Riot|w@KM & @FG|sAPNO
-Carpe Diem|i@KM|hAGTR APRC BASS CLNT FLUT UKLE XYLO
+Carpe Diem|i@KM|hAGTR APRC BASS CLNT CLST FLUT UKLE
 Cartoon Battle|i@KM|aAPRC MUTE SAXO TRBN TUBA
 Cattails|i@KM|rACDN AGTR BNJO ENST STRS
 // Celebration Rock|z@BK|hAPRC EGTR SITR
