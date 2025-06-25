@@ -226,7 +226,7 @@ Chipper Doodle|i@KM|hAPNO EPRC SYNZ
 Chipper Doodle v2|i@KM|hAPNO EPRC SYNZ
 Chrome Zone|s@SI|hEPRC SYNZ
 Chronos|f@AN|nAPNO EPRC SYNZ
-Cipher2|i@KM|hAPRC EPNO STRS SYNZ
+Cipher2|i@KM|hEPNO EPRC STRS SYNZ
 Circus Waltz FX|i@KM|hAPNO
 Circus of Freaks|f@KM|aAPRC CLNT FLUT TRBN TRPT TUBA XYLO
 Circus of Freaks|i@KM|aAPRC CLNT FLUT TRBN TRPT TUBA XYLO
