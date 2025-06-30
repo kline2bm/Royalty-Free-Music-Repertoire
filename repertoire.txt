@@ -279,7 +279,7 @@ Crusade|i@KM|sAPRC HORN STRS TRBN TRPT
 Crusade - Heavy Industry|i@KM|sAPRC HORN STRS TRBN TRPT TUBA
 Crypto|i@KM|fAPRC FLUT SYNZ
 Crystal Bungalow|w@KM|hVIBE
-Cuban Sandwich|i@KM|cAPNO APRC BASS
+Cuban Sandwich|i@KM|nAPNO APRC BASS
 CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 CumbiaNoFrillsFaster|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 Cupids Revenge|i@KM|nEPRC STRS VOCL
