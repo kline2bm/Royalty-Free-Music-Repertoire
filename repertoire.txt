@@ -283,7 +283,7 @@ Cuban Sandwich|i@KM|nAPNO APRC BASS
 CumbiaNoFrills|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 CumbiaNoFrillsFaster|i@KM|nAGTR APNO APRC BASS FLUT JORG SAXO TRPT
 Cupids Revenge|i@KM|nEPRC STRS VOCL
-Curse of the Scarab|i@KM|aAPRC FLUT HORN OBOE STRS XYLO
+Curse of the Scarab|i@KM|aAPRC CLNT FLUT HORN OBOE STRS XYLO
 Cut and Dry|i@KM|hAPRC EPRC SYNZ
 Cut and Run|i@KM|nEPRC HPRC SYNZ
 Cyborg Ninja|i@KM|aEPRC SYNZ
