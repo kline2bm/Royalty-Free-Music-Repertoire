@@ -298,8 +298,8 @@ Dancing at the Inn|f@KM|hAPRC ENWD HPCH TUBA
 Danger Storm|i@KM|aAGTR APRC SYNZ
 Dank Halloween|s@SI|aEPRC GLCK HPCH PORG STRS VOCL
 Danse Macabre|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
-Danse Macabre Isolated Harp|i@KM & @CS|rHARP
-Danse Macabre No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
+Danse Macabre - Isolated Harp|i@KM & @CS|rHARP
+Danse Macabre - No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Morialta|i@KM|rAPNO
 Danse of Questionable Tuning|i@KM|sAPNO STRS
 Dark 'n' Stormy|s@SI|aAPRC BASS EGTR JORG SYNZ
