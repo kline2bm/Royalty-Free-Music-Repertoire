@@ -303,7 +303,7 @@ Danse Macabre - No Violin|i@KM & @CS|fAPRC BASN CLNT FLUT HARP HORN OBOE PIZZ ST
 Danse Morialta|i@KM|rAPNO
 Danse of Questionable Tuning|i@KM|sAPNO STRS
 Dark 'n' Stormy|s@SI|aAPRC BASS EGTR JORG SYNZ
-Dark Dance|i@KM|fAPNO FLUT GLCK STRS TRBN TUBA
+Dark Dance|i@KM|fAPNO FLUT GLCK STRS TIMP TRBN TUBA
 Dark Flashes|s@SI & @BE|aAPNO BASS EPRC FLUT SYNZ
 Dark Fog|i@KM|sAPRC SYNZ
 Dark Pad|i@KM|cSYNZ
