@@ -331,7 +331,7 @@ Delay Rock|i@KM|hAPRC BASS EGTR
 Deliberate Thought|i@KM|cSYNZ VOCL
 Delightful D|i@KM|hEPRC SYNZ
 Depth Of Focus|s@SI|sAPNO STRS
-Derp Nugget|i@KM|hAPRC BASS ENST SYNZ
+Derp Nugget|i@KM|hAPRC BASS DULC SYNZ
 Desert City|i@KM|cAPRC DULC
 Desert Conflict|f@RK|fAPRC ENST ENWD FLUT STRS SYNZ
 Desert Fox|f@RK|fAPRC ENST ENWD KLBA STRS
