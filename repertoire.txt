@@ -390,7 +390,7 @@ Dubakupado|i@KM|nAPRC MRBA
 Dvorak Polka|i@KM|hACDN APRC TUBA
 // E-OPS|b@BK|nEPRC JORG SYNZ VOCL
 EDM Detection Mode|i@KM|aEPRC SYNZ
-Early Riser|i@KM|aEPRC SYNZ
+Early Riser|i@KM|aEPRC HPRC SYNZ
 Earnest|i@KM|sAPNO
 Earth Prelude|i@KM|cAPNO BASN CLNT FLUT MRBA OBOE STRS SYNZ XYLO
 Eastern Thought|i@KM|fAPRC ENST STDR STRS
