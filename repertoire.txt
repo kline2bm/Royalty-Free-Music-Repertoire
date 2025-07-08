@@ -345,7 +345,7 @@ Devonshire Waltz Andante|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
 Devonshire Waltz Moderato|i@KM|rAPNO APRC BASS CLNT FLUT HARP HORN PIZZ TRPT
 Dewdrop Fantasy|i@KM|cEFFX SYNZ
 Diaphanous|s@SI|cSYNZ
-Digital Lemonade|i@KM|hAPRC SYNZ
+Digital Lemonade|i@KM|hEPRC SYNZ
 Digya|i@KM|nAPRC BASS ENST MRBA
 Dire Space Emergency|s@SI|fEPRC SYNZ
 Dirt Rhodes|i@KM|cEPNO EPRC
