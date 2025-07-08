@@ -421,7 +421,7 @@ Energizing|f@KM|cAPRC SYNZ
 Energizing|i@KM|cAPRC SYNZ
 Enigma|i@KM|fAPRC BASS EPNO SAXO STRS TRBN TRPT
 Enter the Maze|i@KM|fAPRC HORN SYNZ
-Enter the Party|i@KM|nEPRC JORG SYNZ
+Enter the Party|i@KM|nAPRC JORG SYNZ
 Envision|i@KM|fEGTR SYNZ
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
 Errigal|i@KM|hDULC
