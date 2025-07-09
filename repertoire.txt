@@ -426,7 +426,7 @@ Envision|i@KM|fEGTR SYNZ
 Equatorial Complex|i@KM|cEPNO SYNZ VOCL
 Errigal|i@KM|hDULC
 Eternity|i@KM|rAPRC BASS EGTR EPNO SYNZ
-Ether Disco|i@KM|hAPRC BASS EGTR GLCK STRS
+Ether Disco|i@KM|hAPRC BASS EGTR EPRC GLCK STRS
 Ether Vox|i@KM|rAPRC EGTR EPNO SYNZ VOCL
 Ethereal Relaxation|i@KM|cSTDR STRS
 Ethernight Club|i@KM|nBELL EPRC MRBA SYNZ
