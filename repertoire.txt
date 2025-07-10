@@ -520,6 +520,7 @@ Galway|i@KM|hAGTR APRC BASS FLUT STRS
 Gansta Badger|w@KM|nEPRC STRS SYNZ
 Garden Music|i@KM|cAPNO SYNZ
 Gaslamp Funworks|i@KM|hAPRC EFFX GLCK HORN STRS TRBN TRPT TUBA XYLO
+George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
 Germ Factory|w*imp*|fEFFX SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
@@ -537,7 +538,6 @@ Ghostpocalypse - 6 Crossing the Threshold|i@KM|sAPNO BASS GLCK
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghostpocalypse - 8 Epilog|i@KM|sAPNO
 Give A Little|s@SI|hAPNO APRC BASS SAXO TRBN TRPT
-George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
 Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR TRPT SAXO
 Global Resonance|w@KF|nAPRC SYNZ
 Gloom Horizon|i@KM|sAPRC STRS
