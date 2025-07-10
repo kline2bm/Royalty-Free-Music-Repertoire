@@ -436,7 +436,7 @@ Evening Fall - Piano|i@KM|sAPNO
 Evening Melodrama|i@KM|hAPRC CLNT FLUT HORN STRS TIMP TRBN TRPT
 Ever Mindful|i@KM|cCLNT FLUT STRS VOCL
 Exciting Trailer|i@KM|aAPRC FLUT GLCK HORN STRS TRBN TRPT TUBA
-Exit the Premises|i@KM|hAPRC SYNZ
+Exit the Premises|i@KM|aAPRC EPRC SYNZ
 Exotic Battle|i@KM|aAPRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Exotics|i@KM|aAPNO APRC EPRC SYNZ
 Expeditionary|i@KM|fAPRC FLUT KLBA STRS
