@@ -468,11 +468,11 @@ Fig Leaf Rag - distressed|i@KM & @SJ|hAPNO
 Fig Leaf Times Two|i@KM & @SJ|hAPNO
 Filthy|w@KK|fAPRC BASS EGTR SYNZ
 Finally See The Light|f@BT|hAPRC BASS EPNO TRBN TRPT
-Finding Movement|i@KM|cENST STRS
-Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Final Battle of the Dark Wizards|i@KM|fAPRC EPRC HORN STRS SYNZ TRPT VOCL
 Final Count|i@KM & @FC|fAPNO APRC PORG TIMP TRBN VOCL
 Final Step|f@RK|fAPRC SYNZ
+Finding Movement|i@KM|cENST STRS
+Finding the Balance|i@KM|nAGTR APRC BASS ENWD EPRC STDR SYNZ VOCL
 Fire Prelude|i@KM|fAPRC MRBA STRS SYNZ TIMP
 Firebrand|i@KM|aAPRC
 Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
