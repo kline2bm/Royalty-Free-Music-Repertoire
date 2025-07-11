@@ -478,7 +478,7 @@ Firebrand|i@KM|aAPRC
 Fireflies and Stardust|i@KM|rAGTR APRC BASS BNJO MDLN STRS
 Firesong|i@KM|nAPRC
 Firmament|i@KM|nAPRC BASS EGTR JORG
-Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT
+Five Armies|i@KM|aAPRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT XYLO
 Five Card Shuffle|i@KM|hAPNO
 Flight Of The Swift|s@SI|nAPNO APRC BASS BELL EGTR SYNZ
 Floating Cities|i@KM|sAPRC SYNZ
