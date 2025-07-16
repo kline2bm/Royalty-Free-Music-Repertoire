@@ -1238,7 +1238,7 @@ The Range|f@RK|hAPRC HORN STRS
 The Right Direction|s@SI|hAPRC EGTR SYNZ
 The Rule|i@KM|hBELL HORN TIMP TRBN TRPT TUBA
 The Second Coming|i@KM & @LV & @WY|fAPRC HORN STRS TRBN VOCL
-The Second Coming Instrumental|i@KM|fAPRC HORN STRS TRBN
+The Second Coming - Instrumental|i@KM|fAPRC HORN STRS TRBN
 The Snow Queen|i@KM|fBASN CLNT CLST FLUT PIZZ STRS TIMP
 The Story|f@AN|sAPNO APRC HORN STRS XYLO
 The View Across|w@KM|cAPRC BASS ENST
