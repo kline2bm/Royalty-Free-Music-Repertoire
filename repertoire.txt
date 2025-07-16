@@ -494,7 +494,7 @@ Forest Night|f@PS|cAPRC BELL EFFX HARP STRS SYNZ VOCL
 Fork and Spoon|i@KM|hAPRC BASS EPNO JORG
 Four Beers Polka|i@KM|hACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|i@KM|hAPRC FLUT PIZZ STRS
-Freddys Menagerie|i@KM|aAGTR APRC MRBA
+Freddys Menagerie|i@KM|aAGTR APRC MRBA VOCL
 Freezing Winds|w@KF|fAGTR EFFX SYNZ
 Fright Night Twist|f@BT|fAPRC BASS EGTR JORG TRPT
 Frogs Legs Rag|f@KM & @JS|hAPNO
