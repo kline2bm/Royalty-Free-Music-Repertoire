@@ -510,7 +510,7 @@ Funkeriffic|f@KM|nAPNO APRC BASS EGTR JORG
 Funky Boxstep|i@KM|hAPRC BASS EGTR JORG
 Funky Energy Loop|f@KM|nAPRC BASS
 Funky Chunk|i@KM|hAPRC BASS EGTR EPNO SYNZ TRPT
-Furious Freak|i@KM|aAPRC EPNO SYNZ
+Furious Freak|i@KM|aEPNO EPRC SYNZ
 Future Cha Cha|i@KM|nBELL EPRC SYNZ VOCL
 Future Gladiator|i@KM|aAPRC BASS HPRC SYNZ
 Fuzzball Parade|i@KM|hAPRC PIZZ
