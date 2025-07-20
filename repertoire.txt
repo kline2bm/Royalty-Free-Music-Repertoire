@@ -538,7 +538,7 @@ Ghostpocalypse - 6 Crossing the Threshold|i@KM|sAPNO BASS GLCK
 Ghostpocalypse - 7 Master|i@KM|aAPRC SYNZ
 Ghostpocalypse - 8 Epilog|i@KM|sAPNO
 Give A Little|s@SI|hAPNO APRC BASS SAXO TRBN TRPT
-Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR TRPT SAXO
+Glee Club Polka|i@KM|hAGTR APRC BASS CLNT EGTR SAXO TRPT
 Global Resonance|w@KF|nAPRC SYNZ
 Gloom Horizon|i@KM|sAPRC STRS
 Gm115|w@KM|sAPNO APRC SYNZ
