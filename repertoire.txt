@@ -571,7 +571,7 @@ Guzheng City|i@KM|cAPRC ENST
 Gymnopedie No 1|i@KM & @ES|rAPNO
 Gymnopedie No 2|i@KM & @ES|rAPNO
 Gymnopedie No 3|i@KM & @ES|rAPNO
-Gypsy Shoegazer|i@KM|sAGTR APNO APRC HPRC TRBN
+Gypsy Shoegazer|i@KM|sAGTR APNO APRC HPRC TRBN VOCL
 Gypsy Shoegazer No Voices|i@KM|sAGTR APNO APRC HPRC TRBN
 HOLY MOLY|s@SI|aEPRC MRBA SYNZ
 Hackbeat|i@KM|hAGTR APRC BASS
