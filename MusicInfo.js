@@ -28,25 +28,25 @@ class MusicInfo {
   
   // {Map<string, string>} artist abbreviation -> full name
   static ATS = Object.freeze(new Map([
-    ["AA", "Adolphe C. Adam"],      ["AN", "Alexander Nakarada"],          ["AF", "Arthur Fordsworthy"],
-    ["AG", "Alice Goodworth"],      ["AY", "Anonymous"],                   ["BB", "Brian Boyko"],
-    ["BD", "Brett Van Donsel"],     ["BE", "L. Bix Beiderbecke"],          ["BK", "Bryce M. Kline"],
-    ["BP", "Barney Peterson"],      ["BT", "Bryan Teoh"],                  ["BX", "boringXtreme"],
-    ["CL", "Calixa Lavallée"],      ["CS", "Charles-Camille Saint-Saëns"], ["DR", "Dom Raven"],
-    ["DS", "dogsounds"],            ["EG", "Edvard H. Grieg"],             ["ES", "Erik A. Satie"],
-    ["FC", "Frédéric F. Chopin"],   ["FG", "Fake Music Generator"],        ["FH", "F. Joseph Haydn"],
-    ["FN", "Frank Nora"],           ["GG", "George Gershwin"],             ["GH", "Gustav T. Holst"],
-    ["GR", "Gioachino A. Rossini"], ["JB", "Johann S. Bach"],              ["JC", "John M. Cage"],
-    ["JG", "John Gavins"],          ["JN", "John Newton"],                 ["JP", "Johann Pachelbel"],
-    ["JS", "James S. Scott"],       ["KF", "Knight of Fire"],              ["KK", "Komiku"],
-    ["KM", "Kevin MacLeod"],        ["LB", "Ludwig van Beethoven"],        ["LV", "LibriVox"],
-    ["MF", "Max Fedorov"],          ["MM", "Modest P. Mussorgsky"],        ["MO", "MusOpen"],
-    ["PB", "Pixabay"],              ["PG", "Peter Gresser"],               ["PS", "Phase Shift"],
-    ["PT", "Pyotr I. Tchaikovsky"], ["RB", "R. Luigi Boccherini"],         ["RE", "Radio Kilimanjaro Automaton Ensemble"],
-    ["RK", "Rafael Krux"],          ["SA", "Suno AI"],                     ["SB", "Samuel O. Barber"],
-    ["SI", "Shane Ivers"],          ["SJ", "Scott Joplin"],                ["TM", "Thundermine"],
-    ["TR", "Traditional"],          ["WM", "Wolfgang A. Mozart"],          ["WY", "William B. Yeats"],
-    ["YS", "Johannes Schroll"]
+    ["AA", "Adolphe C. Adam"],                      ["AN", "Alexander Nakarada"],          ["AF", "Arthur Fordsworthy"],
+    ["AG", "Alice Goodworth"],                      ["AY", "Anonymous"],                   ["BB", "Brian Boyko"],
+    ["BD", "Brett Van Donsel"],                     ["BE", "L. Bix Beiderbecke"],          ["BK", "Bryce M. Kline"],
+    ["BP", "Barney Peterson"],                      ["BT", "Bryan Teoh"],                  ["BX", "boringXtreme"],
+    ["CL", "Calixa Lavallée"],                      ["CS", "Charles-Camille Saint-Saëns"], ["DR", "Dom Raven"],
+    ["DS", "dogsounds"],                            ["EG", "Edvard H. Grieg"],             ["ES", "Erik A. Satie"],
+    ["FC", "Frédéric F. Chopin"],                   ["FG", "Fake Music Generator"],        ["FH", "F. Joseph Haydn"],
+    ["FN", "Frank Nora"],                           ["GG", "George Gershwin"],             ["GH", "Gustav T. Holst"],
+    ["GR", "Gioachino A. Rossini"],                 ["IM", "*imp*"],                       ["JB", "Johann S. Bach"],
+    ["JC", "John M. Cage"],                         ["JG", "James Gavins"],                ["JN", "John Newton"],
+    ["JP", "Johann Pachelbel"],                     ["JS", "James S. Scott"],              ["KF", "Knight of Fire"],
+    ["KK", "Komiku"],                               ["KM", "Kevin MacLeod"],               ["LB", "Ludwig van Beethoven"],
+    ["LV", "LibriVox"],                             ["MF", "Max Fedorov"],                 ["MM", "Modest P. Mussorgsky"],
+    ["MO", "MusOpen"],                              ["PB", "Pixabay"],                     ["PG", "Peter Gresser"],
+    ["PS", "Phase Shift"],                          ["PT", "Pyotr I. Tchaikovsky"],        ["RB", "R. Luigi Boccherini"],
+    ["RE", "Radio Kilimanjaro Automaton Ensemble"], ["RK", "Rafael Krux"],                 ["SA", "Suno AI"],
+    ["SB", "Samuel O. Barber"],                     ["SI", "Shane Ivers"],                 ["SJ", "Scott Joplin"],
+    ["TM", "Thundermine"],                          ["TR", "Traditional"],                 ["WM", "Wolfgang A. Mozart"],
+    ["WY", "William B. Yeats"],                     ["YS", "Johannes Schroll"]
   ]));
   
   // {Map<string, string>} instrument abbreviation -> full name
