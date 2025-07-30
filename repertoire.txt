@@ -11,7 +11,7 @@ Achaidh Cheide|i@KM|nAPRC DULC HARP MDLN STRS WHSL
 Achilles|i@KM|nAPRC HORN STRS TRBN TRPT
 Acid Beat|w@FN|nEPRC SYNZ
 AcidJazz|i@KM|nAPRC BASS EPNO MUTE
-Acoustic Shifter|w*imp*|nAGTR APRC SYNZ
+Acoustic Shifter|w@IM|nAGTR APRC SYNZ
 Action Introduction|w@KK|aBELL EPRC SYNZ
 Action Investigation|w@KK|cEPRC
 Adding the Sun|f@KM|rAPRC BASS EPRC VOCL
@@ -521,7 +521,7 @@ Gansta Badger|w@KM|nEPRC STRS SYNZ
 Garden Music|i@KM|cAPNO SYNZ
 Gaslamp Funworks|i@KM|hAPRC EFFX GLCK HORN STRS TRBN TRPT TUBA XYLO
 George Street Shuffle|i@KM|hAPNO APRC BASS VIBE
-Germ Factory|w*imp*|fEFFX SYNZ
+Germ Factory|w@IM|fEFFX SYNZ
 Getting it Done|i@KM|hAPRC SYNZ
 Ghost Dance|i@KM|fAPNO APRC FLUT HORN STRS
 Ghost Processional|i@KM|sBELL CLST PIZZ STRS
@@ -600,7 +600,7 @@ Hexxit DRAVE Symphonie|w@YS|nHARP STRS
 Hidden Past|i@KM|sAPRC BGPS SYNZ
 Hiding Your Reality|i@KM|fAPRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|i@KM|nBASS EGTR EPRC HPRC SAXO TRPT
-Hilary's Walk in the Woods|w*imp*|nAGTR APRC EFFX
+Hilary's Walk in the Woods|w@IM|nAGTR APRC EFFX
 // TODO: more INST for ^^^ HWitW ^^^
 Hillbilly Swing|f@KM|hAGTR BASS BNJO HPRC PIZZ
 Hillbilly Swing|i@KM|hAGTR BASS BNJO HPRC PIZZ
@@ -658,7 +658,7 @@ Inspirational Breakthrough|s@SI|rAPNO
 Inspired|i@KM|cAPRC EGTR SYNZ
 Indended Force|w@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Intended Force|i@KM|aCLNT GLCK HARP HORN STRS TIMP TRBN TRPT
-Interluder|w*imp*|fAPRC EPRC FLUT SYNZ
+Interluder|w@IM|fAPRC EPRC FLUT SYNZ
 // Interplanetary Mystery|b@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|b@BK|nSYNZ
 Intractable|i@KM|sAPRC BASS EPNO TRPT VIBE
@@ -841,7 +841,7 @@ Mystery Sax|i@KM|fAPRC SAXO SYNZ
 Mystery Sting|i@KM|nAPRC CLNT MRBA OBOE
 Mystic Force|i@KM|nAPRC BELL TUBA
 Naraina|i@KM|aAPRC BASS ENST EPRC TRPT
-Native Dream|w*imp*|nAPRC STDR SYNZ
+Native Dream|w@IM|nAPRC STDR SYNZ
 Neo Western|i@KM|nAPRC EGTR SYNZ
 Neon Laser Horizon|i@KM|hEPRC SYNZ
 Neon Noir|s@SI|fEPNO EPRC SYNZ
@@ -1319,7 +1319,7 @@ Voltaic|i@KM|aEPRC SYNZ
 Vulcan|i@KM|fAPRC BELL FLUT
 Wagon Wheel|i@KM|hAPRC
 Wagon Wheel - Electronic|i@KM|hEPRC SYNZ
-Waiting on Platform 9|w*imp*|fEPRC SYNZ
+Waiting on Platform 9|w@IM|fEPRC SYNZ
 Wallpaper|i@KM|hAGTR APRC SYNZ
 Wallpaper Paste|s@SI|hAPNO APRC HPRC MUTE SYNZ TUBA
 Walk Happy|s@SI|hAGTR APRC EGTR EPNO
