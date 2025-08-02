@@ -1,10 +1,10 @@
 120 Monster|WN KM APNO EPRC
 2006-June-26|WN KM APNO
 A Good Bass for Gambling|FN KK APRC BASS EGTR
-// A Long Day of Fun|zC BK AGTR APRC
+// A Long Day of Fun|ZC BK AGTR APRC
 A Mission|IN KM CLNT FLUT STRS TRBN TUBA
 A Waltz For Naseem|FR DS APNO APRC CLNT GLCK HORN STRS
-// Abrasive Accordion|zA BK ACDN APRC
+// Abrasive Accordion|ZA BK ACDN APRC
 Accralate|IC KM APRC MRBA
 Aces High|IH KM APRC BASS EPNO JORG
 Achaidh Cheide|IN KM APRC DULC HARP MDLN STRS WHSL
@@ -18,7 +18,7 @@ Adding the Sun|FR KM APRC BASS EPRC VOCL
 Adding the Sun|IR KM APRC BASS EPRC VOCL
 Adventure|FH RK APRC HORN STRS
 Adventures in Adventureland|IH KM APRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
-// African Rag|zH BK APNO APRC SYNZ
+// African Rag|ZH BK APNO APRC SYNZ
 Against Time|SA SI APNO APRC BASS STRS SYNZ
 Agnus Dei X|IS KM SB PORG VOCL
 AhDah|IC KM EPNO EPRC JORG SYNZ VOCL
@@ -55,7 +55,7 @@ Angevin|IS KM APRC ENST FLUT VOCL
 Angevin B|IN KM APRC ENST FLUT VOCL
 AngloZulu|IH KM APRC FLUT HORN KLBA OBOE STRS TRBN TUBA VOCL
 Anguish|IS KM AGTR APRC HARP SYNZ
-// Another Sunny Day|zH BK APRC EGTR SYNZ
+// Another Sunny Day|ZH BK APRC EGTR SYNZ
 Apero Hour|IH KM AGTR APRC BASS JORG
 Aquarium|FR KM CS APNO FLUT GLCK STRS
 Aquarium|IR KM CS APNO FLUT GLCK STRS
@@ -135,7 +135,7 @@ Blue Feather|IS KM APNO
 Blue Paint|IC KM APNO
 Blue Ska|IH KM APRC BASS EGTR JORG SAXO TRBN TRPT
 Blue Scorpion|IA KM APRC DULC EGTR EPRC KLBA SYNZ
-// Blues 'n' Noise|zA BK AGTR APRC TUBA
+// Blues 'n' Noise|ZA BK AGTR APRC TUBA
 Bollywood Groove|FF KM APRC ENST STRS VOCL
 Bombay Summer|SF SI APRC BASS FLUT SITR STRS
 Boogie Party|IH KM APNO APRC BASS JORG
@@ -171,24 +171,24 @@ Canon In D For 8 Bit Synths|IH KM JP SYNZ
 Canon In D Interstellar Mix|IH KM JP EPRC SYNZ
 Canon in D Major|IR KM JP HARP STRS
 Canon in D for Autoharp|IR KM JP DULC
-// Canon in D for General MIDI Bass|zE BK JP BASS SYNZ
-// Canon in D for General MIDI Brass|zE BK JP HORN MUTE TRBN TRPT TUBA
+// Canon in D for General MIDI Bass|ZE BK JP BASS SYNZ
+// Canon in D for General MIDI Brass|ZE BK JP HORN MUTE TRBN TRPT TUBA
 // TODO: adjust string format for my music
-// Canon in D for General MIDI Chromatic Percussion|z@BK & JP|eBELL CLST DULC GLCK MRBA MUBX VIBE XYLO
-// Canon in D for General MIDI Drums|z@BK & @JP|eAPRC BELL EPRC TIMP
-// Canon in D for General MIDI Ensemble|z@BK & @JP|eSTRS SYNZ VOCL
-// Canon in D for General MIDI Ethnic|z@BK & @JP|eBGPS ENST ENWD BNJO KLBA SITR STRS
-// Canon in D for General MIDI Guitars|z@BK & @JP|eAGTR EGTR
-// Canon in D for General MIDI Orchestral|z@BK & @JP|eHARP PIZZ STRS TIMP
-// Canon in D for General MIDI Organs|z@BK & @JP|eACDN HMCA JORG PORG
-// Canon in D for General MIDI Percussive|z@BK & @JP|eAPRC BELL EPRC STDR
-// Canon in D for General MIDI Pianos|z@BK & @JP|eAPNO EPNO HPCH
-// Canon in D for General MIDI Pipes|z@BK & @JP|eENWD FLUT PFLT WHSL
-// Canon in D for General MIDI Reeds|z@BK & @JP|eBASN CLNT OBOE SAXO
-// Canon in D for General MIDI Sound Effects|z@BK & @JP|eAGTR EFFX HPRC
-// Canon in D for General MIDI Synth Effects|z@BK & @JP|eEFFX SYNZ
-// Canon in D for General MIDI Synth Leads|z@BK & @JP|eSYNZ VOCL
-// Canon in D for General MIDI Synth Pads|z@BK & @JP|eSYNZ VOCL
+// Canon in D for General MIDI Chromatic Percussion|Z@BK & JP|eBELL CLST DULC GLCK MRBA MUBX VIBE XYLO
+// Canon in D for General MIDI Drums|Z@BK & @JP|eAPRC BELL EPRC TIMP
+// Canon in D for General MIDI Ensemble|Z@BK & @JP|eSTRS SYNZ VOCL
+// Canon in D for General MIDI Ethnic|Z@BK & @JP|eBGPS ENST ENWD BNJO KLBA SITR STRS
+// Canon in D for General MIDI Guitars|Z@BK & @JP|eAGTR EGTR
+// Canon in D for General MIDI Orchestral|Z@BK & @JP|eHARP PIZZ STRS TIMP
+// Canon in D for General MIDI Organs|Z@BK & @JP|eACDN HMCA JORG PORG
+// Canon in D for General MIDI Percussive|Z@BK & @JP|eAPRC BELL EPRC STDR
+// Canon in D for General MIDI Pianos|Z@BK & @JP|eAPNO EPNO HPCH
+// Canon in D for General MIDI Pipes|Z@BK & @JP|eENWD FLUT PFLT WHSL
+// Canon in D for General MIDI Reeds|Z@BK & @JP|eBASN CLNT OBOE SAXO
+// Canon in D for General MIDI Sound Effects|Z@BK & @JP|eAGTR EFFX HPRC
+// Canon in D for General MIDI Synth Effects|Z@BK & @JP|eEFFX SYNZ
+// Canon in D for General MIDI Synth Leads|Z@BK & @JP|eSYNZ VOCL
+// Canon in D for General MIDI Synth Pads|Z@BK & @JP|eSYNZ VOCL
 Canon in D for Two Harps|IR KM JP HARP
 Canon in D for Two Renaissance Harps|IR KM JP HARP
 Cantina Blues|IN KM APRC BASS ENST VOCL
@@ -197,7 +197,7 @@ Careless Riot|WS KM FG APNO
 Carpe Diem|IH KM AGTR APRC BASS CLNT CLST FLUT UKLE
 Cartoon Battle|IA KM APRC MUTE SAXO TRBN TUBA
 Cattails|IR KM ACDN AGTR BNJO ENST STRS
-// Celebration Rock|z@BK|hAPRC EGTR SITR
+// Celebration Rock|Z@BK|hAPRC EGTR SITR
 Cello Suite 1 in G - Prelude|IN KM JB DULC
 Celebration|FH AN AGTR APRC FLUT STRS
 Celtic Impulse|IN KM APRC DULC HARP MDLN WHSL
@@ -627,7 +627,7 @@ I Got a Stick Arr Bryan Teoh|IH KM BT APRC BASS EGTR SAXO TRBN TRPT
 I Got a Stick Feat James Gavins|IH KM BT JG APRC BASS EGTR SAXO TRBN TRPT VOCL
 I Have The Power|SN SI APRC BASS EGTR STRS SYNZ
 I Knew a Guy|IC KM APRC BASS VIBE
-// I'm Afraid of Fears|z@BK|FAPRC EGTR EFFX TRPT VOCL
+// I'm Afraid of Fears|Z@BK|FAPRC EGTR EFFX TRPT VOCL
 Ibn Al-Noor|IF KM APRC ENST
 Ice Flow|IA KM APRC SYNZ
 Ice and Snow|FS RK FLUT HORN STRS
@@ -802,7 +802,7 @@ Mischief Maker|IN KM APRC BASS DULC HPCH XYLO
 Mistake the Getaway|IA KM APRC EPRC HORN STRS TRBN TRPT
 Mister Exposition|IH KM APNO TUBA
 Misuse|IF KM APRC EPRC SYNZ VOCL
-// Modern Baroque|z@BK|nEPRC PORG
+// Modern Baroque|Z@BK|nEPRC PORG
 Modern Island Jam|FH KM SA APNO EPRC SYNZ
 Modern Jazz Samba|IN KM AGTR APNO APRC BASS FLUT
 Modern Piano Zeta - Improbable|IH KM APNO
@@ -930,7 +930,7 @@ Pagan Cross|SS SI WHSL
 Pale Rider|IR KM HARP
 Palm and Soul|FN KM SA APRC BASS EGTR JORG SAXO
 Pamgaea|IH KM SYNZ
-// Pan Flute Serenity|z@BK|cPFLT
+// Pan Flute Serenity|Z@BK|cPFLT
 Paradise_Found|IH KM EPRC STDR SYNZ VOCL
 Passing Action|IF KM APRC BASS EPRC STRS
 Patron Saint of Heists|FA BT APRC BASS EPNO FLUT SAXO
@@ -975,7 +975,7 @@ Pulse Rock|IN KM APRC BASS EGTR
 Pump up your Graduation|FH KM JP EPRC SYNZ
 Pure Attitude|IN KM EPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|IA KM APNO APRC BASS SYNZ
-// Questions of Time|z@BK|FEPNO HARP
+// Questions of Time|Z@BK|FEPNO HARP
 Quiescent In Time|SC SI SYNZ
 Quinns Song-A New Man|IS KM FC APNO TIMP STRS VOCL
 Quinns Song-First Night|IF KM FC APNO SYNZ
@@ -1074,7 +1074,7 @@ Sidewalk Shade - slower|IC KM APNO APRC BASS VIBE
 Signs To Nowhere|SF SI APRC BASS HORN MUTE SAXO VIBE
 Silly Fun|IH KM BELL EPRC HPRC SYNZ WHSL
 Silver Blue Light|IC KM AGTR SYNZ
-// Simple EP Loop|z@BK|hEPNO EPRC VOCL
+// Simple EP Loop|Z@BK|hEPNO EPRC VOCL
 Simon Says Dont - 50 cents|IN KM SYNZ
 Simon Says Dont - 50 cents|WN KM SYNZ
 Simplex|IF KM AGTR APRC SYNZ
@@ -1192,7 +1192,7 @@ Tech Live|IH KM APRC KLBA SYNZ
 Tech Talk|IH KM BASS EGTR EPRC SAXO TRPT XYLO
 Tech Talk|WH KM BASS EGTR EPRC SAXO TRPT XYLO
 Tectonic|IA KM APNO APRC HORN STRS TIMP TRBN TRPT
-// Temple Jazz|z@BK|SAPRC PFLT TRBN
+// Temple Jazz|Z@BK|SAPRC PFLT TRBN
 Temple Ruins|WF KM APRC BELL
 Temple of the Manes|IS KM APRC FLUT HARP OBOE
 Tempting Secrets|IC KM FLUT STRS VOCL
@@ -1295,7 +1295,7 @@ Unrelenting|IF KM STRS VOCL
 Unwritten Return|IF KM APNO EPNO EPRC SYNZ
 Upbeat Forever|IH KM APRC BASS EGTR SAXO TRBN TRPT
 Urban Gauntlet|IN KM AGTR APRC KLBA SYNZ
-// Vacation in Lovers' Leap|z@BK|rAGTR APRC BASS SYNZ VOCL
+// Vacation in Lovers' Leap|Z@BK|rAGTR APRC BASS SYNZ VOCL
 Vadodora|IN KM APRC ENST FLUT SITR SYNZ
 Vadodora Chill Mix|IN KM APRC FLUT SITR SYNZ
 Valse Gymnopedie|IR KM ES APNO APRC
