@@ -664,7 +664,7 @@ Interluder|WF IM APRC EPRC FLUT SYNZ
 // Interplanetary Mystery Electronic|B@BK|nSYNZ
 Intractable|IS KM APRC BASS EPNO TRPT VIBE
 Intrepid|IS KM APNO APRC STRS TRBN TUBA VOCL
-Intuit256|IF KM APRC FLUT SYNZ
+Intuit256|IF KM APRC EPRC FLUT SYNZ
 Invariance|IF KM APRC BASS MRBA XYLO
 Iron Horse|IF KM APNO
 Iron Horse - Distressed|IF KM APNO
