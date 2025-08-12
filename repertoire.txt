@@ -718,7 +718,7 @@ Lawful Victim Unit|WC KM APRC BASS EPNO STRS
 Le Grand Chase|IA KM APNO APRC EFFX SAXO TRPT TUBA WHSL XYLO
 Leaving Home|IS KM APNO CLNT DULC EGTR FLUT SYNZ
 Legend of One|IF KM APNO EPRC SYNZ
-Leopard Print Elevator|IR KM APRC BASS SYNZ
+Leopard Print Elevator|IR KM APRC BASS EPNO SYNZ
 Lewis and Dekalb|IA KM EPRC SYNZ
 Light Awash|IC KM SYNZ
 Light Thought var 1|IC KM EPNO
