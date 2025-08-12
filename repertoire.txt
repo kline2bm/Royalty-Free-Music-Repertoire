@@ -702,8 +702,8 @@ Kumasi Groove|IC KM APRC MRBA
 Kumasi Groove Flugelhorn|IC KM APRC MRBA TRPT
 La Citadelle|FN KK AGTR BASS
 La Pompe Du Trompe|SH SI AGTR APRC BASS
-Laconic Granny|IS KM APRC CLNT TUBA
 Lachaim|IH KM AGTR APRC BASS CLNT SAXO STRS TRBN
+Laconic Granny|IS KM APRC CLNT TUBA
 Laid Back Guitars|IS KM AGTR APRC
 Land of Phantoms|IF KM APRC
 Laser Groove|IN KM EPRC SYNZ
