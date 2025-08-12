@@ -705,7 +705,7 @@ La Pompe Du Trompe|SH SI AGTR APRC BASS
 Lachaim|IH KM AGTR APRC BASS CLNT SAXO STRS TRBN
 Laconic Granny|IS KM APRC CLNT TUBA
 Laid Back Guitars|IS KM AGTR APRC
-Land of Phantoms|IF KM APRC
+Land of Phantoms|IF KM APRC BELL TIMP
 Laser Groove|IN KM EPRC SYNZ
 Laserpack|IA KM APRC EPRC SYNZ
 Last Kiss Goodnight|IR KM APNO APRC BASS EGTR STRS
