@@ -720,11 +720,11 @@ Leaving Home|IS KM APNO CLNT DULC EGTR FLUT SYNZ
 Legend of One|IF KM APNO EPRC SYNZ
 Leopard Print Elevator|IR KM APRC BASS EPNO SYNZ
 Lewis and Dekalb|IA KM EPRC SYNZ
+Lift Motif|IR KM APNO
 Light Awash|IC KM SYNZ
 Light Thought var 1|IC KM EPNO
 Light Thought var 2|IC KM EPNO
 Lightless Dawn|IS KM APRC BELL STRS SYNZ
-Lift Motif|IR KM APNO
 Limit 70|FC KM EPNO EPRC SYNZ
 Limit 70|IC KM EPNO EPRC SYNZ
 Lithium|IS KM APNO PORG STRS
