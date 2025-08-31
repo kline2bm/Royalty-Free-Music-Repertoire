@@ -787,7 +787,7 @@ Metalmania|IA KM APRC BASS EGTR
 Metaltania|WA KM APRC BASS EGTR
 Metaphysik|IS KM APNO STRS SYNZ
 Miami Nights - Extended Theme|IN KM APRC EPRC SAXO STRS SYNZ TRPT
-Miami Viceroy|IC KM APRC BASS EGTR SYNZ
+Miami Viceroy|IC KM AGTR APRC BASS SYNZ
 Midday Dance|IH KM APNO
 Midnight Meeting|IS KM PORG
 Midnight in the Green House|FS KM ENST STRS
