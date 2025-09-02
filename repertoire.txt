@@ -814,7 +814,7 @@ Modern Vibes|IN KM VIBE
 // Modulus 3: Septembers|B@BK & Sepezz|SBELL EPNO EPRC STRS SYNZ VOCL
 // Modulus 3: Septembers (Ambient Mix)|B@BK & Sepezz|SSTRS SYNZ VOCL
 Monkoto|IN KM APRC CLNT MRBA
-Monster Promenade|IH KM AGTR APRC JORG
+Monster Promenade|IH KM AGTR APRC BASS JORG
 Monsters in Hotel|FF RK APNO APRC GLCK HORN PORG TRBN TRPT XYLO
 Montageur|WN FN EPRC SYNZ
 Montauk Point|IH KM AGTR APRC BASS
