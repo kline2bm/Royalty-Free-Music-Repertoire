@@ -914,8 +914,8 @@ Ossuary 4 - Animate|IF KM APRC EPRC SYNZ
 Ossuary 5 - Rest|IC KM SYNZ
 Ossuary 6 - Air|IF KM SYNZ
 Ossuary 7 - Resolve|IC KM APRC SYNZ
-Outdoors In Summer|SS SI AGTR APRC MUBX STRS
 Ouroboros|IA KM EPRC SYNZ
+Outdoors In Summer|SH SI AGTR APRC MUBX STRS
 Outfoxing the Fox|IN KM APRC BASS STRS SYNZ
 Over Under|IC KM BASS
 Overcast|IR KM APNO APRC BASS EGTR SYNZ
