@@ -2,7 +2,7 @@
  * Information about a piece of music
  */
 class MusicInfo {
-  // {string} the unprocessed string (e.g. "Accralate|iC KM APRC MRBA")
+  // {string} the unprocessed string (e.g. "Accralate|IC KM APRC MRBA")
   raw;
 
   // {string} the title of the piece (e.g. "Accralate")
@@ -11,14 +11,22 @@ class MusicInfo {
   // {string} the URL of a piece (e.g. "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Accralate.mp3")
   src;
 
-  // {string} the artist/composer of the piece (e.g. "Kevin MacLeod")
-  artist;
+  // {string} the website of a piece (e.g. "Incompetech")
+  source;
 
   // {"Angry" | "Calm" | "Fearful" | "Happy" | "Neutral" | "Romantic" | "Sad"} the (maybe subjective) emotion of a piece (e.g. "Calm")
   emotion;
 
+  // {string[]} the artists/composers of the piece (e.g. ["Kevin MacLeod"])
+  artists;
+
   // {string[]} an array of instruments in a piece (e.g. ["Acoustic Percussion", "Marimba"])
   instruments;
+
+  // {string} the rounded duration of the piece (e.g. "5:05")
+  get duration() {
+    return "0:00"; // TODO
+  }
 
   // {Map<string, MusicInfo>} a set of all created MusicInfo objects
   static #ALL = new Map();
@@ -27,6 +35,7 @@ class MusicInfo {
   static #KEY = Symbol();
   
   // {Map<string, string>} artist abbreviation -> full name
+  // TODO: move to set logic and read the file to build the map
   static ATS = Object.freeze(new Map([
     ["AA", "Adolphe C. Adam"],                      ["AN", "Alexander Nakarada"],          ["AF", "Arthur Fordsworthy"],
     ["AG", "Alice Goodworth"],                      ["AY", "Anonymous"],                   ["BB", "Brian Boyko"],
@@ -50,6 +59,7 @@ class MusicInfo {
   ]));
   
   // {Map<string, string>} instrument abbreviation -> full name
+  // TODO: move to set logic and read the file to build the map
   static INSTS = Object.freeze(new Map([
     // TODO: repertoire.txt -> filter for "MDLN" -> for each, if it has bouzouki, use ENST
     ["ACDN", "Accordion"],           ["AGTR", "Acoustic Guitar"],   ["APNO", "Acoustic Piano"],
@@ -94,6 +104,7 @@ class MusicInfo {
    * @param s {"f" | "i" | "s" | "w"} the src code
    * @return {string} the URL of the music
    */
+  // TODO: move to set logic and read the file to build the map
   static getSrc(title, s) {
     switch(s) {
       case "f": return `https://freepd.com/music/${title}.mp3`;
