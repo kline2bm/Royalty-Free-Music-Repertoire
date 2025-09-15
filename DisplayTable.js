@@ -17,16 +17,28 @@ class DisplayTable {
    * @param table {HTMLTableElement} an empty HTML table; not checked
    */
   constructor(table) {
-    this.#table = DisplayTable.initTable(table);
+    this.#table = DisplayTable.#initTable(table);
   }
 
   /**
    * Initialize an empty HTML table with the properties of a MusicInfo object
    * Should be run once
    * @param table {HTMLTableElement} an empty HTML element
-   * @return {HTMLTableElement} the passed-in table but now initialized
+   * @return {HTMLTableElement} the passed-in table, initialized
    */
   static #initTable(table) {
+    table.innerHTML = `
+    <thead class="tableHead">
+      <tr>Title</tr>
+      <tr>Artists</tr>
+      <tr>Source</tr>
+      <tr>License</tr>
+      <tr>Emotion</tr>
+      <tr>Instruments</tr>
+    </thead>`;
+  }
+
+  updateGUI() {
     // TODO
   }
 }
