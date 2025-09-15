@@ -1,5 +1,6 @@
 #Sets by emotion:  
 An octothorpe followed by a letter  
+| | |
 |-|-|
 |\#A|angry|
 |\#C|calm|
@@ -11,6 +12,7 @@ An octothorpe followed by a letter
 
 #Sets by source:  
 An at-sign followed by a letter  
+| | |
 |-|-|
 |@B|Royalty Free Music Repertoire BK-by|
 |@F|FreePD|
@@ -21,6 +23,8 @@ An at-sign followed by a letter
 
 #Sets by artist:  
 Two letters  
+| | |
+|-|-|
 |AA|Adolphe C. Adam|
 |AN|Alexander Nakarada|
 |AF|Arthur Fordsworthy|
@@ -80,6 +84,8 @@ Two letters
 
 #General sets  
 Three letters  
+| | |
+|-|-|
 |ACT|🏎️ Action|
 |AFR|🌍 African|
 |AHT|🍂 Autumn, Halloween, Thanksgiving|
@@ -124,6 +130,8 @@ Three letters
 
 #Sets by instrument  
 Four letters  
+| | |
+|-|-|
 |ACDN|Accordion|
 |AGTR|Acoustic Guitar|
 |APNO|Acoustic Piano|
