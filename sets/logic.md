@@ -1,5 +1,5 @@
-#Sets by emotion:
-An octothorpe followed by a letter
+#Sets by emotion:  
+An octothorpe followed by a letter  
 |-|-|
 |\#A|angry|
 |\#C|calm|
@@ -9,8 +9,8 @@ An octothorpe followed by a letter
 |\#R|romantic|
 |\#S|sad|
 
-#Sets by source:
-An at-sign followed by a letter
+#Sets by source:  
+An at-sign followed by a letter  
 |-|-|
 |@B|Royalty Free Music Repertoire BK-by|
 |@F|FreePD|
@@ -19,8 +19,8 @@ An at-sign followed by a letter
 |@W|FreePD Page 2 via Wayback Machine|
 |@Z|Royalty Free Music Repertoire BK-zero|
 
-#Sets by artist:
-Two letters
+#Sets by artist:  
+Two letters  
 |AA|Adolphe C. Adam|
 |AN|Alexander Nakarada|
 |AF|Arthur Fordsworthy|
@@ -78,8 +78,8 @@ Two letters
 |WY|William B. Yeats|
 |YS|Johannes Schroll|
 
-#General sets
-Three letters
+#General sets  
+Three letters  
 |ACT|🏎️ Action|
 |AFR|🌍 African|
 |AHT|🍂 Autumn, Halloween, Thanksgiving|
@@ -122,8 +122,8 @@ Three letters
 |WTZ|🕒 Waltz (triple time signature)|
 |XMS|🎄 Christmas|
 
-#Sets by instrument
-Four letters
+#Sets by instrument  
+Four letters  
 |ACDN|Accordion|
 |AGTR|Acoustic Guitar|
 |APNO|Acoustic Piano|
