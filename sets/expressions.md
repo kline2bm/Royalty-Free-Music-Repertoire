@@ -247,7 +247,7 @@ Tilde
 # Miscellaneous Information
 
 ## Case Sensitivity
-The only case-sensitive things are Regular Expressions
+The only case-sensitive things are Regular Expressions.
 | | | |
 |-|-|-|
 |ABc|aBC|Same|
@@ -255,7 +255,7 @@ The only case-sensitive things are Regular Expressions
 |\`t\*e\`|\`T\*e\`|Different|
 
 ## Spacing
-Spaces only matter when searching by title
+Spaces only matter when searching by title.
 | | | |
 |-|-|-|
 |ABC|A B C|Same|
