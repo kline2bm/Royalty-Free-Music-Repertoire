@@ -1,7 +1,7 @@
- #Obtaining sets
+# Static Sets
 
-##Emotion
-A percent sign followed by a letter
+## Emotion  
+A percent sign followed by a letter  
 | | |
 |-|-|
 |%A|Angry|
@@ -12,8 +12,8 @@ A percent sign followed by a letter
 |%R|Romantic|
 |%S|Sad|
 
-##Source
-An at-sign followed by a letter
+## Source  
+An at-sign followed by a letter  
 | | |
 |-|-|
 |@B|Royalty Free Music Repertoire BK-by|
@@ -23,8 +23,8 @@ An at-sign followed by a letter
 |@W|FreePD Page 2 via Wayback Machine|
 |@Z|Royalty Free Music Repertoire BK-zero|
 
-##Artist:
-Two letters
+## Artist:  
+Two letters  
 | | |
 |-|-|
 |AA|Adolphe C. Adam|
@@ -84,8 +84,8 @@ Two letters
 |WY|William B. Yeats|
 |YS|Johannes Schroll|
 
-##General
-Three letters
+## General  
+Three letters  
 | | |
 |-|-|
 |ACT|🏎️ Action|
@@ -130,8 +130,8 @@ Three letters
 |WTZ|🕒 Waltz (triple time signature)|
 |XMS|🎄 Christmas|
 
-##Instrument
-Four letters
+## Instrument  
+Four letters  
 | | |
 |-|-|
 |ACDN|Accordion|
@@ -185,50 +185,89 @@ Four letters
 |WHSL|Whistle|
 |XYLO|Xylophone|
 
-#Search by title
+# Searching
+
+## Title Inclusion
 Quotation marks
 | | |
 |-|-|
-|"ABC"|Title includes ABC
+|"ABC"|Title includes ABC|
 
-#Search title by [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
+## Title by [Regular Expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 Backticks
 | | |
 |-|-|
 |\`EXP\`|Title exactly matches EXP|
 
-#Search by keyword
+## Keyword
 An octothorpe followed by letters
 | | |
 |-|-|
 |#WORD|Anything listed above includes WORD|
 
-#Set intersection
+# Logic
+
+## Intersection
 Ampersand
 | | |
 |-|-|
 |A & B|Everything that is in both A and B|
 
-#Set union
+## Union
 Vertical bar
 | | |
 |-|-|
 |A \| B|Everything that is in either A or B|
 
-#Set disjunction
+## Disjunction
 Caret
 | | |
 |-|-|
 |A ^ B|Everything that is in exactly one of A or B|
 
-#Set difference
+## Difference
 Hyphen
 | | |
 |-|-|
 |A - B|Everything that is in A but not B|
 
-#Set complement
+## Complement
 Tilde
 | | |
 |-|-|
 |~ A|Everything that is not in A|
+
+## Combination
+| | |
+|-|-|
+|A ~& B|Everything that is not in both A and B|
+|A ~\| B|Everything that is not in either A or B|
+|A ~^ B|Everything that is not in exactly one of A or B|
+
+# Miscellaneous Information
+
+## Case Sensitivity
+The only case-sensitive things are Regular Expressions
+| | | |
+|-|-|-|
+|ABc|aBC|Same|
+|"Hello"|"HeLlO"|Same|
+|\`t\*e\`|\`T\*e\`|Different|
+
+## Spacing
+Spaces only matter when searching by title
+| | | |
+|-|-|-|
+|ABC|A B C|Same|
+|A&B|A & B|Same|
+|~(A ^ (B\|C))|~ ( A^( B \| C) )|Same|
+|#emo|# e mo|Same
+|"AlphaBravo"|"Alpha Bravo"|Different|
+|\`th?e\`|\`th? e\`|Different|
+
+## Grouping and Precedence
+There is no operator precedence. Expressions are always evaluated left to right. Parentheses can be used to group subexpressions.
+| | |
+|-|-|
+|A & B \| C|Same as (A & B) \| C|
+|A \| B & C|Same as (A \| B) & C|
