@@ -1,14 +1,14 @@
 #Sets by emotion:  
-An octothorpe followed by a letter  
+A percent sign followed by a letter  
 | | |
 |-|-|
-|\#A|angry|
-|\#C|calm|
-|\#F|fearful|
-|\#H|happy|
-|\#N|neutral|
-|\#R|romantic|
-|\#S|sad|
+|%A|angry|
+|%C|calm|
+|%F|fearful|
+|%H|happy|
+|%N|neutral|
+|%R|romantic|
+|%S|sad|
 
 #Sets by source:  
 An at-sign followed by a letter  
