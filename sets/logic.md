@@ -1,7 +1,7 @@
-#Obtaining sets
+ #Obtaining sets
 
-##Emotion  
-A percent sign followed by a letter  
+##Emotion
+A percent sign followed by a letter
 | | |
 |-|-|
 |%A|Angry|
@@ -12,8 +12,8 @@ A percent sign followed by a letter
 |%R|Romantic|
 |%S|Sad|
 
-##Source  
-An at-sign followed by a letter  
+##Source
+An at-sign followed by a letter
 | | |
 |-|-|
 |@B|Royalty Free Music Repertoire BK-by|
@@ -23,8 +23,8 @@ An at-sign followed by a letter
 |@W|FreePD Page 2 via Wayback Machine|
 |@Z|Royalty Free Music Repertoire BK-zero|
 
-##Artist:  
-Two letters  
+##Artist:
+Two letters
 | | |
 |-|-|
 |AA|Adolphe C. Adam|
@@ -84,8 +84,8 @@ Two letters
 |WY|William B. Yeats|
 |YS|Johannes Schroll|
 
-##General  
-Three letters  
+##General
+Three letters
 | | |
 |-|-|
 |ACT|🏎️ Action|
@@ -130,8 +130,8 @@ Three letters
 |WTZ|🕒 Waltz (triple time signature)|
 |XMS|🎄 Christmas|
 
-##Instrument  
-Four letters  
+##Instrument
+Four letters
 | | |
 |-|-|
 |ACDN|Accordion|
