@@ -1,16 +1,18 @@
-#Sets by emotion:  
+#Obtaining sets
+
+##Emotion  
 A percent sign followed by a letter  
 | | |
 |-|-|
-|%A|angry|
-|%C|calm|
-|%F|fearful|
-|%H|happy|
-|%N|neutral|
-|%R|romantic|
-|%S|sad|
+|%A|Angry|
+|%C|Calm|
+|%F|Fearful|
+|%H|Happy|
+|%N|Neutral|
+|%R|Romantic|
+|%S|Sad|
 
-#Sets by source:  
+##Source  
 An at-sign followed by a letter  
 | | |
 |-|-|
@@ -21,7 +23,7 @@ An at-sign followed by a letter
 |@W|FreePD Page 2 via Wayback Machine|
 |@Z|Royalty Free Music Repertoire BK-zero|
 
-#Sets by artist:  
+##Artist:  
 Two letters  
 | | |
 |-|-|
@@ -82,7 +84,7 @@ Two letters
 |WY|William B. Yeats|
 |YS|Johannes Schroll|
 
-#General sets  
+##General  
 Three letters  
 | | |
 |-|-|
@@ -128,7 +130,7 @@ Three letters
 |WTZ|🕒 Waltz (triple time signature)|
 |XMS|🎄 Christmas|
 
-#Sets by instrument  
+##Instrument  
 Four letters  
 | | |
 |-|-|
@@ -183,4 +185,50 @@ Four letters
 |WHSL|Whistle|
 |XYLO|Xylophone|
 
-// TODO
+#Search by title
+Quotation marks
+| | |
+|-|-|
+|"ABC"|Title includes ABC
+
+#Search title by [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
+Backticks
+| | |
+|-|-|
+|\`EXP\`|Title exactly matches EXP|
+
+#Search by keyword
+An octothorpe followed by letters
+| | |
+|-|-|
+|#WORD|Anything listed above includes WORD|
+
+#Set intersection
+Ampersand
+| | |
+|-|-|
+|A & B|Everything that is in both A and B|
+
+#Set union
+Vertical bar
+| | |
+|-|-|
+|A \| B|Everything that is in either A or B|
+
+#Set disjunction
+Caret
+| | |
+|-|-|
+|A ^ B|Everything that is in exactly one of A or B|
+
+#Set difference
+Hyphen
+| | |
+|-|-|
+|A - B|Everything that is in A but not B|
+
+#Set complement
+Tilde
+| | |
+|-|-|
+|~ A|Everything that is not in A|
