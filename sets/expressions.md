@@ -92,7 +92,7 @@ Three letters
 |AFR|🌍 African|
 |AHT|🍂 Autumn, Halloween, Thanksgiving|
 |APF|🃏 April Fool's|
-|BAF|😕 Baffoozling (video game)
+|BAF|🤔 Baffoozling (video game)
 |BUT|💠 Beauty|
 |CPT|🏢 Corporate|
 |CTY|🧑‍🌾 Country|
