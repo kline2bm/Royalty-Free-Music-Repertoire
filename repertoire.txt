@@ -202,7 +202,8 @@ Cello Suite 1 in G - Prelude|IN KM JB DULC
 Celebration|FH AN AGTR APRC FLUT STRS
 Celtic Impulse|IN KM APRC DULC HARP MDLN WHSL
 Cephalopod|IA KM APRC GLCK HPRC SYNZ
-Chaise De l’Obscurité|SA SI EGTR EPRC HARP STRS SYNZ
+Chaise De l'Obscurite|S
+//Chaise De l’Obscurité|SA SI EGTR EPRC HARP STRS SYNZ
 Champ de tournesol|FR KK AGTR
 Chanter|IA KM APRC ENST SYNZ VOCL
 Chase Pulse|IF KM SYNZ
