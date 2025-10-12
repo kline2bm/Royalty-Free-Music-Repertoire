@@ -928,7 +928,7 @@ Overture|IS KM APNO
 Overworld|IF KM EPRC SYNZ
 Padanaya Blokov|IN KM APRC BASS ENST EPRC SYNZ
 Pagan Cross|SS SI WHSL
-Pale Rider|IR KM HARP
+Pale Rider|IN KM HARP
 Palm and Soul|FN KM SA APRC BASS EGTR JORG SAXO
 Pamgaea|IH KM SYNZ
 // Pan Flute Serenity|Z@BK|cPFLT
