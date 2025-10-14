@@ -950,7 +950,7 @@ Pilot Error|IN KM APNO APRC EGTR
 Pinball Spring|IH KM EPRC SYNZ
 Pinball Spring 160|IH KM EPRC SYNZ
 Pixelland|IH KM EPRC SYNZ
-Plain Loafer|IH KM APRC BASS EPRC
+Plain Loafer|IH KM APRC BASS EGTR
 Pleasant Porridge|IC KM APRC BASS EGTR EPNO
 Political Ad|IF KM SYNZ
 Poofy Reel|IN KM AGTR APRC BASS EPNO
