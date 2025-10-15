@@ -981,7 +981,7 @@ Quiescent In Time|SC SI SYNZ
 Quinns Song-A New Man|IS KM FC APNO TIMP STRS VOCL
 Quinns Song-First Night|IF KM FC APNO SYNZ
 Quinns Song-The Dance Begins|IS KM FC APNO STRS
-Quirky Dog|IH KM APNO APRC BASS SYNZ TRPT
+Quirky Dog|IH KM APNO APRC BASS SYNZ TRPT XYLO
 Radio Martini|IH KM AGTR APRC BASS CLNT FLUT PIZZ
 Rain|WC DR EPRC SYNZ
 Rain - remastered|WC DR EPRC SYNZ
