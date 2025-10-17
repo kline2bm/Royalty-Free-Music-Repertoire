@@ -987,7 +987,7 @@ Rain|WC DR EPRC SYNZ
 Rain - remastered|WC DR EPRC SYNZ
 Rainbows|IH KM APRC BASS MRBA UKLE
 Rains Will Fall|IS KM APNO APRC STRS
-Ranz des Vaches|IC KM GR BASN FLUT OBOE PIZZ
+Ranz des Vaches|IR KM GR BASN FLUT OBOE PIZZ
 Raving Energy|IA KM EPRC SYNZ
 Raving Energy (faster)|IA KM EPRC SYNZ
 Raw|IN KM APRC BASS
