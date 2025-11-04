@@ -1071,7 +1071,7 @@ Shiny Tech2|IN KM EPRC SYNZ
 Shores of Avalon|IS KM APNO SYNZ VOCL
 Show Your Moves|IH KM EPRC SYNZ
 Sidewalk Shade|IN KM APNO APRC BASS VIBE
-Sidewalk Shade - slower|IC KM APNO APRC BASS VIBE
+Sidewalk Shade - slower|IN KM APNO APRC BASS VIBE
 Signs To Nowhere|SF SI APRC BASS HORN MUTE SAXO VIBE
 Silly Fun|IH KM BELL EPRC HPRC SYNZ WHSL
 Silver Blue Light|IC KM AGTR SYNZ
