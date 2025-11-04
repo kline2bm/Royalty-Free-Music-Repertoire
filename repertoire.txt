@@ -1075,10 +1075,10 @@ Sidewalk Shade - slower|IN KM APNO APRC BASS VIBE
 Signs To Nowhere|SF SI APRC BASS HORN MUTE SAXO VIBE
 Silly Fun|IH KM BELL EPRC HPRC SYNZ WHSL
 Silver Blue Light|IC KM AGTR SYNZ
-// Simple EP Loop|Z@BK|hEPNO EPRC VOCL
-Simple Music to Frighten Small Children By|IF KM APNO
 Simon Says Dont - 50 cents|IN KM SYNZ
 Simon Says Dont - 50 cents|WN KM SYNZ
+// Simple EP Loop|Z@BK|hEPNO EPRC VOCL
+Simple Music to Frighten Small Children By|IF KM APNO
 Simplex|IF KM AGTR APRC SYNZ
 Sinfonia 3|IH KM BASS EPRC PORG
 Sinfonia to Cantata 29|WH DS JB JORG SYNZ TIMP
