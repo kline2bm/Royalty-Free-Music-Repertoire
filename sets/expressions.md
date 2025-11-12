@@ -31,10 +31,12 @@ Two letters
 |AN|Alexander Nakarada|
 |AF|Arthur Fordsworthy|
 |AG|Alice Goodworth|
+|AW|Arthur S. Warrell|
 |AY|Anonymous|
 |BB|Brian Boyko|
 |BD|Brett Van Donsel|
 |BE|Bix Beiderbecke|
+|BH|Benjamin R. Hanby|
 |BK|Bryce M. Kline|
 |BP|Barney Peterson|
 |BT|Bryan Teoh|
@@ -43,12 +45,14 @@ Two letters
 |CS|Charles-Camille Saint-Saëns|
 |DR|Dom Raven|
 |DS|dogsounds|
+|EA|Ernst G. S. Anschütz|
 |EG|Edvard H. Grieg|
 |ES|Erik A. Satie|
 |FC|Frédéric F. Chopin|
 |FG|Fake Music Generator|
 |FH|F. Joseph Haydn|
 |FN|Frank Nora|
+|FX|Franz X. Gruber|
 |GG|George Gershwin|
 |GH|Gustav T. Holst|
 |GN|Glory Nugget|
@@ -87,6 +91,7 @@ Two letters
 |TM|Thundermine|
 |TO|Thomas Oliphant|
 |TR|Traditional|
+|WD|William C. Dix|
 |WM|Wolfgang A. Mozart|
 |WY|William B. Yeats|
 |YP|Johann Pachelbel|
