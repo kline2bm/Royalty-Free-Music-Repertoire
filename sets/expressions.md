@@ -34,7 +34,7 @@ Two letters
 |AY|Anonymous|
 |BB|Brian Boyko|
 |BD|Brett Van Donsel|
-|BE|L. Bix Beiderbecke|
+|BE|Bix Beiderbecke|
 |BK|Bryce M. Kline|
 |BP|Barney Peterson|
 |BT|Bryan Teoh|
@@ -51,20 +51,25 @@ Two letters
 |FN|Frank Nora|
 |GG|George Gershwin|
 |GH|Gustav T. Holst|
+|GN|Glory Nugget|
 |GR|Gioachino A. Rossini|
 |IM|\*imp\*|
 |JB|Johann S. Bach|
 |JC|John M. Cage|
 |JG|James Gavins|
 |JN|John Newton|
-|JP|Johann Pachelbel|
+|JP|James L. Pierpont|
 |JS|James S. Scott|
+|JW|John F. Wade|
+|JX|James Chadwick|
 |KF|Knight of Fire|
 |KK|Komiku|
 |KM|Kevin MacLeod|
 |LB|Ludwig van Beethoven|
+|LR|Lewis H. Redner|
 |LV|LibriVox|
 |MF|Max Federov|
+|MJ|Mrs. Johnson's 4 grade band|
 |MM|Modest P. Mussorgsky|
 |MO|MusOpen|
 |PB|Pixabay|
@@ -74,14 +79,17 @@ Two letters
 |RB|R. Luigi Boccherini|
 |RE|Radio Kilimanjaro Automaton Ensemble|
 |RK|Rafael Krux|
+|RW|Richard S. Willis|
 |SA|Suno AI|
 |SB|Samuel O. Barber|
 |SI|Shane Ivers|
 |SJ|Scott Joplin|
 |TM|Thundermine|
+|TO|Thomas Oliphant|
 |TR|Traditional|
 |WM|Wolfgang A. Mozart|
 |WY|William B. Yeats|
+|YP|Johann Pachelbel|
 |YS|Johannes Schroll|
 
 ## General  
