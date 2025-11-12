@@ -167,30 +167,30 @@ Call to Adventure|IH KM APRC BASN CLNT CLST FLUT HORN MRBA OBOE STRS TIMP TRBN T
 Calm Sketch for Piano|WC KM APNO
 Cambodian Odyssey|IC KM APRC FLUT OBOE SYNZ
 // Can you Hear me Now?|BN BK APRC BASN BELL CLNT FLUT GLCK HARP HORN OBOE MRBA STRS TIMP TRBN TRPT TUBA
-Canon In D For 8 Bit Synths|IH KM JP SYNZ
-Canon In D Interstellar Mix|IH KM JP EPRC SYNZ
-Canon in D Major|IR KM JP HARP STRS
-Canon in D for Autoharp|IR KM JP DULC
-// Canon in D for General MIDI Bass|ZE BK JP BASS SYNZ
-// Canon in D for General MIDI Brass|ZE BK JP HORN MUTE TRBN TRPT TUBA
+Canon In D For 8 Bit Synths|IH KM YP SYNZ
+Canon In D Interstellar Mix|IH KM YP EPRC SYNZ
+Canon in D Major|IR KM YP HARP STRS
+Canon in D for Autoharp|IR KM YP DULC
+// Canon in D for General MIDI Bass|ZE BK YP BASS SYNZ
+// Canon in D for General MIDI Brass|ZE BK YP HORN MUTE TRBN TRPT TUBA
 // TODO: adjust string format for my music
-// Canon in D for General MIDI Chromatic Percussion|Z@BK & JP|eBELL CLST DULC GLCK MRBA MUBX VIBE XYLO
-// Canon in D for General MIDI Drums|Z@BK & @JP|eAPRC BELL EPRC TIMP
-// Canon in D for General MIDI Ensemble|Z@BK & @JP|eSTRS SYNZ VOCL
-// Canon in D for General MIDI Ethnic|Z@BK & @JP|eBGPS ENST ENWD BNJO KLBA SITR STRS
-// Canon in D for General MIDI Guitars|Z@BK & @JP|eAGTR EGTR
-// Canon in D for General MIDI Orchestral|Z@BK & @JP|eHARP PIZZ STRS TIMP
-// Canon in D for General MIDI Organs|Z@BK & @JP|eACDN HMCA JORG PORG
-// Canon in D for General MIDI Percussive|Z@BK & @JP|eAPRC BELL EPRC STDR
-// Canon in D for General MIDI Pianos|Z@BK & @JP|eAPNO EPNO HPCH
-// Canon in D for General MIDI Pipes|Z@BK & @JP|eENWD FLUT PFLT WHSL
-// Canon in D for General MIDI Reeds|Z@BK & @JP|eBASN CLNT OBOE SAXO
-// Canon in D for General MIDI Sound Effects|Z@BK & @JP|eAGTR EFFX HPRC
-// Canon in D for General MIDI Synth Effects|Z@BK & @JP|eEFFX SYNZ
-// Canon in D for General MIDI Synth Leads|Z@BK & @JP|eSYNZ VOCL
-// Canon in D for General MIDI Synth Pads|Z@BK & @JP|eSYNZ VOCL
-Canon in D for Two Harps|IR KM JP HARP
-Canon in D for Two Renaissance Harps|IR KM JP HARP
+// Canon in D for General MIDI Chromatic Percussion|Z@BK & YP|eBELL CLST DULC GLCK MRBA MUBX VIBE XYLO
+// Canon in D for General MIDI Drums|Z@BK & @YP|eAPRC BELL EPRC TIMP
+// Canon in D for General MIDI Ensemble|Z@BK & @YP|eSTRS SYNZ VOCL
+// Canon in D for General MIDI Ethnic|Z@BK & @YP|eBGPS ENST ENWD BNJO KLBA SITR STRS
+// Canon in D for General MIDI Guitars|Z@BK & @YP|eAGTR EGTR
+// Canon in D for General MIDI Orchestral|Z@BK & @YP|eHARP PIZZ STRS TIMP
+// Canon in D for General MIDI Organs|Z@BK & @YP|eACDN HMCA JORG PORG
+// Canon in D for General MIDI Percussive|Z@BK & @YP|eAPRC BELL EPRC STDR
+// Canon in D for General MIDI Pianos|Z@BK & @YP|eAPNO EPNO HPCH
+// Canon in D for General MIDI Pipes|Z@BK & @YP|eENWD FLUT PFLT WHSL
+// Canon in D for General MIDI Reeds|Z@BK & @YP|eBASN CLNT OBOE SAXO
+// Canon in D for General MIDI Sound Effects|Z@BK & @YP|eAGTR EFFX HPRC
+// Canon in D for General MIDI Synth Effects|Z@BK & @YP|eEFFX SYNZ
+// Canon in D for General MIDI Synth Leads|Z@BK & @YP|eSYNZ VOCL
+// Canon in D for General MIDI Synth Pads|Z@BK & @YP|eSYNZ VOCL
+Canon in D for Two Harps|IR KM YP HARP
+Canon in D for Two Renaissance Harps|IR KM YP HARP
 Cantina Blues|IN KM APRC BASS ENST VOCL
 Captain Scurvy|IN KM EPRC SYNZ
 Careless Riot|WS KM FG APNO
@@ -973,7 +973,7 @@ Psychedelic Crater|WA KM EPRC SITR SYNZ
 Pulling The Plug On Kindness|WS KM FG APRC BASS VIBE
 Pulse|WN KM APRC BASS EGTR
 Pulse Rock|IN KM APRC BASS EGTR
-Pump up your Graduation|FH KM JP EPRC SYNZ
+Pump up your Graduation|FH KM YP EPRC SYNZ
 Pure Attitude|IN KM EPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|IA KM APNO APRC BASS SYNZ
 // Questions of Time|Z@BK|FEPNO HARP
