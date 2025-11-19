@@ -86,7 +86,7 @@ Two letters
 |RW|Richard S. Willis|
 |SA|Suno AI|
 |SB|Samuel O. Barber|
-|SI|Shane Ivers|
+|SI|Shane L. Ivers|
 |SJ|Scott Joplin|
 |TM|Thundermine|
 |TO|Thomas Oliphant|
