@@ -232,7 +232,7 @@ Vertical bar
 |-|-|
 |A \| B|Everything that is in either A or B|
 
-## Disjunction
+## Symmetric Difference
 Caret
 | | |
 |-|-|
