@@ -807,7 +807,7 @@ Matts Blues|IH KM APRC BASS EGTR HMCA JORG
 Meditating Beat|FC KM APNO APRC SYNZ
 Mega Hyper Ultrastorm|IA KM EPRC SYNZ
 Mellowtron|IC KM FLUT SYNZ
-Merry Christmas|SH SI APNO APRC BASS BELL UKLE VOCL
+Merry Christmas|SH SI APNO APRC BASS BELL GLCK UKLE VOCL
 Merry Go|IH KM APNO
 Merry Go - Distressed|IH KM APNO
 Merry Go Slower|IH KM APNO
