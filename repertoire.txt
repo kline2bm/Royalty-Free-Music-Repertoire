@@ -1106,7 +1106,7 @@ Sidewalk Shade|IN KM APNO APRC BASS VIBE
 Sidewalk Shade - slower|IN KM APNO APRC BASS VIBE
 Signs To Nowhere|SF SI APRC BASS HORN MUTE SAXO VIBE
 Silent Night|IC KM FX APNO
-Silent Night (Unholy Night)|FA AN FX APRC BASS EGTR STRS
+Silent Night (Unholy Night)|FA AN FX APRC BASS EGTR HORN STRS
 Silly Fun|IH KM BELL EPRC HPRC SYNZ WHSL
 Silver Blue Light|IC KM AGTR SYNZ
 Simon Says Dont - 50 cents|IN KM SYNZ
