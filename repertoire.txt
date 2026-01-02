@@ -1075,6 +1075,7 @@ Satiate|IF KM EPRC STRS
 Satiate Percussion|IF KM EPRC
 Satiate Strings|IF KM STRS
 Satin Danger|FF KM SYNZ VIBE
+Sauropod Spotting|IN APRC MRBA
 Savannah Sketch|IH KM APRC MRBA VOCL
 Sax Rock and Roll|IA KM APRC BASS EGTR SAXO TRPT
 Scattershot|IA KM APRC SYNZ
