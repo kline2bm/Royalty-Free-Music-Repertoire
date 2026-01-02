@@ -347,6 +347,7 @@ Del Rio Bravo|IH KM ACDN APRC BASS MRBA
 Delay Rock|IH KM APRC BASS EGTR
 Deliberate Thought|IC KM SYNZ VOCL
 Delightful D|IH KM EPRC SYNZ
+Dentaneosuchus Hunt|IN KM APRC
 Depth Of Focus|SS SI APNO STRS
 Derp Nugget|IH KM APRC BASS DULC SYNZ
 Desert City|IC KM APRC DULC
