@@ -4,7 +4,11 @@ Bent and Broken|I
 Bump in the Night|I
 Childrens Theme|I
 Come Play with Me|I
-// add to repertoire.txt and remove from here:
+DarxieLand|I
+Decay|I
+Deep Noise|I
+Distant Tension|I
+// add to repertoire.txt and other sets, then remove from here:
 8bit Dungeon Boss|I
 8bit Dungeon Level|I
 Almost Bliss|I
@@ -18,41 +22,11 @@ Cool Vibes|I
 Corruption|I
 Crossing the Divide|I
 Cut Trance|I
+Dangerous|I
+Decline|I
+Despair and Triumph|I
+Disquiet|I
 [
-    "Dangerous",
-    "Danse Macabre - Big Hit 1",
-    "Danse Macabre - Big Hit 2",
-    "Danse Macabre - Busy Strings",
-    "Danse Macabre - Finale",
-    "Danse Macabre - Light Dance",
-    "Danse Macabre - Low Strings Finale",
-    "Dark Hallway",
-    "Dark Hallway - Distressed",
-    "Dark Standoff",
-    "Dark Times",
-    "Dark Walk",
-    "Darkling",
-    "Darkness Speaks",
-    "DarxieLand",
-    "Day of Chaos",
-    "Death and Axes",
-    "Death of Kings",
-    "Decay",
-    "Decline",
-    "Deep Noise",
-    "Deep and Dirty",
-    "Der Kleber Sting",
-    "Despair and Triumph",
-    "Dhaka",
-    "Digital Bark",
-    "Disconcerned",
-    "Discovery Hit",
-    "Disquiet",
-    "Dissappointment",
-    "Distant Tension",
-    "Divertissement",
-    "Dreams Become Real",
-    "Duet Musette",
     "East of Tunesia",
     "End of the Era",
     "Epic Unease",
