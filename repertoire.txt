@@ -1431,3 +1431,25 @@ a432|PC KM APNO STRS
 // celestial claws|B@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
+// temp from APF
+8bit Dungeon Boss|I
+8bit Dungeon Level|I
+Almost Bliss|I
+Amazing Plan|I
+Amazing Plan - Distressed|I
+Angel Share|I
+Arcadia|I
+Bittersweet|I
+Carnivale Intrigue|I
+Cool Vibes|I
+Corruption|I
+Crossing the Divide|I
+Cut Trance|I
+Dangerous|I
+Decline|I
+Despair and Triumph|I
+Disquiet|I
+// Is Feral Chase in Nosferatu?
+Fresh Air|I
+Fun in a Bottle|I
+// Funky Boxstep |I
