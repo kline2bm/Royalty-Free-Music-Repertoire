@@ -8,6 +8,12 @@ DarxieLand|I
 Decay|I
 Deep Noise|I
 Distant Tension|I
+East of Tunesia|I
+Exhilarate|I
+Farting Around|I
+Flighty Theme|I
+Gagool|I
+Goblin_Tinker_Soldier_Spy|I
 // add to repertoire.txt and other sets, then remove from here:
 8bit Dungeon Boss|I
 8bit Dungeon Level|I
@@ -26,46 +32,11 @@ Dangerous|I
 Decline|I
 Despair and Triumph|I
 Disquiet|I
+// Is Feral Chase in Nosferatu?
+Fresh Air|I
+Fun in a Bottle|I
+Funky Boxstep |I
 [
-    "East of Tunesia",
-    "End of the Era",
-    "Epic Unease",
-    "Eternal Hope",
-    "Eternal Terminal",
-    "Evening of Chaos",
-    "Evil March",
-    "Evil Plan FX",
-    "Exhilarate",
-    "Eyes Gone Wrong",
-    "Facile",
-    "Failing Defense",
-    "Farting Around",
-    "Feather Waltz",
-    "Feral Chase",
-    "First Call",
-    "Flighty Theme",
-    "Flutey Sting",
-    "For the Fallen",
-    "Fresh Air",
-    "Fretless",
-    "Friday Morning",
-    "Friendly Day",
-    "Full On",
-    "Fun in a Bottle",
-    "Funk Game Loop",
-    "Funkorama",
-    "Funky Boxstep ",
-    "Funky One",
-    "Gagool",
-    "Gathering Darkness",
-    "Gearhead",
-    "Giant Wyrm",
-    "Glitter Blast",
-    "Gnarled Situation",
-    "Goblin_Tinker_Soldier_Spy",
-    "Gold Rush",
-    "Golly Gee",
-    "Gone Beyond",
     "Gothamlicious",
     "Grammophone Taps",
     "Grave Matters",
