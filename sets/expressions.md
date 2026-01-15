@@ -93,6 +93,7 @@ Two letters
 |TR|Traditional|
 |WD|William C. Dix|
 |WM|Wolfgang A. Mozart|
+|WW|W. Richard Wagner|
 |WY|William B. Yeats|
 |YP|Johann Pachelbel|
 |YS|Johannes Schroll|
