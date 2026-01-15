@@ -27,16 +27,29 @@ Modern Piano Alpha - As Loud as Possible|I
 Modern Piano Delta - Atonal in C-ish|I
 Modern Piano Epsilon - The Small|I
 Music to Delight|I
+Netherworld Shanty|I
 Old MacDonald|I
 Painful Disorientation|I
+Pop Goes the Weasel|I
+Pump|I
 Pump Sting|I
+Realizer|I
 Slow Ticking Clock|I
+Takeover of the 8-bit Synths|I
+Texture for Violincello and Pianoforte No. 2|I
+The House of Leaves|I
+The Show Must Be Go|I
+Ujangong Mix|I
+Unlight|I
+Very Low Note|I
+Wagner Bridal Chorus|I
+Wagner Bridal Chorus - piano|I
+Welcome to HorrorLand|I
 // add to repertoire.txt and other sets, then remove from here:
 [
     "Nano Hoedown",
     "Neolith",
     "Nervous Piano",
-    "Netherworld Shanty",
     "Newer Wave",
     "News of Sorrow",
     "Night in Venice",
@@ -75,7 +88,6 @@ Slow Ticking Clock|I
     "Plaint",
     "Plucky Daisy",
     "Pookatori and Friends",
-    "Pop Goes the Weasel",
     "Poppers and Prosecco",
     "Prelude and Action",
     "Pride",
@@ -84,12 +96,10 @@ Slow Ticking Clock|I
     "Promises to Keep",
     "Promising Relationship",
     "Protofunk",
-    "Pump",
     "Quasi Motion",
     "Quiet Panic",
     "Reaching Out",
     "Ready Aim Fire",
-    "Realizer",
     "Reawakening",
     "Redletter",
     "Reformat",
@@ -166,22 +176,18 @@ Slow Ticking Clock|I
     "Supernatural Radio A",
     "Suvaco do Cristo",
     "Sweeter Vermouth",
-    "Takeover of the 8-bit Synths",
     "Taps v2",
     "Teddy Bear Waltz",
     "Teller of the Tales",
-    "Texture for Violincello and Pianoforte No. 2",
     "The Bandit",
     "The Chase FX",
     "The Descent",
     "The Dread",
     "The Hive",
-    "The House of Leaves",
     "The Ice Giants",
     "The North",
     "The Parting",
     "The Reveal",
-    "The Show Must Be Go",
     "The Sky of our Ancestors",
     "The Voices",
     "Theme for Harold var 1",
@@ -204,13 +210,10 @@ Slow Ticking Clock|I
     "Trio for Piano, Cello, and Clarinet",
     "Truth in the Stones",
     "Two Together",
-    "Ujangong Mix",
     "Unease Piano",
     "Unholy Knight",
-    "Unlight",
     "Unseen Horrors",
     "Verano Sensual",
-    "Very Low Note",
     "Video Dungeon Boss",
     "Video Dungeon Crawl",
     "Villainous Treachery",
@@ -219,13 +222,10 @@ Slow Ticking Clock|I
     "Vision of Persistence",
     "Vortex",
     "Voxel Revolution",
-    "Wagner Bridal Chorus",
-    "Wagner Bridal Chorus - piano",
     "Wah Game Loop",
     "Waltz of Treachery FX",
     "Waltz of the Carnies",
     "Water Lily",
-    "Welcome to HorrorLand",
     "When The Wind Blows",
     "With the Sea",
     "Wizardtorium",
