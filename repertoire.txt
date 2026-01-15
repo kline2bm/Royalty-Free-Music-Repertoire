@@ -1,5 +1,7 @@
 120 Monster|PN KM APNO EPRC
 2006-June-26|PN KM APNO
+8bit Dungeon Boss|IF KM EPRC SYNZ
+8bit Dungeon Level|IF KM EPRC SYNZ
 A Good Bass for Gambling|FN KK APRC BASS EGTR
 // A Long Day of Fun|ZC BK AGTR APRC
 A Mission|IN KM CLNT FLUT STRS TRBN TUBA
@@ -34,10 +36,13 @@ Alien Restaurant|IC KM APRC BASS HARP OBOE SITR TRPT
 Alison|PR JS APRC BASS EGTR
 All The Tea In China|SC SI APRC ENST FLUT STRS
 Allada|IN KM APRC MRBA
+Almost Bliss|IR KM APRC EGTR
 Almost New|IR KM APNO STRS
 Almost in F|IC KM APNO STRS
 Amazing Grace|FC KM JN SAXO
 Amazing Grace 2011|IC KM JN APNO CLNT PORG
+Amazing Plan|IN KM APNO
+Amazing Plan - Distressed|IN KM APNO
 Ambient Bongos|FN AN APRC
 Ambiment|IC KM APNO SYNZ
 Americana|IR KM APRC CLNT CLST FLUT GLCK HORN OBOE STRS TIMP TRBN TUBA
@@ -53,6 +58,7 @@ Ancient Winds|FC KM EFFX HARP STRS SYNZ
 Ancient Winds|IC KM EFFX HARP STRS SYNZ
 And Awaken|IC KM CLNT HARP HORN STRS
 Andreas Theme|IR KM APRC BASS EPNO PFLT SYNZ
+Angel Share|IR AGTR BASS VOCL
 Angels We Have Heard|IC KM JX CLNT HORN STRS
 Angels We Have Heard (piano)|IC KM JX APNO
 Angevin|IS KM APRC ENST FLUT VOCL
@@ -64,6 +70,7 @@ Apero Hour|IH KM AGTR APRC BASS JORG
 Aquarium|FR KM CS APNO FLUT GLCK STRS
 Aquarium|IR KM CS APNO FLUT GLCK STRS
 Aquatic City Vanished|FN BT APRC FLUT STDR
+Arcadia|IS KM CLST FLUT GLCK VOCL
 Aretes|IR KM APNO SYNZ VOCL
 Arid Foothills|IF KM APRC MRBA HORN STRS TRBN TUBA
 Arpent|FH KM EPRC SYNZ
@@ -125,6 +132,7 @@ Big Rock|IA KM APRC BASS EGTR
 Birch Run|IN KM APRC
 Bit Bit Loop|FA KM EPRC SYNZ
 Bit Shift|IH KM EPRC SYNZ
+Bittersweet|IS KM APNO STRS SYNZ VOCL
 Black Bird|IN KM APRC HPRC
 Blacksmith|FN AN APRC DGDO ENST SITR STRS
 Bleeping Demo|IC KM APRC SYNZ
@@ -1432,14 +1440,6 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-8bit Dungeon Boss|I
-8bit Dungeon Level|I
-Almost Bliss|I
-Amazing Plan|I
-Amazing Plan - Distressed|I
-Angel Share|I
-Arcadia|I
-Bittersweet|I
 Carnivale Intrigue|I
 Cool Vibes|I
 Corruption|I
