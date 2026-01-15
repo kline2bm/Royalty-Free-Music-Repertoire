@@ -208,6 +208,7 @@ Canon in D for Two Renaissance Harps|IR KM YP HARP
 Cantina Blues|IN KM APRC BASS ENST VOCL
 Captain Scurvy|IN KM EPRC SYNZ
 Careless Riot|PS KM FG APNO
+Carnivale Intrigue|IN KM APRC BASS JORG TRPT
 Carpe Diem|IH KM AGTR APRC BASS CLNT CLST FLUT UKLE
 Cartoon Battle|IA KM APRC MUTE SAXO TRBN TUBA
 Cattails|IR KM ACDN AGTR BNJO ENST STRS
@@ -278,7 +279,9 @@ Consort for Brass|IR KM HORN TRBN TRPT TUBA
 Constance|IF KM APRC MRBA STRS SYNZ XYLO
 Cool Blast|IH KM BASS EPNO EPRC TRPT STRS
 Cool Rock|IH KM APRC BASS EGTR
+Cool Vibes|IC KM APRC BASS VIBE
 Corncob|IH KM APRC BASS BNJO
+Corruption|IA KM APRC STRS SYNZ XYLO
 Court of the Queen|IR KM CLST HARP HORN PIZZ STRS TRBN TRPT TUBA
 Covert Affair|IF KM APRC BASS EPNO TRPT
 Cowboy Sting|IN KM AGTR APRC BASS ENST STRS
@@ -289,6 +292,7 @@ Cretaceous Dawn|IN KM APRC
 Crinoline Dreams|IR KM APNO APRC BASS STRS
 Crossing the Chasm|IA KM APRC STRS VOCL
 Crossing the Chasm|PA KM APRC HORN STRS VOCL
+Crossing the Divide|IR KM APNO HORN STRS TRPT
 Crowd Hammer|IF KM AGTR APRC ENST FLUT OBOE
 Cruise Control|SH SI BASS EPNO EPRC SYNZ
 Cruising for Goblins|IF KM EPRC SYNZ
@@ -302,6 +306,7 @@ CumbiaNoFrills|IN KM AGTR APNO APRC BASS FLUT JORG SAXO TRPT
 CumbiaNoFrillsFaster|IN KM AGTR APNO APRC BASS FLUT JORG SAXO TRPT
 Cupids Revenge|IN KM EPRC STRS VOCL
 Curse of the Scarab|IA KM APRC CLNT FLUT HORN OBOE STRS XYLO
+Cut Trance|IC KM APNO EGTR EPRC SYNZ
 Cut and Dry|IH KM APRC EPRC SYNZ
 Cut and Run|IN KM EPRC HPRC SYNZ
 Cyborg Ninja|IA KM EPRC SYNZ
@@ -318,6 +323,7 @@ Dance of the Turtle|PN KM BASN CLNT FLUT OBOE
 Dances and Dames|IF KM APRC BASS EPNO VOCL
 Dancing at the Inn|FH KM APRC ENWD HPCH TUBA
 Danger Storm|IA KM AGTR APRC SYNZ
+Dangerous|IF KM APRC STRS TIMP TRBN XYLO
 Dank Halloween|SA SI EPRC GLCK HPCH PORG STRS VOCL
 Danse Macabre|IF KM CS APRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS TIMP TRBN TRPT TUBA XYLO
 Danse Macabre - Isolated Harp|IR KM CS HARP
@@ -346,6 +352,7 @@ Decisions|IF KM APRC EPRC STRS SYNZ VOCL
 Deck the Halls|FA AN TO APRC BASS EGTR
 Deck the Halls A|IC KM TO APNO
 Deck the Halls B|IH KM TO AGTR APNO APRC CLNT FLUT TUBA
+Decline|IS KM HARP STRS WHSL
 Deep Haze|IF KM APRC EGTR SYNZ
 Deep Relaxation|FC KM APNO EFFX EPNO HARP SYNZ
 Deep Relaxation|IC KM APNO EFFX EPNO HARP SYNZ
@@ -363,6 +370,7 @@ Desert Conflict|FF RK APRC ENST ENWD FLUT STRS SYNZ
 Desert Fox|FF RK APRC ENST ENWD KLBA STRS
 Desert Fox Underscore|FF RK APRC ENST ENWD KLBA STRS
 Desert of Lost Souls|IF KM EPRC SYNZ
+Despair and Triumph|IS KM APNO
 Destiny Day|IH KM APRC SYNZ
 Deuces|IR KM APNO APRC BASS JORG
 Devastation and Revenge|IF KM AGTR APRC HORN STRS SYNZ TRBN TRPT TUBA VOCL
@@ -381,6 +389,7 @@ Disco Medusae|IH KM BASS EGTR EPNO EPRC SYNZ
 Disco Sting|IH KM EPRC SYNZ
 Disco con Tutti|IH KM APRC EGTR EPNO SYNZ TRBN TRPT
 Dispersion Relation|IN KM APNO APRC BASS FLUT TRPT VIBE
+Disquiet|IS KM APNO
 Distant Star|PN MF TM EPRC SYNZ
 District Four|IA KM BASS EGTR EPRC JORG
 Divertimento K131|IH KM WM BELL CLST HARP
@@ -524,6 +533,7 @@ Four Beers Polka|IH KM ACDN AGTR APRC BASS CLNT EGTR SAXO TRPT
 Fox Tale Waltz Part 1 Instrumental|IH KM APRC FLUT PIZZ STRS
 Freddys Menagerie|IA KM AGTR APRC MRBA VOCL
 Freezing Winds|PF KF AGTR EFFX SYNZ
+Fresh Air|IC KM APNO
 Fright Night Twist|FF BT APRC BASS EGTR JORG TRPT
 Frogs Legs Rag|FH KM JS APNO
 Frogs Legs Rag|IH KM JS APNO
@@ -532,6 +542,7 @@ Frost Waltz (Alternate)|IF KM CLST FLUT GLCK STRS
 Frozen Star|IC KM FLUT HARP TUBA VOCL
 Fugue in Gee Miner|PN KM EPRC SYNZ
 // Fugue of the Cat|B@BK|cAPRC BASN BELL CLNT EFFX FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA VOCL
+Fun in a Bottle|IA KM APNO
 Funeral March for Brass|IS KM APRC TRBN TRPT
 Funin and Sunin|IH KM APRC BASS EGTR JORG
 Funkeriffic|FN KM APNO APRC BASS EGTR JORG
@@ -1440,17 +1451,6 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-Carnivale Intrigue|I
-Cool Vibes|I
-Corruption|I
-Crossing the Divide|I
-Cut Trance|I
-Dangerous|I
-Decline|I
-Despair and Triumph|I
-Disquiet|I
-Fresh Air|I
-Fun in a Bottle|I
 Grave Matters|I
 Gregorian Chant|I
 Guiton Sketch|I
