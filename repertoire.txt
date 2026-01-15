@@ -1081,8 +1081,8 @@ Sax Rock and Roll|IA KM APRC BASS EGTR SAXO TRPT
 Scattershot|IA KM APRC SYNZ
 Scheming Weasel faster|IF KM APRC BASN BASS CLNT CLST GLCK OBOE
 Scheming Weasel slower|IS KM APRC BASN BASS CLNT CLST GLCK OBOE
-Schmetterling|IS KM PORG VOCL
-Schmetterling|PS KM PORG VOCL
+// Schmetterling|IS KM PORG VOCL
+// Schmetterling|PS KM PORG VOCL
 Scissors|IF KM APRC SYNZ
 Screen Saver|FC KM SYNZ VOCL
 Screen Saver|IC KM SYNZ VOCL
