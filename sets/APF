@@ -30,6 +30,7 @@ Music to Delight|I
 Netherworld Shanty|I
 Old MacDonald|I
 Painful Disorientation|I
+Phantasm|I
 Pop Goes the Weasel|I
 Pump|I
 Pump Sting|I
@@ -45,43 +46,18 @@ Very Low Note|I
 Wagner Bridal Chorus|I
 Wagner Bridal Chorus - piano|I
 Welcome to HorrorLand|I
+Piece for Disaffected Piano One|I
+Piece for Disaffected Piano Two|I
 // add to repertoire.txt and other sets, then remove from here:
+Nano Hoedown|I
+Neolith|I
+On My Way|I
+Open Those Bright Eyes|I
+// ^^^ I think the brass is just TRBN and TRPT
+Oppressive Gloom|I
+Organ Filler|I
+Peaceful Desolation|I
 [
-    "Nano Hoedown",
-    "Neolith",
-    "Nervous Piano",
-    "Newer Wave",
-    "News of Sorrow",
-    "Night in Venice",
-    "Night of Chaos",
-    "Nightdreams",
-    "Nightmare Machine",
-    "Nu Flute",
-    "Off to Osaka",
-    "Old Road",
-    "On Hold for You",
-    "On My Way",
-    "On the Passing of Time",
-    "One of Them",
-    "Onion Capers",
-    "Open Those Bright Eyes",
-    "Oppressive Gloom",
-    "Organ Filler",
-    "Our Story Begins",
-    "Parisian",
-    "Parting of the Ways - Part 1",
-    "Parting of the Ways - Part 2",
-    "Past Sadness",
-    "Past the Edge",
-    "Peaceful Desolation",
-    "Pensif",
-    "Penumbra",
-    "Peppers Theme",
-    "Phantasm",
-    "Phantom from Space",
-    "Piano Between",
-    "Piece for Disaffected Piano One",
-    "Piece for Disaffected Piano Two",
     "Pippin the Hunchback",
     "Pixel Peeker Polka - faster",
     "Pixel Peeker Polka - slower",
