@@ -1473,3 +1473,11 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
+Nano Hoedown|I
+Neolith|I
+On My Way|I
+Open Those Bright Eyes|I
+// ^^^ I think the brass is just TRBN and TRPT
+Oppressive Gloom|I
+Organ Filler|I
+Peaceful Desolation|I
