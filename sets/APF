@@ -1,5 +1,6 @@
 Aggressor|I
 Android Sock Hop|I
+Baltic Levity|I
 Bent and Broken|I
 Bump in the Night|I
 Childrens Theme|I
@@ -18,12 +19,17 @@ Ice Demon|I
 Impromptu in Blue|I
 In a Heartbeat|I
 Iron Bacon|I
+Irregular|I
 Joey's Formal Waltz|I
 Keystone Deluge|I
 Meatball Parade|I
 Modern Piano Alpha - As Loud as Possible|I
 Modern Piano Delta - Atonal in C-ish|I
 Modern Piano Epsilon - The Small|I
+Old MacDonald|I
+Painful Disorientation|I
+Pump Sting|I
+Slow Ticking Clock|I
 // add to repertoire.txt and other sets, then remove from here:
 8bit Dungeon Boss|I
 8bit Dungeon Level|I
@@ -53,16 +59,19 @@ Hot Swing|I
 Impromptu in Quarter Comma Meantone|I
 Interloper|I
 Ishikari Lore|I
+Island Meet and Greet|I
 Life of Riley|I
 Light Sting|I
 Lively Lumpsucker|I
 Lord of the Land|I
 Mandeville|I
 Midnight Tale|I
+Montego|I
+Moonlight Beach|I
+Narcissus|I
+The Endless|I
+Tiki Bar Mixer|I
 [
-    "Monkeys Spinning Monkeys",
-    "Montego",
-    "Moonlight Beach",
     "Move Forward",
     "Mr Mealeys Mediocre Machine",
     "Music Box Theme",
@@ -227,7 +236,6 @@ Midnight Tale|I
     "Thinking Music",
     "Thinking of You",
     "This House",
-    "Tiki Bar Mixer",
     "Toccata and Fugue in D Minor",
     "Too Cool",
     "Touching Moments Five - Circle",
