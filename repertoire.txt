@@ -595,7 +595,9 @@ Grand Dark Waltz Moderato|IS KM APNO APRC BASS CLST FLUT HORN PIZZ TRPT
 Grand Dark Waltz Trio Allegro|IS KM APNO APRC BASS
 Grand Dark Waltz Trio Vivace|IS KM APNO APRC BASS
 Grave Blow|IF KM STRS TIMP TRBN TUBA
+Grave Matters|IS KM STRS
 Graveyard Shift|IF KM APRC JORG STRS SYNZ TIMP VOCL
+Gregorian Chant|IC KM SYNZ VOCL
 Greko Sketch|IA KM APRC EPRC MDLN SYNZ VOCL
 Grim Idol|IA KM APRC CLNT FLUT HORN JORG OBOE STRS TRBN
 Griphop|IA KM EPRC STRS SYNZ VIBE
@@ -604,6 +606,7 @@ Groovin|FN BB APNO APRC EGTR JORG
 Groovy Funky Disco|SH SI APRC BASS EGTR EPNO HORN HPRC STRS TRBN VOCL
 Groundwork|IH KM AGTR APNO APRC BASS
 Guess Who|IA KM APNO APRC BASN EGTR GLCK HPCH OBOE STRS
+Guiton Sketch|IN KM AGTR APRC BASS
 Gustav Sting|IA KM APRC STRS XYLO
 Guts and Bourbon|IH KM APRC BASS EGTR MDLN
 Guzheng City|IC KM APRC ENST
@@ -634,9 +637,11 @@ Heavy Interlude|IA KM APRC DULC MDLN STRS
 Helena's Lament|SS SI APNO
 Hep Cats|IH KM AGTR APRC BASS EPNO FLUT JORG
 Here We Go|PN AF APNO
+Heroic Reception|IH KM APNO
 Hexxit DRAVE Symphonie|PN YS HARP STRS
 // TODO: more INST for ^^^ HDS ^^^
 Hidden Past|IS KM APRC BGPS SYNZ
+Hidden Wonders|IF KM APRC DULC SITR STRS
 Hiding Your Reality|IF KM APRC HORN SYNZ TRBN TRPT TUBA
 Highlight Reel|IN KM BASS EGTR EPRC HPRC SAXO TRPT
 Hilary's Walk in the Woods|PN IM AGTR APRC EFFX
@@ -654,6 +659,7 @@ Horned Flute Chill|PC KM AGTR APRC BASS EPNO FLUT GLCK HORN
 Horns|FH KM APRC BASS EGTR TRBN TRPT
 Horror_Spacial Winds|IC KM SYNZ
 Hot Pursuit|IA KM APRC EGTR STRS
+Hot Swing|IN KM APNO APRC BASS CLNT SAXO TRBN TRPT
 Hotrock|IA KM APRC BASS EGTR SAXO TRPT
 How it Begins|IH KM APRC SYNZ
 Human Beat|IN KM HPRC VOCL
@@ -683,6 +689,7 @@ Imperfect Echoes|PC KM APNO
 Imperial China Cinematic|SR SI APRC ENST FLUT STRS
 Impomptu in D Major|PH KM APNO
 Impromptu for Pianoforte and Beatbox|PN KM BT APNO HPRC
+Impromptu in Quarter Comma Meantone|IS KM APNO
 In The West|IF KM APRC CLNT FLUT STRS
 In Your Arms|IR KM APRC BASS MUTE SAXO TRBN
 Industrial Cinematic|IF KM APRC SYNZ
@@ -699,6 +706,7 @@ Inspirational Breakthrough|SR SI APNO
 Inspired|IC KM APRC EGTR SYNZ
 Indended Force|PA KM CLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Intended Force|IA KM CLNT GLCK HARP HORN STRS TIMP TRBN TRPT
+Interloper|IF KM APRC CLNT FLUT STRS TIMP VOCL
 Interluder|PF IM APRC EPRC FLUT SYNZ
 // Interplanetary Mystery|B@BK|nFLUT HORN MRBA PIZZ STRS TRBN TRPT TRBN
 // Interplanetary Mystery Electronic|B@BK|nSYNZ
@@ -708,6 +716,8 @@ Intuit256|IF KM APRC EPRC FLUT SYNZ
 Invariance|IF KM APRC BASS MRBA XYLO
 Iron Horse|IF KM APNO
 Iron Horse - Distressed|IF KM APNO
+Ishikari Lore|IH KM APRC ENST FLUT
+Island Meet and Greet|IH KM APRC BASS MRBA STDR UKLE
 Isolation Waltz|FR BT APNO HARP MUBX
 It Came Upon a Midnight Clear|IS KM RW APNO OBOE STRS
 It is Lost|IS KM SYNZ
@@ -768,8 +778,10 @@ Leaving Home|IS KM APNO CLNT DULC EGTR FLUT SYNZ
 Legend of One|IF KM APNO EPRC SYNZ
 Leopard Print Elevator|IR KM APRC BASS EPNO SYNZ
 Lewis and Dekalb|IA KM EPRC SYNZ
+Life of Riley|IH KM AGTR APRC GLCK HPRC UKLE
 Lift Motif|IR KM APNO
 Light Awash|IC KM SYNZ
+Light Sting|IH KM FLUT STRS TRBN XYLO
 Light Thought var 1|IC KM EPNO
 Light Thought var 2|IC KM EPNO
 Lightless Dawn|IS KM APRC BELL STRS SYNZ
@@ -777,6 +789,7 @@ Limit 70|FC KM EPNO EPRC SYNZ
 Limit 70|IC KM EPNO EPRC SYNZ
 Lithium|IS KM APNO PORG STRS
 Liturgy Of The Street|SF SI APRC EPRC STRS SYNZ
+Lively Lumpsucker|IH KM APNO
 Lives That Are Worth Saving|PS KM FG EPRC SYNZ
 Living Voyage|IN KM ENST EPRC FLUT SYNZ VOCL
 Lizzy|PH KM HPCH STRS
@@ -791,6 +804,7 @@ Long Road Ahead B|IR KM STRS VOCL
 Long Time Coming|IA KM APNO EPRC STRS SYNZ
 Long Trail|PS BB AGTR APNO BASS STRS
 Loopster|IN KM APRC BASS EPNO
+Lord of the Land|IN KM APRC ENST FLUT
 Lord of the Rangs|IH KM APRC DGOO EPRC FLUT MRBA
 Lost Frontier|IC KM APRC HORN STRS VOCL
 Lotus|IN KM APRC
@@ -812,6 +826,7 @@ Majestic Hills|IS KM APRC BELL CLNT FLUT GLCK HORN STRS TIMP TRBN TUBA
 Mallet Chaos|PN KM APRC MRBA
 Malt Shop Bop|IH KM APNO APRC BASS EGTR SAXO
 Man Down|IS KM EPNO STRS
+Mandeville|IN KM APNO APRC BASS EGTR JORG
 Manic Polka|IH KM ACDN APRC TUBA
 Maple 100|FH KM SJ APNO
 Maple Leaf Rag|FH KM SJ APNO
@@ -841,6 +856,7 @@ Miami Nights - Extended Theme|IN KM APRC EPRC SAXO STRS SYNZ TRPT
 Miami Viceroy|IC KM AGTR APRC BASS SYNZ
 Midday Dance|IH KM APNO
 Midnight Meeting|IS KM PORG
+Midnight Tale|IC KM AGTR ENST
 Midnight in the Green House|FS KM ENST STRS
 Mighty Like Us|IH KM APRC SYNZ
 Militaire Electronic|IA KM APRC EPRC
@@ -869,7 +885,9 @@ Monster Promenade|IH KM AGTR APRC BASS JORG
 Monsters in Hotel|FF RK APNO APRC GLCK HORN PORG TRBN TRPT XYLO
 Montageur|PN FN EPRC SYNZ
 Montauk Point|IH KM AGTR APRC BASS
+Montego|IH KM APRC BASS EGTR JORG
 Moon Lounge Omicron Prime|IH KM EGTR EPRC SYNZ
+Moonlight Beach|IH KM APRC BASS MRBA STDR
 Moonlight Hall|IF KM APRC BASN CLST FLUT OBOE PIZZ STRS TIMP TUBA VOCL
 Moonstone|IC KM APNO
 Moorland|IS KM APRC BGPS
@@ -889,10 +907,12 @@ Myst on the Moor|IF KM APRC FLUT MRBA SYNZ
 Mysterioso March|IF KM APRC CLNT CLST HORN MUTE PIZZ
 Mysterious Lights|FF BT APNO EPRC STRS
 Mysterious String Quintet|SF SI DULC STRS
+Mystery Bazaar|IF KM APRC DULC STRS
 Mystery Sax|IF KM APRC SAXO SYNZ
 Mystery Sting|IN KM APRC CLNT KLBA MRBA OBOE
 Mystic Force|IN KM APRC BELL TUBA
 Naraina|IA KM APRC BASS ENWD EPRC TRPT
+Narcissus|IH KM HPCH OBOE STRS TRPT
 Native Dream|PN IM APRC STDR SYNZ
 Neo Western|IN KM APRC EGTR SYNZ
 Neon Laser Horizon|IH KM EPRC SYNZ
@@ -1279,6 +1299,7 @@ The Crown|FN AN APNO APRC BASN HARP OBOE PIZZ STRS
 The Curtain Rises|IH KM APRC HORN STRS TIMP TRBN TUBA
 The Cutest Bunny|SH SI AGTR APRC BASS GLCK STRS UKLE VOCL XYLO
 The Drama|FF RK APRC STRS SYNZ
+The Endless|IS KM STRS
 The Entertainer|FH KM SJ APNO
 The Entertainer|IH KM SJ APNO
 The Escalation|IF KM APRC STRS
@@ -1317,6 +1338,7 @@ Through The Woods|SH SI CLNT CLST FLUT HARP PIZZ
 Thunder Dreams|IS KM SYNZ
 Thunderbird|IC KM APRC FLUT SYNZ
 Thunderhead|IN KM APRC
+Tiki Bar Mixer|IH KM APRC BASS MRBA STDR
 Tiki Chanter|PF KM APRC HORN VOCL
 Tikopia|IN KM APRC
 Time Passes|IS KM APNO FLUT HARP HORN STRS
@@ -1451,25 +1473,3 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-Grave Matters|I
-Gregorian Chant|I
-Guiton Sketch|I
-Heroic Reception|I
-Hidden Wonders|I
-Hot Swing|I
-Impromptu in Quarter Comma Meantone|I
-Interloper|I
-Ishikari Lore|I
-Island Meet and Greet|I
-Life of Riley|I
-Light Sting|I
-Lively Lumpsucker|I
-Lord of the Land|I
-Mandeville|I
-Midnight Tale|I
-Montego|I
-Moonlight Beach|I
-Mystery Bazaar|I
-Narcissus|I
-The Endless|I
-Tiki Bar Mixer|I
