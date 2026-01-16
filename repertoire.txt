@@ -1481,6 +1481,7 @@ Open Those Bright Eyes|I
 Oppressive Gloom|I
 Organ Filler|I
 Peaceful Desolation|I
+Phantom from Space|I
 Pippin the Hunchback|I
 Pixel Peeker Polka - faster|I
 Pixel Peeker Polka - slower|I
