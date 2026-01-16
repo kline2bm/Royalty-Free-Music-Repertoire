@@ -1488,3 +1488,4 @@ Pixel Peeker Polka - slower|I
 Plaint|I
 Prelude and Action|I
 Protofunk|I
+Special Spotlight|I
