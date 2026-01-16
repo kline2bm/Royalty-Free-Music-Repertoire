@@ -1481,3 +1481,9 @@ Open Those Bright Eyes|I
 Oppressive Gloom|I
 Organ Filler|I
 Peaceful Desolation|I
+Pippin the Hunchback|I
+Pixel Peeker Polka - faster|I
+Pixel Peeker Polka - slower|I
+Plaint|I
+Prelude and Action|I
+Protofunk|I
