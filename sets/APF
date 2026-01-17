@@ -32,6 +32,8 @@ Netherworld Shanty|I
 Old MacDonald|I
 Painful Disorientation|I
 Phantasm|I
+Piece for Disaffected Piano One|I
+Piece for Disaffected Piano Two|I
 Pop Goes the Weasel|I
 Pump|I
 Pump Sting|I
@@ -52,14 +54,14 @@ The Hive|I
 The House of Leaves|I
 The Show Must Be Go|I
 This House|I
+Townie Loop|I
+Trepidation|I
 Ujangong Mix|I
 Unlight|I
 Very Low Note|I
 Wagner Bridal Chorus|I
 Wagner Bridal Chorus - piano|I
 Welcome to HorrorLand|I
-Piece for Disaffected Piano One|I
-Piece for Disaffected Piano Two|I
 // add to repertoire.txt and other sets, then remove from here:
 Nano Hoedown|I
 Neolith|I
@@ -86,11 +88,6 @@ The Parting|I
 Thinking Music|I
 
 [
-    "Townie Loop",
-    "Trepidation",
-    "Trio for Piano, Cello, and Clarinet",
-    "Truth in the Stones",
-    "Two Together",
     "Unease Piano",
     "Unholy Knight",
     "Unseen Horrors",
