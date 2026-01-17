@@ -1492,3 +1492,7 @@ Special Spotlight|I
 StyleFunk|I
 Supernatural|I
 Sweeter Vermouth|I
+Teller of the Tales|I
+The Descent|I
+The Parting|I
+Thinking Music|I
