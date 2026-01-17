@@ -1489,3 +1489,6 @@ Plaint|I
 Prelude and Action|I
 Protofunk|I
 Special Spotlight|I
+StyleFunk|I
+Supernatural|I
+Sweeter Vermouth|I
