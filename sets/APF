@@ -1,3 +1,5 @@
+A Terrible Sounding Piece of Music|P
+ABT2|S
 Aggressor|I
 Android Sock Hop|I
 Baltic Levity|F
@@ -89,57 +91,8 @@ Wagner Bridal Chorus - piano|I
 Waltz of the Carnies|I
 Welcome to HorrorLand|I
 // add to repertoire.txt and other sets, then remove from here:
-
+Ancient Power of Serpents|P
 [
-    "2017 12 01 in C Major",
-    "2017 12 02 in D Minor",
-    "2017 12 04 in A Minor",
-    "2017 12 05 in Ab Major",
-    "30 Seconds (Live)",
-    "A Little Faith",
-    "A Terrible Sounding Piece of Music",
-    "A Turn for the Worse",
-    "A Wormhole in the Top of the World",
-    "ABT2",
-    "All in a Silver Line",
-    "All You Need is Noise",
-    "Ambiant Anxiety",
-    "Ambiant Inconvenient Truth",
-    "Ambiant Obscur Technology",
-    "Ambiant Truth",
-    "Ambiant Wait",
-    "Ambient A Zyow",
-    "Ambient B Eastern Thought",
-    "Ambient C Motion",
-    "Ambient D Edges",
-    "Ambient D Wooden Blocks",
-    "Ambient E Singing Bells",
-    "Ambient F Swirl Noise",
-    "Ambient G Glowing",
-    "Ambient H Spaced Out",
-    "Ambient I Tibet Groove",
-    "Ambient J Thoughtful",
-    "Ambient K Slow Go",
-    "Ambient L Delicate",
-    "Ambient M Squee Bell",
-    "Ambient N Vibe Train",
-    "Ambient O Sub Plucker",
-    "Ambient P Desertland",
-    "Ambient Q Chime Song",
-    "Analogue Brainworm",
-    "Ancient Power Of Serpents",
-    "And Now For That Massive Coronary",
-    "Another Day",
-    "Antagonist A",
-    "Antagonist B",
-    "Apart",
-    "Aphrodite (Mix 2 Chirpless)",
-    "Aphrodite",
-    "Arafura Treasure",
-    "Ares",
-    "Artemis",
-    "Automatic",
-    "Aydagee (Live)",
     "Battle Theme",
     "Battle with the Circus Freaks",
     "Beautiful Soup",
