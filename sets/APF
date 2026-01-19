@@ -57,61 +57,11 @@ This House|I
 Townie Loop|I
 Trepidation|I
 Ujangong Mix|I
+Unease Piano|I
 Unlight|I
 Very Low Note|I
 Wagner Bridal Chorus|I
 Wagner Bridal Chorus - piano|I
+Waltz of the Carnies|I
 Welcome to HorrorLand|I
 // add to repertoire.txt and other sets, then remove from here:
-Nano Hoedown|I
-Neolith|I
-On My Way|I
-Open Those Bright Eyes|I
-// ^^^ I think the brass is just TRBN and TRPT
-Oppressive Gloom|I
-Organ Filler|I
-Peaceful Desolation|I
-Phantom from Space|I
-Pippin the Hunchback|I
-Pixel Peeker Polka - faster|I
-Pixel Peeker Polka - slower|I
-Plaint|I
-Prelude and Action|I
-Protofunk|I
-Special Spotlight|I
-StyleFunk|I
-Supernatural|I
-Sweeter Vermouth|I
-Teller of the Tales|I
-The Descent|I
-The Parting|I
-Thinking Music|I
-
-[
-    "Unease Piano",
-    "Unholy Knight",
-    "Unseen Horrors",
-    "Verano Sensual",
-    "Video Dungeon Boss",
-    "Video Dungeon Crawl",
-    "Villainous Treachery",
-    "Villainous Treachery - Distressed",
-    "Vintage Education",
-    "Vision of Persistence",
-    "Vortex",
-    "Voxel Revolution",
-    "Wah Game Loop",
-    "Waltz of Treachery FX",
-    "Waltz of the Carnies",
-    "Water Lily",
-    "When The Wind Blows",
-    "With the Sea",
-    "Wizardtorium",
-    "Work is Work FX",
-    "Wounded",
-    "Wretched Destroyer",
-    "Yallahs",
-    "Zombie Hoodoo",
-    "mystery",
-    "rock hybrid"
-]
