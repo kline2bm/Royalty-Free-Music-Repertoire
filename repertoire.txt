@@ -1503,3 +1503,10 @@ Water Lily|I
 Wizardtorium|I
 Yallahs|I
 Zombie Hoodoo|I
+Hard Sell Hotel|S
+It's Mouse Business|S
+Organ Filler|F
+River Meditation|F
+SQZ|S
+Streetlight Serenade|S
+The Gatekeepers|S
