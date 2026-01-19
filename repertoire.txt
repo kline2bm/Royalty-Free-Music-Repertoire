@@ -1496,3 +1496,10 @@ Teller of the Tales|I
 The Descent|I
 The Parting|I
 Thinking Music|I
+Video Dungeon Boss|I
+Video Dungeon Crawl|I
+Waltz of Treachery FX|I
+Water Lily|I
+Wizardtorium|I
+Yallahs|I
+Zombie Hoodoo|I
