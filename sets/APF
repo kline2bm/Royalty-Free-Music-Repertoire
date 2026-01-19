@@ -9,6 +9,8 @@ Bump in the Night|I
 Cha-Cha Ender|F
 Childrens Theme|I
 Come Play with Me|I
+Corrupted|S
+Dark Side Of Mars|S
 DarxieLand|I
 Decay|I
 Deep Noise|I
@@ -18,16 +20,18 @@ East of Tunesia|I
 Exhilarate|I
 Farting Around|I
 Flighty Theme|I
+Floppy Disks|S
 Footsteps in the Attic|F
 Gagool|I
 Goblin_Tinker_Soldier_Spy|I
 Going Bananas|F
+Haunted Harpsichord|S
 Hello! Ma Baby|F
 Horror Mystery|F
 Horror Suspense|F
 Ice Demon|I
 Impromptu in Blue|I
-Improved Ice Cream Truck|I
+Improved Ice Cream Truck|F
 In a Heartbeat|I
 Iron Bacon|I
 Irregular|I
@@ -39,10 +43,12 @@ Medusa|I
 Modern Piano Alpha - As Loud as Possible|I
 Modern Piano Delta - Atonal in C-ish|I
 Modern Piano Epsilon - The Small|I
+Monsieur Meaow|S
 My Giant Bunny Friend|F
 Music to Delight|I
 Netherworld Shanty|I
 Old MacDonald|I
+Onion March|S
 Painful Disorientation|I
 Painful Disorientation|I
 Phantasm|I
@@ -59,6 +65,7 @@ Sad Drunken Party|F
 Seven Off|I
 Seventh Seal|I
 Sing Along with Jim|I
+Skeleton Carnival|S
 Slow Ticking Clock|I
 Split In Synapse|I
 Steel Rods|I
@@ -73,12 +80,12 @@ Townie Loop|I
 Trepidation|I
 Ujangong Mix|I
 Unease Piano|I
+Unfit Trumpet|S
 Unlight|I
 Very Low Note|I
+WOAH|S
 Wagner Bridal Chorus|I
 Wagner Bridal Chorus - piano|I
 Waltz of the Carnies|I
 Welcome to HorrorLand|I
 // add to repertoire.txt and other sets, then remove from here:
-Organ Filler|F
-River Meditation|F
