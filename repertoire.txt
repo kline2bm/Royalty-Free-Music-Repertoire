@@ -687,7 +687,7 @@ Impact Moderato|IH KM APRC EGTR SYNZ
 Impact Prelude|IF KM APRC EGTR SYNZ
 Imperfect Echoes|PC KM APNO
 Imperial China Cinematic|SR SI APRC ENST FLUT STRS
-Impomptu in D Major|PH KM APNO
+Impomptu in D major|PH KM APNO
 Impromptu for Pianoforte and Beatbox|PN KM BT APNO HPRC
 Impromptu in Quarter Comma Meantone|IS KM APNO
 In The West|IF KM APRC CLNT FLUT STRS
