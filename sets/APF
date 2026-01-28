@@ -19,6 +19,7 @@ Deep Noise|I
 Distant Tension|I
 Drunken Party|F
 East of Tunesia|I
+East of Tunesia|P
 Exhilarate|I
 Farting Around|I
 Flighty Theme|I
@@ -46,6 +47,7 @@ Modern Piano Alpha - As Loud as Possible|I
 Modern Piano Delta - Atonal in C-ish|I
 Modern Piano Epsilon - The Small|I
 Monsieur Meaow|S
+Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|P
 My Giant Bunny Friend|F
 Music to Delight|I
 Netherworld Shanty|I
@@ -55,7 +57,9 @@ Painful Disorientation|I
 Painful Disorientation|I
 Phantasm|I
 Piece for Disaffected Piano One|I
+Piece for Disaffected Piano One|P
 Piece for Disaffected Piano Two|I
+Piece for Disaffected Piano Two|P
 Pop Goes the Weasel|I
 Pump|I
 Pump Sting|I
@@ -66,9 +70,13 @@ Ropocolypse 2|I
 Sad Drunken Party|F
 Seven Off|I
 Seventh Seal|I
+Simon Says Dont - 100 cents|I
+Simon Says Dont - 100 cents|P
 Sing Along with Jim|I
 Skeleton Carnival|S
+Slate|P
 Slow Ticking Clock|I
+Slow Ticking Clock|P
 Split In Synapse|I
 Steel Rods|I
 Steel and Seething|I
@@ -158,7 +166,6 @@ Ancient Power of Serpents|P
     "Drum n Bass J Hit Me",
     "Drum n Bass K Megatrack",
     "Dynamo",
-    "East of Tunesia",
     "Edgar's Bells - Movement 1 Silver",
     "Edgar's Bells - Movement 2 Golden",
     "Edgar's Bells - Movement 3 Brazen",
@@ -353,7 +360,6 @@ Ancient Power of Serpents|P
     "Monplaisir - Bonjour from Paris, Nantes and Montreal - 16 Se recourber",
     "Monplaisir - PIGEONS ARE THE BEST - 01 Jump ! Oh Hi Mark",
     "Monplaisir - PIGEONS ARE THE BEST - 02 Des millions de petites larmes de chat",
-    "Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons",
     "Monplaisir - PIGEONS ARE THE BEST - 04 Hard XxX Ultra Yaoi Psychedelic Death Of Vintage Cluster Bomb Of Glitter",
     "Monplaisir - PIGEONS ARE THE BEST - 05 Lightbull",
     "Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON",
@@ -424,8 +430,6 @@ Ancient Power of Serpents|P
     "Phantom Foxtrot",
     "Piano Cue One",
     "Picket Villian",
-    "Piece for Disaffected Piano One",
-    "Piece for Disaffected Piano Two",
     "Piece for Two Fingers",
     "Pig And Pepper",
     "Plans in Motion",
@@ -495,12 +499,9 @@ Ancient Power of Serpents|P
     "Sa Mo Do Do",
     "Sadness on White Keys",
     "Send for the Horses",
-    "Simon Says Dont - 100 cents",
-    "Slate",
     "Slider",
     "Sloppy Bossa Loop",
     "Slow Folk",
-    "Slow Ticking Clock",
     "Soft Urban A",
     "Solace in Imaginary Places",
     "Someday... (Lonely character's theme)",
