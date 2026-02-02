@@ -1474,6 +1474,7 @@ space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
 Ancient Power of Serpents|P
+Connection|P
 Nano Hoedown|I
 Neolith|I
 On My Way|I
