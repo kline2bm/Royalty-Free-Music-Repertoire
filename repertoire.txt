@@ -52,6 +52,7 @@ Anamalie|IS KM AGTR APNO APRC BASS CLNT OBOE
 Ancient Mystery Waltz Allegro|IF KM APRC MRBA VOCL
 Ancient Mystery Waltz Presto|IA KM APRC MRBA VOCL
 Ancient Mystery Waltz Vivace|IF KM APRC MRBA VOCL
+Ancient Power of Serpents|PN KM APRC HORN STRS TRBN
 Ancient Rite|FS KM APRC STRS VOCL
 Ancient Rite|IS KM APRC STRS VOCL
 Ancient Winds|FC KM EFFX HARP STRS SYNZ
@@ -273,6 +274,7 @@ Conflicted|IN KM APNO APRC CLNT HORN TIMP TRBN TRPT TUBA
 Conflicted|PN KM APNO APRC CLNT HORN TIMP TRBN TRPT TUBA
 Confused State|IF KM APRC BASN CLNT KLBA MRBA OBOE
 Connecting Rainbows|FR KM HARP
+Connection|PN BB APRC BASS EGTR HARP STRS
 Consecrated Ground|FF AN APNO APRC BELL PORG STRS TRBN
 Consequence|IF KM APRC EPRC GLCK MRBA SYNZ
 Consort for Brass|IR KM HORN TRBN TRPT TUBA
@@ -911,10 +913,12 @@ Mystery Bazaar|IF KM APRC DULC STRS
 Mystery Sax|IF KM APRC SAXO SYNZ
 Mystery Sting|IN KM APRC CLNT KLBA MRBA OBOE
 Mystic Force|IN KM APRC BELL TUBA
+Nano Hoedown|IH KM EPRC SYNZ
 Naraina|IA KM APRC BASS ENWD EPRC TRPT
 Narcissus|IH KM HPCH OBOE STRS TRPT
 Native Dream|PN IM APRC STDR SYNZ
 Neo Western|IN KM APRC EGTR SYNZ
+Neolith|IH KM APRC BASS EGTR
 Neon Laser Horizon|IH KM EPRC SYNZ
 Neon Noir|SF SI EPNO EPRC SYNZ
 Neptunian Princess|FF BT APNO APRC BASS MUTE OBOE VIBE
@@ -974,6 +978,7 @@ Opening Move|SN SI APNO APRC BASS MUTE
 // Operation Plot Summary|B@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Opium|IC KM APRC DULC STRS VOCL
 Opportunity Walks|IS KM APNO APRC BASS
+Oppressive Gloom|IS KM APRC CLNT STRS
 Orchestra Demo|PC KM BELL CLNT HORN OBOE STRS TRBN TRPT TUBA
 Organic Grunge|IA KM APRC EGTR JORG
 Organic Meditations One|IC KM APRC BELL STRS
@@ -1473,14 +1478,9 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-Ancient Power of Serpents|P
-Connection|P
-Nano Hoedown|I
-Neolith|I
 On My Way|I
 Open Those Bright Eyes|I
 // ^^^ I think the brass is just TRBN and TRPT
-Oppressive Gloom|I
 Organ Filler|I
 Peaceful Desolation|I
 Phantom from Space|I
