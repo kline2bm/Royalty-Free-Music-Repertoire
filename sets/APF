@@ -20,6 +20,7 @@ DarxieLand|I
 Decay|I
 Deep Noise|I
 Distant Tension|I
+Drinking and Dancing|P
 Drunken Party|F
 East of Tunesia|I
 East of Tunesia|P
@@ -102,31 +103,7 @@ Wagner Bridal Chorus - piano|I
 Waltz of the Carnies|I
 Welcome to HorrorLand|I
 // add to repertoire.txt and other sets, then remove from here:
-Ancient Power of Serpents|P
-Connection|P
 [
-    "Cuicuitte - premier vol - 01 vavin",
-    "Cuicuitte - premier vol - 03 viville qui court vite",
-    "Cuicuitte - premier vol - 04 qui fait pousser mes ongles par la force de sa marce",
-    "DDJ",
-    "Depressor Superchill",
-    "Der Kleber Sting",
-    "Diablo",
-    "Downy Feathers",
-    "Dream of the Insomniac",
-    "Drinking and Dancing",
-    "Drum n Bass A Squish",
-    "Drum n Bass B Drive",
-    "Drum n Bass C Super Shaker",
-    "Drum n Bass D Coexistant",
-    "Drum n Bass E Energy",
-    "Drum n Bass F Plausible",
-    "Drum n Bass G Terrible",
-    "Drum n Bass H Stutter",
-    "Drum n Bass I Almost Awesome",
-    "Drum n Bass J Hit Me",
-    "Drum n Bass K Megatrack",
-    "Dynamo",
     "Edgar's Bells - Movement 1 Silver",
     "Edgar's Bells - Movement 2 Golden",
     "Edgar's Bells - Movement 3 Brazen",
