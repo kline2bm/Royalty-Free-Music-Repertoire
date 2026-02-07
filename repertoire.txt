@@ -968,18 +968,21 @@ Oh Holy Night|IC KM AA APNO
 Oh Xmas|IH KM EA AGTR APNO APRC GLCK
 Olde Timey|IH KM APNO
 Ominous Intro|IF KM SYNZ
+On My Way|IH KM APRC BASS CLNT EGTR FLUT VIBE
 On the Cool Side|IS KM APRC BASS EPNO SAXO TRPT
 On the Ground|IF KM APRC BASS EPNO
 On the Shore|IS KM FLUT GLCK STRS TIMP
 One Sly Move|IS KM EGTR EPRC EPNO SYNZ
 One With Everything|SC SI APRC EPRC FLUT ENST SITR SYNZ VOCL
 One-eyed Maestro|IF KM ACDN APRC FLUT HORN STRS TRPT TUBA
+Open Those Bright Eyes|IH KM AGTR APNO APRC BASS TRBN TRPT
 Opening Move|SN SI APNO APRC BASS MUTE
 // Operation Plot Summary|B@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Opium|IC KM APRC DULC STRS VOCL
 Opportunity Walks|IS KM APNO APRC BASS
 Oppressive Gloom|IS KM APRC CLNT STRS
 Orchestra Demo|PC KM BELL CLNT HORN OBOE STRS TRBN TRPT TUBA
+Organ Filler|IH KM EPRC JORG
 Organic Grunge|IA KM APRC EGTR JORG
 Organic Meditations One|IC KM APRC BELL STRS
 Organic Meditations Three|IC KM APNO STRS
@@ -1478,10 +1481,6 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-On My Way|I
-Open Those Bright Eyes|I
-// ^^^ I think the brass is just TRBN and TRPT
-Organ Filler|I
 Peaceful Desolation|I
 Phantom from Space|I
 Pippin the Hunchback|I
