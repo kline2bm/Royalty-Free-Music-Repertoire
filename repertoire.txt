@@ -1018,11 +1018,13 @@ Passing Action|IF KM APRC BASS EPRC STRS
 Patron Saint of Heists|FA BT APRC BASS EPNO FLUT SAXO
 Peace in Sunlight|PN KF APRC SYNZ
 Peace of Mind|IC KM APNO STRS SYNZ
+Peaceful Desolation|IC KM APRC CLNT FLUT GLCK HORN OBOE STRS TIMP TRBN
 Pennsylvania Rose|IH KM AGTR BELL FLUT HORN OBOE STRS TRBN
 Peppy Pepe|IH KM APRC BASS EGTR SAXO TRBN TRPT
 Perigrine Grandeur|IA KM APRC BASS DULC
 Perspectives|IC KM AGTR APNO APRC FLUT GLCK STRS SYNZ
 Petulant March|IN KM EPRC SYNZ
+Phantom from Space|IF KM APRC SYNZ
 Phat Sketch|IA KM EPRC SYNZ
 Phat Sketch|PA KM EPRC SYNZ
 Phortitude|SN SI BASS EPRC STRS SYNZ
@@ -1030,6 +1032,9 @@ Piano Romantisme|SR SI APNO
 Pilot Error|IN KM APNO APRC EGTR
 Pinball Spring|IH KM EPRC SYNZ
 Pinball Spring 160|IH KM EPRC SYNZ
+Pippin the Hunchback|IN KM AGTR APRC ENST FLUT
+Pixel Peeker Polka - faster|IH KM EPRC SYNZ
+Pixel Peeker Polka - slower|IH KM EPRC SYNZ
 Pixelland|IH KM EPRC SYNZ
 Plain Loafer|IH KM APRC BASS EGTR
 Pleasant Porridge|IC KM APRC BASS EGTR EPNO
@@ -1481,11 +1486,6 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-Peaceful Desolation|I
-Phantom from Space|I
-Pippin the Hunchback|I
-Pixel Peeker Polka - faster|I
-Pixel Peeker Polka - slower|I
 Plaint|I
 Prelude and Action|I
 Protofunk|I
