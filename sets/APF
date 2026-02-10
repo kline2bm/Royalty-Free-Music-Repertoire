@@ -25,6 +25,7 @@ Drunken Party|F
 East of Tunesia|I
 East of Tunesia|P
 Exhilarate|I
+FOAF|P
 Farting Around|I
 Flighty Theme|I
 Floppy Disks|S
@@ -104,26 +105,6 @@ Waltz of the Carnies|I
 Welcome to HorrorLand|I
 // add to repertoire.txt and other sets, then remove from here:
 [
-    "Faux Pas (Bitter Endings)",
-    "Flat Straight",
-    "Flying Jellyfishes",
-    "FOAF",
-    "Forbidden Island",
-    "Fractal Planetoid",
-    "Freezing Ivory",
-    "Future Setting A",
-    "Future Setting B",
-    "Future Setting C",
-    "Future Setting D",
-    "Future Setting E",
-    "Future Setting F",
-    "Gandalf Jams",
-    "Ghosts of Disease",
-    "Gotcha",
-    "Grain of Sand",
-    "Grunge Meditations 1",
-    "Grunge Meditations 2",
-    "Grunge Meditations 3",
     "Hades",
     "Hashi and Kiku",
     "Heavily Medicated",
