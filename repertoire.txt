@@ -1037,6 +1037,7 @@ Pixel Peeker Polka - faster|IH KM EPRC SYNZ
 Pixel Peeker Polka - slower|IH KM EPRC SYNZ
 Pixelland|IH KM EPRC SYNZ
 Plain Loafer|IH KM APRC BASS EGTR
+Plaint|IS KM BASN HARP
 Pleasant Porridge|IC KM APRC BASS EGTR EPNO
 Political Ad|IF KM SYNZ
 Poofy Reel|IN KM AGTR APRC BASS EPNO
@@ -1048,11 +1049,13 @@ Posteriosis|SN SI EPRC SYNZ
 Power Restored|IF KM APRC CLNT FLUT GLCK STRS TIMP TRBN TUBA
 // Primer Post Braces|B@BK|nHPRC VOCL
 Prefunk Loop|PN KM APRC BASS
+Prelude and Action|IF KM APRC STRS
 Prelude in C - BWV 846|IR KM JB APNO
 Presenterator|IH KM APRC SYNZ
 Private Eye|IF KM APRC BASS HORN TRBN TRPT
 Professor Umlaut|IA KM EPRC STRS XYLO
 Professor and the Plant|IF KM BASN GLCK HARP MUTE
+Protofunk|IH KM DR APRC BASS EGTR
 Proxima Centauri|SF SI APRC FLUT STRS SYNZ TRBN VOCL
 Psychedelic Crater|IA KM EPRC SITR SYNZ
 Psychedelic Crater|PA KM EPRC SITR SYNZ
@@ -1069,8 +1072,8 @@ Quinns Song-First Night|IF KM FC APNO SYNZ
 Quinns Song-The Dance Begins|IS KM FC APNO STRS
 Quirky Dog|IH KM APNO APRC BASS SYNZ TRPT XYLO
 Radio Martini|IH KM AGTR APRC BASS CLNT FLUT PIZZ
-Rain|PC DR EPRC SYNZ
-Rain - remastered|PC DR EPRC SYNZ
+Rain|PC DV EPRC SYNZ
+Rain - remastered|PC DV EPRC SYNZ
 Rainbows|IH KM APRC BASS MRBA UKLE
 Rains Will Fall|IS KM APNO APRC STRS
 Ranz des Vaches|IR KM GR BASN FLUT OBOE PIZZ
@@ -1486,9 +1489,6 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-Plaint|I
-Prelude and Action|I
-Protofunk|I
 Special Spotlight|I
 StyleFunk|I
 Supernatural|I
