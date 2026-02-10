@@ -43,8 +43,9 @@ Two letters
 |BX|boringXtreme|
 |CL|Calixa Lavallée|
 |CS|Charles-Camille Saint-Saëns|
-|DR|Dom Raven|
+|DR|Dan Ritter|
 |DS|dogsounds|
+|DV|Dom Raven|
 |EA|Ernst G. S. Anschütz|
 |EG|Edvard H. Grieg|
 |ES|Erik A. Satie|
