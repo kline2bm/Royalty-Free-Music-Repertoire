@@ -1414,6 +1414,8 @@ Verão|SH SI ACDN APRC BASS EGTR SYNZ TRPT
 Vibe Ace|IH KM APRC BASS SYNZ VIBE
 Vibing Over Venus|IC KM AG RE APNO APRC BASS STRS VIBE
 Vicious|IH KM EPRC SYNZ
+Video Dungeon Boss|IF KM EPRC SYNZ
+Video Dungeon Crawl|IF KM EPRC SYNZ
 Village Consort|IH KM AGTR APRC PFLT WHSL
 Village Dawn|IH KM APNO
 Virtutes Instrumenti|IS KM STRS
@@ -1434,8 +1436,10 @@ Walk Happy|SH SI AGTR APRC EGTR EPNO
 Walking Along|IC KM APRC BASS VIBE
 Waltz - Tschikovsky Op. 40|IS KM PT APNO
 Waltz Primordial |IS KM AN APRC BASS EGTR
+Waltz of Treachery FX|IS KM APNO
 Waltzing Marvin|PR AY AGTR APRC BASS STRS
 Water Droplets on the River|IR KM APNO
+Water Lily|IS KM APNO STRS
 Water Prelude|IR KM BASN BELL CLST FLUT HARP STRS
 Waunobe March|IH KM APRC CLNT FLUT GLCK SAXO TRBN TRPT TUBA
 We Got Trouble|IF KM APRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
@@ -1478,11 +1482,13 @@ Witch Waltz|FF KM APRC CLNT HARP STRS
 With Regards|IR KM AGTR TRBN TUBA
 With a Creation|IF KM EPNO EPRC
 Wizard Circus|FN KM SA APRC HORN TRBN TRPT TUBA
+Wizardtorium|IC KM CLNT FLUT GLCK OBOE STRS
 Womp|SA SI APRC SYNZ
 Wonder Flow|PN KM APRC BASS SYNZ
 Wood and Metal and Water|IC KM APRC BELL MRBA STRS SYNZ
 World Vice|IA KM AGTR APRC MRBA VOCL
 Xenon Sentry|SA SI EPRC SYNZ
+Yallahs|IN KM APRC BASS EGTR JORG
 You, Yourself and the Main Character|PC KK EGTR
 Your Call|IN KM APRC BASS EGTR STRS SYNZ
 Zanzibar|IH KM APRC MRBA VOCL
@@ -1492,18 +1498,12 @@ Zebra Township|SH SI ACDN AGTR APRC BASS TRPT VOCL
 Zen Garden|SN SI BELL ENST EPRC GLCK SYNZ
 ZigZag|IN KM APRC BASS EGTR SYNZ
 Zombie Chase|IF KM APNO APRC SYNZ
+Zombie Hoodoo|IF KM APNO SYNZ
 a432|PC KM APNO STRS
 // celestial claws|B@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-Video Dungeon Boss|I
-Video Dungeon Crawl|I
-Waltz of Treachery FX|I
-Water Lily|I
-Wizardtorium|I
-Yallahs|I
-Zombie Hoodoo|I
 Hard Sell Hotel|S
 It's Mouse Business|S
 Organ Filler|F
@@ -1513,3 +1513,6 @@ Streetlight Serenade|S
 The Gatekeepers|S
 Enigmatic|P
 Fall Falling|P
+Hollywood Tears|P
+Insert Flutter|P
+Island Mystery|P
