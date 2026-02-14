@@ -62,6 +62,7 @@ Two letters
 |JB|Johann S. Bach|
 |JC|John M. Cage|
 |JG|James Gavins|
+|JH|Jason Shaw|
 |JN|John Newton|
 |JP|James L. Pierpont|
 |JS|James S. Scott|
