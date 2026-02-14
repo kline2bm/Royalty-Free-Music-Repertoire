@@ -1516,3 +1516,112 @@ Fall Falling|P
 Hollywood Tears|P
 Insert Flutter|P
 Island Mystery|P
+// perm from APF
+A Terrible Sounding Piece of Music|P
+ABT2|S
+Aggressor|I
+Android Sock Hop|I
+Baltic Levity|F
+Baltic Levity|I
+Bavarian Seascape|F
+BeBop for Joey|F
+Bent and Broken|I
+Bleepies|P
+Bump in the Night|I
+Cha-Cha Ender|F
+Childrens Theme|I
+City Slickers|P
+Come Play with Me|I
+Corrupted|S
+Crazy Radio A|P
+Dark Side Of Mars|S
+DarxieLand|I
+Decay|I
+Deep Noise|I
+Distant Tension|I
+Drinking and Dancing|P
+Drunken Party|F
+East of Tunesia|I
+East of Tunesia|P
+Exhilarate|I
+FOAF|P
+Farting Around|I
+Flighty Theme|I
+Floppy Disks|S
+Footsteps in the Attic|F
+Gagool|I
+Goblin_Tinker_Soldier_Spy|I
+Going Bananas|F
+Haunted Harpsichord|S
+Hello! Ma Baby|F
+Horror Mystery|F
+Horror Suspense|F
+Ice Demon|I
+Impromptu in Blue|I
+Improved Ice Cream Truck|F
+In a Heartbeat|I
+Iron Bacon|I
+Irregular|I
+Is Frustrate|P
+Jazz Hates You|P
+Joey's Formal Waltz|I
+Joey's Song|F
+Keystone Deluge|I
+Meatball Parade|I
+Medusa|I
+Modern Piano Alpha - As Loud as Possible|I
+Modern Piano Beta - Jackhammer|I
+Modern Piano Delta - Atonal in C-ish|I
+Modern Piano Epsilon - The Small|I
+Monsieur Meaow|S
+Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|P
+My Giant Bunny Friend|F
+Music to Delight|I
+Netherworld Shanty|I
+Old MacDonald|I
+Onion March|S
+Painful Disorientation|I
+Painful Disorientation|I
+Phantasm|I
+Piece for Disaffected Piano One|I
+Piece for Disaffected Piano One|P
+Piece for Disaffected Piano Two|I
+Piece for Disaffected Piano Two|P
+Pop Goes the Weasel|I
+Pump|I
+Pump Sting|I
+Quiet Panic|I
+Realizer|I
+Return of Lazarus|I
+Ropocolypse 2|I
+Sad Drunken Party|F
+Seven Off|I
+Seventh Seal|I
+Simon Says Dont - 100 cents|I
+Simon Says Dont - 100 cents|P
+Sing Along with Jim|I
+Skeleton Carnival|S
+Slate|P
+Slow Ticking Clock|I
+Slow Ticking Clock|P
+Split In Synapse|I
+Steel Rods|I
+Steel and Seething|I
+Takeover of the 8-bit Synths|I
+Texture for Violincello and Pianoforte No. 2|I
+The Hive|I
+The House of Leaves|I
+The Show Must Be Go|I
+This House|I
+Townie Loop|I
+Trepidation|I
+Ujangong Mix|I
+Unease Piano|I
+Unfit Trumpet|S
+Unlight|I
+Very Low Note|I
+WOAH|S
+Wagner Bridal Chorus|I
+Wagner Bridal Chorus - piano|I
+Waltz of the Carnies|I
+Welcome to HorrorLand|I
