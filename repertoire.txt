@@ -628,6 +628,7 @@ Happy Bee|IH KM BASS EPRC JORG
 Happy Bee - Surf|IH KM APRC BASS EGTR JORG
 Happy Happy Game Show|IH KM APNO APRC BASS JORG TRPT
 Hard Boiled|IC KM APNO APRC BASS
+Hard Sell Hotel|SA SI APRC BASS EGTR
 Harlequin|IN KM APNO CLNT
 Harmful or Fatal|IA KM EGTR EPRC SYNZ
 Healing|IC KM AGTR APRC FLUT STRS
@@ -723,6 +724,7 @@ Island Meet and Greet|IH KM APRC BASS MRBA STDR UKLE
 Isolation Waltz|FR BT APNO HARP MUBX
 It Came Upon a Midnight Clear|IS KM RW APNO OBOE STRS
 It is Lost|IS KM SYNZ
+It's Mouse Business|SH SI APRC FLUT GLCK PIZZ STRS WHSL
 It's Not Over 'Til The Bossa Nova|SC SI APRC BASS EGTR VOCL
 Jalandhar|IA KM APRC BASS HPRC SITR SYNZ
 Janus Turning|SA SI APRC BELL FLUT HORN PORG STRS SYNZ TRBN TRPT VOCL
@@ -982,6 +984,7 @@ Opium|IC KM APRC DULC STRS VOCL
 Opportunity Walks|IS KM APNO APRC BASS
 Oppressive Gloom|IS KM APRC CLNT STRS
 Orchestra Demo|PC KM BELL CLNT HORN OBOE STRS TRBN TRPT TUBA
+Organ Filler|FH KM EPRC JORG
 Organ Filler|IH KM EPRC JORG
 Organic Grunge|IA KM APRC EGTR JORG
 Organic Meditations One|IC KM APRC BELL STRS
@@ -1103,6 +1106,7 @@ Rising Tide (faster)|IC KM EPRC SYNZ
 Rites|IC KM HARP VOCL
 Ritual|IS KM APRC FLUT SYNZ
 River Flute|IC KM EFFX FLUT SYNZ
+River Meditation|FH JH AGTR APRC BASS EPNO
 River Valley Breakdown|IH KM APRC BASS BNJO MDLN STRS
 River of Io|IF KM APRC CLNT FLUT STRS SYNZ
 Robo-Western|IA KM BASS EGTR EPRC STRS SYNZ
@@ -1121,6 +1125,7 @@ Rural Industry|FH KM APRC ENST OBOE PIZZ
 Rush|FH RK APNO APRC BASS FLUT HPCH MUTE TUBA
 Russian Microtheme|PF DS APRC ENST EPRC SYNZ
 Rynos Theme|IF KM APNO APRC FLUT HORN STRS TRBN TUBA
+SQZ|SA SI APRC SYNZ
 Salty Ditty|IH KM EPRC SYNZ
 Samba Isobel|IR KM APNO APRC BASS
 Samovar Party|SA SI AGTR CLNT EPRC STRS SYNZ
@@ -1241,6 +1246,7 @@ Store Theme|PC KK APRC BASS BELL UKLE
 Stormfront|IF KM APRC SYNZ
 Street Party|IH KM APRC BASS JORG SAXO STDR TRBN TRPT WHSL
 Streetlight On A Dark Road|IR KM OBOE
+Streetlight Serenade|SR APNO BASS CLNT EGTR
 String Impromptu Number 1|IS KM STRS
 Stringed Disco|IH KM APRC BASS EGTR EPNO STRS
 StyleFunk|IH KM APRC BASS EGTR SAXO TRBN TRPT
@@ -1326,6 +1332,7 @@ The Entertainer|FH KM SJ APNO
 The Entertainer|IH KM SJ APNO
 The Escalation|IF KM APRC STRS
 The Forest and the Trees|IC KM CLNT FLUT GLCK TRBN
+The Gatekeepers|SA SI APRC BASS EGTR STRS VOCL
 The Ginger Girl|PS AY APRC CLNT GLCK HORN STRS TRBN XYLO
 The Good Fight|SS SI PORG STRS VOCL
 The Hidden Valley of Shambhala|PS KM AGTR STRS
@@ -1504,13 +1511,6 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-Hard Sell Hotel|S
-It's Mouse Business|S
-Organ Filler|F
-River Meditation|F
-SQZ|S
-Streetlight Serenade|S
-The Gatekeepers|S
 Enigmatic|P
 Fall Falling|P
 Hollywood Tears|P
