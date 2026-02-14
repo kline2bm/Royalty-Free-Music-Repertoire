@@ -43,6 +43,8 @@ Improved Ice Cream Truck|F
 In a Heartbeat|I
 Iron Bacon|I
 Irregular|I
+Is Frustrate|P
+Jazz Hates You|P
 Joey's Formal Waltz|I
 Joey's Song|F
 Keystone Deluge|I
@@ -105,42 +107,9 @@ Waltz of the Carnies|I
 Welcome to HorrorLand|I
 // add to repertoire.txt and other sets, then remove from here:
 Hollywood Tears|P
+Insert Flutter|P
+Island Mystery|P
 [
-    "Hope in the Sight of Fear",
-    "House A Square",
-    "House B Hard Off",
-    "House C Lighter than Snare",
-    "House D Reasonably Cool",
-    "House E Watery Groove",
-    "House F Boochee",
-    "House G Room to Breathe",
-    "House H The Builder",
-    "House I Aquabeat",
-    "House J Grindstone",
-    "House K Annoy",
-    "How Doth The Little Crocodile",
-    "Humpty Dumpty",
-    "Hush-a-by, Lady",
-    "Hypocampus Jump",
-    "I Just Landed In Your Town",
-    "Impomptu in D major",
-    "Induced Insanity Loop",
-    "Industrial Matter - 152",
-    "Industrial Matter",
-    "Insert Flutter",
-    "Intrusion",
-    "Is Frustrate",
-    "Island Mystery",
-    "It's Alright",
-    "Jabberwocky",
-    "Jazz Hates You",
-    "Jungle A",
-    "Jungle B",
-    "Jungle Edge",
-    "Jungle Frentic",
-    "Jungle Party",
-    "Jungle Space",
-    "JungleShine",
     "Keratine, Rust, and a Clear Soul",
     "Knock the Twitch",
     "Kokarrah Dawn",
