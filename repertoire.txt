@@ -171,6 +171,7 @@ Brothers Unite|FR AN APNO APRC HORN STRS
 Building Inspiration|SH SI EPRC STRS SYNZ
 Bumba Crossing|IC KM APRC BASS FLUT MRBA VOCL
 Bummin on Tremelo|IR KM APRC BASS EGTR JORG VOCL
+Bump in the Night|IF KM APRC EPRC SYNZ
 Burn The World Waltz |IA KM AN APRC BASS EGTR
 Burning Trapezoid of Fire|FH KM APRC BASS EGTR
 Burt's Requiem|FS AN APNO
@@ -417,6 +418,7 @@ Dreamlike|IF KM APNO BELL OBOE STRS SYNZ
 Dreams of Vain|FF RK APNO APRC SYNZ
 Dreamy Flashback|IR KM BELL HARP PIZZ
 Dreamy Piano Fantasy|PC RK APNO APRC STRS VOCL
+Drinking and Dancing|PN AY APNO
 Driving Concern|FN KM APRC EPNO MRBA SYNZ
 Drone in D|IC KM APNO SYNZ
 Drop Point|FA BT APNO APRC MUTE SAXO TRBN TRPT
@@ -457,6 +459,7 @@ Enchanted Valley|IR KM CLNT CLST FLUT STRS
 Energizing|FC KM APRC SYNZ
 Energizing|IC KM APRC SYNZ
 Enigma|IF KM APRC BASS EPNO SAXO STRS TRBN TRPT
+Enigmatic|PS PS APNO APRC STRS SYNZ
 Enter the Maze|IF KM APRC HORN SYNZ
 Enter the Party|IN KM APRC JORG SYNZ
 Envision|IF KM EGTR SYNZ
@@ -481,6 +484,7 @@ Experimental Test Subject|FF KM APRC SYNZ
 Eye of Forgiveness|FA RK APRC ENST STRS
 Fairy Dance|PS RK CLST MRBA STRS
 Fairytale Waltz|IS KM CLST OBOE STRS
+Fall Falling|PA KM EPRC SYNZ
 Fanfare for Space|IH KM APRC HORN STRS TIMP TRBN TRPT
 Fantasia Fantasia|IH KM EGTR EPRC SYNZ
 Fantastic A|PS KM HARP OBOE STRS TIMP VOCL
@@ -520,6 +524,7 @@ Firmament|IN KM APRC BASS EGTR JORG
 Five Armies|IA KM APRC CLNT FLUT HORN MRBA OBOE STRS TRBN TRPT XYLO
 Five Card Shuffle|IH KM APNO
 Flight Of The Swift|SN SI APNO APRC BASS BELL EGTR SYNZ
+Flighty Theme|IN KM APRC CLNT FLUT STRS
 Floating Cities|IS KM APRC SYNZ
 Fluffing a Duck|IH KM APRC CLNT FLUT MRBA TIMP TRBN TUBA
 Fluidscape|IC KM FLUT HARP SYNZ
@@ -638,6 +643,7 @@ Heaven Is Free|PS KM FG EPRC MRBA PIZZ STRS VOCL
 Heavy Heart|IS KM ENST STRS WHSL
 Heavy Interlude|IA KM APRC DULC MDLN STRS
 Helena's Lament|SS SI APNO
+Hello! Ma Baby|FN AY APNO
 Hep Cats|IH KM AGTR APRC BASS EPNO FLUT JORG
 Here We Go|PN AF APNO
 Heroic Reception|IH KM APNO
@@ -656,6 +662,7 @@ Hit the Streets|IA KM APRC
 Hit the Streets v2|IA KM APRC
 Holiday Weasel|FN KM BASN BASS BELL FLUT GLCK OBOE XYLO
 Holiday Weasel|IN KM BASN BASS BELL FLUT GLCK OBOE XYLO
+Hollywood Tears|PN KM FG CLNT EPRC FLUT PIZZ STRS SYNZ
 Honey Bee|IH KM APRC BASS EPNO TRPT
 Honor Bound|FA BT APRC HORN STRS TRBN TRPT
 Horned Flute Chill|PC KM AGTR APRC BASS EPNO FLUT GLCK HORN
@@ -695,6 +702,7 @@ Impromptu for Pianoforte and Beatbox|PN KM BT APNO HPRC
 Impromptu in Quarter Comma Meantone|IS KM APNO
 In The West|IF KM APRC CLNT FLUT STRS
 In Your Arms|IR KM APRC BASS MUTE SAXO TRBN
+Indended Force|PA KM CLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Industrial Cinematic|IF KM APRC SYNZ
 Industrial Music Box|IS KM MUBX
 Industrial Revolution|IS KM APRC HORN PORG STRS TRBN TRPT TUBA
@@ -705,9 +713,9 @@ Infinite Peace|FC KM APRC STRS XYLO
 Infinite Perspective|IC KM APNO FLUT HARP HORN OBOE SYNZ VOCL
 Infinite Wonder|FC KM SYNZ
 Inner Light|IR KM APRC BASS DULC GLCK VOCL
+Insert Flutter|PN SQ APNO APRC EFFX SYNZ VIBE
 Inspirational Breakthrough|SR SI APNO
 Inspired|IC KM APRC EGTR SYNZ
-Indended Force|PA KM CLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Intended Force|IA KM CLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Interloper|IF KM APRC CLNT FLUT STRS TIMP VOCL
 Interluder|PF IM APRC EPRC FLUT SYNZ
@@ -721,6 +729,7 @@ Iron Horse|IF KM APNO
 Iron Horse - Distressed|IF KM APNO
 Ishikari Lore|IH KM APRC ENST FLUT
 Island Meet and Greet|IH KM APRC BASS MRBA STDR UKLE
+Island Mystery|PH IM AGTR APRC EFFX EGTR SYNZ
 Isolation Waltz|FR BT APNO HARP MUBX
 It Came Upon a Midnight Clear|IS KM RW APNO OBOE STRS
 It is Lost|IS KM SYNZ
@@ -1027,6 +1036,7 @@ Peppy Pepe|IH KM APRC BASS EGTR SAXO TRBN TRPT
 Perigrine Grandeur|IA KM APRC BASS DULC
 Perspectives|IC KM AGTR APNO APRC FLUT GLCK STRS SYNZ
 Petulant March|IN KM EPRC SYNZ
+Phantasm|IS KM APRC BELL DULC FLUT OBOE SYNZ
 Phantom from Space|IF KM APRC SYNZ
 Phat Sketch|IA KM EPRC SYNZ
 Phat Sketch|PA KM EPRC SYNZ
@@ -1310,6 +1320,7 @@ Tenebrous Brothers Carnival - Intermission|IF KM APRC SYNZ
 Tenebrous Brothers Carnival - Mermaid|IF KM APRC BELL CLST HARP VOCL
 Tenebrous Brothers Carnival - Prelude|IF KM APRC EPRC JORG SYNZ
 Tenebrous Brothers Carnival - Snake Lady|IC KM APRC ENWD
+Texture for Violincello and Pianoforte No. 2|IA KM APNO STRS
 Thatched Villagers|IH KM AGTR APRC DULC WHSL
 That Zen Moment|IC KM STDR STRS
 Thats a Wrap|IC KM APRC BASS SYNZ
@@ -1336,6 +1347,8 @@ The Gatekeepers|SA SI APRC BASS EGTR STRS VOCL
 The Ginger Girl|PS AY APRC CLNT GLCK HORN STRS TRBN XYLO
 The Good Fight|SS SI PORG STRS VOCL
 The Hidden Valley of Shambhala|PS KM AGTR STRS
+The Hive|IF KM APRC EFFX SYNZ
+The House of Leaves|IF KM APRC HARP PIZZ STRS SYNZ
 The Lift|IN KM EPRC SYNZ
 The Machine Thinks|IF KM SYNZ
 The Medieval Banquet|SC SI APRC DULC ENST HARP WHSL
@@ -1434,6 +1447,7 @@ Void Glider|SF SI SYNZ
 Volatile Reaction|IA KM APRC BASN CLNT FLUT HORN STRS TRBN TUBA
 Voltaic|IA KM EPRC SYNZ
 Vulcan|IF KM APRC BELL FLUT
+Wagner Bridal Chorus - piano|IR KM WW APNO
 Wagon Wheel|IH KM APRC
 Wagon Wheel - Electronic|IH KM EPRC SYNZ
 Waiting on Platform 9|PF IM EPRC SYNZ
@@ -1453,6 +1467,7 @@ We Got Trouble|IF KM APRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
 We Wish You|IH KM AW TR APNO APRC BELL CLNT CLST GLCK HORN OBOE STRS TRBN TRPT TUBA
 We Wish You a Merry Christmas|FH AN AW TR APRC BASS EGTR
 Weight of Responsibility|IS KM HORN STRS TRBN TRPT TUBA
+Welcome to HorrorLand|IF KM APNO APRC STRS SYNZ
 Welcome to the Show|IH KM APRC BASS EGTR SYNZ TRPT XYLO
 Well-tempered Raver|PA AY JB EPRC SYNZ
 Wepa|IN KM BASS EPRC STRS
@@ -1511,11 +1526,6 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
-Enigmatic|P
-Fall Falling|P
-Hollywood Tears|P
-Insert Flutter|P
-Island Mystery|P
 // perm from APF
 A Terrible Sounding Piece of Music|P
 ABT2|P
@@ -1527,7 +1537,6 @@ Bavarian Seascape|F
 BeBop for Joey|F
 Bent and Broken|I
 Bleepies|P
-Bump in the Night|I
 Cha-Cha Ender|F
 Childrens Theme|I
 City Slickers|P
@@ -1538,21 +1547,18 @@ DarxieLand|I
 Decay|I
 Deep Noise|I
 Distant Tension|I
-Drinking and Dancing|P
 Drunken Party|F
 East of Tunesia|I
 East of Tunesia|P
 Exhilarate|I
 FOAF|P
 Farting Around|I
-Flighty Theme|I
 Floppy Disks|S
 Footsteps in the Attic|F
 Gagool|I
 Goblin_Tinker_Soldier_Spy|I
 Going Bananas|F
 Haunted Harpsichord|S
-Hello! Ma Baby|F
 Horror Mytery|F
 Horror Suspense|F
 Ice Demon|I
@@ -1581,7 +1587,6 @@ Old MacDonald|I
 Onion March|S
 Painful Disorientation|I
 Painful Disorientation|I
-Phantasm|I
 Piece for Disaffected Piano One|I
 Piece for Disaffected Piano One|P
 Piece for Disaffected Piano Two|I
@@ -1607,9 +1612,6 @@ Split In Synapse|I
 Steel Rods|I
 Steel and Seething|I
 Takeover of the 8-bit Synths|I
-Texture for Violincello and Pianoforte No. 2|I
-The Hive|I
-The House of Leaves|I
 The Show Must Be Go|I
 This House|I
 Townie Loop|I
@@ -1621,6 +1623,5 @@ Unlight|I
 Very Low Note|I
 WOAH|S
 Wagner Bridal Chorus|I
-Wagner Bridal Chorus - piano|I
+// ^^^ check for BELL in WBC
 Waltz of the Carnies|I
-Welcome to HorrorLand|I
