@@ -136,6 +136,7 @@ Bit Shift|IH KM EPRC SYNZ
 Bittersweet|IS KM APNO STRS SYNZ VOCL
 Black Bird|IN KM APRC HPRC
 Blacksmith|FN AN APRC DGDO ENST SITR STRS
+Bleepies|PN KM SYNZ
 Bleeping Demo|IC KM APRC SYNZ
 Blipmas|PN KM FN BELL EPRC SYNZ
 Blipotron|IF KM BASS EPRC SYNZ
@@ -235,6 +236,7 @@ Cheeky|SC SI APRC JORG SYNZ
 Cheese Greater|SA SI EPRC STRS SYNZ
 Cherry Blossom|IH KM APRC MRBA
 Chicken Hut Bluegrass|SH SI APNO APRC BASS BNJO EGTR STRS
+Childrens Theme|IF KM TR GLCK SYNZ
 Chill|IC KM BASS EPRC SYNZ
 // Chill Science|B@BK & @SI|cAPNO SAXO STRS
 Chill Wave|IC KM BASS EGTR EPRC SYNZ
@@ -739,6 +741,7 @@ Jalandhar|IA KM APRC BASS HPRC SITR SYNZ
 Janus Turning|SA SI APRC BELL FLUT HORN PORG STRS SYNZ TRBN TRPT VOCL
 Jarvic 8|IH KM APRC BASS
 Jazz Brunch|IR KM AGTR APRC BASS EPNO JORG
+Jazz Hates You|PN KM APNO APRC
 Jellyfish in Space|IC KM AGTR APRC BASS EPNO PFLT SYNZ
 Jerry Five|IH KM EPRC HPRC SYNZ
 Jesu|IH KM JB APNO BELL GLCK HARP PIZZ PORG
@@ -748,6 +751,7 @@ Jingle Bells|IH KM JP APNO APRC BELL CLNT FLUT HORN
 Jingle Bells 3|IH KM JP APNO BELL CLST GLCK
 Jingle Bells Calm|IC KM JP CLST STRS
 Jingled Bells|PN AY JP APNO
+Joey's Formal Waltz|IN KM APRC BASS EFFX EGTR EPNO
 Joey's Formal Waltz - Unscented|IR KM APRC BASS EGTR EPNO
 Journey To Ascend|IC KM APRC STDR
 Journey of Hope|FR AN AGTR APNO APRC EGTR STRS
@@ -1042,6 +1046,7 @@ Phat Sketch|IA KM EPRC SYNZ
 Phat Sketch|PA KM EPRC SYNZ
 Phortitude|SN SI BASS EPRC STRS SYNZ
 Piano Romantisme|SR SI APNO
+Piece for Disaffected Piano One|PF KM APNO
 Pilot Error|IN KM APNO APRC EGTR
 Pinball Spring|IH KM EPRC SYNZ
 Pinball Spring 160|IH KM EPRC SYNZ
@@ -1193,6 +1198,7 @@ Skill Is Futile|PN KM AGTR
 Skipping in the No Standing Zone|PN PG APRC BASS EPNO MRBA
 Skydive Safari|PH AY AGTR APRC BASS SYNZ
 Skye Cuillin|IN KM HARP STRS SYNZ TIMP VOCL WHSL
+Slate|PN AY APNO APRC BASS
 Sleep_and_Then|IC KM BELL CLNT FLUT GLCK HARP STRS
 Slide Kilter|SC SI AGTR BASS EPRC SYNZ VOCL
 Slow Burn|IH KM APRC BASS EGTR JORG
@@ -1391,6 +1397,7 @@ Timewarp|PC BX BASS EPRC SYNZ
 Tiny Fugue|IN KM PORG
 To the Ends|IS KM BASN BELL CLNT OBOE STRS TRBN VOCL
 Tonight At Eight|SH SI APRC EPRC HORN STRS TRBN SYNZ
+Townie Loop|IH KM EPRC SYNZ WHSL
 Tranquility|IC KM SYNZ
 Tranquility Base|IC KM BELL SYNZ
 Transition One|IC KM BELL CLNT FLUT GLCK HARP STRS
@@ -1536,9 +1543,7 @@ Baltic Levity|I
 Bavarian Seascape|F
 BeBop for Joey|F
 Bent and Broken|I
-Bleepies|P
 Cha-Cha Ender|F
-Childrens Theme|I
 City Slickers|P
 Come Play with Me|I
 Corrupted|S
@@ -1568,8 +1573,6 @@ In a Heartbeat|I
 Iron Bacon|I
 Irregular|I
 Is Frustrate|P
-Jazz Hates You|P
-Joey's Formal Waltz|I
 Joey's Song|F
 Keystone Deluge|I
 Meatball Parade|I
@@ -1578,8 +1581,8 @@ Modern Piano Alpha - As Loud as Possible|I
 Modern Piano Beta - Jackhammer|I
 Modern Piano Delta - Atonal in C-ish|I
 Modern Piano Epsilon - The Small|I
-Monsieur Meaow|S
 Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|P
+Monsieur Meaow|S
 My Giant Bunny Friend|F
 Music to Delight|I
 Netherworld Shanty|I
@@ -1588,7 +1591,6 @@ Onion March|S
 Painful Disorientation|I
 Painful Disorientation|I
 Piece for Disaffected Piano One|I
-Piece for Disaffected Piano One|P
 Piece for Disaffected Piano Two|I
 Piece for Disaffected Piano Two|P
 Pop Goes the Weasel|I
@@ -1605,7 +1607,6 @@ Simon Says Dont - 100 cents|I
 Simon Says Dont - 100 cents|P
 Sing Along with Jim|I
 Skeleton Carnival|S
-Slate|P
 Slow Ticking Clock|I
 Slow Ticking Clock|P
 Split In Synapse|I
@@ -1614,7 +1615,6 @@ Steel and Seething|I
 Takeover of the 8-bit Synths|I
 The Show Must Be Go|I
 This House|I
-Townie Loop|I
 Trepidation|I
 Ujangong Mix|I
 Unease Piano|I
