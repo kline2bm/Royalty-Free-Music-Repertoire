@@ -669,6 +669,8 @@ Honey Bee|IH KM APRC BASS EPNO TRPT
 Honor Bound|FA BT APRC HORN STRS TRBN TRPT
 Horned Flute Chill|PC KM AGTR APRC BASS EPNO FLUT GLCK HORN
 Horns|FH KM APRC BASS EGTR TRBN TRPT
+Horror Suspense|FF RK PIZZ STRS
+// TODO: ^^^ more INST for HorSus
 Horror_Spacial Winds|IC KM SYNZ
 Hot Pursuit|IA KM APRC EGTR STRS
 Hot Swing|IN KM APNO APRC BASS CLNT SAXO TRBN TRPT
@@ -727,6 +729,7 @@ Intractable|IS KM APRC BASS EPNO TRPT VIBE
 Intrepid|IS KM APNO APRC STRS TRBN TUBA VOCL
 Intuit256|IF KM APRC EPRC FLUT SYNZ
 Invariance|IF KM APRC BASS MRBA XYLO
+Iron Bacon|IA KM GN APRC BASS EGTR
 Iron Horse|IF KM APNO
 Iron Horse - Distressed|IF KM APNO
 Ishikari Lore|IH KM APRC ENST FLUT
@@ -919,6 +922,7 @@ Mourning Song|IS KM OBOE STRS
 Movement Proposition|IA KM APRC HORN STRS SYNZ
 Murder On The Bayou|FF BT AGTR BASS BNJO EGTR HPRC
 Music for Manatees|IC KM APNO EPNO STRS SYNZ
+Music to Delight|IH KM AGTR APRC BASS HPRC WHSL
 Myst|IS KM APRC CLNT FLUT KLBA MRBA OBOE STRS TRBN VOCL
 Myst on the Moor|IF KM APRC FLUT MRBA SYNZ
 Mysterioso March|IF KM APRC CLNT CLST HORN MUTE PIZZ
@@ -1080,6 +1084,7 @@ Psychedelic Crater|PA KM EPRC SITR SYNZ
 Pulling The Plug On Kindness|PS KM FG APRC BASS VIBE
 Pulse|PN KM APRC BASS EGTR
 Pulse Rock|IN KM APRC BASS EGTR
+Pump|IA KM GN APRC BASS EGTR
 Pump up your Graduation|FH KM YP EPRC SYNZ
 Pure Attitude|IN KM EPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|IA KM APNO APRC BASS SYNZ
@@ -1187,6 +1192,7 @@ Silent Night|IC KM FX APNO
 Silent Night (Unholy Night)|FA AN FX APRC BASS EGTR HORN STRS
 Silly Fun|IH KM BELL EPRC HPRC SYNZ WHSL
 Silver Blue Light|IC KM AGTR SYNZ
+Simon Says Dont - 100 cents|PN KM SYNZ
 Simon Says Dont - 50 cents|IN KM SYNZ
 Simon Says Dont - 50 cents|PN KM SYNZ
 // Simple EP Loop|Z@BK|hEPNO EPRC VOCL
@@ -1422,6 +1428,7 @@ Underglow|SF SI SYNZ
 Unfolding Mirrors|SS SI APNO STRS SYNZ
 Unity|IA KM APNO EPRC KLBA
 Universal|IR KM APNO BASS EPRC SYNZ
+Unlight|IA KM APRC CLNT FLUT HORN PIZZ STRS TRBN TRPT
 Unnatural Situation|IF KM APNO SYNZ
 Unpromised|IS KM APRC FLUT HARP VOCL
 Unrelenting|IF KM STRS VOCL
@@ -1438,6 +1445,7 @@ Vanishing|IF KM APNO CLNT FLUT HORN OBOE STRS SYNZ TRBN TUBA
 Variation on Egmont|IA KM LB APNO EPRC SYNZ
 Vegas Glitz|IH KM APRC SAXO TRBN TRPT
 Verão|SH SI ACDN APRC BASS EGTR SYNZ TRPT
+Very Low Note|IF KM SYNZ
 Vibe Ace|IH KM APRC BASS SYNZ VIBE
 Vibing Over Venus|IC KM AG RE APNO APRC BASS STRS VIBE
 Vicious|IH KM EPRC SYNZ
@@ -1565,12 +1573,10 @@ Goblin_Tinker_Soldier_Spy|I
 Going Bananas|F
 Haunted Harpsichord|S
 Horror Mytery|F
-Horror Suspense|F
 Ice Demon|I
 Impromptu in Blue|I
 Improved Ice Cream Truck|F
 In a Heartbeat|I
-Iron Bacon|I
 Irregular|I
 Is Frustrate|P
 Joey's Song|F
@@ -1584,7 +1590,6 @@ Modern Piano Epsilon - The Small|I
 Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|P
 Monsieur Meaow|S
 My Giant Bunny Friend|F
-Music to Delight|I
 Netherworld Shanty|I
 Old MacDonald|I
 Onion March|S
@@ -1594,8 +1599,8 @@ Piece for Disaffected Piano One|I
 Piece for Disaffected Piano Two|I
 Piece for Disaffected Piano Two|P
 Pop Goes the Weasel|I
-Pump|I
 Pump Sting|I
+Pump Sting|P
 Quiet Panic|I
 Realizer|I
 Return of Lazarus|I
@@ -1604,7 +1609,6 @@ Sad Drunken Party|F
 Seven Off|I
 Seventh Seal|I
 Simon Says Dont - 100 cents|I
-Simon Says Dont - 100 cents|P
 Sing Along with Jim|I
 Skeleton Carnival|S
 Slow Ticking Clock|I
@@ -1619,8 +1623,6 @@ Trepidation|I
 Ujangong Mix|I
 Unease Piano|I
 Unfit Trumpet|S
-Unlight|I
-Very Low Note|I
 WOAH|S
 Wagner Bridal Chorus|I
 // ^^^ check for BELL in WBC
