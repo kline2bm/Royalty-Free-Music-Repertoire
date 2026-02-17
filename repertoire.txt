@@ -1272,7 +1272,7 @@ Store Theme|PC KK APRC BASS BELL UKLE
 Stormfront|IF KM APRC SYNZ
 Street Party|IH KM APRC BASS JORG SAXO STDR TRBN TRPT WHSL
 Streetlight On A Dark Road|IR KM OBOE
-Streetlight Serenade|SR APNO BASS CLNT EGTR
+Streetlight Serenade|SR SI APNO BASS CLNT EGTR
 String Impromptu Number 1|IS KM STRS
 Stringed Disco|IH KM APRC BASS EGTR EPNO STRS
 StyleFunk|IH KM APRC BASS EGTR SAXO TRBN TRPT
