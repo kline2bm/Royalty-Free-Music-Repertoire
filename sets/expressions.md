@@ -85,6 +85,7 @@ Two letters
 |RB|R. Luigi Boccherini|
 |RE|Radio Kilimanjaro Automaton Ensemble|
 |RK|Rafael Krux|
+|RP|Rudolf Pöch|
 |RW|Richard S. Willis|
 |SA|Suno AI|
 |SB|Samuel O. Barber|
