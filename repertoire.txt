@@ -252,6 +252,7 @@ Cipher2|IH KM EPNO EPRC STRS SYNZ
 Circus Waltz FX|IH KM APNO
 Circus of Freaks|FA KM APRC CLNT FLUT TRBN TRPT TUBA XYLO
 Circus of Freaks|IA KM APRC CLNT FLUT TRBN TRPT TUBA XYLO
+City Slickers|PA BB APRC EGTR
 City Run|FA RK APRC
 Clash Defiant|IA KM APRC HORN STRS TRBN VOCL
 Clean Soul|IC KM BASS EPNO
@@ -359,6 +360,7 @@ Deck the Halls A|IC KM TO APNO
 Deck the Halls B|IH KM TO AGTR APNO APRC CLNT FLUT TUBA
 Decline|IS KM HARP STRS WHSL
 Deep Haze|IF KM APRC EGTR SYNZ
+Deep Noise|IF KM SYNZ
 Deep Relaxation|FC KM APNO EFFX EPNO HARP SYNZ
 Deep Relaxation|IC KM APNO EFFX EPNO HARP SYNZ
 Deep Tones|FF KM HORN SYNZ TRBN
@@ -756,6 +758,7 @@ Jingle Bells Calm|IC KM JP CLST STRS
 Jingled Bells|PN AY JP APNO
 Joey's Formal Waltz|IN KM APRC BASS EFFX EGTR EPNO
 Joey's Formal Waltz - Unscented|IR KM APRC BASS EGTR EPNO
+Joey's Song|FR KM AGTR APNO TRPT
 Journey To Ascend|IC KM APRC STDR
 Journey of Hope|FR AN AGTR APNO APRC EGTR STRS
 Journey of Solitude|PS KM APRC FLUT STRS
@@ -1174,6 +1177,7 @@ Sergio's Magic Dustbin|IA KM APRC BASN CLNT FLUT GLCK HORN MRBA TRBN TRPT TUBA W
 Serious Showcase|PN KM APRC BASS SYNZ
 Set It Up|SN SI APRC STRS SYNZ VOCL
 Seven March|IF KM APRC SYNZ
+Seventh Seal|IF KM APNO APRC BELL STRS SYNZ TRBN TUBA
 Shades of Spring|IS KM APNO APRC BASS
 Shamanistic|IF KM APRC FLUT STRS SYNZ XYLO
 Shaving Mirror|IH KM APRC BASS EGTR JORG TRPT
@@ -1408,6 +1412,7 @@ Tranquility|IC KM SYNZ
 Tranquility Base|IC KM BELL SYNZ
 Transition One|IC KM BELL CLNT FLUT GLCK HARP STRS
 Tremendum|SA SI EPRC STRS SYNZ VOCL
+Trepidation|IF KM APNO
 Triangle|PR JS AGTR APNO APRC BASS EPNO SAXO SYNZ
 Trio for Piano Violin and Viola|IS KM APNO STRS
 Trip Up North|FH BT AGTR APRC BASS EGTR
@@ -1419,6 +1424,7 @@ Twisting|IA KM APRC BASS EGTR EPRC SYNZ
 Two Finger Johnny|IH KM BASS EPRC JORG
 Two Guns, One Destiny|SN SI APRC BELL EGTR GLCK HMCA HORN STRS TIMP TRPT VOCL WHSL
 Tyrant|IA KM EPRC SYNZ
+Ujangong Mix|IA KM RP AGTR APRC BASS VOCL
 Ultra Polka|IH KM EPRC SYNZ
 Ultralounge|IR KM APNO APRC BASS SYNZ
 Umbrella Pants|IF KM APRC GLCK PIZZ
@@ -1552,13 +1558,11 @@ Bavarian Seascape|F
 BeBop for Joey|F
 Bent and Broken|I
 Cha-Cha Ender|F
-City Slickers|P
 Come Play with Me|I
 Corrupted|S
 Crazy Radio A|P
 DarxieLand|I
 Decay|I
-Deep Noise|I
 Distant Tension|I
 Drunken Party|F
 East of Tunesia|I
@@ -1579,7 +1583,6 @@ Improved Ice Cream Truck|F
 In a Heartbeat|I
 Irregular|I
 Is Frustrate|P
-Joey's Song|F
 Keystone Deluge|I
 Meatball Parade|I
 Medusa|I
@@ -1607,7 +1610,6 @@ Return of Lazarus|I
 Ropocalypse 2|I
 Sad Drunken Party|F
 Seven Off|I
-Seventh Seal|I
 Simon Says Dont - 100 cents|I
 Sing Along with Jim|I
 Skeleton Carnival|S
@@ -1619,8 +1621,6 @@ Steel and Seething|I
 Takeover of the 8-bit Synths|I
 The Show Must Be Go|I
 This House|I
-Trepidation|I
-Ujangong Mix|I
 Unease Piano|I
 Unfit Trumpet|S
 WOAH|S
