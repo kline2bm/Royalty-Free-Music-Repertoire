@@ -436,6 +436,7 @@ EDM Detection Mode|IA KM EPRC SYNZ
 Early Riser|IA KM EPRC HPRC SYNZ
 Earnest|IS KM APNO
 Earth Prelude|IC KM APNO BASN CLNT FLUT MRBA OBOE STRS SYNZ XYLO
+East of Tunesia|IS KM APRC OBOE SAXO STRS
 Eastern Thought|IF KM APRC ENST STDR STRS
 Eastminster|IC KM EFFX ENST STRS
 Easy Jam|IS KM APRC BASS EGTR FLUT TRBN TRPT
@@ -1117,6 +1118,7 @@ Remember This Shadow|PS KK AGTR APRC BASS UKLE
 Rendezvous|SH SI APNO APRC BASS
 Requiem: Titanic|PS DS BELL EFFX STRS SYNZ
 RetroFuture Clean|IA KM APRC BASS EGTR JORG
+Return of Lazarus|IF KM APNO SYNZ
 Return of the Mummy|IF KM APRC ENST STRS VOCL
 Reunited|IR KM APNO APRC STRS
 Revival|IC KM APRC BASS EGTR EPNO VOCL
@@ -1565,7 +1567,6 @@ DarxieLand|I
 Decay|I
 Distant Tension|I
 Drunken Party|F
-East of Tunesia|I
 East of Tunesia|P
 Exhilarate|I
 FOAF|P
@@ -1606,7 +1607,6 @@ Pump Sting|I
 Pump Sting|P
 Quiet Panic|I
 Realizer|I
-Return of Lazarus|I
 Ropocalypse 2|I
 Sad Drunken Party|F
 Seven Off|I
