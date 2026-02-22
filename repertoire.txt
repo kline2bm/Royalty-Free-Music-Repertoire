@@ -103,6 +103,7 @@ Backed Vibes Clean|IN KM BASS VIBE
 Bad Ideas _clean_|IF KM APNO
 Bad Ideas _distressed_|IF KM APNO
 Balloon Game|IH KM EPRC SYNZ
+Baltic Levity|FH KM ACDN APRC EGTR STRS
 Balzan Groove|IA KM APRC EPRC STRS SYNZ
 Bama Country|IH KM ACDN AGTR APRC BASS BNJO HMCA STRS
 Bar Brawl|FH BT APRC DULC HPRC MDLN STRS WHSL
@@ -266,6 +267,7 @@ Cold Funk|IN KM AGTR APRC BASS EPNO
 Cold Journey|FS AN APNO APRC EFFX ENWD HARP HORN STRS
 Cold Sober|IN KM AGTR APRC BASS BGPS EPNO
 Colossus|IN KM APRC BASN BELL CLNT FLUT GLCK HORN MRBA OBOE TRBN TRPT TUBA
+Come Play with Me|IF KM APRC CLNT FLUT GLCK STRS VOCL
 Comfortable Mystery|IS KM EPNO
 Comfortable Mystery 2|IS KM EPNO
 Comfortable Mystery 3|IS KM EPNO
@@ -498,6 +500,7 @@ Fantastic Dim Bar|PS KM APNO STRS
 Fantasy Overture|SF SI APRC BELL FLUT GLCK PIZZ STRS TRBN TRPT VOCL
 // Far Out, Dude!|B@BK|cTODO
 // Farther Along in F minor and F major|ZN BK TR APNO VOCL
+Farting Around|IN KM EFFX
 Fast Talkin|IF KM APRC BASS HORN STRS TRBN
 Faster Does It|IA KM APRC BASS
 FeSTV FRLiX|SH SI BELL EPRC SYNZ
@@ -596,6 +599,7 @@ Gm115|PS KM APNO APRC SYNZ
 Go Cart|IA KM EPRC SYNZ
 Go Cart - Drop Mix|IA KM EPRC SYNZ
 Go Cart - Loop Mix|IA KM EPRC SYNZ
+Goblin_Tinker_Soldier_Spy|IN KM APRC HMCA MRBA PIZZ TUBA
 Gonna Start|IH KM APNO APRC BASS EGTR JORG
 Gonna Start v2|IH KM APNO APRC BASS EGTR JORG
 Good Night|PS KM HORN STRS TRBN TRPT TUBA
@@ -732,6 +736,7 @@ Intractable|IS KM APRC BASS EPNO TRPT VIBE
 Intrepid|IS KM APNO APRC STRS TRBN TUBA VOCL
 Intuit256|IF KM APRC EPRC FLUT SYNZ
 Invariance|IF KM APRC BASS MRBA XYLO
+Irregular|IF KM SYNZ
 Iron Bacon|IA KM GN APRC BASS EGTR
 Iron Horse|IF KM APNO
 Iron Horse - Distressed|IF KM APNO
@@ -772,6 +777,7 @@ K's Theme|PN DS APRC BASS EPNO SYNZ
 Kalimba Relaxation Music|FC KM KLBA SYNZ
 Kalimba Relaxation Music|IC KM KLBA SYNZ
 Kawai Kitsune|IH KM EPRC SYNZ
+Keystone Deluge|IA KM APNO
 Kick Shock|IA KM APRC EPRC SYNZ
 Killers|IA KM APRC EGTR STRS VOCL
 Killing Time|IN KM EPRC JORG SYNZ
@@ -896,6 +902,7 @@ Misuse|IF KM APRC EPRC SYNZ VOCL
 // Modern Baroque|Z@BK|nEPRC PORG
 Modern Island Jam|FH KM SA APNO EPRC SYNZ
 Modern Jazz Samba|IN KM AGTR APNO APRC BASS FLUT
+Modern Piano Beta - Jackhammer|IA KM APNO
 Modern Piano Zeta - Improbable|IH KM APNO
 Modern Vibes|IN KM VIBE
 // Modulus|B@BK|hBASS EPRC STRS SYNZ VOCL
@@ -927,6 +934,7 @@ Movement Proposition|IA KM APRC HORN STRS SYNZ
 Murder On The Bayou|FF BT AGTR BASS BNJO EGTR HPRC
 Music for Manatees|IC KM APNO EPNO STRS SYNZ
 Music to Delight|IH KM AGTR APRC BASS HPRC WHSL
+My Giant Bunny Friend|FH BT APNO APRC BASS HPRC KLBA MUBX VOCL WHSL
 Myst|IS KM APRC CLNT FLUT KLBA MRBA OBOE STRS TRBN VOCL
 Myst on the Moor|IF KM APRC FLUT MRBA SYNZ
 Mysterioso March|IF KM APRC CLNT CLST HORN MUTE PIZZ
@@ -1033,6 +1041,7 @@ Overture|IS KM APNO
 Overworld|IF KM EPRC SYNZ
 Padanaya Blokov|IN KM APRC BASS ENST EPRC SYNZ
 Pagan Cross|SS SI WHSL
+Painful Disorientation|FN KM APNO OBOE
 Pale Rider|IN KM HARP
 Palm and Soul|FN KM SA APRC BASS EGTR JORG SAXO
 Pamgaea|IH KM SYNZ
@@ -1089,11 +1098,13 @@ Pulling The Plug On Kindness|PS KM FG APRC BASS VIBE
 Pulse|PN KM APRC BASS EGTR
 Pulse Rock|IN KM APRC BASS EGTR
 Pump|IA KM GN APRC BASS EGTR
+Pump Sting|IA KM GN APRC BASS EGTR
 Pump up your Graduation|FH KM YP EPRC SYNZ
 Pure Attitude|IN KM EPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|IA KM APNO APRC BASS SYNZ
 // Questions of Time|Z@BK|FEPNO HARP
 Quiescent In Time|SC SI SYNZ
+Quiet Panic|IF KM HARP STRS TIMP
 Quinns Song-A New Man|IS KM FC APNO TIMP STRS VOCL
 Quinns Song-First Night|IF KM FC APNO SYNZ
 Quinns Song-The Dance Begins|IS KM FC APNO STRS
@@ -1141,6 +1152,7 @@ Rocket|IA KM EGTR EPRC STRS SYNZ VOCL
 Rocket Power|IA KM BASS EGTR EPRC JORG
 Rollin at 5|IN KM APNO APRC BASS TRBN TRPT
 Rollin at 5 - electronic|IN KM EPRC SYNZ
+Ropocalypse 2|IA KM EPRC SYNZ
 Roquefort Prolog|PC KM EPNO STRS
 Round Drums|IN KM APRC
 Royal Coupling|FR KM APRC CLNT FLUT HORN STRS TIMP TRBN TUBA
@@ -1206,6 +1218,7 @@ Simple Music to Frighten Small Children By|IF KM APNO
 Simplex|IF KM AGTR APRC SYNZ
 Sinfonia 3|IH KM BASS EPRC PORG
 Sinfonia to Cantata 29|PH DS JB JORG SYNZ TIMP
+Skeleton Carnival|SF SI APNO APRC GLCK WHSL
 Skill Is Futile|PN KM AGTR
 Skipping in the No Standing Zone|PN PG APRC BASS EPNO MRBA
 Skydive Safari|PH AY AGTR APRC BASS SYNZ
@@ -1554,13 +1567,11 @@ A Terrible Sounding Piece of Music|P
 ABT2|P
 Aggressor|I
 Android Sock Hop|I
-Baltic Levity|F
 Baltic Levity|I
 Bavarian Seascape|F
 BeBop for Joey|F
 Bent and Broken|I
 Cha-Cha Ender|F
-Come Play with Me|I
 Corrupted|S
 Crazy Radio A|P
 DarxieLand|I
@@ -1570,11 +1581,9 @@ Drunken Party|F
 East of Tunesia|P
 Exhilarate|I
 FOAF|P
-Farting Around|I
 Floppy Disks|S
 Footsteps in the Attic|F
 Gagool|I
-Goblin_Tinker_Soldier_Spy|I
 Going Bananas|F
 Haunted Harpsichord|S
 Horror Mytery|F
@@ -1582,37 +1591,28 @@ Ice Demon|I
 Impromptu in Blue|I
 Improved Ice Cream Truck|F
 In a Heartbeat|I
-Irregular|I
 Is Frustrate|P
-Keystone Deluge|I
 Meatball Parade|I
 Medusa|I
 Modern Piano Alpha - As Loud as Possible|I
-Modern Piano Beta - Jackhammer|I
 Modern Piano Delta - Atonal in C-ish|I
 Modern Piano Epsilon - The Small|I
 Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|P
 Monsieur Meaow|S
-My Giant Bunny Friend|F
 Netherworld Shanty|I
 Old MacDonald|I
 Onion March|S
-Painful Disorientation|I
 Painful Disorientation|I
 Piece for Disaffected Piano One|I
 Piece for Disaffected Piano Two|I
 Piece for Disaffected Piano Two|P
 Pop Goes the Weasel|I
-Pump Sting|I
 Pump Sting|P
-Quiet Panic|I
 Realizer|I
-Ropocalypse 2|I
 Sad Drunken Party|F
 Seven Off|I
 Simon Says Dont - 100 cents|I
 Sing Along with Jim|I
-Skeleton Carnival|S
 Slow Ticking Clock|I
 Slow Ticking Clock|P
 Split In Synapse|I
