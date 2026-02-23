@@ -118,12 +118,14 @@ Bathed in the Light|IC KM SYNZ
 Battle Ready|FF BT APRC DGOO ENWD HORN SYNZ TRBN TRPT TUBA
 // Battle of the Desert Aliens|BF BK APRC DULC EGTR MRBA PFLT SYNZ VOCL
 Be Chillin|FC AN AGTR APRC BASS EGTR JORG SYNZ
+BeBop for Joey|FN KM APNO APRC BASS EGTR TRPT
 Beach Bum|IH KM APRC BASS EGTR
 Beach Party|IH KM APRC BASS EGTR JORG STDR
 Beachfront Celebration|IH KM APNO APRC BASS HORN STDR TRBN TRPT
 Beauty Flow|IC KM APRC BASS SYNZ
 Beginning of Conflict|FF RK APRC EPNO SYNZ
 Behind the Sword|FN AN APRC BGPS ENST ENWD HARP STRS
+Bent and Broken|IF KM APNO ARPC SYNZ
 Bethlehem|IC KM LR APNO
 Bicycle|IN KM BASS
 Big Boi Pants|SA SI EPRC STRS SYNZ TIMP
@@ -350,6 +352,7 @@ Darkening Developments|IF KM APRC BASN CLNT EPRC FLUT OBOE STRS SYNZ
 Darkest Child|IF KM CLST HARP STRS
 Darkest Child var A|IF KM CLST HARP STRS
 Darkness is Coming|IF KM EPRC SYNZ VOCL
+DarxieLand|IH KM APNO APRC BNJO TRPT TUBA
 Dawn of the Apocalypse|FF RK APRC STRS SYNZ VOCL
 Daybreak|IC KM EPNO
 Daytime TV Theme|IC KM APNO SAXO STRS
@@ -400,6 +403,7 @@ Disco con Tutti|IH KM APRC EGTR EPNO SYNZ TRBN TRPT
 Dispersion Relation|IN KM APNO APRC BASS FLUT TRPT VIBE
 Disquiet|IS KM APNO
 Distant Star|PN MF TM EPRC SYNZ
+Distant Tension|IF KM GLCK STRS SYNZ
 District Four|IA KM BASS EGTR EPRC JORG
 Divertimento K131|IH KM WM BELL CLST HARP
 Division|IF KM APNO APRC CLNT FLUT HORN OBOE STRS
@@ -429,6 +433,7 @@ Driving Concern|FN KM APRC EPNO MRBA SYNZ
 Drone in D|IC KM APNO SYNZ
 Drop Point|FA BT APNO APRC MUTE SAXO TRBN TRPT
 Drums of the Deep|IF KM APRC STRS
+Drunken Party|FH KM APRC TRBN TRPT TUBA
 Dub Eastern|IF KM APRC BASS EGTR EPNO SYNZ
 Dub Feral|IF KM APRC BASS EGTR EPNO SYNZ
 Dubakupado|IN KM APRC MRBA
@@ -534,6 +539,7 @@ Five Card Shuffle|IH KM APNO
 Flight Of The Swift|SN SI APNO APRC BASS BELL EGTR SYNZ
 Flighty Theme|IN KM APRC CLNT FLUT STRS
 Floating Cities|IS KM APRC SYNZ
+Floppy Disks|SA SI EFFX SYNZ
 Fluffing a Duck|IH KM APRC CLNT FLUT MRBA TIMP TRBN TUBA
 Fluidscape|IC KM FLUT HARP SYNZ
 Flutey Funk|IN KM APRC BASS FLUT
@@ -676,6 +682,7 @@ Honey Bee|IH KM APRC BASS EPNO TRPT
 Honor Bound|FA BT APRC HORN STRS TRBN TRPT
 Horned Flute Chill|PC KM AGTR APRC BASS EPNO FLUT GLCK HORN
 Horns|FH KM APRC BASS EGTR TRBN TRPT
+Horror Mytery|FF RK STRS SYNZ
 Horror Suspense|FF RK PIZZ STRS
 // TODO: ^^^ more INST for HorSus
 Horror_Spacial Winds|IC KM SYNZ
@@ -711,6 +718,7 @@ Imperial China Cinematic|SR SI APRC ENST FLUT STRS
 Impomptu in D major|PH KM APNO
 Impromptu for Pianoforte and Beatbox|PN KM BT APNO HPRC
 Impromptu in Quarter Comma Meantone|IS KM APNO
+Improved Ice Cream Truck|FH KM TR EPRC SYNZ
 In The West|IF KM APRC CLNT FLUT STRS
 In Your Arms|IR KM APRC BASS MUTE SAXO TRBN
 Indended Force|PA KM CLNT GLCK HARP HORN STRS TIMP TRBN TRPT
@@ -1064,6 +1072,7 @@ Phat Sketch|PA KM EPRC SYNZ
 Phortitude|SN SI BASS EPRC STRS SYNZ
 Piano Romantisme|SR SI APNO
 Piece for Disaffected Piano One|PF KM APNO
+Piece for Disaffected Piano Two|PF KM APNO
 Pilot Error|IN KM APNO APRC EGTR
 Pinball Spring|IH KM EPRC SYNZ
 Pinball Spring 160|IH KM EPRC SYNZ
@@ -1395,6 +1404,7 @@ The Right Direction|SH SI APRC EGTR SYNZ
 The Rule|IH KM BELL HORN TIMP TRBN TRPT TUBA
 The Second Coming|IF KM LV WY APRC HORN STRS TRBN VOCL
 The Second Coming - Instrumental|IF KM APRC HORN STRS TRBN
+The Show Must Be Go|IH KM AGTR APRC BASS CLNT ENST HORN HPRC TRPT VIBE
 The Snow Queen|IF KM BASN CLNT CLST FLUT PIZZ STRS TIMP
 The Story|FS AN APNO APRC HORN STRS XYLO
 The View Across|PC KM APRC BASS ENST
@@ -1569,27 +1579,19 @@ Aggressor|I
 Android Sock Hop|I
 Baltic Levity|I
 Bavarian Seascape|F
-BeBop for Joey|F
-Bent and Broken|I
 Cha-Cha Ender|F
 Corrupted|S
 Crazy Radio A|P
-DarxieLand|I
 Decay|I
-Distant Tension|I
-Drunken Party|F
 East of Tunesia|P
 Exhilarate|I
 FOAF|P
-Floppy Disks|S
 Footsteps in the Attic|F
 Gagool|I
 Going Bananas|F
 Haunted Harpsichord|S
-Horror Mytery|F
 Ice Demon|I
 Impromptu in Blue|I
-Improved Ice Cream Truck|F
 In a Heartbeat|I
 Is Frustrate|P
 Meatball Parade|I
@@ -1605,7 +1607,6 @@ Onion March|S
 Painful Disorientation|I
 Piece for Disaffected Piano One|I
 Piece for Disaffected Piano Two|I
-Piece for Disaffected Piano Two|P
 Pop Goes the Weasel|I
 Pump Sting|P
 Realizer|I
@@ -1619,7 +1620,6 @@ Split In Synapse|I
 Steel Rods|I
 Steel and Seething|I
 Takeover of the 8-bit Synths|I
-The Show Must Be Go|I
 This House|I
 Unease Piano|I
 Unfit Trumpet|S
