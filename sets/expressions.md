@@ -79,6 +79,7 @@ Two letters
 |MJ|Mrs. Johnson's 4 grade band|
 |MM|Modest P. Mussorgsky|
 |MO|MusOpen|
+|MP|Monplaisir|
 |PB|Pixabay|
 |PG|Peter Gresser|
 |PS|Phase Shift|
