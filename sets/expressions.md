@@ -58,6 +58,7 @@ Two letters
 |GH|Gustav T. Holst|
 |GN|Glory Nugget|
 |GR|Gioachino A. Rossini|
+|HS|Hussalonia|
 |IM|\*imp\*|
 |JB|Johann S. Bach|
 |JC|John M. Cage|
