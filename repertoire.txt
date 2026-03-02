@@ -6,6 +6,7 @@ A Good Bass for Gambling|FN KK APRC BASS EGTR
 // A Long Day of Fun|ZC BK AGTR APRC
 A Mission|IN KM CLNT FLUT STRS TRBN TUBA
 A Waltz For Naseem|FR DS APNO APRC CLNT GLCK HORN STRS
+ABT2|PF HS EFFX EPRC SYNZ VOCL
 // Abrasive Accordion|ZA BK ACDN APRC
 Accralate|IC KM APRC MRBA
 Aces High|IH KM APRC BASS EPNO JORG
@@ -291,6 +292,7 @@ Cool Blast|IH KM BASS EPNO EPRC TRPT STRS
 Cool Rock|IH KM APRC BASS EGTR
 Cool Vibes|IC KM APRC BASS VIBE
 Corncob|IH KM APRC BASS BNJO
+Corrupted|SF SI EFFX SYNZ
 Corruption|IA KM APRC STRS SYNZ XYLO
 Court of the Queen|IR KM CLST HARP HORN PIZZ STRS TRBN TRPT TUBA
 Covert Affair|IF KM APRC BASS EPNO TRPT
@@ -878,6 +880,7 @@ Mascott's Theme|PH KK APRC BASS BNJO MDLN
 Master Disorder|IF KM DULC EPRC SYNZ
 Master of the Feast|IH KM AGTR APRC DULC ENST ENWD FLUT
 Matts Blues|IH KM APRC BASS EGTR HMCA JORG
+Meatball Parade|IH KM APRC BASS TRBN TRPT UKLE
 Meditating Beat|FC KM APNO APRC SYNZ
 Mega Hyper Ultrastorm|IA KM EPRC SYNZ
 Mellowtron|IC KM FLUT SYNZ
@@ -920,6 +923,8 @@ Modern Vibes|IN KM VIBE
 // Modulus 3: Septembers|B@BK & Sepezz|SBELL EPNO EPRC STRS SYNZ VOCL
 // Modulus 3: Septembers (Ambient Mix)|B@BK & Sepezz|SSTRS SYNZ VOCL
 Monkoto|IN KM APRC CLNT MRBA
+Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|PN MP EFFX EPNO EPRC SYNZ
+Monsieur Meaow|SH SI AGTR APNO APRC VOCL
 Monster Promenade|IH KM AGTR APRC BASS JORG
 Monsters in Hotel|FF RK APNO APRC GLCK HORN PORG TRBN TRPT XYLO
 Montageur|PN FN EPRC SYNZ
@@ -962,6 +967,7 @@ Neon Laser Horizon|IH KM EPRC SYNZ
 Neon Noir|SF SI EPNO EPRC SYNZ
 Neptunian Princess|FF BT APNO APRC BASS MUTE OBOE VIBE
 Nerves|IF KM APRC HORN STRS SYNZ TIMP TRBN TRPT TUBA
+Netherworld Shanty|IF KM ACDN APRC BASN KLBA SYNZ WHSL
 New Direction|IC KM SYNZ
 New Friendly|IH KM EPRC SYNZ VOCL
 New Hero in Town|FN KM APRC ENST
@@ -1085,6 +1091,7 @@ Plaint|IS KM BASN HARP
 Pleasant Porridge|IC KM APRC BASS EGTR EPNO
 Political Ad|IF KM SYNZ
 Poofy Reel|IN KM AGTR APRC BASS EPNO
+Pop Goes the Weasel|IF KM TR APRC MUBX STRS
 Porch Blues|IC KM AGTR APNO HMCA
 Porch Swing Days - faster|IR KM AGTR APRC BASS VOCL
 Porch Swing Days - slower|IR KM AGTR APRC BASS VOCL
@@ -1172,6 +1179,7 @@ Rush|FH RK APNO APRC BASS FLUT HPCH MUTE TUBA
 Russian Microtheme|PF DS APRC ENST EPRC SYNZ
 Rynos Theme|IF KM APNO APRC FLUT HORN STRS TRBN TUBA
 SQZ|SA SI APRC SYNZ
+Sad Drunken Party|FS KM APRC TRBN TRPT TUBA
 Salty Ditty|IH KM EPRC SYNZ
 Samba Isobel|IR KM APNO APRC BASS
 Samovar Party|SA SI AGTR CLNT EPRC STRS SYNZ
@@ -1456,6 +1464,7 @@ Umbrella Pants|IF KM APRC GLCK PIZZ
 Unanswered Questions|IF KM ENST
 Undaunted|IA KM APNO EPRC SYNZ
 Underglow|SF SI SYNZ
+Unfit Trumpet|SH SI APRC SAXO TRPT TUBA
 Unfolding Mirrors|SS SI APNO STRS SYNZ
 Unity|IA KM APNO EPRC KLBA
 Universal|IR KM APNO BASS EPRC SYNZ
@@ -1493,6 +1502,7 @@ Void Glider|SF SI SYNZ
 Volatile Reaction|IA KM APRC BASN CLNT FLUT HORN STRS TRBN TUBA
 Voltaic|IA KM EPRC SYNZ
 Vulcan|IF KM APRC BELL FLUT
+Wagner Bridal Chorus|IR KM WW BELL PORG
 Wagner Bridal Chorus - piano|IR KM WW APNO
 Wagon Wheel|IH KM APRC
 Wagon Wheel - Electronic|IH KM EPRC SYNZ
@@ -1574,13 +1584,11 @@ space explorers|IC KM FLUT SYNZ TRBN
 // temp from APF
 // perm from APF
 A Terrible Sounding Piece of Music|P
-ABT2|P
 Aggressor|I
 Android Sock Hop|I
 Baltic Levity|I
 Bavarian Seascape|F
 Cha-Cha Ender|F
-Corrupted|S
 Crazy Radio A|P
 Decay|I
 East of Tunesia|P
@@ -1594,23 +1602,17 @@ Ice Demon|I
 Impromptu in Blue|I
 In a Heartbeat|I
 Is Frustrate|P
-Meatball Parade|I
 Medusa|I
 Modern Piano Alpha - As Loud as Possible|I
 Modern Piano Delta - Atonal in C-ish|I
 Modern Piano Epsilon - The Small|I
-Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|P
-Monsieur Meaow|S
-Netherworld Shanty|I
 Old MacDonald|I
 Onion March|S
 Painful Disorientation|I
 Piece for Disaffected Piano One|I
 Piece for Disaffected Piano Two|I
-Pop Goes the Weasel|I
 Pump Sting|P
 Realizer|I
-Sad Drunken Party|F
 Seven Off|I
 Simon Says Dont - 100 cents|I
 Sing Along with Jim|I
@@ -1622,8 +1624,5 @@ Steel and Seething|I
 Takeover of the 8-bit Synths|I
 This House|I
 Unease Piano|I
-Unfit Trumpet|S
 WOAH|S
-Wagner Bridal Chorus|I
-// ^^^ check for BELL in WBC
 Waltz of the Carnies|I
