@@ -1,8 +1,13 @@
-// TODO: test delete method
-console.group("testing MusicInfo.delete method");
-let ABC = MusicInfo.makeNew("ABC\\iXYZ\\nAPNO");
-console.log("ABC", ABC);
-console.assert(MusicInfo.delete("ABC\\i"));
-console.assert(!(MusicInfo.delete("Does not exist")));
-console.assert(!(MusicInfo.delete("ABC\\i")));
-console.groupEnd();
+/**
+ * Utility function for MusicInfo.js to facilitate creating maps from expressions.md
+ * 
+ * @param {string} expressions_md text fetched from expressions.md
+ * @param {string} label ##ABC above the table to fetch
+ * @return {Map<string, string>} abbreviation -> full name
+ */
+function getSetMap(expressions_md, label) {
+    expressions_md = expressions_md.slice(expressions_md.indexOf(label));
+    for(let i = 0; i < 4; i++)
+        expressions_md = expressions_md.slice(expressions_md.indexOf("\n") + 1);
+    // TODO
+}

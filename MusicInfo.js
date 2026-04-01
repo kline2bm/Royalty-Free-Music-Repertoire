@@ -28,91 +28,34 @@ class MusicInfo {
     return "0:00"; // TODO
   }
 
-  // {Map<string, MusicInfo>} a set of all created MusicInfo objects
+  // {Map<string, MusicInfo>} a set of all created and saved MusicInfo objects
   static #ALL = new Map();
 
   // {symbol} only permit private construction to prevent duplicates
   static #KEY = Symbol();
+
+  // TODO: read the set logic file to build the maps below
+  
+  // {Map<string, string>} source abbreviation -> full name
+  static SS = null;
+
+  // {Map<string, string>} emotion abbreviation -> full name
+  static ES = null;
   
   // {Map<string, string>} artist abbreviation -> full name
-  // TODO: move to set logic and read the file to build the map
-  static ATS = Object.freeze(new Map([
-    ["AA", "Adolphe C. Adam"],                      ["AN", "Alexander Nakarada"],          ["AF", "Arthur Fordsworthy"],
-    ["AG", "Alice Goodworth"],                      ["AY", "Anonymous"],                   ["BB", "Brian Boyko"],
-    ["BD", "Brett Van Donsel"],                     ["BE", "L. Bix Beiderbecke"],          ["BK", "Bryce M. Kline"],
-    ["BP", "Barney Peterson"],                      ["BT", "Bryan Teoh"],                  ["BX", "boringXtreme"],
-    ["CL", "Calixa Lavallée"],                      ["CS", "Charles-Camille Saint-Saëns"], ["DR", "Dom Raven"],
-    ["DS", "dogsounds"],                            ["EG", "Edvard H. Grieg"],             ["ES", "Erik A. Satie"],
-    ["FC", "Frédéric F. Chopin"],                   ["FG", "Fake Music Generator"],        ["FH", "F. Joseph Haydn"],
-    ["FN", "Frank Nora"],                           ["GG", "George Gershwin"],             ["GH", "Gustav T. Holst"],
-    ["GR", "Gioachino A. Rossini"],                 ["IM", "*imp*"],                       ["JB", "Johann S. Bach"],
-    ["JC", "John M. Cage"],                         ["JG", "James Gavins"],                ["JN", "John Newton"],
-    ["JP", "Johann Pachelbel"],                     ["JS", "James S. Scott"],              ["KF", "Knight of Fire"],
-    ["KK", "Komiku"],                               ["KM", "Kevin MacLeod"],               ["LB", "Ludwig van Beethoven"],
-    ["LV", "LibriVox"],                             ["MF", "Max Fedorov"],                 ["MM", "Modest P. Mussorgsky"],
-    ["MO", "MusOpen"],                              ["PB", "Pixabay"],                     ["PG", "Peter Gresser"],
-    ["PS", "Phase Shift"],                          ["PT", "Pyotr I. Tchaikovsky"],        ["RB", "R. Luigi Boccherini"],
-    ["RE", "Radio Kilimanjaro Automaton Ensemble"], ["RK", "Rafael Krux"],                 ["SA", "Suno AI"],
-    ["SB", "Samuel O. Barber"],                     ["SI", "Shane Ivers"],                 ["SJ", "Scott Joplin"],
-    ["TM", "Thundermine"],                          ["TR", "Traditional"],                 ["WM", "Wolfgang A. Mozart"],
-    ["WY", "William B. Yeats"],                     ["YS", "Johannes Schroll"]
-  ]));
+  static ATS = null;
   
   // {Map<string, string>} instrument abbreviation -> full name
-  // TODO: move to set logic and read the file to build the map
-  static INSTS = Object.freeze(new Map([
-    // TODO: repertoire.txt -> filter for "MDLN" -> for each, if it has bouzouki, use ENST
-    ["ACDN", "Accordion"],           ["AGTR", "Acoustic Guitar"],   ["APNO", "Acoustic Piano"],
-    ["APRC", "Acoustic Percussion"], ["BAGP", "Bagpipes"],          ["BASN", "Bassoon"],
-    ["BASS", "Bass"],                ["BELL", "Bells"],             ["BNJO", "Banjo"],
-    ["CLNT", "Clarinet"],            ["CLST", "Celesta"],           ["DGOO", "Didgeridoo"],
-    ["DULC", "Dulcimer"],            ["EFFX", "Sound Effects"],     ["EGTR", "Electric Guitar"],
-    ["ENST", "Ethnic Strings"],      ["ENWD", "Ethnic Winds"],      ["EPNO", "Electric Piano"],
-    ["EPRC", "Electric Percussion"], ["FLUT", "Flute"],             ["GLCK", "Glockenspiel"],
-    ["HARP", "Harp"],                ["HMCA", "Harmonica"],         ["HORN", "French Horn"],
-    ["HPCH", "Harpsichord"],         ["HPRC", "Human Percussion"],  ["JORG", "Jazz/Rock Organ"],
-    ["KLBA", "Kalimba"],             ["MDLN", "Mandolin"],          ["MRBA", "Marimba"],
-    ["MUTE", "Muted Brass"],         ["MUBX", "Music Box"],         ["OBOE", "Oboe"],
-    ["PFLT", "Pan Flute"],           ["PIZZ", "Pizzicato Strings"], ["PORG", "Pipe/Church Organ"],
-    ["TIMP", "Timpani"],             ["TRBN", "Trombone"],          ["TRPT", "Trumpet/Cornet"],
-    ["TUBA", "Tuba"],                ["SAXO", "Saxophone"],         ["SITR", "Sitar"],
-    ["STDR", "Steel/Tongue Drum"],   ["STRS", "Bowed Strings"],     ["SYNZ", "Synthesizer"],
-    ["UKLE", "Ukulele"],             ["VIBE", "Vibraphone"],        ["VOCL", "Vocals"],
-    ["WHSL", "Whistle"],             ["XYLO", "Xylophone"]
-  ]));
+  static INSTS = null;
 
   /**
    * All of the music file names on Silverman Sound Studios follow a predictable pattern given a title.
    * All letters are lowercased. All spaces are replaced with hyphens. Only hyphens and alphanumerics are kept.
-   * @param silvermanTitle {string} the title of a piece on Silverman Sound Studios
+   * @param {string} silvermanTitle the title of a piece on Silverman Sound Studios
    * @return {string} the formatted string as described above
    */
   static shine(silvermanTitle) {
     return silvermanTitle.toLowerCase().replaceAll(" ", "-").replaceAll(/[^-0-9a-z]/g, "");
-  }
-  
-  /**
-   * Given a title and a src code, this returns the URL of the music.
-   * b = Bryce Kline's CC: By music (not yet implemented)
-   * f = FreePD
-   * i = Incompetech
-   * s = Silverman Sound Studios
-   * u = URL for another website (not yet implemented)
-   * w = Wayback Machine for FreePD Page 2
-   * z = Bryce Kline's CC: Zero music (not yet implemented)
-   * @param title {string} the title (file name without extension)
-   * @param s {"f" | "i" | "s" | "w"} the src code
-   * @return {string} the URL of the music
-   */
-  // TODO: move to set logic and read the file to build the map
-  static getSrc(title, s) {
-    switch(s) {
-      case "f": return `https://freepd.com/music/${title}.mp3`;
-      case "i": return `https://incompetech.com/music/royalty-free/mp3-royaltyfree/${title}.mp3`;
-      case "s": return `https://www.silvermansound.com/wp-content/uploads/${MusicInfo.shine(title)}.mp3`;
-      case "w": return `https://web.archive.org/web/20231215120257/https://freepd.com/Page2/music/${title}.mp3`;
-      default: throw new Error("Invalid src code " + s);
-    }
   }
 
   /**
@@ -122,33 +65,20 @@ class MusicInfo {
    */
   constructor(key, rawString) {
     if(key !== MusicInfo.#KEY) throw new Error("MusicInfo objects must be constructed internally.");
-    this.raw = rawString;
+    let split = (this.raw = rawString).split("|");
+    this.title = split[0];
+    let parts = split[1].split(" ");
+    // TODO
+  }
+
+  // TODO
+  static makeNew(rawString, addToMap = true) {
     // TODO
   }
 
   /**
-   * Make a new MusicInfo object, optionally putting it in the internal map
-   * @param rawString {string} Title|sArtist|eINST
-   * Title: the title of the piece
-   * s: the src code of the piece (see the getSrc method)
-   * Artist: the artist/composer of the piece
-   * e: the first letter of the emotion (angry, calm, fearful, happy, neutral, romantic, sad)
-   * INST: the space-separated list of instrument codes in the piece (see the ISNTS property)
-   * @param addToMap {boolean} if true: Title|s cannot already be in the map, and this object will be added
-   * @return {MusicInfo} the newly-created MusicInfo object
-   */
-  static makeNew(rawString, addToMap = true) {
-    let shortString = rawString.substring(0, rawString.indexOf("|") + 2);
-    if(addToMap && MusicInfo.#ALL.has(shortString))
-      throw new Error("Map already has " + shortString);
-    let newObject = new MusicInfo(MusicInfo.#KEY, rawString);
-    if(addToMap) MusicInfo.#ALL.set(shortString, newObject);
-    return newObject;
-  }
-
-  /**
    * Get a MusicInfo object already in the map
-   * @param shortString {string} Title|s (see the makeNew method)
+   * @param shortString {string} Title|S (see the makeNew method)
    * @return {MusicInfo} the MusicInfo object in the map
    */
   static retrieve(shortString) {
@@ -158,7 +88,7 @@ class MusicInfo {
 
   /**
    * Remove a MusicInfo object from the map
-   * @param shortString {string} Title|s (see the makeNew method)
+   * @param shortString {string} Title|S (see the makeNew method)
    * @return {boolean} true if the MusicInfo object was in the map
    */
   static delete(shortString) {

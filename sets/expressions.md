@@ -1,6 +1,6 @@
 # Static Sets
 
-## Emotion  
+## Emotion
 A percent sign followed by a letter  
 | | |
 |-|-|
@@ -12,7 +12,7 @@ A percent sign followed by a letter
 |%R|Romantic|
 |%S|Sad|
 
-## Source  
+## Source
 An at-sign followed by a letter  
 | | |
 |-|-|
@@ -23,7 +23,7 @@ An at-sign followed by a letter
 |@S|Silverman Sound Studios|
 |@Z|Royalty Free Music Repertoire BK-zero|
 
-## Artist:  
+## Artist
 Two letters  
 | | |
 |-|-|
