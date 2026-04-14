@@ -5,6 +5,7 @@
 A Good Bass for Gambling|FN KK APRC BASS EGTR
 // A Long Day of Fun|ZC BK AGTR APRC
 A Mission|IN KM CLNT FLUT STRS TRBN TUBA
+A Terrible Sounding Piece of Music|PN FN EPRC SAXO SYNZ TRPT
 A Waltz For Naseem|FR DS APNO APRC CLNT GLCK HORN STRS
 ABT2|PF HS EFFX EPRC SYNZ VOCL
 // Abrasive Accordion|ZA BK ACDN APRC
@@ -25,6 +26,7 @@ Adventure|FH RK APRC HORN STRS
 Adventures in Adventureland|IH KM APRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA STRS TRBN TRPT TUBA
 // African Rag|ZH BK APNO APRC SYNZ
 Against Time|SA SI APNO APRC BASS STRS SYNZ
+Aggressor|IA KM APRC HORN STRS TRBN TRPT TUBA XYLO
 Agnus Dei X|IS KM SB PORG VOCL
 AhDah|IC KM EPNO EPRC JORG SYNZ VOCL
 Air Prelude|IS KM FLUT SYNZ
@@ -60,6 +62,7 @@ Ancient Winds|FC KM EFFX HARP STRS SYNZ
 Ancient Winds|IC KM EFFX HARP STRS SYNZ
 And Awaken|IC KM CLNT HARP HORN STRS
 Andreas Theme|IR KM APRC BASS EPNO PFLT SYNZ
+Android Sock Hop|IH KM APRC BASS EGTR JORG SYNZ
 Angel Share|IR KM AGTR APRC BASS VOCL
 Angels We Have Heard|IC KM JX CLNT HORN STRS
 Angels We Have Heard (piano)|IC KM JX APNO
@@ -118,6 +121,7 @@ Bass Walker|IN KM BASS
 Bathed in the Light|IC KM SYNZ
 Battle Ready|FF BT APRC DGOO ENWD HORN SYNZ TRBN TRPT TUBA
 // Battle of the Desert Aliens|BF BK APRC DULC EGTR MRBA PFLT SYNZ VOCL
+Bavarian Seascape|FH AY ACDN AGTR APRC TUBA
 Be Chillin|FC AN AGTR APRC BASS EGTR JORG SYNZ
 BeBop for Joey|FN KM APNO APRC BASS EGTR TRPT
 Beach Bum|IH KM APRC BASS EGTR
@@ -224,6 +228,7 @@ Cello Suite 1 in G - Prelude|IN KM JB DULC
 Celebration|FH AN AGTR APRC FLUT STRS
 Celtic Impulse|IN KM APRC DULC HARP MDLN WHSL
 Cephalopod|IA KM APRC GLCK HPRC SYNZ
+Cha-Cha Ender|FH AY APNO
 Chaise De l’Obscurité|SA SI EGTR EPRC HARP STRS SYNZ
 Champ de tournesol|FR KK AGTR
 Chanter|IA KM APRC ENST SYNZ VOCL
@@ -298,6 +303,7 @@ Court of the Queen|IR KM CLST HARP HORN PIZZ STRS TRBN TRPT TUBA
 Covert Affair|IF KM APRC BASS EPNO TRPT
 Cowboy Sting|IN KM AGTR APRC BASS ENST STRS
 Coy Koi|FN AY APRC ENST
+Crazy Radio A|PF KM SYNZ
 // Creepy Churchyard|B@BK & @PB|FACDN APRC BASN BELL CLNT EFFX FLUT HORN PORG STRS TIMP TUBA
 Creepy Hallow|FF AN APNO CLST STRS SYNZ
 Cretaceous Dawn|IN KM APRC
@@ -360,6 +366,7 @@ Daybreak|IC KM EPNO
 Daytime TV Theme|IC KM APNO SAXO STRS
 Dead Drop|IC KM APRC BASS EGTR
 Deadly Roulette|IC KM APRC BASS EGTR HPRC SYNZ VIBE
+Decay|IF KM APRC BELL STRS TRBN
 // Decent Descent|B@BK|cAPRC BASN BELL CLNT FLUT GLCK HARP HORN MRBA OBOE STRS TIMP TRBN TRPT TUBA
 Decisions|IF KM APRC EPRC STRS SYNZ VOCL
 Deck the Halls|FA AN TO APRC BASS EGTR
@@ -653,6 +660,7 @@ Hard Boiled|IC KM APNO APRC BASS
 Hard Sell Hotel|SA SI APRC BASS EGTR
 Harlequin|IN KM APNO CLNT
 Harmful or Fatal|IA KM EGTR EPRC SYNZ
+Haunted Harpsichord|SF SI HPCH STRS XYLO
 Healing|IC KM AGTR APRC FLUT STRS
 Heart of Nowhere|IR KM STRS VOCL
 Heartwarming|IR KM APNO
@@ -719,10 +727,12 @@ Imperfect Echoes|PC KM APNO
 Imperial China Cinematic|SR SI APRC ENST FLUT STRS
 Impomptu in D major|PH KM APNO
 Impromptu for Pianoforte and Beatbox|PN KM BT APNO HPRC
+Impromptu in Blue|IS KM APNO
 Impromptu in Quarter Comma Meantone|IS KM APNO
 Improved Ice Cream Truck|FH KM TR EPRC SYNZ
 In The West|IF KM APRC CLNT FLUT STRS
 In Your Arms|IR KM APRC BASS MUTE SAXO TRBN
+In a Heartbeat|IA BASS EGTR EPRC SYNZ
 Indended Force|PA KM CLNT GLCK HARP HORN STRS TIMP TRBN TRPT
 Industrial Cinematic|IF KM APRC SYNZ
 Industrial Music Box|IS KM MUBX
@@ -882,6 +892,7 @@ Master of the Feast|IH KM AGTR APRC DULC ENST ENWD FLUT
 Matts Blues|IH KM APRC BASS EGTR HMCA JORG
 Meatball Parade|IH KM APRC BASS TRBN TRPT UKLE
 Meditating Beat|FC KM APNO APRC SYNZ
+Medusa|IF KM APRC SYNZ
 Mega Hyper Ultrastorm|IA KM EPRC SYNZ
 Mellowtron|IC KM FLUT SYNZ
 Merry Christmas|SH SI APNO APRC BASS BELL GLCK UKLE VOCL
@@ -914,6 +925,7 @@ Misuse|IF KM APRC EPRC SYNZ VOCL
 Modern Island Jam|FH KM SA APNO EPRC SYNZ
 Modern Jazz Samba|IN KM AGTR APNO APRC BASS FLUT
 Modern Piano Beta - Jackhammer|IA KM APNO
+Modern Piano Epsilon - The Small|IF KM APNO
 Modern Piano Zeta - Improbable|IH KM APNO
 Modern Vibes|IN KM VIBE
 // Modulus|B@BK|hBASS EPRC STRS SYNZ VOCL
@@ -1020,6 +1032,7 @@ On the Shore|IS KM FLUT GLCK STRS TIMP
 One Sly Move|IS KM EGTR EPRC EPNO SYNZ
 One With Everything|SC SI APRC EPRC FLUT ENST SITR SYNZ VOCL
 One-eyed Maestro|IF KM ACDN APRC FLUT HORN STRS TRPT TUBA
+Onion March|SH SI APNO APRC EFFX SYNZ WHSL
 Open Those Bright Eyes|IH KM AGTR APNO APRC BASS TRBN TRPT
 Opening Move|SN SI APNO APRC BASS MUTE
 // Operation Plot Summary|B@BK|nAPRC JORG PFLT TIMP TRPT VOCL
@@ -1077,7 +1090,9 @@ Phat Sketch|IA KM EPRC SYNZ
 Phat Sketch|PA KM EPRC SYNZ
 Phortitude|SN SI BASS EPRC STRS SYNZ
 Piano Romantisme|SR SI APNO
+Piece for Disaffected Piano One|IF KM APNO
 Piece for Disaffected Piano One|PF KM APNO
+Piece for Disaffected Piano Two|IF KM APNO
 Piece for Disaffected Piano Two|PF KM APNO
 Pilot Error|IN KM APNO APRC EGTR
 Pinball Spring|IH KM EPRC SYNZ
@@ -1115,6 +1130,7 @@ Pulse|PN KM APRC BASS EGTR
 Pulse Rock|IN KM APRC BASS EGTR
 Pump|IA KM GN APRC BASS EGTR
 Pump Sting|IA KM GN APRC BASS EGTR
+Pump Sting|PA KM APRC BASS EGTR
 Pump up your Graduation|FH KM YP EPRC SYNZ
 Pure Attitude|IN KM EPRC HARP HORN STRS SYNZ TRBN TRPT
 Pyro Flow|IA KM APNO APRC BASS SYNZ
@@ -1134,6 +1150,7 @@ Ranz des Vaches|IR KM GR BASN FLUT OBOE PIZZ
 Raving Energy|IA KM EPRC SYNZ
 Raving Energy (faster)|IA KM EPRC SYNZ
 Raw|IN KM APRC BASS
+Realizer|IH KM EPRC SYNZ
 Regency Baroque|SH SI HPCH STRS
 Reggae (Sketch)|PA KM APRC EPNO JORG
 Reggae Sketch|IA KM APRC EPNO JORG
@@ -1208,6 +1225,7 @@ Sergio's Magic Dustbin|IA KM APRC BASN CLNT FLUT GLCK HORN MRBA TRBN TRPT TUBA W
 Serious Showcase|PN KM APRC BASS SYNZ
 Set It Up|SN SI APRC STRS SYNZ VOCL
 Seven March|IF KM APRC SYNZ
+Seven Off|IS KM CLNT GLCK OBOE STRS
 Seventh Seal|IF KM APNO APRC BELL STRS SYNZ TRBN TUBA
 Shades of Spring|IS KM APNO APRC BASS
 Shamanistic|IF KM APRC FLUT STRS SYNZ XYLO
@@ -1227,6 +1245,7 @@ Silent Night|IC KM FX APNO
 Silent Night (Unholy Night)|FA AN FX APRC BASS EGTR HORN STRS
 Silly Fun|IH KM BELL EPRC HPRC SYNZ WHSL
 Silver Blue Light|IC KM AGTR SYNZ
+Simon Says Dont - 100 cents|IN KM SYNZ
 Simon Says Dont - 100 cents|PN KM SYNZ
 Simon Says Dont - 50 cents|IN KM SYNZ
 Simon Says Dont - 50 cents|PN KM SYNZ
@@ -1235,6 +1254,7 @@ Simple Music to Frighten Small Children By|IF KM APNO
 Simplex|IF KM AGTR APRC SYNZ
 Sinfonia 3|IH KM BASS EPRC PORG
 Sinfonia to Cantata 29|PH DS JB JORG SYNZ TIMP
+Sing Along with Jim|IH KM AGTR APRC BASS GLCK MRBA SAXO TRPT
 Skeleton Carnival|SF SI APNO APRC GLCK WHSL
 Skill Is Futile|PN KM AGTR
 Skipping in the No Standing Zone|PN PG APRC BASS EPNO MRBA
@@ -1246,6 +1266,7 @@ Slide Kilter|SC SI AGTR BASS EPRC SYNZ VOCL
 Slow Burn|IH KM APRC BASS EGTR JORG
 Slow Heat|IC KM APRC MRBA
 Slow Jam|IC KM APNO EPNO EPRC SYNZ
+Slow Ticking Clock|PF KM APRC BELL EFFX
 Smash Sketch|IA KM BASS EPRC EPNO JORG
 Smoking Gun|IF KM APRC BASS BELL EGTR FLUT STRS VOCL
 Smooth Lovin|IR KM AGTR APNO APRC BASS JORG
@@ -1292,6 +1313,7 @@ Stars and Laurels|SA SI APNO APRC STRS TRBN VOCL
 Starting Out Waltz Allegretto|IR KM APNO APRC BASS
 Starting Out Waltz Vivace|IR KM APNO APRC BASS
 Stay the Course|IF KM APRC SYNZ
+Steel and Seething|IF KM APRC EPRC SYNZ
 Stereotype News|FH RK APRC HORN STRS SYNZ TIMP
 Stealth Groover|IC KM APNO APRC BASS EGTR SYNZ
 Sticks and Tricks|PN KM APRC MRBA SYNZ
@@ -1348,6 +1370,7 @@ Tango de Manzana|IR KM ACDN APNO APRC BASS FLUT STRS
 Take a Chance|IH KM APRC BELL CLNT FLUT HORN STRS TIMP XYLO
 Take the Lead|IA KM APRC BASS EGTR SYNZ
 Take the Ride|FN BT APRC BASS EGTR JORG SYNZ VOCL
+Takeover of the 8-bit Synths|IN KM AGTR APRC SYNZ
 Tape Star|SC SI EPRC SYNZ
 Tapped Piano|PS KM APNO
 Tatami Tea|PC KM ENST ENWD SYNZ
@@ -1502,6 +1525,7 @@ Void Glider|SF SI SYNZ
 Volatile Reaction|IA KM APRC BASN CLNT FLUT HORN STRS TRBN TUBA
 Voltaic|IA KM EPRC SYNZ
 Vulcan|IF KM APRC BELL FLUT
+WOAH|SA SI APRC BASS SYNZ VOCL WHSL
 Wagner Bridal Chorus|IR KM WW BELL PORG
 Wagner Bridal Chorus - piano|IR KM WW APNO
 Wagon Wheel|IH KM APRC
@@ -1583,46 +1607,23 @@ space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
 // perm from APF
-A Terrible Sounding Piece of Music|P
-Aggressor|I
-Android Sock Hop|I
 Baltic Levity|I
-Bavarian Seascape|F
-Cha-Cha Ender|F
-Crazy Radio A|P
-Decay|I
 East of Tunesia|P
 Exhilarate|I
 FOAF|P
 Footsteps in the Attic|F
 Gagool|I
 Going Bananas|F
-Haunted Harpsichord|S
 Ice Demon|I
-Impromptu in Blue|I
-In a Heartbeat|I
 Is Frustrate|P
-Medusa|I
 Modern Piano Alpha - As Loud as Possible|I
 Modern Piano Delta - Atonal in C-ish|I
-Modern Piano Epsilon - The Small|I
 Old MacDonald|I
-Onion March|S
 Painful Disorientation|I
-Piece for Disaffected Piano One|I
-Piece for Disaffected Piano Two|I
-Pump Sting|P
-Realizer|I
-Seven Off|I
-Simon Says Dont - 100 cents|I
-Sing Along with Jim|I
 Slow Ticking Clock|I
-Slow Ticking Clock|P
 Split In Synapse|I
 Steel Rods|I
-Steel and Seething|I
-Takeover of the 8-bit Synths|I
 This House|I
 Unease Piano|I
-WOAH|S
 Waltz of the Carnies|I
+// TODO: iterate Incompetech; if not on main search page, KM -> AY
