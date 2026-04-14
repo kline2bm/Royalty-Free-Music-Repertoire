@@ -107,7 +107,8 @@ Backed Vibes Clean|IN KM BASS VIBE
 Bad Ideas _clean_|IF KM APNO
 Bad Ideas _distressed_|IF KM APNO
 Balloon Game|IH KM EPRC SYNZ
-Baltic Levity|FH KM ACDN APRC EGTR STRS
+Baltic Levity|FH KM ACDN APRC EGTR STRS TUBA
+Baltic Levity|IH KM ACDN APRC EGTR STRS TUBA
 Balzan Groove|IA KM APRC EPRC STRS SYNZ
 Bama Country|IH KM ACDN AGTR APRC BASS BNJO HMCA STRS
 Bar Brawl|FH BT APRC DULC HPRC MDLN STRS WHSL
@@ -453,6 +454,7 @@ Early Riser|IA KM EPRC HPRC SYNZ
 Earnest|IS KM APNO
 Earth Prelude|IC KM APNO BASN CLNT FLUT MRBA OBOE STRS SYNZ XYLO
 East of Tunesia|IS KM APRC OBOE SAXO STRS
+East of Tunesia|PS KM APRC OBOE SAXO STRS
 Eastern Thought|IF KM APRC ENST STDR STRS
 Eastminster|IC KM EFFX ENST STRS
 Easy Jam|IS KM APRC BASS EGTR FLUT TRBN TRPT
@@ -497,12 +499,14 @@ Evening Fall - Piano|IS KM APNO
 Evening Melodrama|IH KM APRC CLNT FLUT HORN STRS TIMP TRBN TRPT
 Ever Mindful|IC KM CLNT FLUT STRS VOCL
 Exciting Trailer|IA KM APRC FLUT GLCK HORN STRS TRBN TRPT TUBA
+Exhilarate|IA KM APRC BASS EGTR SYNZ
 Exit the Premises|IA KM APRC EPRC SYNZ
 Exotic Battle|IA KM APRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Exotics|IA KM APNO APRC EPRC SYNZ
 Expeditionary|IF KM APRC FLUT KLBA STRS
 Experimental Test Subject|FF KM APRC SYNZ
 Eye of Forgiveness|FA RK APRC ENST STRS
+FOAF|PF APRC HS EFFX SYNZ VOCL
 Fairy Dance|PS RK CLST MRBA STRS
 Fairytale Waltz|IS KM CLST OBOE STRS
 Fall Falling|PA KM EPRC SYNZ
@@ -555,6 +559,7 @@ Flutey Funk|IN KM APRC BASS FLUT
 Flying Kerfuffle|IH KM EPRC SYNZ
 Folk Round|IN KM ACDN AGTR APRC FLUT STRS WHSL
 Folk Song|PH BB AGTR APRC BNJO UKLE
+Footsteps in the Attic|FF AF APNO EFFX PIZZ
 For Originz|IR KM APRC STRS VOCL
 Forest Frolic Loop|FH KM APRC BGPS DULC FLUT
 Forest Night|FC PS APRC BELL EFFX HARP STRS SYNZ VOCL
@@ -583,6 +588,7 @@ Furious Freak|IA KM EPNO EPRC SYNZ
 Future Cha Cha|IN KM BELL EPRC SYNZ VOCL
 Future Gladiator|IA KM APRC BASS HPRC SYNZ
 Fuzzball Parade|IH KM APRC PIZZ
+Gagool|IF KM APRC BASN OBOE STRS
 Galactic Fandango|SN SI EGTR HORN SAXO STRS SYNZ TIMP TRBN TRPT
 Galactic Rap|IC KM EPRC SYNZ
 Galway|IH KM AGTR APRC BASS FLUT STRS
@@ -615,6 +621,7 @@ Go Cart|IA KM EPRC SYNZ
 Go Cart - Drop Mix|IA KM EPRC SYNZ
 Go Cart - Loop Mix|IA KM EPRC SYNZ
 Goblin_Tinker_Soldier_Spy|IN KM APRC HMCA MRBA PIZZ TUBA
+Going Bananas|FH BT APRC BASS SAXO SYNZ TRPT VOCL XYLO
 Gonna Start|IH KM APNO APRC BASS EGTR JORG
 Gonna Start v2|IH KM APNO APRC BASS EGTR JORG
 Good Night|PS KM HORN STRS TRBN TRPT TUBA
@@ -713,6 +720,7 @@ I Have The Power|SN SI APRC BASS EGTR STRS SYNZ
 I Knew a Guy|IC KM APRC BASS VIBE
 // I'm Afraid of Fears|Z@BK|FAPRC EGTR EFFX TRPT VOCL
 Ibn Al-Noor|IF KM APRC ENST STRS
+Ice Demon|IF KM SYNZ
 Ice Flow|IA KM APRC SYNZ
 Ice and Snow|FS RK FLUT HORN STRS
 Ignosi|IF KM APRC CLNT FLUT HORN MRBA STRS TRBN
@@ -760,6 +768,7 @@ Irregular|IF KM SYNZ
 Iron Bacon|IA KM GN APRC BASS EGTR
 Iron Horse|IF KM APNO
 Iron Horse - Distressed|IF KM APNO
+Is Frustrate|PF KM APNO
 Ishikari Lore|IH KM APRC ENST FLUT
 Island Meet and Greet|IH KM APRC BASS MRBA STDR UKLE
 Island Mystery|PH IM AGTR APRC EFFX EGTR SYNZ
@@ -924,7 +933,9 @@ Misuse|IF KM APRC EPRC SYNZ VOCL
 // Modern Baroque|Z@BK|nEPRC PORG
 Modern Island Jam|FH KM SA APNO EPRC SYNZ
 Modern Jazz Samba|IN KM AGTR APNO APRC BASS FLUT
+Modern Piano Alpha - As Loud as Possible|IA KM APNO
 Modern Piano Beta - Jackhammer|IA KM APNO
+Modern Piano Delta - Atonal in C-ish|IA KM APNO
 Modern Piano Epsilon - The Small|IF KM APNO
 Modern Piano Zeta - Improbable|IH KM APNO
 Modern Vibes|IN KM VIBE
@@ -1023,6 +1034,7 @@ OctoBlues|IR KM BD APRC BASS EGTR JORG
 Odyssey|IH KM SYNZ
 Oh Holy Night|IC KM AA APNO
 Oh Xmas|IH KM EA AGTR APNO APRC GLCK
+Old MacDonald|IH KM TR APRC BASS SYNZ
 Olde Timey|IH KM APNO
 Ominous Intro|IF KM SYNZ
 On My Way|IH KM APRC BASS CLNT EGTR FLUT VIBE
@@ -1069,6 +1081,7 @@ Overworld|IF KM EPRC SYNZ
 Padanaya Blokov|IN KM APRC BASS ENST EPRC SYNZ
 Pagan Cross|SS SI WHSL
 Painful Disorientation|FN KM APNO OBOE
+Painful Disorientation|IN KM APNO OBOE
 Pale Rider|IN KM HARP
 Palm and Soul|FN KM SA APRC BASS EGTR JORG SAXO
 Pamgaea|IH KM SYNZ
@@ -1266,6 +1279,7 @@ Slide Kilter|SC SI AGTR BASS EPRC SYNZ VOCL
 Slow Burn|IH KM APRC BASS EGTR JORG
 Slow Heat|IC KM APRC MRBA
 Slow Jam|IC KM APNO EPNO EPRC SYNZ
+Slow Ticking Clock|IF KM APRC BELL EFFX
 Slow Ticking Clock|PF KM APRC BELL EFFX
 Smash Sketch|IA KM BASS EPRC EPNO JORG
 Smoking Gun|IF KM APRC BASS BELL EGTR FLUT STRS VOCL
@@ -1304,6 +1318,7 @@ Special Spotlight|IN KM BASS EPRC SYNZ
 Spellbound|IF KM EGTR EPRC SYNZ VOCL
 Spider Eyes|IF KM APNO BELL STRS
 Spiders Web|IF KM HPCH STRS
+Split In Synapse|IA KM CLNT EPRC HORN SYNZ TRBN TRPT
 // Spooky Dance Party|B@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
 Sports FM|SH SI APRC BASS EGTR JORG SYNZ TRPT
 Spring Chicken|FH BT APRC FLUT GLCK PIZZ STRS XYLO
@@ -1313,6 +1328,7 @@ Stars and Laurels|SA SI APNO APRC STRS TRBN VOCL
 Starting Out Waltz Allegretto|IR KM APNO APRC BASS
 Starting Out Waltz Vivace|IR KM APNO APRC BASS
 Stay the Course|IF KM APRC SYNZ
+Steel Rods|IA KM APRC SYNZ
 Steel and Seething|IF KM APRC EPRC SYNZ
 Stereotype News|FH RK APRC HORN STRS SYNZ TIMP
 Stealth Groover|IC KM APNO APRC BASS EGTR SYNZ
@@ -1450,6 +1466,7 @@ Thin|PH KM APRC BASS EGTR
 Think About It|FS BT APNO STRS SYNZ
 Thinking Music|IF KM HARP PIZZ
 Thinking Out Loud|IN KM APNO APRC EPRC STRS SYNZ TIMP
+This House|IF KM APNO CLST HARP HORN STRS
 Through The Woods|SH SI CLNT CLST FLUT HARP PIZZ
 Thunder Dreams|IS KM SYNZ
 Thunderbird|IC KM APRC FLUT SYNZ
@@ -1487,6 +1504,7 @@ Umbrella Pants|IF KM APRC GLCK PIZZ
 Unanswered Questions|IF KM ENST
 Undaunted|IA KM APNO EPRC SYNZ
 Underglow|SF SI SYNZ
+Unease Piano|IF KM APNO
 Unfit Trumpet|SH SI APRC SAXO TRPT TUBA
 Unfolding Mirrors|SS SI APNO STRS SYNZ
 Unity|IA KM APNO EPRC KLBA
@@ -1538,6 +1556,7 @@ Walking Along|IC KM APRC BASS VIBE
 Waltz - Tschikovsky Op. 40|IS KM PT APNO
 Waltz Primordial |IS KM AN APRC BASS EGTR
 Waltz of Treachery FX|IS KM APNO
+Waltz of the Carnies|IF KM APRC EFFX WHSL XYLO
 Waltzing Marvin|PR AY AGTR APRC BASS STRS
 Water Droplets on the River|IR KM APNO
 Water Lily|IS KM APNO STRS
@@ -1607,23 +1626,4 @@ space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
 // perm from APF
-Baltic Levity|I
-East of Tunesia|P
-Exhilarate|I
-FOAF|P
-Footsteps in the Attic|F
-Gagool|I
-Going Bananas|F
-Ice Demon|I
-Is Frustrate|P
-Modern Piano Alpha - As Loud as Possible|I
-Modern Piano Delta - Atonal in C-ish|I
-Old MacDonald|I
-Painful Disorientation|I
-Slow Ticking Clock|I
-Split In Synapse|I
-Steel Rods|I
-This House|I
-Unease Piano|I
-Waltz of the Carnies|I
 // TODO: iterate Incompetech; if not on main search page, KM -> AY
