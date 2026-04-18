@@ -112,159 +112,44 @@ Welcome to HorrorLand|I
 //////////
 Marty Had A Little Lamb|P
 Mary Had a Little Wolf|P
-Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON
-Monplaisir - PIGEONS ARE THE BEST - 07 RD2DOOM
+Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON|P
+Monplaisir - PIGEONS ARE THE BEST - 07 RD2DOOM|P
+NITL|P
+Old MacDonald|P
+Overt Danger A|P
+Paix|P
+Picket Villian|P
+Post-Operative Dream|P
+Pure Incompetence|P
+RBTL|P
+Radial Organ|P
+Slow Folk|P
+Space Crystals A|P
+Space Machine A|P
+Space Machine B|P
+Strange-both|P
+Strange-down|P
+Strange-down-complex|P
+Strange-up|P
+Striding Along|P
 // add to repertoire.txt and other sets, then remove from here:
 Keratine, Rust, and a Clear Soul|P
 Knock the Twitch|P
 Light Infusor|P
+Not Quite Top Of The Pops|P
+Opening Theme A|P
+Opening Theme B|P
+Opening Theme C|P
+Orchestral Mix|P
+Outro|P
+Party Divided|P
+Popcorn Slider Loop|P
+Raveminimal|P
+Right Around the Corner|P
+Solace in Imaginary Places|P
+Spring - Remastered|P
+Strange Sands|P
 [
-    "Music for Funeral Home - Part 1",
-    "Music for Funeral Home - Part 10",
-    "Music for Funeral Home - Part 2",
-    "Music for Funeral Home - Part 3",
-    "Music for Funeral Home - Part 4",
-    "Music for Funeral Home - Part 5",
-    "Music for Funeral Home - Part 6",
-    "Music for Funeral Home - Part 7",
-    "Music for Funeral Home - Part 8",
-    "Music for Funeral Home - Part 9",
-    "Mysterions",
-    "Neon and Kickboxing",
-    "New Age A Weathered",
-    "New Age C Chimer",
-    "New Age D Detective",
-    "New Age E Aspire",
-    "New Age F Bender",
-    "New Age G Awful",
-    "New Age H Backer Ice",
-    "New Age I Dissonant",
-    "New Age J Promise",
-    "New Age K Glow",
-    "New Age L Wood Synth",
-    "New Age M Unspired",
-    "New Age N Mysterion",
-    "New Age O Smoother",
-    "New Age P Space Kudzu",
-    "New Age Q Glitter",
-    "New Age R Water Shine",
-    "New Age S Path to Light",
-    "New Age T Answered",
-    "Nightshift",
-    "NITL",
-    "Not Quite Top Of The Pops",
-    "Oboe Rock Thing",
-    "Old MacDonald",
-    "Once in the Crash",
-    "Opening Theme A",
-    "Opening Theme B",
-    "Opening Theme C",
-    "Orchestral Mix",
-    "Outro",
-    "Overt Danger A",
-    "Overt Intimidation Loop",
-    "Paix",
-    "Party Divided",
-    "Phantom Foxtrot",
-    "Piano Cue One",
-    "Picket Villian",
-    "Piece for Two Fingers",
-    "Pig And Pepper",
-    "Plans in Motion",
-    "Popcorn Slider Loop",
-    "Possession",
-    "Post-Operative Dream",
-    "Proper Timing",
-    "Psychobabble",
-    "Punchline",
-    "Pure Incompetence",
-    "Pursuit and Thought",
-    "Queen Alice",
-    "Quick Metal Riff 2",
-    "Quiet NIght",
-    "Radial Organ",
-    "Radio Ghost",
-    "Ragga A Smooth",
-    "Ragga B ElectroIsland",
-    "Ragga C Jump Beat",
-    "Ragga D Cold Sizzle",
-    "Ragga E Harsh Love Theme",
-    "Ragga F Disjoint",
-    "Ragga H Funky",
-    "Ragga I Fast Bubble",
-    "Ragga J Groundlink",
-    "Ragga K Hyperaccordion",
-    "Ragga L Cool Island",
-    "Ragga M Stomp Buzz",
-    "Ragga N Atonal Island",
-    "Ragga O Slick Bass",
-    "Ragga P Space Palm",
-    "Ragga Q Party Chill",
-    "Ragga R Spaceship Colada",
-    "Ragga S Interrupt",
-    "Ragga T Backer",
-    "Rap Bad Brass Groove",
-    "Rap Chill",
-    "Rap Creep Out",
-    "Rap Deep Groove",
-    "Rap Disjunct",
-    "Rap Fingered",
-    "Rap Funk",
-    "Rap Hard Loop",
-    "Rap Light and Heavy",
-    "Rap Lop-a-dop",
-    "Rap Low Down",
-    "Rap with Metals",
-    "Raucous Rancor",
-    "Raveminimal",
-    "RBTL",
-    "Rebel",
-    "Reference",
-    "Reflecing on Ideals",
-    "Reggae Remix A",
-    "Reject",
-    "Relentless",
-    "Right Around the Corner",
-    "Rip in the Wide Sky",
-    "RnB Blipstorm",
-    "Robot Brain A",
-    "Robot Brain B",
-    "Robot Brain C",
-    "Rubix Cube",
-    "Run!",
-    "Running Fanfare",
-    "Sa Mo Do Do",
-    "Sadness on White Keys",
-    "Send for the Horses",
-    "Slider",
-    "Sloppy Bossa Loop",
-    "Slow Folk",
-    "Soft Urban A",
-    "Solace in Imaginary Places",
-    "Someday... (Lonely character's theme)",
-    "Sonatina",
-    "Space Crystals A",
-    "Space Machine A",
-    "Space Machine B",
-    "Space Rap",
-    "Space Warehouse A",
-    "Spikey",
-    "Spring - Remastered",
-    "Squanch",
-    "Squinch Machine",
-    "Strange Sands",
-    "Strange-both",
-    "Strange-down-complex",
-    "Strange-down",
-    "Strange-up",
-    "Stratosphere",
-    "Striding Along",
-    "Sublimination Groove",
-    "Subterranians",
-    "Suburban Madman",
-    "Suicide",
-    "Super Snare",
-    "Synth Synth Short",
     "Taboom",
     "Tech A Cool",
     "Tech B Jab",
