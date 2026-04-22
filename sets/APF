@@ -110,6 +110,8 @@ Wagner Bridal Chorus - piano|I
 Waltz of the Carnies|I
 Welcome to HorrorLand|I
 //////////
+Dark Ambient|P
+Horror Ambiance|P
 Marty Had A Little Lamb|P
 Mary Had a Little Wolf|P
 Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON|P
@@ -137,7 +139,14 @@ TTYL|P
 Tension|P
 Tree Blind Mice|P
 Tuna Fish|P
+ZREM|P
 // add to repertoire.txt and other sets, then remove from here:
+Another Day Another Dollar|P
+Banshee|P
+Beatsaber Epic Fantasy|P
+Emotional Piano|P
+Epic Character Selection Screen Loop|P
+Expedition|P
 Keratine, Rust, and a Clear Soul|P
 Knock the Twitch|P
 Light Infusor|P
@@ -161,62 +170,7 @@ Thinking Tension A|P
 Thinking Tension B|P
 Thinking Tension C|P
 Transition Two|P
-[
-    "Urban Awful",
-    "Urban Brastard",
-    "Urban Confused Mystery",
-    "Urban Cool Trip",
-    "Urban Funk A",
-    "Urban Funk B",
-    "Urban Hooter",
-    "Urban Light and Thin",
-    "Urban Mixer",
-    "Urban No Glue",
-    "Urban Sad Demo",
-    "Urban Scour",
-    "Urban Soft Groove",
-    "Victory",
-    "Vintage Education",
-    "Wake up Ghost",
-    "Warfare Confederation",
-    "Waterford",
-    "Waterlilies 1",
-    "Waterlilies 2",
-    "Waterlilies 3",
-    "Waterlilies 4",
-    "Waterlilies 5",
-    "Waterlilies 6",
-    "Waterlilies 7",
-    "Waterlilies 8",
-    "We're on the Other Side Now",
-    "Wexford",
-    "When Trees Complain",
-    "Where",
-    "Whistling Trixie",
-    "White Eyes",
-    "Who Stole The Tarts_",
-    "Withdrawal",
-    "You and your Closet",
-    "You Are Old, Father William",
-    "Your Sparking Rubber Soul",
-    "ZREM",
-    "Horror Ambiance",
-    "Dark Ambient",
-    "Banshee",
-    "Beatsaber Epic Fantasy",
-    "For the Glory of the Alliance",
-    "Epic Character Selection Screen Loop",
-    "Another Day Another Dollar",
-    "First Quest",
-    "Townsville",
-    "Donkey in the Dancehall",
-    "Old Time Piano Slow Car Chase",
-    "80s Smooth Rocker",
-    "Guitar Interstitial",
-    "How Not to Assault Your Colleages",
-    "Electric Cellos",
-    "Emotional Piano",
-    "Piano Etude",
-    "Video Games Trailer",
-    "Walking Stars"
-]
+Walking Stars|P
+Warfare Confederation|P
+Waterford|P
+Wexford|P
