@@ -1625,5 +1625,68 @@ a432|PC KM APNO STRS
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
 // temp from APF
+Another Day Another Dollar|P
+Banshee|P
+Beatsaber Epic Fantasy|P
+Emotional Piano|P
+Epic Character Selection Screen Loop|P
+Expedition|P
+Keratine, Rust, and a Clear Soul|P
+Knock the Twitch|P
+Light Infusor|P
+Not Quite Top Of The Pops|P
+Opening Theme A|P
+Opening Theme B|P
+Opening Theme C|P
+Orchestral Mix|P
+Outro|P
+Party Divided|P
+Popcorn Slider Loop|P
+Raveminimal|P
+Right Around the Corner|P
+Solace in Imaginary Places|P
+Spring - Remastered|P
+Strange Sands|P
+The Aquatic Wombat Becomes a Butterfly|P
+The Endless|P
+The Terror Below|P
+Thinking Tension A|P
+Thinking Tension B|P
+Thinking Tension C|P
+Transition Two|P
+Walking Stars|P
+Warfare Confederation|P
+Waterford|P
+Wexford|P
 // perm from APF
+Dark Ambient|P
+Horror Ambiance|P
+Marty Had A Little Lamb|P
+Mary Had a Little Wolf|P
+Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON|P
+Monplaisir - PIGEONS ARE THE BEST - 07 RD2DOOM|P
+NITL|P
+Old MacDonald|P
+Overt Danger A|P
+Paix|P
+Picket Villian|P
+Post-Operative Dream|P
+Pure Incompetence|P
+RBTL|P
+Radial Organ|P
+Slow Folk|P
+Space Crystals A|P
+Space Machine A|P
+Space Machine B|P
+Strange-both|P
+Strange-down|P
+Strange-down-complex|P
+Strange-up|P
+Striding Along|P
+TLDR|P
+TTYL|P
+Tension|P
+Tree Blind Mice|P
+Tuna Fish|P
+ZREM|P
 // TODO: iterate Incompetech; if not on main search page, KM -> AY
