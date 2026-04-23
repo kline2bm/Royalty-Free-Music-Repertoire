@@ -94,6 +94,7 @@ Two letters
 |SB|Samuel O. Barber|
 |SI|Shane L. Ivers|
 |SJ|Scott Joplin|
+|SP|Severed Personality|
 |SQ|statusq|
 |TM|Thundermine|
 |TO|Thomas Oliphant|
