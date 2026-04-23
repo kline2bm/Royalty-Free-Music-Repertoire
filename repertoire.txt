@@ -478,6 +478,7 @@ Electro Sketch|IA KM EPRC SYNZ
 Electrodoodle|IH KM EPRC SYNZ
 Elf Meditation|FC KM EFFX HARP STRS SYNZ
 Elf Meditation|IC KM EFFX HARP STRS SYNZ
+Emotional Piano|PS RK APNO STRS
 Enchanted Journey|IR KM HARP
 Enchanted Valley|IR KM CLNT CLST FLUT STRS
 Energizing|FC KM APRC SYNZ
@@ -487,6 +488,7 @@ Enigmatic|PS PS APNO APRC STRS SYNZ
 Enter the Maze|IF KM APRC HORN SYNZ
 Enter the Party|IN KM APRC JORG SYNZ
 Envision|IF KM EGTR SYNZ
+Epic Character Selection Screen Loop|PF KM APRC HORN STRS TRBN
 Equatorial Complex|IC KM EPNO SYNZ VOCL
 Errigal|IH KM DULC
 Eternity|IR KM APRC BASS EGTR EPNO SYNZ
@@ -1038,6 +1040,7 @@ Odyssey|IH KM SYNZ
 Oh Holy Night|IC KM AA APNO
 Oh Xmas|IH KM EA AGTR APNO APRC GLCK
 Old MacDonald|IH KM TR APRC BASS SYNZ
+Old MacDonald|PH KM TR APRC BASS SYNZ
 Olde Timey|IH KM APNO
 Ominous Intro|IF KM SYNZ
 On My Way|IH KM APRC BASS CLNT EGTR FLUT VIBE
@@ -1050,6 +1053,8 @@ One-eyed Maestro|IF KM ACDN APRC FLUT HORN STRS TRPT TUBA
 Onion March|SH SI APNO APRC EFFX SYNZ WHSL
 Open Those Bright Eyes|IH KM AGTR APNO APRC BASS TRBN TRPT
 Opening Move|SN SI APNO APRC BASS MUTE
+Opening Theme B|PF KM SYNZ
+Opening Theme C|PF KM SYNZ
 // Operation Plot Summary|B@BK|nAPRC JORG PFLT TIMP TRPT VOCL
 Opium|IC KM APRC DULC STRS VOCL
 Opportunity Walks|IS KM APNO APRC BASS
@@ -1090,6 +1095,7 @@ Palm and Soul|FN KM SA APRC BASS EGTR JORG SAXO
 Pamgaea|IH KM SYNZ
 // Pan Flute Serenity|Z@BK|cPFLT
 Paradise_Found|IH KM EPRC STDR SYNZ VOCL
+Party Divided|PC SQ APNO APRC JORG SYNZ
 Passing Action|IF KM APRC BASS EPRC STRS
 Patron Saint of Heists|FA BT APRC BASS EPNO FLUT SAXO
 Peace in Sunlight|PN KF APRC SYNZ
@@ -1106,6 +1112,7 @@ Phat Sketch|IA KM EPRC SYNZ
 Phat Sketch|PA KM EPRC SYNZ
 Phortitude|SN SI BASS EPRC STRS SYNZ
 Piano Romantisme|SR SI APNO
+Picket Villian|PF AY APNO
 Piece for Disaffected Piano One|IF KM APNO
 Piece for Disaffected Piano One|PF KM APNO
 Piece for Disaffected Piano Two|IF KM APNO
@@ -1149,6 +1156,7 @@ Pump Sting|IA KM GN APRC BASS EGTR
 Pump Sting|PA KM APRC BASS EGTR
 Pump up your Graduation|FH KM YP EPRC SYNZ
 Pure Attitude|IN KM EPRC HARP HORN STRS SYNZ TRBN TRPT
+Pure Incompetence|PN AY APNO
 Pyro Flow|IA KM APNO APRC BASS SYNZ
 // Questions of Time|Z@BK|FEPNO HARP
 Quiescent In Time|SC SI SYNZ
@@ -1164,6 +1172,7 @@ Rain - remastered|PC DV EPRC SYNZ
 Rainbows|IH KM APRC BASS MRBA UKLE
 Rains Will Fall|IS KM APNO APRC STRS
 Ranz des Vaches|IR KM GR BASN FLUT OBOE PIZZ
+Raveminimal|PA FN BASS EPRC SYNZ
 Raving Energy|IA KM EPRC SYNZ
 Raving Energy (faster)|IA KM EPRC SYNZ
 Raw|IN KM APRC BASS
@@ -1325,6 +1334,7 @@ Spiders Web|IF KM HPCH STRS
 Split In Synapse|IA KM CLNT EPRC HORN SYNZ TRBN TRPT
 // Spooky Dance Party|B@BK & @CS (mm. 44-51)|nAPRC BELL EFFX EPRC HORN HPCH PORG STRS SYNZ
 Sports FM|SH SI APRC BASS EGTR JORG SYNZ TRPT
+Spring - Remastered|PH MF TM APNO BASS EPRC PORG SYNZ VOCL
 Spring Chicken|FH BT APRC FLUT GLCK PIZZ STRS XYLO
 Spy Glass|IF KM APNO APRC FLUT HPRC MUTE SAXO VIBE
 Spy Groove|IN KM APRC BASS EPNO JORG STRS
@@ -1344,7 +1354,9 @@ Stompin at Midnight - Vinyl Recording|FH KM SA APRC BASS SAXO TRBN TRPT
 Stoneworld Battle|IF KM APRC HORN STRS TIMP TRPT TUBA XYLO
 Store Theme|PC KK APRC BASS BELL UKLE
 Stormfront|IF KM APRC SYNZ
+Strange Sands|PC KM PIZZ SYNZ
 Strange-both|PN KM APNO
+Strange-down|PN KM APNO
 Strange-down-complex|PN KM APNO
 Street Party|IH KM APRC BASS JORG SAXO STDR TRBN TRPT WHSL
 Streetlight On A Dark Road|IR KM OBOE
@@ -1386,6 +1398,7 @@ Symbiosis|IF KM APNO EPRC
 Symmetry|IF KM EPRC SYNZ
 Synapse|SC SI EPRC SYNZ
 Synergy Cruiser|PH KM APRC BELL SYNZ
+TLDR|PF HS APNO EFFX EPNO SYNZ VOCL
 Tabuk|IF KM APRC FLUT STRS
 Tafi Maradi|IH KM APRC VOCL
 Tafi Maradi no voice|IH KM APRC
@@ -1433,6 +1446,7 @@ The Cutest Bunny|SH SI AGTR APRC BASS GLCK STRS UKLE VOCL XYLO
 The Descent|IN KM APRC HORN STRS TRBN TRPT TUBA
 The Drama|FF RK APRC STRS SYNZ
 The Endless|IS KM STRS
+The Endless|PS KM STRS
 The Entertainer|FH KM SJ APNO
 The Entertainer|IH KM SJ APNO
 The Escalation|IF KM APRC STRS
@@ -1461,6 +1475,7 @@ The Second Coming - Instrumental|IF KM APRC HORN STRS TRBN
 The Show Must Be Go|IH KM AGTR APRC BASS CLNT ENST HORN HPRC TRPT VIBE
 The Snow Queen|IF KM BASN CLNT CLST FLUT PIZZ STRS TIMP
 The Story|FS AN APNO APRC HORN STRS XYLO
+The Terror Below|PF BB APRC SYNZ VOCL
 The View Across|PC KM APRC BASS ENST
 The Vikings|FN AN APNO APRC STRS VOCL
 The Way Out|IF KM APRC SYNZ
@@ -1474,6 +1489,7 @@ Think About It|FS BT APNO STRS SYNZ
 Thinking Music|IF KM HARP PIZZ
 Thinking Out Loud|IN KM APNO APRC EPRC STRS SYNZ TIMP
 Thinking Tension B|PF KM BASS
+Thinking Tension C|PF KM BASS
 This House|IF KM APNO CLST HARP HORN STRS
 Through The Woods|SH SI CLNT CLST FLUT HARP PIZZ
 Thunder Dreams|IS KM SYNZ
@@ -1492,6 +1508,7 @@ Townie Loop|IH KM EPRC SYNZ WHSL
 Tranquility|IC KM SYNZ
 Tranquility Base|IC KM BELL SYNZ
 Transition One|IC KM BELL CLNT FLUT GLCK HARP STRS
+Tree Blind Mice|PN AY TR APNO
 Tremendum|SA SI EPRC STRS SYNZ VOCL
 Trepidation|IF KM APNO
 Triangle|PR JS AGTR APNO APRC BASS EPNO SAXO SYNZ
@@ -1567,6 +1584,7 @@ Waltz Primordial |IS KM AN APRC BASS EGTR
 Waltz of Treachery FX|IS KM APNO
 Waltz of the Carnies|IF KM APRC EFFX WHSL XYLO
 Waltzing Marvin|PR AY AGTR APRC BASS STRS
+Warfare Confederation|PF SP APRC BASS KLBA SYNZ
 Water Droplets on the River|IR KM APNO
 Water Lily|IS KM APNO STRS
 Water Prelude|IR KM BASN BELL CLST FLUT HARP STRS
@@ -1637,31 +1655,19 @@ space explorers|IC KM FLUT SYNZ TRBN
 // temp from APF
 Banshee|P
 Beatsaber Epic Fantasy|P
-Emotional Piano|P
-Epic Character Selection Screen Loop|P
 Expedition|P
 Knock the Twitch|P
 Light Infusor|P
 Not Quite Top Of The Pops|P
 Opening Theme A|P
-Opening Theme B|P
-Opening Theme C|P
 Orchestral Mix|P
 Outro|P
-Party Divided|P
 Popcorn Slider Loop|P
-Raveminimal|P
 Right Around the Corner|P
 Solace in Imaginary Places|P
-Spring - Remastered|P
-Strange Sands|P
 The Aquatic Wombat Becomes a Butterfly|P
-The Endless|P
-The Terror Below|P
 Thinking Tension A|P
-Thinking Tension C|P
 Transition Two|P
-Warfare Confederation|P
 Waterford|P
 Wexford|P
 // perm from APF
@@ -1671,22 +1677,16 @@ Mary Had a Little Wolf|P
 Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON|P
 Monplaisir - PIGEONS ARE THE BEST - 07 RD2DOOM|P
 NITL|P
-Old MacDonald|P
 Overt Danger A|P
 Paix|P
-Picket Villian|P
 Post-Operative Dream|P
-Pure Incompetence|P
 Radial Organ|P
 Slow Folk|P
 Space Crystals A|P
 Space Machine A|P
 Space Machine B|P
-Strange-down|P
 Strange-up|P
-TLDR|P
 TTYL|P
 Tension|P
-Tree Blind Mice|P
 Tuna Fish|P
 // TODO: iterate Incompetech; if not on main search page, KM -> AY
