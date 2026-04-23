@@ -506,6 +506,7 @@ Exhilarate|IA KM APRC BASS EGTR SYNZ
 Exit the Premises|IA KM APRC EPRC SYNZ
 Exotic Battle|IA KM APRC FLUT HORN MRBA STRS TRBN TUBA XYLO
 Exotics|IA KM APNO APRC EPRC SYNZ
+Expedition|PH RK APRC HORN STRS TRPT VOCL
 Expeditionary|IF KM APRC FLUT KLBA STRS
 Experimental Test Subject|FF KM APRC SYNZ
 Eye of Forgiveness|FA RK APRC ENST STRS
@@ -702,6 +703,7 @@ Honey Bee|IH KM APRC BASS EPNO TRPT
 Honor Bound|FA BT APRC HORN STRS TRBN TRPT
 Horned Flute Chill|PC KM AGTR APRC BASS EPNO FLUT GLCK HORN
 Horns|FH KM APRC BASS EGTR TRBN TRPT
+Horror Ambiance|PF KM STRS
 Horror Mytery|FF RK STRS SYNZ
 Horror Suspense|FF RK PIZZ STRS
 // TODO: ^^^ more INST for HorSus
@@ -817,6 +819,7 @@ Killing Time|IN KM EPRC JORG SYNZ
 Kings of Tara|IH KM AGTR APRC BASS BNJO FLUT
 Kleine Bar|PR DS APNO APRC BASS EPNO FLUT HARP OBOE
 Klockworx|IN KM EPRC SYNZ
+Knock the Twitch|PN KM EPRC SYNZ
 Krampus Workshop|IA KM APRC BASN BELL FLUT GLCK HORN STRS TRBN TRPT TUBA XYLO
 Krampus's Workshop|FA KM APRC BASN BELL FLUT GLCK HORN STRS TRBN TRPT TUBA XYLO
 Kumasi Groove|IC KM APRC MRBA
@@ -952,6 +955,7 @@ Modern Vibes|IN KM VIBE
 // Modulus 3: Septembers (Ambient Mix)|B@BK & Sepezz|SSTRS SYNZ VOCL
 Monkoto|IN KM APRC CLNT MRBA
 Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|PN CM EFFX EPNO EPRC SYNZ
+Monplaisir - PIGEONS ARE THE BEST - 07 RD2DOOM|PA CM APRC BASS SYNZ
 Monsieur Miaow|SH SI AGTR APNO APRC VOCL
 Monster Promenade|IH KM AGTR APRC BASS JORG
 Monsters in Hotel|FF RK APNO APRC GLCK HORN PORG TRBN TRPT XYLO
@@ -985,6 +989,7 @@ Mystery Bazaar|IF KM APRC DULC STRS
 Mystery Sax|IF KM APRC SAXO SYNZ
 Mystery Sting|IN KM APRC CLNT KLBA MRBA OBOE
 Mystic Force|IN KM APRC BELL TUBA
+NITL|PF HS AGTR EFFX SYNZ VOCL
 Nano Hoedown|IH KM EPRC SYNZ
 Naraina|IA KM APRC BASS ENWD EPRC TRPT
 Narcissus|IH KM HPCH OBOE STRS TRPT
@@ -1026,6 +1031,7 @@ Nonstop|IA KM BASS EGTR EPRC SYNZ
 Nordic Wist|FC KM ENST VOCL
 Nostalgic Piano|FR RK APNO
 Not As It Seems|IF KM APRC HARP GLCK HORN OBOE STRS TRBN TRPT TUBA
+Not Quite Top Of The Pops|PN AY APNO APRC BASS EGTR EPNO
 Notanico Merengue|IH KM APNO APRC BASS EGTR SAXO TRPT
 Nothing Broken|IH KM AGTR APRC CLNT FLUT HPCH JORG
 Nouvelle Noel|IH KM APNO APRC BASS BELL VIBE
@@ -1053,6 +1059,7 @@ One-eyed Maestro|IF KM ACDN APRC FLUT HORN STRS TRPT TUBA
 Onion March|SH SI APNO APRC EFFX SYNZ WHSL
 Open Those Bright Eyes|IH KM AGTR APNO APRC BASS TRBN TRPT
 Opening Move|SN SI APNO APRC BASS MUTE
+Opening Theme A|PN KM SYNZ
 Opening Theme B|PF KM SYNZ
 Opening Theme C|PF KM SYNZ
 // Operation Plot Summary|B@BK|nAPRC JORG PFLT TIMP TRPT VOCL
@@ -1083,6 +1090,7 @@ Overcast|IR KM APNO APRC BASS EGTR SYNZ
 Overheat|IC KM FLUT STRS SYNZ
 Overlander|SA SI APNO APRC BASS EGTR JORG
 Overriding Concern|IF KM APNO BELL EPRC GLCK SYNZ VOCL
+Overt Danger A|PA KM SYNZ
 Overture|FH AN APRC CLNT HORN PIZZ STRS TIMP TRBN
 Overture|IS KM APNO
 Overworld|IF KM EPRC SYNZ
@@ -1290,6 +1298,7 @@ Slate|PN AY APNO APRC BASS
 Sleep_and_Then|IC KM BELL CLNT FLUT GLCK HARP STRS
 Slide Kilter|SC SI AGTR BASS EPRC SYNZ VOCL
 Slow Burn|IH KM APRC BASS EGTR JORG
+Slow Folk|PS AY APNO
 Slow Heat|IC KM APRC MRBA
 Slow Jam|IC KM APNO EPNO EPRC SYNZ
 Slow Ticking Clock|IF KM APRC BELL EFFX
@@ -1319,9 +1328,11 @@ Soviet March|SF SI APRC BELL DULC ENST HORN STRS VOCL
 Space 1990|IC KM APRC BELL SYNZ
 Space 1990-B|IC KM APRC BELL SYNZ
 Space Ambience|FC AN SYNZ
+Space Crystals A|PF KM BELL GLCK SYNZ
 Space Explorers|PC KM FLUT SYNZ TRBN
 Space Fighter Loop|IN KM APRC EPRC HORN SYNZ TUBA
 Space Jazz|IH KM APRC JORG SYNZ
+Space Machine A|PF KM SYNZ
 Spacedman|SC SI EPRC SYNZ
 Spacial Harvest|IF KM SYNZ
 Spacial Winds|PC KM SYNZ
@@ -1427,11 +1438,13 @@ Tenebrous Brothers Carnival - Intermission|IF KM APRC SYNZ
 Tenebrous Brothers Carnival - Mermaid|IF KM APRC BELL CLST HARP VOCL
 Tenebrous Brothers Carnival - Prelude|IF KM APRC EPRC JORG SYNZ
 Tenebrous Brothers Carnival - Snake Lady|IC KM APRC ENWD
+Tension|PF KK EPRC STRS
 Texture for Violincello and Pianoforte No. 2|IA KM APNO STRS
 Thatched Villagers|IH KM AGTR APRC DULC WHSL
 That Zen Moment|IC KM STDR STRS
 Thats a Wrap|IC KM APRC BASS SYNZ
 Thaxted|IR KM GH BASN CLNT FLUT HARP HORN OBOE STRS TRBN TRPT TUBA
+The Aquatic Wombat Becomes a Butterfly|PN BX APNO EPRC SYNZ
 The Britons|FC KM AGTR APRC WHSL
 The Buccaneer's Haul|SN SI APRC BELL HORN STRS TRBN VOCL WHSL
 The Builder|IF KM APRC BASN HARP MRBA OBOE PIZZ STRS TRBN TRPT TUBA
@@ -1508,6 +1521,7 @@ Townie Loop|IH KM EPRC SYNZ WHSL
 Tranquility|IC KM SYNZ
 Tranquility Base|IC KM BELL SYNZ
 Transition One|IC KM BELL CLNT FLUT GLCK HARP STRS
+Transition Two|PS KM APNO CLNT
 Tree Blind Mice|PN AY TR APNO
 Tremendum|SA SI EPRC STRS SYNZ VOCL
 Trepidation|IF KM APNO
@@ -1600,6 +1614,7 @@ Wepa|IN KM BASS EPRC STRS
 Werq|IH KM EPRC SYNZ
 Western Streets|IF KM APRC BELL TIMP
 Wet Riffs|IC KM BASS
+Wexford|PH KM APNO BASS FLUT STRS
 What A Wonderful Day|SH SI APNO APRC BASS BELL GLCK TUBA UKLE
 What Child is This|IS KM WD TR APNO
 What Is Love|IR KM EPRC STRS SYNZ
@@ -1655,38 +1670,23 @@ space explorers|IC KM FLUT SYNZ TRBN
 // temp from APF
 Banshee|P
 Beatsaber Epic Fantasy|P
-Expedition|P
-Knock the Twitch|P
 Light Infusor|P
-Not Quite Top Of The Pops|P
-Opening Theme A|P
 Orchestral Mix|P
 Outro|P
 Popcorn Slider Loop|P
 Right Around the Corner|P
 Solace in Imaginary Places|P
-The Aquatic Wombat Becomes a Butterfly|P
 Thinking Tension A|P
-Transition Two|P
 Waterford|P
-Wexford|P
 // perm from APF
 Dark Ambient|P
-Horror Ambiance|P
 Mary Had a Little Wolf|P
 Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON|P
-Monplaisir - PIGEONS ARE THE BEST - 07 RD2DOOM|P
-NITL|P
-Overt Danger A|P
 Paix|P
 Post-Operative Dream|P
 Radial Organ|P
-Slow Folk|P
-Space Crystals A|P
-Space Machine A|P
 Space Machine B|P
 Strange-up|P
 TTYL|P
-Tension|P
 Tuna Fish|P
 // TODO: iterate Incompetech; if not on main search page, KM -> AY
