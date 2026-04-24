@@ -112,6 +112,7 @@ Baltic Levity|FH KM ACDN APRC EGTR STRS TUBA
 Baltic Levity|IH KM ACDN APRC EGTR STRS TUBA
 Balzan Groove|IA KM APRC EPRC STRS SYNZ
 Bama Country|IH KM ACDN AGTR APRC BASS BNJO HMCA STRS
+Banshee|PF KM APRC SYNZ VOCL
 Bar Brawl|FH BT APRC DULC HPRC MDLN STRS WHSL
 Barry The Badger|SH SI APNO BASN BASS FLUT HPCH
 Basement Floor|IF KM EPRC SYNZ VOCL
@@ -129,6 +130,7 @@ BeBop for Joey|FN KM APNO APRC BASS EGTR TRPT
 Beach Bum|IH KM APRC BASS EGTR
 Beach Party|IH KM APRC BASS EGTR JORG STDR
 Beachfront Celebration|IH KM APNO APRC BASS HORN STDR TRBN TRPT
+Beatsaber Epic Fantasy|PN KM APRC ENST FLUT STRS SYNZ VOCL
 Beauty Flow|IC KM APRC BASS SYNZ
 Beginning of Conflict|FF RK APRC EPNO SYNZ
 Behind the Sword|FN AN APRC BGPS ENST ENWD HARP STRS
@@ -351,6 +353,7 @@ Danse Macabre - No Violin|IF KM CS APRC BASN CLNT FLUT HARP HORN OBOE PIZZ STRS 
 Danse Morialta|IR KM APNO
 Danse of Questionable Tuning|IS KM APNO STRS
 Dark 'n' Stormy|SA SI APRC BASS EGTR JORG SYNZ
+Dark Ambient|PF KM STRS SYNZ
 Dark Dance|IF KM APNO FLUT GLCK STRS TIMP TRBN TUBA
 Dark Flashes|SA SI BE APNO BASS EPRC FLUT SYNZ
 Dark Fog|IS KM APRC SYNZ
@@ -847,6 +850,7 @@ Lewis and Dekalb|IA KM EPRC SYNZ
 Life of Riley|IH KM AGTR APRC GLCK HPRC UKLE
 Lift Motif|IR KM APNO
 Light Awash|IC KM SYNZ
+Light Infusor|PF IM BASS EFFX EPRC SYNZ
 Light Sting|IH KM FLUT STRS TRBN XYLO
 Light Thought var 1|IC KM EPNO
 Light Thought var 2|IC KM EPNO
@@ -903,6 +907,7 @@ March of the Spoons|IN KM APRC CLNT FLUT OBOE PIZZ
 Martian Cowboy|IF KM BASS GLCK SYNZ
 Marty Had A Little Lamb|PF AY TR APNO
 Mary Celeste|IF KM BASN BELL CLNT FLUT HORN MRBA OBOE STRS TUBA
+Mary Had a Little Wolf|PA AF TR APRC BASN PIZZ STRS TRBN VOCL
 Mascott's Theme|PH KK APRC BASS BNJO MDLN
 Master Disorder|IF KM DULC EPRC SYNZ
 Master of the Feast|IH KM AGTR APRC DULC ENST ENWD FLUT
@@ -955,6 +960,7 @@ Modern Vibes|IN KM VIBE
 // Modulus 3: Septembers (Ambient Mix)|B@BK & Sepezz|SSTRS SYNZ VOCL
 Monkoto|IN KM APRC CLNT MRBA
 Monplaisir - PIGEONS ARE THE BEST - 03 La danse des petits animaux mignons|PN CM EFFX EPNO EPRC SYNZ
+Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON|PA CM STRS
 Monplaisir - PIGEONS ARE THE BEST - 07 RD2DOOM|PA CM APRC BASS SYNZ
 Monsieur Miaow|SH SI AGTR APNO APRC VOCL
 Monster Promenade|IH KM AGTR APRC BASS JORG
@@ -1067,6 +1073,7 @@ Opium|IC KM APRC DULC STRS VOCL
 Opportunity Walks|IS KM APNO APRC BASS
 Oppressive Gloom|IS KM APRC CLNT STRS
 Orchestra Demo|PC KM BELL CLNT HORN OBOE STRS TRBN TRPT TUBA
+Orchestral Mix|PN BB APRC BASS STRS SYNZ
 Organ Filler|FH KM EPRC JORG
 Organ Filler|IH KM EPRC JORG
 Organic Grunge|IA KM APRC EGTR JORG
@@ -1085,6 +1092,7 @@ Ossuary 7 - Resolve|IC KM APRC SYNZ
 Ouroboros|IA KM EPRC SYNZ
 Outdoors In Summer|SH SI AGTR APRC MUBX STRS
 Outfoxing the Fox|IN KM APRC BASS STRS SYNZ
+Outro|PC BX EPRC SYNZ
 Over Under|IC KM BASS
 Overcast|IR KM APNO APRC BASS EGTR SYNZ
 Overheat|IC KM FLUT STRS SYNZ
@@ -1098,6 +1106,7 @@ Padanaya Blokov|IN KM APRC BASS ENST EPRC SYNZ
 Pagan Cross|SS SI WHSL
 Painful Disorientation|FN KM APNO OBOE
 Painful Disorientation|IN KM APNO OBOE
+Paix|PF AH SYNZ
 Pale Rider|IN KM HARP
 Palm and Soul|FN KM SA APRC BASS EGTR JORG SAXO
 Pamgaea|IH KM SYNZ
@@ -1137,11 +1146,13 @@ Plaint|IS KM BASN HARP
 Pleasant Porridge|IC KM APRC BASS EGTR EPNO
 Political Ad|IF KM SYNZ
 Poofy Reel|IN KM AGTR APRC BASS EPNO
+Popcorn Slider Loop|PH KM EPRC SYNZ
 Pop Goes the Weasel|IF KM TR APRC MUBX STRS
 Porch Blues|IC KM AGTR APNO HMCA
 Porch Swing Days - faster|IR KM AGTR APRC BASS VOCL
 Porch Swing Days - slower|IR KM AGTR APRC BASS VOCL
 Port Horizon|IN KM AGTR APNO APRC EFFX BASS STRS SYNZ TRBN TRPT VIBE
+Post-Operative Dream|PF IM BELL EFFX SYNZ
 Posteriosis|SN SI EPRC SYNZ
 Power Restored|IF KM APRC CLNT FLUT GLCK STRS TIMP TRBN TUBA
 // Primer Post Braces|B@BK|nHPRC VOCL
@@ -1174,6 +1185,7 @@ Quinns Song-First Night|IF KM FC APNO SYNZ
 Quinns Song-The Dance Begins|IS KM FC APNO STRS
 Quirky Dog|IH KM APNO APRC BASS SYNZ TRPT XYLO
 RBTL|PF HS EFFX EPRC SYNZ VOCL
+Radial Organ|PN KM EFFX JORG
 Radio Martini|IH KM AGTR APRC BASS CLNT FLUT PIZZ
 Rain|PC DV EPRC SYNZ
 Rain - remastered|PC DV EPRC SYNZ
@@ -1200,6 +1212,7 @@ Return of Lazarus|IF KM APNO SYNZ
 Return of the Mummy|IF KM APRC ENST STRS VOCL
 Reunited|IR KM APNO APRC STRS
 Revival|IC KM APRC BASS EGTR EPNO VOCL
+Right Around the Corner|PF AF APRC VOCL
 Ripples|IC KM ENST
 Riptide|IH KM APRC BASS EGTR
 Rising|IF KM APRC EPRC STRS SYNZ VOCL
@@ -1317,6 +1330,7 @@ Snowdrop|PS KM APNO
 Soaring|IC KM SYNZ
 Sober Scotsman|PN KM AGTR APRC BASS BGPS EPNO
 Sock Hop|IR KM APRC BASS EGTR VIBE
+Solace in Imaginary Places|PS BX EPNO SYNZ
 Somewhere Sunny|IR KM AGTR
 Somewhere Sunny (ver 2)|IR KM AGTR
 Son Of A Rocket|IH KM APRC SYNZ
@@ -1333,6 +1347,7 @@ Space Explorers|PC KM FLUT SYNZ TRBN
 Space Fighter Loop|IN KM APRC EPRC HORN SYNZ TUBA
 Space Jazz|IH KM APRC JORG SYNZ
 Space Machine A|PF KM SYNZ
+Space Machine B|PF KM SYNZ
 Spacedman|SC SI EPRC SYNZ
 Spacial Harvest|IF KM SYNZ
 Spacial Winds|PC KM SYNZ
@@ -1369,6 +1384,7 @@ Strange Sands|PC KM PIZZ SYNZ
 Strange-both|PN KM APNO
 Strange-down|PN KM APNO
 Strange-down-complex|PN KM APNO
+Strange-up|PN KM APNO
 Street Party|IH KM APRC BASS JORG SAXO STDR TRBN TRPT WHSL
 Streetlight On A Dark Road|IR KM OBOE
 Streetlight Serenade|SR SI APNO BASS CLNT EGTR
@@ -1410,6 +1426,7 @@ Symmetry|IF KM EPRC SYNZ
 Synapse|SC SI EPRC SYNZ
 Synergy Cruiser|PH KM APRC BELL SYNZ
 TLDR|PF HS APNO EFFX EPNO SYNZ VOCL
+TTYL|PF HS APNO EFFX EPRC SYNZ VOCL
 Tabuk|IF KM APRC FLUT STRS
 Tafi Maradi|IH KM APRC VOCL
 Tafi Maradi no voice|IH KM APRC
@@ -1501,6 +1518,7 @@ Thin|PH KM APRC BASS EGTR
 Think About It|FS BT APNO STRS SYNZ
 Thinking Music|IF KM HARP PIZZ
 Thinking Out Loud|IN KM APNO APRC EPRC STRS SYNZ TIMP
+Thinking Tension A|PF KM BASS
 Thinking Tension B|PF KM BASS
 Thinking Tension C|PF KM BASS
 This House|IF KM APNO CLST HARP HORN STRS
@@ -1531,6 +1549,7 @@ Trip Up North|FH BT AGTR APRC BASS EGTR
 Trips It|IA KM FC APRC BASS EPNO SYNZ VOCL
 Trouble with Tribals|IA KM APRC SYNZ VOCL
 Truth of the Legend|IF KM APRC SYNZ TRBN VOCL
+Tuna Fish|PS AY APNO
 Twisted|IN KM APRC BASS EGTR EPNO
 Twisting|IA KM APRC BASS EGTR EPRC SYNZ
 Two Finger Johnny|IH KM BASS EPRC JORG
@@ -1602,6 +1621,7 @@ Warfare Confederation|PF SP APRC BASS KLBA SYNZ
 Water Droplets on the River|IR KM APNO
 Water Lily|IS KM APNO STRS
 Water Prelude|IR KM BASN BELL CLST FLUT HARP STRS
+Waterford|PH KM APNO APRC BASS FLUT
 Waunobe March|IH KM APRC CLNT FLUT GLCK SAXO TRBN TRPT TUBA
 We Got Trouble|IF KM APRC BASN CLNT FLUT HORN STRS TIMP TRBN TRPT TUBA
 We Wish You|IH KM AW TR APNO APRC BELL CLNT CLST GLCK HORN OBOE STRS TRBN TRPT TUBA
@@ -1667,26 +1687,4 @@ a432|PC KM APNO STRS
 // celestial claws|B@BK|nAPNO APRC BASN BELL CLNT CLST FLUT GLCK HARP HORN MRBA OBOE PIZZ STRS TIMP TRBN TRPT TUBA VIBE XYLO
 space explorers|IC KM FLUT SYNZ TRBN
 // TODO: filter all STRS and check for PIZZ
-// temp from APF
-Banshee|P
-Beatsaber Epic Fantasy|P
-Light Infusor|P
-Orchestral Mix|P
-Outro|P
-Popcorn Slider Loop|P
-Right Around the Corner|P
-Solace in Imaginary Places|P
-Thinking Tension A|P
-Waterford|P
-// perm from APF
-Dark Ambient|P
-Mary Had a Little Wolf|P
-Monplaisir - PIGEONS ARE THE BEST - 06 I'M WATERMELON|P
-Paix|P
-Post-Operative Dream|P
-Radial Organ|P
-Space Machine B|P
-Strange-up|P
-TTYL|P
-Tuna Fish|P
 // TODO: iterate Incompetech; if not on main search page, KM -> AY
