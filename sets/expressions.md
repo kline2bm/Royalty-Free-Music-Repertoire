@@ -134,7 +134,7 @@ Three letters
 |LAM|🧘 Long Ambient|
 |LAT|🌎 Latin|
 |MNS|🌆 Miami Nights (Kevin MacLeod album)|
-|NAT|⚓ Nautical|
+|NAU|⚓ Nautical|
 |NOR|🕵️ Noir|
 |NOS|🧛 Nosferatu (Kevin MacLeod rescoring)|
 |OSP|🚀 Outer Space|
