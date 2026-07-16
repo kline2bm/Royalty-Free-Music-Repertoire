@@ -1518,7 +1518,7 @@ Thief in the Night|IC KM APRC BASS EGTR JORG
 Thin|PH KM APRC BASS EGTR
 Think About It|FS BT APNO STRS SYNZ
 Thinking Music|IF KM HARP PIZZ
-Thinking Out Loud|IN KM APNO APRC EPRC STRS SYNZ TIMP
+Thinking Out Loud|IN KM APNO APRC BASS EPRC STRS SYNZ TIMP
 Thinking Tension A|PF KM BASS
 Thinking Tension B|PF KM BASS
 Thinking Tension C|PF KM BASS
