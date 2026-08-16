@@ -493,5 +493,11 @@
     "Welcome to HorrorLand|I",
     "ZREM|P",
   "XMS:",
-    "TODO"
+    "TODO",
+  "check everything:",
+    "iterate repertoire.txt:",
+      "check if piece is accessible (title and source)",
+    "iterate sets:",
+      "iterate set:",
+        "check if piece is accessible (it's in the repertoire)"
 ]
