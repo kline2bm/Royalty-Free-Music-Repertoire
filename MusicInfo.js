@@ -33,8 +33,6 @@ class MusicInfo {
 
   // {symbol} only permit private construction to prevent duplicates
   static #KEY = Symbol();
-
-  // TODO: read the set logic file to build the maps below
   
   // {Map<string, string>} source abbreviation -> full name
   static SS = null;
@@ -47,6 +45,17 @@ class MusicInfo {
   
   // {Map<string, string>} instrument abbreviation -> full name
   static INSTS = null;
+
+  static {
+    var expressions_md;
+    fetchText("sets/expressions.md", x => {
+      expressions_md = x;
+      this.SS = getSetMap(expressions_md, "## Source");
+      this.ES = getSetMap(expressions_md, "## Emotion");
+      this.ATS = getSetMap(expressions_md, "## Artist");
+      this.INSTS = getSetMap(expressions_md, "## Instrument");
+    });
+  }
 
   /**
    * All of the music file names on Silverman Sound Studios follow a predictable pattern given a title.
