@@ -77,12 +77,21 @@ class MusicInfo {
     let split = (this.raw = rawString).split("|");
     this.title = split[0];
     let parts = split[1].split(" ");
-    // TODO
+    this.source = SS.get(parts[0][0]);
+    // TODO: src url
+    this.emotion = ES.get(parts.shift()[1]);
+    this.artists = parts.filter(part => part.length == 2).map(AT => ATS.get(AT));
+    this.instruments = parts.filter(part => part.length == 4).map(INST => INSTS.get(INST));
   }
 
   // TODO
   static makeNew(rawString, addToMap = true) {
-    // TODO
+    let shortString = rawString.substring(0, rawString.indexOf('|') + 2);
+    if(addToMap && MusicInfo.#ALL.has(shortString))
+      throw new Error("Map already has " + shortString);
+    let newMusicInfo = new MusicInfo(this.#KEY, rawString);
+    if(addToMap) MusicInfo.#ALL.set(shortString, newMusicInfo);
+    return newMusicInfo;
   }
 
   /**
