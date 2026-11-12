@@ -1605,7 +1605,7 @@ Vulcan|IF KM APRC BELL FLUT
 WOAH|SA SI APRC BASS SYNZ VOCL WHSL
 Wagner Bridal Chorus|IR KM WW BELL PORG
 Wagner Bridal Chorus - piano|IR KM WW APNO
-Wagon Wheel|IH KM APRC
+Wagon Wheel|IH KM APNO
 Wagon Wheel - Electronic|IH KM EPRC SYNZ
 Waiting on Platform 9|PF IM EPRC SYNZ
 Wallpaper|IH KM AGTR APRC SYNZ
